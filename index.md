@@ -4,29 +4,56 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Learn about scams here
+      subtitle: What do you if you’ve encountered a scam
+      background: /images/hero-banner.png
+      key_highlights:
+        - title: I’ve accidentally transferred money to a scammer
+          description: What to do
+          url: https://google.com
+        - title: I want to report a scam
+          description: ""
+          url: ""
+        - title: I‘m not sure if a message, number, or URL is a scam
+          description: ""
+          url: /privacy/
+        - title: I want to learn more about scams
+          description: ""
+          url: ""
+  - infopic:
+      title: How to spot an SMS from the goverment
+      id: infopic
+      description: Learn more about Secured Government Communications here
+      button: Read more
+      url: /privacy
+      alt: Image alt text
+  - infopic:
+      title: Not sure if scam? Check on ScamShield Bot
+      subtitle: Add an image and text
+      id: infopic
+      description: Received a message and not sure if it’s a scam? Check it on the
+        ScamShield Bot.
+      button: Read more
+      url: /privacy
+      alt: Image alt text
+  - infopic:
+      title: Trending scams in the past week
+      subtitle: Add an image and text
+      id: infopic
+      description: Learn more about the lastest scams happening in the past week from
+        the Singapore Police Force
+      button: Read more
+      url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
+      alt: Image alt text
+  - infopic:
+      title: Keep safer with the ScamShield App
+      id: infopic
+      description: The ScamShield App blocks calls and filters or alerts you to SMSes
+        from numbers known to be used in illegal activities.
+      button: Learn more
+      url: https://www.scamshield.org.sg/
+      alt: Image alt text
 ---
-
