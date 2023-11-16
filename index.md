@@ -32,7 +32,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Not sure if scam? Check on ScamShield Bot
-      subtitle: Add an image and text
       id: infopic
       description: Received a message and not sure if it’s a scam? Check it on the
         ScamShield Bot.
@@ -41,7 +40,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Trending scams in the past week
-      subtitle: Add an image and text
       id: infopic
       description: Learn more about the lastest scams happening in the past week from
         the Singapore Police Force
