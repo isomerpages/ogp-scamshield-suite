@@ -26,8 +26,8 @@ sections:
   - infopic:
       title: Be sure that SMSes are from the Government
       id: infopic
-      description: Gov.sg sender name - the single secure way to receive your
-        Government messages.
+      description: "Gov.sg sender name: The single secure way to receive your
+        Government messages."
       button: Read more
       url: /privacy
       alt: Image alt text
