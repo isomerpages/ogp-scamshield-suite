@@ -49,9 +49,9 @@ sections:
   - infopic:
       title: Keep safer with the ScamShield App
       id: infopic
-      description: The ScamShield App blocks calls and filters or alerts you to SMSes
-        from numbers known to be used in illegal activities.
+      description: The ScamShield App blocks calls from numbers known to be used in
+        illegal activities. It also filters or alerts you to suspicious SMSes.
       button: Learn more
-      url: https://www.scamshield.org.sg/
+      url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
 ---
