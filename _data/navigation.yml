@@ -1,8 +1,10 @@
 logo: /images/logo2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Accidentally Transferred Money
+  - title: I Transferred Money
     collection: accidentally-transferred-money
+  - title: I want to report a scam
+    collection: want-to-report-a-scam
+  - title: I'm not sure if it's a scam
+    collection: not-sure-if-scam
+  - title: Learn more about scams
+    collection: want-to-learn-more-about-scams
