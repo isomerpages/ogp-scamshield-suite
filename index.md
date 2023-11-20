@@ -4,7 +4,7 @@ title: scams.gov.sg
 description: Government directory for scam-related information
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "GET SCAM-RELATED ADVICE: CALL 1800-722-6688 (Mon-Fri 9am-5pm, excl. PH)"
 sections:
   - hero:
       title: Learn about scams here
