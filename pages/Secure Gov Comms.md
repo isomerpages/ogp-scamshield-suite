@@ -5,7 +5,8 @@ variant: markdown
 description: ""
 ---
 ### Say Hello to Gov.sg!
-------------------------------------------
+
+<hr>
 
 #### **Your Ultimate WhatsApp and SMS Hotline**
 
