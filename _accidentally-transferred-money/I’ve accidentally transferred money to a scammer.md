@@ -40,3 +40,17 @@ For all other banks, refer to the bank's relevant fraud hotline(s).
 3. File a police report
 * [Online i-witness form](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html  ) (you will need your Singpass login) 
 * In person at your nearest [Neighbourhood Police Post](https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps)
+
+
+<hr>
+
+### Resources and references
+
+  
+* [OCBC - How to bank safely &amp; securely ](https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams) 
+* [DBS / POSB – How to set safety switch](https://www.dbs.com.sg/personal/support/bank-ssb-safety-switch.html)
+* [UOB - What to do if you have been scammed](https://www.uob.com.sg/personal/digital-banking/pib/security/what-to-do-if-you-have-been-scammed/index.page)
+* [Citibank](https://www.citibank.com.sg/static/contact/)
+* [CIMB - Security and Fraud Awareness](https://www.cimb.com.sg/en/personal/help-support/security-fraud.html)
+ 
+
