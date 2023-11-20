@@ -11,16 +11,16 @@ sections:
       subtitle: What do you if you’ve encountered a scam
       background: /images/hero-banner.png
       key_highlights:
-        - title: I’ve accidentally transferred money to a scammer
+        - title: I transferred money
           description: ""
           url: /privacy
         - title: I want to report a scam
           description: ""
           url: ""
-        - title: I‘m not sure if a message, number, or URL is a scam
+        - title: I'm not sure if it's a scam
           description: ""
           url: /privacy/
-        - title: I want to learn more about scams
+        - title: Learn more about scams
           description: ""
           url: ""
   - infopic:
