@@ -12,8 +12,8 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: I’ve accidentally transferred money to a scammer
-          description: What to do
-          url: https://google.com
+          description: ""
+          url: /privacy
         - title: I want to report a scam
           description: ""
           url: ""
