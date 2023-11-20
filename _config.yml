@@ -3,7 +3,7 @@ url: https://scams.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#005dea"
-  secondary-color: "#2c2e34"
+  secondary-color: "#005dea"
   media-colors:
     - title: media-color-one
       color: "#49759a"
