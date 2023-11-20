@@ -35,11 +35,12 @@ sections:
   - infopic:
       title: Not sure if scam? Check on ScamShield Bot
       id: infopic
-      description: Received a message or a call, and not sure if it’s a scam? Check it
-        on the ScamShield Bot.
-      button: Read more
-      url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
+      description: Received a message or a call, and not sure if it’s a scam? Check on
+        the ScamShield Bot.
+      button: Explore ScamShield Bot
+      url: https://www.scamshield.org.sg/about-bot/
       alt: Image alt text
+      image: /images/ScamShield_Bot_whitebg.png
   - infopic:
       title: Trending scams in the past week
       id: infopic
