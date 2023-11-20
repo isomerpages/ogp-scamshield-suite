@@ -29,8 +29,9 @@ sections:
       description: "Gov.sg sender name: The single secure way to receive your
         Government messages."
       button: Read more
-      url: /privacy
+      url: /gov-sg/permalink/
       alt: Image alt text
+      image: /images/SGC.png
   - infopic:
       title: Not sure if scam? Check on ScamShield Bot
       id: infopic
