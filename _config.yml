@@ -1,4 +1,4 @@
-title: Title
+title: scams.gov.sg
 url: https://scams.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Government directory for scam-related information
 permalink: none
 baseurl: ""
 exclude:
