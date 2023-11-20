@@ -10,29 +10,30 @@ description: ""
 ## Immediate Actions  
 1. Keep calm. 
 2. Call your bank’s anti-scam hotline to stop the transaction from happening.
-* ** OCBC**
-4. Call our OCBC's Personal Banking hotline at 6363 3333 (or +65 6363 3333 if you are overseas) and press 8 to report fraud or temporarily freeze all your accounts and cards.  
-24-hour hotline  
+
+
+**OCBC**
+* Call the OCBC 24-hour Personal Banking hotline immediately at **6363 3333**
+* Press 8 to report fraud or temporarily freeze all your accounts and cards.  
+* *Call +65 6363 3333 if you are overseas*
+
   
-DBS / POSB  
-Call the DBS / POSB immediately at 1800 339 6963 or (65) 6339 6963 from overseas.  
-24-hour fraud hotline  
+**DBS / POSB** 
+* Call the DBS / POSB 24-hour fraud hotline immediately at 1800 339 6963
+* *Call +65 6339 6963 if you are overseas*
   
-UOB  
-Call the UOB 24/7 Fraud Hotline at 62550160  
+**UOB**
+* Call the UOB 24-hour Fraud Hotline at **6255 0160**
   
-Citibank  
-Contact the Citibank Fraud hotline at (65) 6337 5519  
+**Citibank**
+* Contact the Citibank Fraud hotline at **+65 6337 5519**
   
-CIMB  
-Contact the CIMB Fraud hotline +65 6333 7777  
+**CIMB**  
+* Contact the CIMB Fraud hotline **+65 6333 7777**
   
-For all other banks, refer to the relevant bank hotline  
+For all other banks, refer to the relevant bank hotline. 
   
   
-File a police report  
-Online i-witness form (you will need your Singpass login)  
-https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html  
-  
-In person at your nearest Neighbourhood Police Post  
-(https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps)
+3. File a police report
+* [Online i-witness form](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html  ) (you will need your Singpass login) 
+* In person at your nearest [Neighbourhood Police Post](https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps)
