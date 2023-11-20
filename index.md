@@ -43,7 +43,7 @@ sections:
       title: Trending scams in the past week
       id: infopic
       description: Learn more about the lastest scams happening in the past week from
-        the Singapore Police Force
+        the Singapore Police Force's weekly bulletins.
       button: Read more
       url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
       alt: Image alt text
