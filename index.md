@@ -38,7 +38,7 @@ sections:
       description: Received a message or a call, and not sure if it’s a scam? Check on
         the ScamShield Bot.
       button: Explore ScamShield Bot
-      url: https://www.scamshield.org.sg/about-bot/
+      url: https://go.gov.sg/scamshield-bot
       alt: Image alt text
       image: /images/ScamShield_Bot_whitebg.png
   - infopic:
