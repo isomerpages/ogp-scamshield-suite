@@ -4,12 +4,12 @@ permalink: /example-folder/folder-page/
 variant: markdown
 description: ""
 ---
-#### This info is for individuals who:  
+### This info is for individuals who:  
 * Have transferred money to a scammer
 
 <hr>
 
-## Immediate Actions  
+### Immediate Actions  
 1. Keep calm. 
 2. Call your bank’s anti-scam hotline to stop the transaction from happening.
 
