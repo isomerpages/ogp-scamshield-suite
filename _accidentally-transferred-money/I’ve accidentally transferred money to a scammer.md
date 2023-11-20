@@ -37,5 +37,3 @@ For all other banks, refer to the relevant bank hotline.
 3. File a police report
 * [Online i-witness form](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html  ) (you will need your Singpass login) 
 * In person at your nearest [Neighbourhood Police Post](https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps)
-
-
