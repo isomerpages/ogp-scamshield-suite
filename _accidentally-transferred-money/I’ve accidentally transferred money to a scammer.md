@@ -7,6 +7,8 @@ description: ""
 #### This info is for individuals who:  
 * Have transferred money to a scammer
 
+<hr>
+
 ## Immediate Actions  
 1. Keep calm. 
 2. Call your bank’s anti-scam hotline to stop the transaction from happening.
@@ -33,6 +35,7 @@ description: ""
   
 For all other banks, refer to the relevant bank hotline. 
   
+<hr>
   
 3. File a police report
 * [Online i-witness form](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html  ) (you will need your Singpass login) 
