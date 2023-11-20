@@ -49,6 +49,7 @@ sections:
       button: Learn more
       url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
       alt: Image alt text
+      image: /images/weekly_bulletin.png
   - infopic:
       title: Keep safer with the ScamShield App
       id: infopic
