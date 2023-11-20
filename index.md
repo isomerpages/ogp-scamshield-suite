@@ -24,7 +24,7 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Lost money? call bank or plice
+      title: Lost money? call bank or police
       subtitle: Add informational text
       id: infobar
       description: Infobar description
