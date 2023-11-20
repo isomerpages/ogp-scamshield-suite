@@ -24,14 +24,14 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: Be sure that SMSes are from the Government
+      title: Trending scams in the past week
       id: infopic
-      description: "Gov.sg sender name: The single secure way to receive your
-        Government messages."
+      description: Learn more about the lastest scams happening in the past week from
+        the Singapore Police Force's weekly bulletins.
       button: Learn more
-      url: /gov-sg/permalink/
+      url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
       alt: Image alt text
-      image: /images/SGC.png
+      image: /images/weekly_bulletin.png
   - infopic:
       title: Not sure if scam? Check on ScamShield Bot
       id: infopic
@@ -42,14 +42,14 @@ sections:
       alt: Image alt text
       image: /images/ScamShield_Bot_whitebg.png
   - infopic:
-      title: Trending scams in the past week
+      title: Be sure that SMSes are from the Government
       id: infopic
-      description: Learn more about the lastest scams happening in the past week from
-        the Singapore Police Force's weekly bulletins.
+      description: "Gov.sg sender name: The single secure way to receive your
+        Government messages."
       button: Learn more
-      url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
+      url: /gov-sg/permalink/
       alt: Image alt text
-      image: /images/weekly_bulletin.png
+      image: /images/SGC.png
   - infopic:
       title: Keep safer with the ScamShield App
       id: infopic
