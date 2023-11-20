@@ -33,10 +33,10 @@ sections:
   - infopic:
       title: Not sure if scam? Check on ScamShield Bot
       id: infopic
-      description: Received a message and not sure if it’s a scam? Check it on the
-        ScamShield Bot.
+      description: Received a message or a call, and not sure if it’s a scam? Check it
+        on the ScamShield Bot.
       button: Read more
-      url: /privacy
+      url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
       alt: Image alt text
   - infopic:
       title: Trending scams in the past week
