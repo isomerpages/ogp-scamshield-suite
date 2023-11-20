@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: scams.gov.sg
+description: Government directory for scam-related information
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
