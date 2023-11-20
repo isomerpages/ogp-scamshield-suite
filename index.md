@@ -23,6 +23,12 @@ sections:
         - title: Learn more about scams
           description: ""
           url: ""
+  - infobar:
+      title: Lost money? call bank or plice
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: Trending scams in the past week
       id: infopic
@@ -59,10 +65,4 @@ sections:
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
       image: /images/ScamShield_App_whitebg.png
-  - infobar:
-      title: Lost money? call bank or plice
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
