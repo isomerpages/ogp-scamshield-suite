@@ -2,4 +2,5 @@ collections:
   others:
     output: true
     order:
+      - I gave my banking login details to a scammer.md
       - I Installed an apk or malware on my phone.md
