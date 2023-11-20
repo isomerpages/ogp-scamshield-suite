@@ -1,4 +1,5 @@
 collections:
   want-to-learn-more-about-scams:
     output: true
-    order: []
+    order:
+      - Want to learn more about scams.md
