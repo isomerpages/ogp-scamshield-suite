@@ -1,0 +1,4 @@
+collections:
+  want-to-report-a-scam:
+    output: true
+    order: []
