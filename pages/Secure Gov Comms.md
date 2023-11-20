@@ -4,10 +4,21 @@ permalink: /gov-sg/
 variant: markdown
 description: ""
 ---
-Introducing Gov.sg  Whatsapp and SMS channel
+### Say Hello to Gov.sg!
+------------------------------------------
 
-A single secure place for all messages from Government  in the channel and language of your choice!
+#### **Your Ultimate WhatsApp and SMS Hotline**
 
-One secure place for all messages from Government.
+Unlock government messages hassle-free, in your language, and on your favorite channels - WhatsApp or SMS!
 
-All government messages is consolidated under the single channel for SMS and Whatsapp. No more guessing if it is a legitimate government message or officer. Less mess, don’t stress. Gov.sg, we can trust.
+#### **The Official Channel You Can Trust**
+
+No more juggling government messages! At Gov.sg, we've gathered all official communications under one roof, eliminating confusion and stress. Trust us, it's all here!
+
+#### **Verified and Relied Upon**
+
+No Tick? Don’t Click! Look for the green tick on Gov.sg's WhatsApp channel - it's a verified badge that spells trust! We're always reliable.
+
+#### **SMS Got Your Back**
+
+WhatsApp or Not, We Got You!  Missed out on WhatsApp? No worries! Our SMS fallback ensures everyone stays in the loop. Gov.sg's SMS: as trustworthy as it gets, and inclusive too!
