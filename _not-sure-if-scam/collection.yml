@@ -2,4 +2,4 @@ collections:
   not-sure-if-scam:
     output: true
     order:
-      - Not sure if scam.md
+      - I‘m not sure if a message, number, or URL is a scam.md
