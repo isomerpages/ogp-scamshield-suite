@@ -2,5 +2,5 @@ collections:
   want-to-report-a-scam:
     output: true
     order:
-      - Installed an apk or gave my login details.md
+      - Installed an apk or malware on my phone.md
       - Want to report a scam.md
