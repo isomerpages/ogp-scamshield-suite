@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: "Gov.sg sender name: The single secure way to receive your
         Government messages."
-      button: Read more
+      button: Learn more
       url: /gov-sg/permalink/
       alt: Image alt text
       image: /images/SGC.png
@@ -46,7 +46,7 @@ sections:
       id: infopic
       description: Learn more about the lastest scams happening in the past week from
         the Singapore Police Force's weekly bulletins.
-      button: Read more
+      button: Learn more
       url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
       alt: Image alt text
   - infopic:
@@ -57,4 +57,5 @@ sections:
       button: Learn more
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
+      image: /images/ScamShield_App.png
 ---
