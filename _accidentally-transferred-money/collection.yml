@@ -2,6 +2,6 @@ collections:
   accidentally-transferred-money:
     output: true
     order:
-      - folder-page.md
+      - I’ve accidentally transferred money to a scammer.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
