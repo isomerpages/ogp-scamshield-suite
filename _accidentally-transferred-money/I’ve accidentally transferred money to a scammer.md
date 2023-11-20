@@ -9,10 +9,9 @@ description: ""
 
 ## Immediate Actions  
 1. Keep calm. 
-2. Call your bank’s anti-scam hotline to stop the transaction from happening.  
-  
-OCBC  
-Call our Personal Banking hotline at 6363 3333 (or +65 6363 3333 if you are overseas) and press 8 to report fraud or temporarily freeze all your accounts and cards.  
+2. Call your bank’s anti-scam hotline to stop the transaction from happening.
+* ** OCBC**
+4. Call our OCBC's Personal Banking hotline at 6363 3333 (or +65 6363 3333 if you are overseas) and press 8 to report fraud or temporarily freeze all your accounts and cards.  
 24-hour hotline  
   
 DBS / POSB  
