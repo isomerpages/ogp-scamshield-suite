@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - I’ve accidentally transferred money to a scammer.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
