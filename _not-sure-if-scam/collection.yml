@@ -1,4 +1,5 @@
 collections:
   not-sure-if-scam:
     output: true
-    order: []
+    order:
+      - Not sure if scam.md
