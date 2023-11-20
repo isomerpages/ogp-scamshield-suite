@@ -58,5 +58,5 @@ sections:
       button: Learn more
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
-      image: /images/ScamShield_App.png
+      image: /images/ScamShield_App_whitebg.png
 ---
