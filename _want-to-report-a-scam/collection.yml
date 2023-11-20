@@ -1,4 +1,5 @@
 collections:
   want-to-report-a-scam:
     output: true
-    order: []
+    order:
+      - Want to report a scam.md
