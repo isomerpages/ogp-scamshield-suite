@@ -24,9 +24,10 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: How to spot an SMS from the goverment
+      title: Be sure that SMSes are from the Government
       id: infopic
-      description: Learn more about Secured Government Communications here
+      description: "Gov.sg sender name - the single secure way to receive your
+        Government messages. "
       button: Read more
       url: /privacy
       alt: Image alt text
