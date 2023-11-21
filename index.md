@@ -26,7 +26,7 @@ sections:
   - infobar:
       title: Transferred money? Call your bank and make a police report.
       id: infobar
-      button: More steps
+      button: More steps here
       url: /transferred-money/permalink/
   - infopic:
       title: Trending scams in the past week
