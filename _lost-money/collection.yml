@@ -1,5 +1,5 @@
 collections:
-  accidentally-transferred-money:
+  lost-money:
     output: true
     order:
       - I’ve accidentally transferred money to a scammer.md
