@@ -11,7 +11,7 @@ sections:
       subtitle: What do you if you’ve encountered a scam
       background: /images/scamshero1.png
       key_highlights:
-        - title: I transferred money
+        - title: I lost money to a scam
           description: ""
           url: /privacy
         - title: I want to report a scam
