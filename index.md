@@ -24,11 +24,10 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Lost money? call bank or police
-      subtitle: Add informational text
+      title: Transferred money? Call your bank and make a police report.
       id: infobar
-      description: Infobar description
-      button: Button Text
+      button: More steps
+      url: /transferred-money/permalink/
   - infopic:
       title: Trending scams in the past week
       id: infopic
