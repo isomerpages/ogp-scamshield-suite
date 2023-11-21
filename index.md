@@ -28,7 +28,7 @@ sections:
       id: infobar
       button: More steps here
       url: /transferred-money/permalink/
-      description: Keep calm and follow steps on what to do next.
+      description: Keep calm and follow these steps on what to do next.
   - infopic:
       title: Trending scams in the past week
       id: infopic
