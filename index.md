@@ -7,7 +7,7 @@ permalink: /
 notification: Anti-Scam Helpline 1800-722-6688 (Mon-Fri 9am-6pm, excluding PH)
 sections:
   - hero:
-      title: Learn about scams here
+      title: Learn about scams
       subtitle: What do you if you’ve encountered a scam
       background: /images/scamshero1.png
       key_highlights:
