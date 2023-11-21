@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Learn about scams here
       subtitle: What do you if you’ve encountered a scam
-      background: /images/hero-banner.png
+      background: /images/scamshero1.png
       key_highlights:
         - title: I transferred money
           description: ""
