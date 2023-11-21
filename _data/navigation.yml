@@ -1,6 +1,6 @@
 logo: /images/logo2.png
 links:
-  - title: Lost Money
+  - title: I lost money to a scam
     collection: lost-money
   - title: I want to report a scam
     collection: want-to-report-a-scam
@@ -8,5 +8,3 @@ links:
     collection: not-sure-if-scam
   - title: Learn more about scams
     collection: want-to-learn-more-about-scams
-  - title: Others
-    collection: others
