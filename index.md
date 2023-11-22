@@ -13,16 +13,16 @@ sections:
       key_highlights:
         - title: I lost money to a scam
           description: ""
-          url: /privacy
+          url: /transferred-money/permalink/
         - title: I want to report a scam
           description: ""
-          url: ""
+          url: /report-a-scam/permalink/
         - title: I'm not sure if it's a scam
           description: ""
-          url: /privacy/
+          url: /not-sure-if-scam/permalink/
         - title: Learn more about scams
           description: ""
-          url: ""
+          url: /learn-more/permalink/
   - infobar:
       title: Transferred money? Call your bank and make a police report.
       id: infobar
