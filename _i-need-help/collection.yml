@@ -2,6 +2,7 @@ collections:
   i-need-help:
     output: true
     order:
+      - I want to report a scam.md
       - I’ve accidentally transferred money to a scammer.md
       - I Installed an apk or malware on my phone.md
       - I gave my banking login details to a scammer.md
