@@ -1,5 +1,4 @@
 collections:
   not-sure-if-scam:
     output: true
-    order:
-      - I‘m not sure if a message, number, or URL is a scam.md
+    order: []
