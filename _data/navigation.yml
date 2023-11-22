@@ -2,3 +2,7 @@ logo: /images/logo2.png
 links:
   - title: I Need Help
     collection: i-need-help
+  - title: I'm just browswing
+    collection: just-browswing
+  - title: FAQ
+    url: https://ask.gov.sg/scamshield/
