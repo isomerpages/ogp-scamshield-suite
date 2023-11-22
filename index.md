@@ -39,7 +39,7 @@ sections:
       alt: Image alt text
       image: /images/weekly_bulletin.png
   - infopic:
-      title: Not sure if scam? Check on ScamShield Bot
+      title: Not sure if something is a scam? Check here
       id: infopic
       description: Received a message or a call, and not sure if it’s a scam? Check on
         the ScamShield Bot.
@@ -47,15 +47,6 @@ sections:
       url: https://go.gov.sg/scamshield-bot
       alt: Image alt text
       image: /images/ScamShield_Bot_whitebg.png
-  - infopic:
-      title: Be sure that SMSes are from the Government
-      id: infopic
-      description: "Gov.sg sender name: The single secure way to receive your
-        Government messages."
-      button: Learn more
-      url: /gov-sg/permalink/
-      alt: Image alt text
-      image: /images/SGC.png
   - infopic:
       title: Keep safer with the ScamShield App
       id: infopic
