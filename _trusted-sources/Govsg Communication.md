@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 ---
 ### Say Hello to Gov.sg!
+![](/images/SGC.png)
+
 #### Be sure that SMSes are from the Government
 Gov.sg sender name: The single secure way to receive your Government messages.
 
