@@ -34,7 +34,7 @@ description: ""
   
 For all other banks, refer to the bank's relevant fraud hotline(s). 
 
-3. Alternatively, you can also activate the Kill Switch on your banking app if it has one. The Kill Switch is&nbsp;a self-service security feature that enables you to immediately freeze all your current and savings accounts (including joint accounts. 
+3. Alternatively, you can also activate the Kill Switch on your banking app if it has one. The Kill Switch is&nbsp;a self-service security feature that enables you to immediately freeze all your current and savings accounts (including joint accounts).
 
 
 
