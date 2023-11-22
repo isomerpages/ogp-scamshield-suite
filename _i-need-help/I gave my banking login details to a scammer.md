@@ -34,12 +34,12 @@ description: ""
   
 For all other banks, refer to the bank's relevant fraud hotline(s). 
 
-3. Alternatively, you can also activate the killswitch on your banking app if it has one.  
+3. Alternatively, you can also activate the Kill Switch on your banking app if it has one. The Kill Switch is&nbsp;a self-service security feature that enables you to immediately freeze all your current and savings accounts (including joint accounts. 
 
 
 
 ### What to expect? 
-Once the kill switch is activated, no transactions – whether done digitally, via an ATM or at branches – can be made. Even recurring or pre-arranged funds transfers will be disabled. This ensures your funds stay protected in the event that someone tries to illegally gain access to them.  
+After activating the Kill Switch, no transactions – whether done digitally, via an ATM or at branches – can be made. Even recurring or pre-arranged funds transfers will be disabled. This ensures your funds stay protected in the event that someone tries to illegally gain access to them.  
 Once Kill Switch is activated, please note that all your account(s) with us (banking, credit card and Ready Credit) will be instantly blocked. The following transactions will not be processed while the Kill Switch is active:  
 Digital banking transactions, e.g.  
 * Local and overseas outgoing funds transfers (PayNow/FAST/GIRO/Telegraphic Transfer)  
