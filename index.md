@@ -4,7 +4,7 @@ title: scams.gov.sg
 description: Government directory for scam-related information
 image: /images/isomer-logo.svg
 permalink: /
-notification: Anti-Scam Helpline 1800-722-6688 (Mon-Fri 9am-6pm, excluding PH)
+notification: –––––THIS IS A STAGING WEBSITE –––––
 sections:
   - hero:
       title: Learn about scams
