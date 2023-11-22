@@ -1,0 +1,4 @@
+collections:
+  trusted-sources:
+    output: true
+    order: []
