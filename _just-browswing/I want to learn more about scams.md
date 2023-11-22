@@ -12,7 +12,7 @@ description: ""
 ### Resources
 #### Weekly News Bulletin from the Singapore Police Force
 
-https://www.police.gov.sg/Media-Room/Scams-Bulletin
+[https://www.police.gov.sg/Media-Room/Scams-Bulletin](https://www.police.gov.sg/Media-Room/Scams-Bulletin)
 
 <a href="https://www.police.gov.sg/Media-Room/Scams-Bulletin"><img src="/images/Weekly_Bulletin.png"></a>
 
@@ -20,7 +20,7 @@ https://www.police.gov.sg/Media-Room/Scams-Bulletin
 <hr>
 
 #### ScamAlert
-https://www.scamalert.sg/
+[https://www.scamalert.sg/](https://www.scamalert.sg/)
 
 Read more about the different types of scams, and personal stories.
 By National Crime Prevention Council
@@ -35,7 +35,7 @@ By National Crime Prevention Council
 
 #### National Crime Prevention Council ScamAlert on Telegram
 Subscribe to ScamAlert on Telegram to receive updates
-https://t.me/ncpcscamalert
+[https://t.me/ncpcscamalert](https://t.me/ncpcscamalert)
 
 <a href="https://t.me/ncpcscamalert"><img src="/images/ncpc_telegram.png"></a>
 
@@ -44,7 +44,7 @@ https://t.me/ncpcscamalert
 
 #### ScamSpotter
 An initiative by CyberCrime Support Network and Google
-https://scamspotter.org/quiz/
+[https://scamspotter.org/quiz/](https://scamspotter.org/quiz/)
 
 <a href="https://scamspotter.org/quiz/"><img src="/images/scamspotter.png"></a>
 
@@ -53,7 +53,7 @@ https://scamspotter.org/quiz/
 
 #### Phishing Quiz
 An initiative by Google Jigsaw
-https://phishingquiz.withgoogle.com/
+[https://phishingquiz.withgoogle.com/](https://phishingquiz.withgoogle.com/)
 
 <a href="https://phishingquiz.withgoogle.com/"><img src="/images/phishing.png"></a>
 
