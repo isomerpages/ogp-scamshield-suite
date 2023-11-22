@@ -10,16 +10,51 @@ description: ""
 <hr>
 
 ### Resources
-#### To read
-1. [Weekly News Bulletin from the Singapore Police Force](https://www.police.gov.sg/Media-Room/Scams-Bulletin)
-2. [ScamAlert](https://www.scamalert.sg/)
+#### Weekly News Bulletin from the Singapore Police Force
+
+https://www.police.gov.sg/Media-Room/Scams-Bulletin
+
+<a href="https://www.police.gov.sg/Media-Room/Scams-Bulletin"><img src="/images/Weekly_Bulletin.png"></a>
 
 
-#### To receive updates from
-1. Subscribe to  [National Crime Prevention Council ScamAlert](https://t.me/ncpcscamalert) on the Telegram channel
+<hr>
+
+#### ScamAlert
+https://www.scamalert.sg/
+
+Read more about the different types of scams, and personal stories.
+By National Crime Prevention Council
 
 
 
-#### Take fun interactive quizzes
-1. [ScamSpotter](https://scamspotter.org/quiz/), an initiative by CyberCrime Support Network and Google
-2. [Phishing Quiz](https://phishingquiz.withgoogle.com/?hl=en-GB), an initiative by Google Jigsaw
+<a href="https://www.scamalert.sg/"><img src="/images/scam_alert.png"></a>
+
+
+
+<hr>
+
+#### National Crime Prevention Council ScamAlert on Telegram
+Subscribe to ScamAlert on Telegram to receive updates
+https://t.me/ncpcscamalert
+
+<a href="https://t.me/ncpcscamalert"><img src="/images/ncpc_telegram.png"></a>
+
+
+<hr>
+
+#### ScamSpotter
+An initiative by CyberCrime Support Network and Google
+https://scamspotter.org/quiz/
+
+<a href="https://scamspotter.org/quiz/"><img src="/images/scamspotter.png"></a>
+
+
+<hr>
+
+#### Phishing Quiz
+An initiative by Google Jigsaw
+https://phishingquiz.withgoogle.com/
+
+<a href="https://phishingquiz.withgoogle.com/"><img src="/images/phishing.png"></a>
+
+
