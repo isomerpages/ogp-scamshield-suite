@@ -23,7 +23,7 @@ description: ""
 [https://www.scamalert.sg/](https://www.scamalert.sg/)
 
 Read more about the different types of scams, and personal stories.
-By National Crime Prevention Council
+By National Crime Prevention Council.
 
 
 
@@ -34,7 +34,7 @@ By National Crime Prevention Council
 <hr>
 
 #### National Crime Prevention Council ScamAlert on Telegram
-Subscribe to ScamAlert on Telegram to receive updates
+Subscribe to ScamAlert on Telegram to receive updates about scams.
 [https://t.me/ncpcscamalert](https://t.me/ncpcscamalert)
 
 <a href="https://t.me/ncpcscamalert"><img src="/images/ncpc_telegram.png"></a>
@@ -43,7 +43,7 @@ Subscribe to ScamAlert on Telegram to receive updates
 <hr>
 
 #### ScamSpotter
-An initiative by CyberCrime Support Network and Google
+An initiative by CyberCrime Support Network and Google.
 [https://scamspotter.org/quiz/](https://scamspotter.org/quiz/)
 
 <a href="https://scamspotter.org/quiz/"><img src="/images/scamspotter.png"></a>
@@ -52,7 +52,7 @@ An initiative by CyberCrime Support Network and Google
 <hr>
 
 #### Phishing Quiz
-An initiative by Google Jigsaw
+Can you spot when you’re being phished? Take this fun interactive quiz by Google Jigsaw.
 [https://phishingquiz.withgoogle.com/](https://phishingquiz.withgoogle.com/)
 
 <a href="https://phishingquiz.withgoogle.com/"><img src="/images/phishing.png"></a>
