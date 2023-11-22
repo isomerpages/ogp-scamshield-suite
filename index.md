@@ -11,13 +11,13 @@ sections:
       subtitle: What do you if you’ve encountered a scam
       background: /images/scamshero1.png
       key_highlights:
-        - title: I lost money to a scam
+        - title: What to do if I got scammed
           description: ""
           url: /transferred-money/permalink/
-        - title: I want to report a scam
+        - title: Report a scam
           description: ""
           url: /report-a-scam/permalink/
-        - title: I'm not sure if it's a scam
+        - title: Not sure if it's a scam
           description: ""
           url: /not-sure-if-scam/permalink/
         - title: Learn more about scams
