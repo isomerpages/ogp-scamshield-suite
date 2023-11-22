@@ -1,4 +1,5 @@
 collections:
   trusted-sources:
     output: true
-    order: []
+    order:
+      - Govsg Communication.md
