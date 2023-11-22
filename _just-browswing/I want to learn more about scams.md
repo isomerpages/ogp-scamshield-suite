@@ -14,6 +14,8 @@ description: ""
 
 [https://www.police.gov.sg/Media-Room/Scams-Bulletin](https://www.police.gov.sg/Media-Room/Scams-Bulletin)
 
+Read about trending scams in the past week.
+
 <a href="https://www.police.gov.sg/Media-Room/Scams-Bulletin"><img src="/images/Weekly_Bulletin.png"></a>
 
 
