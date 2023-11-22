@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Learn about scams
       subtitle: What do you if you’ve encountered a scam
-      background: /images/scamshero2.png
+      background: /images/scamshero3.png
       key_highlights:
         - title: What to do if I got scammed
           description: ""
@@ -23,6 +23,7 @@ sections:
         - title: Learn more about scams
           description: ""
           url: /learn-more/permalink/
+      variant: center
   - infobar:
       title: Transferred money? Call your bank and make a police report.
       id: infobar
