@@ -2,5 +2,5 @@ collections:
   just-browswing:
     output: true
     order:
-      - I want to protect myself.md
       - I want to learn more about scams.md
+      - I want to protect myself.md
