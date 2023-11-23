@@ -14,7 +14,7 @@ description: ""
   
 ### Other steps  to take
 1. If you are still not sure, and it sounds too good to be true, ignore the call or message.
-2. You can also report it on the [ScamShield Bot](https://go.gov.sg/scamshield-bot) or the [ScamShield App](https://www.scamshield.org.sg/android-app/).
+2. You can report it on the [ScamShield Bot](https://go.gov.sg/scamshield-bot) or the [ScamShield App](https://www.scamshield.org.sg/android-app/), to protect others from scams.
 3. You can also check the following resources to find out more about the latest scams: 
 
 ##### Weekly News Bulletin from the Singapore Police Force
