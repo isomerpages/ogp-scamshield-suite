@@ -2,7 +2,7 @@ collections:
   i-need-help:
     output: true
     order:
-      - I’ve accidentally transferred money to a scammer.md
+      - I lost money to a scammer.md
       - I Installed an apk or malware on my phone.md
       - I gave my banking login details to a scammer.md
       - I‘m not sure if a message, number, or URL is a scam.md
