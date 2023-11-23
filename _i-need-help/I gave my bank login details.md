@@ -4,7 +4,7 @@ permalink: /gave-bank-details/permalink/
 variant: markdown
 description: ""
 ---
-### If you've leaked your banking info to a scammer:  
+### If you've leaked your bank login info to a scammer:  
 
 <hr>
 
