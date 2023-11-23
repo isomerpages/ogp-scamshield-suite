@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Lost money to a scammer.md
-      - I installed a malicious app, apk, or malware.md
+      - Installed a malicious app, apk, or malware.md
       - I gave my bank login details.md
       - I‘m not sure if something is a scam.md
       - I want to report a scam.md
