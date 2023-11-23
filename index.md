@@ -41,7 +41,7 @@ sections:
       alt: Image alt text
       image: /images/weekly_bulletin.png
   - infopic:
-      title: Not sure if something is a scam? Check here
+      title: Not sure if it's a scam? Check here
       id: infopic
       description: Received a message or a call, and not sure if it’s a scam? Check on
         the ScamShield Bot.
