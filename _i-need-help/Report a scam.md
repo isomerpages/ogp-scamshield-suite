@@ -4,13 +4,11 @@ permalink: /report-a-scam/permalink/
 variant: markdown
 description: ""
 ---
-**Important note: If you have accidentally transferred money to a scammer, [refer to this page instead.](/transferred-money/permalink/)**
+##### **Important note: If you accidentally transferred money to a scammer, [refer to this page instead.](/transferred-money/permalink/)**
 
 <hr>
 
-### This info is for individuals who:  
-* Want to report a scam
-* Have not transferred any money to a scammer
+#### If you want to report a scam and have not transferred any money to a scammer yet:
 
 <hr>
 
