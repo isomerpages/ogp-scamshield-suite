@@ -8,20 +8,20 @@ notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Ex
   site? Give us feedback at go.gov.sg/scam-info –––––
 sections:
   - hero:
-      title: Learn about scams
+      title: Find info on scams
       subtitle: What do you if you’ve encountered a scam
       background: /images/scamshero4.png
       key_highlights:
-        - title: What to do if I got scammed
+        - title: I got scammed
           description: ""
           url: /transferred-money/permalink/
         - title: Report a scam
           description: ""
           url: /report-a-scam/permalink/
-        - title: Not sure if it's a scam
+        - title: Unsure if Scam
           description: ""
           url: /not-sure-if-scam/permalink/
-        - title: Learn more about scams
+        - title: Learn about scams
           description: ""
           url: /learn-more/permalink/
       variant: center
