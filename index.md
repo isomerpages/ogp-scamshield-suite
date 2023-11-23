@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Learn about scams
       subtitle: What do you if you’ve encountered a scam
-      background: /images/scamshero3.png
+      background: /images/scamshero4.png
       key_highlights:
         - title: What to do if I got scammed
           description: ""
