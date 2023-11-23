@@ -13,7 +13,7 @@ description: ""
 
 ### Immediate Actions  
 1. You can report a scam that you came across on these platforms
-* Online at https://www.scamshield.org.sg/report/  
+* Online at [https://www.scamshield.org.sg/report/  ](https://www.scamshield.org.sg/report/  )
 
 * On the official ScamShield App:
 	* [Android App](https://play.google.com/store/apps/details?id=sg.gov.scamshield&amp;hl=en&amp;gl=US)
