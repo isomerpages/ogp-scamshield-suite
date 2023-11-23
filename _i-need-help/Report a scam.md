@@ -10,7 +10,6 @@ description: ""
 
 #### If you want to report a scam and have not transferred any money to a scammer yet:
 
-<hr>
 
 ### Immediate Actions  
 1. You can report a scam that you came across on these platforms
