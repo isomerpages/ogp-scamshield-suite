@@ -4,25 +4,26 @@ permalink: /transferred-money/permalink/
 variant: markdown
 description: ""
 ---
-### This info is for individuals who:  
-* Have transferred money to a scammer
+### If you've transferred money to a scammer:
 
 <hr>
 
 ### Immediate Actions  
 1. Keep calm. 
-2. Call your bank’s anti-scam hotline to stop the transaction from happening.
+2. Call your bank’s anti-scam hotline (numbers below) to try and stop the transaction from happening 
+3. File a police report: [Online i-witness form](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html  ) 
 
-
-**OCBC**
-* Call the **OCBC 24-hour Personal Banking hotline** immediately at  <strong><a href="tel:6363 3333">6363 33330</a></strong>
-* Press **8** to report fraud or temporarily freeze all your accounts and cards.  
-* *Call <a href="tel:+65 6363 3333">+65 6363 33330</a> if you are overseas*
+##### List of Bank's Anti-Scam Hotline 
 
   
 **DBS / POSB** 
 * Call the **DBS / POSB 24-hour fraud hotline** immediately at <strong><a href="tel:1800 339 6963">1800 339 6963</a></strong> 
 * *Call <a href="tel:+65 6339 6963">+65 6339 6963</a>  if you are overseas*
+
+**OCBC**
+* Call the **OCBC 24-hour Personal Banking hotline** immediately at  <strong><a href="tel:6363 3333">6363 33330</a></strong>
+* Press **8** to report fraud or temporarily freeze all your accounts and cards.  
+* *Call <a href="tel:+65 6363 3333">+65 6363 33330</a> if you are overseas*
   
 **UOB**
 * Call the **UOB 24-hour Fraud Hotline** at <strong><a href="tel:6255 0160">6255 0160</a></strong>
@@ -37,7 +38,7 @@ For all other banks, refer to the bank's relevant fraud hotline(s).
   
 
   
-3. File a police report
+#### File a police report
 * [Online i-witness form](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html  ) (you will need your Singpass login) 
 * In person at your nearest [Neighbourhood Police Post](https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps)
 
