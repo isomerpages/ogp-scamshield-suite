@@ -4,12 +4,11 @@ permalink: /learn-more/permalink/
 variant: markdown
 description: ""
 ---
-### This info is for individuals who:  
-* Want to learn more about scams
+### If you want to learn more about scams:
 
 <hr>
 
-### Resources
+### Check out these Resources
 #### Weekly News Bulletin from the Singapore Police Force
 
 [https://www.police.gov.sg/Media-Room/Scams-Bulletin](https://www.police.gov.sg/Media-Room/Scams-Bulletin)
@@ -58,5 +57,3 @@ Can you spot when you’re being phished? Take this fun interactive quiz by Goog
 [https://phishingquiz.withgoogle.com/](https://phishingquiz.withgoogle.com/)
 
 <a href="https://phishingquiz.withgoogle.com/"><img src="/images/phishing.png"></a>
-
-
