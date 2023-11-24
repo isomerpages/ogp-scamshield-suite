@@ -9,7 +9,7 @@ notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Ex
 sections:
   - hero:
       title: Find info on scams
-      subtitle: What do you if you’ve encountered a scam
+      subtitle: What to do you if you’ve encountered a scam
       background: /images/scamshero4.png
       key_highlights:
         - title: I got scammed
