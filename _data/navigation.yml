@@ -1,8 +1,8 @@
 logo: /images/stopscams_logo.png
 links:
-  - title: I Need Help
+  - title: I've been scammed
     collection: i-need-help
-  - title: Just Browsing
-    collection: just-browsing
-  - title: Latest news
-    url: /latest-news/permalink
+  - title: I'm unsure if it's scam
+    url: /unsure-if-scam
+  - title: I want protection from scams
+    collection: i-need-help
