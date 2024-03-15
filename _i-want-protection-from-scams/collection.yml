@@ -2,6 +2,7 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Share Scam Encounter.md
       - Share scam encounter/.keep
       - Add Prevention Measures/.keep
       - Add Prevention Measures/Block scam calls and SMSes with ScamShield App.md
