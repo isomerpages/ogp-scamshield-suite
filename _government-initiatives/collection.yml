@@ -1,0 +1,4 @@
+collections:
+  government-initiatives:
+    output: true
+    order: []
