@@ -2,6 +2,7 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Learn to Recognise Scams/Phishing Scams.md
       - Learn to Recognise Scams/Impersonation Scams.md
       - Learn to Recognise Scams/Love Scams.md
       - Learn to Recognise Scams/Job Scams.md
