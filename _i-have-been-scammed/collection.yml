@@ -1,5 +1,5 @@
 collections:
-  i-need-help:
+  i-have-been-scammed:
     output: true
     order:
       - Lost money to a scammer.md
