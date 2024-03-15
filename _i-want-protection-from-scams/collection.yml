@@ -2,4 +2,5 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Add Prevention Measures/.keep
       - Add Prevention Measures.md
