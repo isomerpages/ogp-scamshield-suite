@@ -2,6 +2,8 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Add Prevention Measures/Limit contact from strangers on online
+        accounts.md
       - Add Prevention Measures/Make bank and personal accounts more secure.md
       - Add Prevention Measures/Block scam calls and SMSes with ScamShield App.md
       - Add Prevention Measures/.keep
