@@ -1,8 +1,10 @@
 logo: /images/stopscams_logo.png
 links:
-  - title: I Have Been Scammed
+  - title: I've been scammed
     collection: i-have-been-scammed
-  - title: I'm unsure if it's scam
-    url: /unsure-if-scam
-  - title: I Have Been Scammed
-    collection: i-have-been-scammed
+  - title: I Want Protection from Scams
+    collection: i-want-protection-from-scams
+  - title: Latest Scam News
+    collection: government-initiatives
+  - title: Government Initiatives
+    collection: government-initiatives
