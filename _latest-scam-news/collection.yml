@@ -1,4 +1,5 @@
 collections:
   latest-scam-news:
     output: true
-    order: []
+    order:
+      - Weekly Trending Scams.md
