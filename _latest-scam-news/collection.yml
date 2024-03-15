@@ -1,0 +1,4 @@
+collections:
+  latest-scam-news:
+    output: true
+    order: []
