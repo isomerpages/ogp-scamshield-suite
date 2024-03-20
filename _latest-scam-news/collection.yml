@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Weekly Trending Scams.md
+      - Media Releases/Videos.md
       - Media Releases/.keep
       - Media Releases/Speeches.md
       - Media Releases/Reports.md
