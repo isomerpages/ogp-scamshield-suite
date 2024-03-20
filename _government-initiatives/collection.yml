@@ -2,5 +2,5 @@ collections:
   government-initiatives:
     output: true
     order:
-      - I can ACT against scams campaign.md
       - About ScamShield.md
+      - I can ACT against scams campaign.md
