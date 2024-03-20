@@ -9,22 +9,17 @@ notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Ex
 sections:
   - hero:
       title: Find info on scams
-      subtitle: What to do you if you’ve encountered a scam
       background: /images/scamshero4.png
-      key_highlights:
-        - title: I got scammed
-          description: ""
-          url: /transferred-money/permalink/
-        - title: Report a scam
-          description: ""
-          url: /report-a-scam/permalink/
-        - title: Unsure if Scam
-          description: ""
-          url: /not-sure-if-scam/permalink/
-        - title: Learn about scams
-          description: ""
-          url: /learn-more/permalink/
       variant: center
+      dropdown:
+        title: How can ScamShield help?
+        options:
+          - title: I've been scammed
+            url: https://www.google.com
+          - title: I want protection from scams
+            url: https://www.google.com
+          - title: I want the latest scam news
+            url: https://www.google.com
   - infobar:
       title: Transferred money? Call your bank and make a police report.
       id: infobar
