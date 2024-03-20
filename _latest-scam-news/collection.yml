@@ -2,4 +2,5 @@ collections:
   latest-scam-news:
     output: true
     order:
+      - Media Releases/.keep
       - Weekly Trending Scams.md
