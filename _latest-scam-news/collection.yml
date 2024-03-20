@@ -2,8 +2,8 @@ collections:
   latest-scam-news:
     output: true
     order:
-      - Events.md
       - Weekly Trending Scams.md
       - Media Releases/.keep
       - Media Releases/Speeches.md
       - Media Releases/Reports.md
+      - Events.md
