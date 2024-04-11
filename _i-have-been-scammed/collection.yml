@@ -2,7 +2,7 @@ collections:
   i-have-been-scammed:
     output: true
     order:
-      - Get counselling support.md
       - Lost money to a scammer.md
       - Installed a malicious app, apk, or malware.md
       - Leaked my bank login info.md
+      - Get counselling support.md
