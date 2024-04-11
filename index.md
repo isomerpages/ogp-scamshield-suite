@@ -62,6 +62,9 @@ sections:
         - title: Love scams
           description: $39.8 million lost
       url: www.scamshield.gov.sg
+  - resources:
+      title: Scam Trends and Updates
+      id: resources
   - infopic:
       title: Not sure if it's a scam? Check here
       id: infopic
@@ -71,7 +74,4 @@ sections:
       url: https://go.gov.sg/scamshield-bot
       alt: Image alt text
       image: /images/ScamShield_Bot_whitebg.png
-  - resources:
-      title: Scam Trends and Updates
-      id: resources
 ---
