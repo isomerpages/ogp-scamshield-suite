@@ -48,30 +48,6 @@ sections:
         is a scam
       button: or check using the scamshield app
       url: www.scamshield.gov.sg
-  - infobar:
-      title: Transferred money? Call your bank and make a police report.
-      id: infobar
-      button: More steps here
-      url: /transferred-money/permalink/
-      description: Keep calm and follow these steps on what to do next.
-  - infopic:
-      title: Trending scams in the past week
-      id: infopic
-      description: Learn more about the lastest scams happening in the past week from
-        the Singapore Police Force's weekly bulletins.
-      button: Learn more
-      url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
-      alt: Image alt text
-      image: /images/weekly_bulletin.png
-  - infopic:
-      title: Not sure if it's a scam? Check here
-      id: infopic
-      description: Received a message or a call, and not sure if it’s a scam? Check on
-        the ScamShield Bot.
-      button: Explore ScamShield Bot
-      url: https://go.gov.sg/scamshield-bot
-      alt: Image alt text
-      image: /images/ScamShield_Bot_whitebg.png
   - infocols:
       title: Top Scams in Singapore
       id: infocols
@@ -86,4 +62,16 @@ sections:
         - title: Love scams
           description: $39.8 million lost
       url: www.scamshield.gov.sg
+  - infopic:
+      title: Not sure if it's a scam? Check here
+      id: infopic
+      description: Received a message or a call, and not sure if it’s a scam? Check on
+        the ScamShield Bot.
+      button: Explore ScamShield Bot
+      url: https://go.gov.sg/scamshield-bot
+      alt: Image alt text
+      image: /images/ScamShield_Bot_whitebg.png
+  - resources:
+      title: Scam Trends and Updates
+      id: resources
 ---
