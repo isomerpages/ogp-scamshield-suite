@@ -85,4 +85,5 @@ sections:
           description: $92.5 million lost
         - title: Love scams
           description: $39.8 million lost
+      url: www.scamshield.gov.sg
 ---
