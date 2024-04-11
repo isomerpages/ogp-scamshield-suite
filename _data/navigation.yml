@@ -4,7 +4,7 @@ links:
     collection: i-have-been-scammed
   - title: I Want Protection from Scams
     collection: i-want-protection-from-scams
-  - title: Media & News
-    collection: latest-scam-news
   - title: About us
     collection: government-initiatives
+  - title: Media & News
+    resource_room: true
