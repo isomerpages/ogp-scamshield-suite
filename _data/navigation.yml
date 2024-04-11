@@ -2,11 +2,11 @@ logo: /images/stopscams_logo.png
 links:
   - title: Home
     url: /permalink
-  - title: About us
-    collection: government-initiatives
   - title: I've been scammed
     collection: i-have-been-scammed
   - title: Protection against scams
     collection: i-want-protection-from-scams
-  - title: Resources
+  - title: Trends & updates
     resource_room: true
+  - title: About ScamShield
+    url: /permalink
