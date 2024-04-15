@@ -1,7 +1,7 @@
 logo: /images/scamshield_logo_horizontal_blue.png
 links:
   - title: Home
-    url: https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/
+    url: /home
   - title: I've been scammed
     url: /i-ve-been-scammed/
   - title: Protection against scams
