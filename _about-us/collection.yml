@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - I can ACT against scams.md
       - ScamShield.md
+      - I can ACT against scams.md
