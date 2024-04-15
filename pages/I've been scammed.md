@@ -38,7 +38,7 @@ all your accounts and cards.
 <br><a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener noreferrer nofollow" target="_blank">https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps</a>
 </p>
 <p></p>
-<h4>Other scam scenarios</h4>
+<h2>Other scam scenarios</h2>
 <p>Here's what you should do if you've encountered the following:</p>
 <ul data-tight="true" class="tight">
 <li>
