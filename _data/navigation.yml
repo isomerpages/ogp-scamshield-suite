@@ -3,7 +3,7 @@ links:
   - title: Home
     url: https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/
   - title: I've been scammed
-    collection: i-have-been-scammed
+    url: /permalink
   - title: Protection against scams
     collection: i-want-protection-from-scams
   - title: Trends & updates
