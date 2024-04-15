@@ -65,13 +65,4 @@ sections:
   - resources:
       title: Scam Trends and Updates
       id: resources
-  - infopic:
-      title: Not sure if it's a scam? Check here
-      id: infopic
-      description: Received a message or a call, and not sure if it’s a scam? Check on
-        the ScamShield Bot.
-      button: Explore ScamShield Bot
-      url: https://go.gov.sg/scamshield-bot
-      alt: Image alt text
-      image: /images/ScamShield_Bot_whitebg.png
 ---
