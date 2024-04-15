@@ -11,32 +11,49 @@ description: ""
 the transaction from happening
 <br>3. File a police report: [Online i-witness form](<a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html</a> )</p>
 <h4><br>List of Bank's Anti-Scam Hotline</h4>
-<p><strong>DBS / POSB</strong>
-<br>Call the<em> </em>DBS / POSB 24-hour fraud hotline immediately at <strong>1800 339 6963</strong>
+<p><strong>DBS / POSB</strong> 
+<br>Call the<em> </em>DBS / POSB 24-hour fraud hotline immediately at <strong>1800 339 6963</strong> 
 <br>Call <strong>+65 6339 6963</strong> if you are overseas</p>
 <p></p>
-<p><strong>OCBC</strong>
-<br>Call the<em> </em>OCBC 24-hour Personal Banking hotline immediately at <strong>6363 3333</strong>
+<p><strong>OCBC</strong> 
+<br>Call the<em> </em>OCBC 24-hour Personal Banking hotline immediately at <strong>6363 3333</strong> 
 <br>Press<em> </em><strong>8</strong> to report fraud or temporarily freeze
 all your accounts and cards.
 <br>Call <strong>+65 6363 3333</strong> if you are overseas</p>
-<p><strong>UOB</strong>
+<p><strong>UOB</strong> 
 <br>Call the*UOB 24-hour Fraud Hotline at <strong>6255 0160</strong>
 </p>
-<p><strong>Citibank</strong>
+<p><strong>Citibank</strong> 
 <br>Contact the<em> </em>Citibank Fraud hotline at <strong>+65 6337 5519</strong>
 </p>
-<p><strong>CIMB</strong>
-<br>Contact the<em> </em>CIMB Fraud hotline <strong>+65 6333 7777</strong>
+<p><strong>CIMB</strong> 
+<br>Contact the<em> </em>CIMB Fraud hotline <strong>+65 6333 7777</strong> 
 <br>For all other banks, refer to the bank's relevant fraud hotline(s).</p>
 <p></p>
 <h4>File a police report</h4>
 <p><strong>Online i-witness form </strong>(you will need your Singpass login)
-<br><a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html</a> 
+<br><a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html</a>
 </p>
 <p><strong>In person</strong> at your nearest Neighbourhood Police Post
 <br><a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener noreferrer nofollow" target="_blank">https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps</a>
 </p>
+<p></p>
+<h4>Other scam scenarios</h4>
+<p>Here's what you should do if you've encountered the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Installed malicious apk, app or software</a>
+</p>
+</li>
+<li>
+<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Leaked bank account information</a>
+</p>
+</li>
+<li>
+<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Looking for counselling support</a>
+</p>
+</li>
+</ul>
 <p></p>
 <h4>Resources and references</h4>
 <p></p>
