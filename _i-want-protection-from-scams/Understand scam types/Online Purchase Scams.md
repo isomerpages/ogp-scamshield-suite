@@ -28,19 +28,19 @@ items in cash.</p>
 <h3>Signs to look out for</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Be wary of good deals </strong>
+<p><strong>Be wary of good deals </strong> 
 <br>If it’s too good to be true, chances are it is.  
 <br>
 </p>
 </li>
 <li>
-<p><strong>Lack of information </strong>
+<p><strong>Lack of information </strong> 
 <br>Scammers often omit product information or have unstated terms and conditions 
 <br>
 </p>
 </li>
 <li>
-<p><strong>Tries to take conversation off platform </strong>
+<p><strong>Tries to take conversation off platform </strong> 
 <br>Scammers may try to switch to an offline platform to avoid detection</p>
 </li>
 </ul>
@@ -48,14 +48,14 @@ items in cash.</p>
 <h3>How to stay safe</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Insist on official payment methods </strong>
+<p><strong>Insist on official payment methods </strong> 
 <br>Transact within the platform. Where possible, insist on cash-on-delivery
 or use the platform's secure payment method. 
 <br>
 </p>
 </li>
 <li>
-<p><strong>Choose reputable sellers or shopping platforms, especially for high-value purchases</strong>
+<p><strong>Choose reputable sellers or shopping platforms, especially for high-value purchases</strong> 
 <br>Always choose to deal with reputable sellers who have good ratings and
 reviews and have been with the site for some time. For high-value items,
 use reputable platforms with consumer protection and return policies. 
@@ -63,7 +63,7 @@ use reputable platforms with consumer protection and return policies. 
 </p>
 </li>
 <li>
-<p><strong>Check terms and conditions </strong>
+<p><strong>Check terms and conditions </strong> 
 <br>Always check the terms and conditions and ensure fees are stated up front.</p>
 </li>
 </ul>
