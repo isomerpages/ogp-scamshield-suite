@@ -49,7 +49,7 @@ sections:
       button: or check using the scamshield app
       url: www.scamshield.gov.sg
   - infocols:
-      title: Top Scams in Singapore
+      title: Top Scams in June 2024
       id: infocols
       linktext: Learn more
       infoboxes:
@@ -62,6 +62,7 @@ sections:
         - title: Love scams
           description: $39.8 million lost
       url: www.scamshield.gov.sg
+      subtitle: Monthly scams update
   - resources:
       title: Scam Trends and Updates
       id: resources
