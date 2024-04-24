@@ -20,6 +20,7 @@ actual acquaintance and realised that they had neither changed their contact
 number nor contacted them.</p>
 <hr>
 <blockquote>
+<p></p>
 <p>6,859 cases reported in 2023. At least $23.1 million lost.</p>
 </blockquote>
 <hr>
