@@ -15,6 +15,7 @@ by clicking malicious links or via phone calls. Upon acquiring the victims
 bank accounts or debit/credit cards.</p>
 <hr>
 <blockquote>
+<p></p>
 <p>5,938 cases reported in 2023. At least $14.2 million lost.</p>
 </blockquote>
 <hr>
