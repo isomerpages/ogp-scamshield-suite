@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Understand scam types
 ---
-<h2><strong>Scam name</strong></h2>
+<h2><strong>Government Officials Impersonation Scams</strong></h2>
 <p>Scam description</p>
 <p></p>
 <hr>
