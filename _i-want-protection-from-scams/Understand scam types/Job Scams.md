@@ -21,6 +21,7 @@ from the bank accounts, or when the scammers could no longer be contacted.</p>
 <p></p>
 <hr>
 <blockquote>
+<p></p>
 <p>9,914 cases reported in 2023. At least $135.7 million lost.</p>
 </blockquote>
 <hr>
