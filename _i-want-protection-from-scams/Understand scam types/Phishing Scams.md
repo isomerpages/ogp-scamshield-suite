@@ -16,10 +16,12 @@ bank accounts or debit/credit cards.</p>
 <hr>
 <blockquote>
 <p></p>
-<p>5,938 cases reported in 2023. At least $14.2 million lost.</p>
+<h2><strong>At least S$14.2 million lost to scammers</strong></h2>
 </blockquote>
+<p></p>
+<p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<p>Signs to look out for</p>
+<h3>Signs to look out for</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sign 1
@@ -61,6 +63,5 @@ seen or experienced: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com
 <br>If you have transferred money to a scammer, please visit this page for
 a list of immediate actions: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/</a>
 </p>
-<p></p>
 <p></p>
 <p></p>
