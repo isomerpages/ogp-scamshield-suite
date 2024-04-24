@@ -15,6 +15,7 @@ pretending to be buyers. The scammers sometimes provided victims with fake
 screenshots as “proof of payment”.</p>
 <hr>
 <blockquote>
+<p></p>
 <p>9,783 cases reported in 2023. At least $13.9 million lost.</p>
 </blockquote>
 <hr>
