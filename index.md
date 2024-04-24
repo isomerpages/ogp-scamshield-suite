@@ -8,9 +8,10 @@ notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Ex
   site? Give us feedback at go.gov.sg/scam-info –––––
 sections:
   - hero:
-      title: Lorem Ipsum
+      title: SCAMSHIELD ECOSYSTEM
       background: /images/scamshero4.png
       variant: center
+      subtitle: Your one-stop scam resource portal
   - textcards:
       title: Quick Actions
       id: textcards
