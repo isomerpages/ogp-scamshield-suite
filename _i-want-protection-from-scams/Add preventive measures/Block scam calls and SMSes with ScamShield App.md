@@ -102,13 +102,22 @@ you that the app has detected a scam message.</p>
 </li>
 </ul>
 <hr>
-<h4>Your privacy is important to us</h4>
-<ul data-tight="true" class="tight">
+<h1><strong>Overseas Call/SMS Blocking</strong></h1>
+<h4>How does it work on my Android phone?</h4>
+<ul>
 <li>
-<p>For your privacy, ScamShield <strong>does not filter calls and SMSes from contacts that you have saved on your phone.</strong>
-</p>
+<p>The app filters incoming calls and SMSes from <strong>unknown numbers, including overseas numbers.</strong> ScamShield
+uses a combination of an on-device algorithm and information provided by
+the Singapore Police Force (SPF), such as blacklisted numbers linked to
+scams, to determine if a call or SMS is a scam.</p>
+</li>
+<li>
+<p>When you receive an SMS from an unknown number, ScamShield will determine
+if the SMS is a scam using an on-device algorithm.</p>
+</li>
+<li>
+<p>For Android users, you will receive a notification from ScamShield informing
+you that the app has detected a scam message.</p>
 </li>
 </ul>
-<h4>Feedback</h4>
-<p>For any queries, questions or feedback, please contact us here: <a href="https://go.gov.sg/scamshield-feedback" rel="noopener noreferrer nofollow" target="_blank"><u>ScamShield Feedback</u></a>
-</p>
+<p></p>
