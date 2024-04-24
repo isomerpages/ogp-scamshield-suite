@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Understand scam types
 ---
 <h2><strong>Phishing Scams</strong></h2>
-<p>Pishing scams involve emails, messages, calls, or advertisements by scammers
+<p>Phishing scams involve emails, messages, calls, or advertisements by scammers
 posing as government officials, financial institutions or businesses. Victims
 would be tricked into revealing sensitive information such as usernames,
 passwords, banking credentials and/or debit or credit card information
