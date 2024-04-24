@@ -4,82 +4,82 @@ permalink: /i-ve-been-scammed/
 variant: tiptap
 description: ""
 ---
-<h2>If you've transferred money to a scammer:</h2>
-<h4>Immediate Actions</h4>
-<p>1. Keep calm.
-<br>2. Call your bank’s anti-scam hotline (numbers below) to try and stop
-the transaction from happening
-<br>3. File a police report: [Online i-witness form](<a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html</a> )</p>
-<h4><br>List of Bank's Anti-Scam Hotline</h4>
-<p><strong>DBS / POSB</strong> 
-<br>Call the<em> </em>DBS / POSB 24-hour fraud hotline immediately at <strong>1800 339 6963</strong> 
+<h2>Should you fall prey to a scam (i.e., suffer monetary loss or loss of personal information), take the following steps to protect yourself from further losses, and prevent other victims from being scammed.</h2>
+<p>&nbsp;</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Contact your bank immediately</strong> if
+your bank account or credit card has been compromised, so that the bank
+can take immediate actions to prevent further monetary loss.</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>File a police report online</strong> via
+<a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">Police Report</a>, or in person at the nearest Neighbourhood Police Centre
+or Neighbourhood Police Post. Call 999 if you require the Police’s urgent
+assistance. If you have information about scams, you may share the information
+with the Police via the Police Hotline at 1800-255-0000 or online via the
+I-Witness e-Service (<a rel="noopener noreferrer nofollow" target="_blank">https://www.police.gov.sg/I-witness</a>).
+&nbsp;</p>
+<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your online account (e.g., email
+or social media) is compromised, <strong>notify all your contacts</strong>,
+and <strong>report the incident</strong> to the respective email service
+provider or social media platform.&nbsp; If you still have access to your
+account, <strong>change your passphrase immediately</strong>. <strong>Set up two-factor or multi-factor authentication</strong> if
+you have not done so earlier.</p>
+<p>&nbsp;d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For e-commerce related scams,
+in addition to making a police report, do also <strong>report the incident to the platform administrators</strong>.
+This is to allow the platform to take down the fraudulent seller’s account
+as soon as possible. Provide as much information as you can in the police
+report such as scammers’ WhatsApp numbers and account details, information
+and screenshots of the fraudulent posts (e.g., Instagram/Facebook/TikTok
+advertisements or listings / Instagram stories).</p>
+<p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Be alert</strong> for scammers’
+repeat advances. Some scammers are known to take advantage of their victims’
+vulnerabilities. <strong>They may impersonate police officers or other authorities</strong> and
+approach their victims with the intention of scamming their victims again.</p>
+<p>Being a victim of a scam can be distressing. Seek support from family
+and close friends. Tell them about your scam encounter and seek help.</p>
+<p></p>
+<h4>List of Bank's Anti-Scam Hotline</h4>
+<p><strong>DBS / POSB</strong>
+<br>Call the<em> </em>DBS / POSB 24-hour fraud hotline immediately at <strong>1800 339 6963</strong>
 <br>Call <strong>+65 6339 6963</strong> if you are overseas</p>
 <p></p>
-<p><strong>OCBC</strong> 
-<br>Call the<em> </em>OCBC 24-hour Personal Banking hotline immediately at <strong>6363 3333</strong> 
+<p><strong>OCBC</strong>
+<br>Call the<em> </em>OCBC 24-hour Personal Banking hotline immediately at <strong>6363 3333</strong>
 <br>Press<em> </em><strong>8</strong> to report fraud or temporarily freeze
 all your accounts and cards.
 <br>Call <strong>+65 6363 3333</strong> if you are overseas</p>
-<p><strong>UOB</strong> 
+<p><strong>UOB</strong>
 <br>Call the*UOB 24-hour Fraud Hotline at <strong>6255 0160</strong>
 </p>
-<p><strong>Citibank</strong> 
+<p><strong>Citibank</strong>
 <br>Contact the<em> </em>Citibank Fraud hotline at <strong>+65 6337 5519</strong>
 </p>
-<p><strong>CIMB</strong> 
-<br>Contact the<em> </em>CIMB Fraud hotline <strong>+65 6333 7777</strong> 
+<p><strong>CIMB</strong>
+<br>Contact the<em> </em>CIMB Fraud hotline <strong>+65 6333 7777</strong>
 <br>For all other banks, refer to the bank's relevant fraud hotline(s).</p>
 <p></p>
-<h4>File a police report</h4>
-<p><strong>Online i-witness form </strong>(you will need your Singpass login)
-<br><a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html</a>
-</p>
-<p><strong>In person</strong> at your nearest Neighbourhood Police Post
-<br><a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener noreferrer nofollow" target="_blank">https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps</a>
-</p>
-<p></p>
-<h2>Other scam scenarios</h2>
-<p>Here's what you should do if you've encountered the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Installed malicious apk, app or software</a>
-</p>
-</li>
-<li>
-<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Leaked bank account information</a>
-</p>
-</li>
-<li>
-<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Looking for counselling support</a>
-</p>
-</li>
-</ul>
-<p></p>
 <h4>Resources and references</h4>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>OCBC - How to bank safely &amp; securely
-<br><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank">https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams</a>
+<br><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams</u></a>
 </p>
 </li>
 <li>
-<p>DBS / POSB – How to set safety switch <a href="https://www.dbs.com.sg/personal/support/bank-ssb-safety-switch.html" rel="noopener noreferrer nofollow" target="_blank">https://www.dbs.com.sg/personal/support/bank-ssb-safety-switch.html</a>
+<p>DBS / POSB – How to set safety switch <a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dbs.com.sg/personal/support/bank-ssb-safety-switch.html</u></a>
 </p>
 </li>
 <li>
 <p>UOB - What to do if you have been scammed
-<br><a href="https://www.uob.com.sg/personal/digital-banking/pib/security/what-to-do-if-you-have-been-scammed/index.page" rel="noopener noreferrer nofollow" target="_blank">https://www.uob.com.sg/personal/digital-banking/pib/security/what-to-do-if-you-have-been-scammed/index.page</a>
+<br><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.uob.com.sg/personal/digital-banking/pib/security/what-to-do-if-you-have-been-scammed/index.page</u></a>
 </p>
 </li>
 <li>
 <p>Citibank
-<br><a href="https://www.citibank.com.sg/static/contact/" rel="noopener noreferrer nofollow" target="_blank">https://www.citibank.com.sg/static/contact/</a>
+<br><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.citibank.com.sg/static/contact/</u></a>
 </p>
 </li>
 <li>
 <p>CIMB - Security and Fraud Awareness
-<br><a href="https://www.cimb.com.sg/en/personal/help-support/security-fraud.html" rel="noopener noreferrer nofollow" target="_blank">https://www.cimb.com.sg/en/personal/help-support/security-fraud.html</a>
+<br><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.cimb.com.sg/en/personal/help-support/security-fraud.html</u></a>
 </p>
 </li>
 </ul>
