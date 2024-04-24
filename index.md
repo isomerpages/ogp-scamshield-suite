@@ -41,7 +41,7 @@ sections:
       alt: Image alt text
       image: /images/ScamShield_App_whitebg.png
   - infobar:
-      title: 1800-722-6688
+      title: "1799"
       subtitle: unsure if it's a scam?
       id: infobar
       description: Call the helpline if you are unsure if a situation you are facing
