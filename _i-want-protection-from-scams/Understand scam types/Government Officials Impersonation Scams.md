@@ -6,12 +6,22 @@ description: ""
 third_nav_title: Understand scam types
 ---
 <h2><strong>Government Officials Impersonation Scams</strong></h2>
-<p>Scam description</p>
+<p>Victims would receive unsolicited phone calls or in-app calls (e.g. WhatsApp
+video call) allegedly from government agencies such as the Singapore Police
+Force (SPF) or the Ministry of Manpower (MOM). The scammers would claim
+that there were issues with the victim’s bank accounts and required additional
+verification. Victims would then be asked to provide their banking or personal
+information such as banking credentials and One-Time Passwords (OTPs) to
+resolve these issues. Victims may also be asked to show their identity
+cards, work permit or their bank cards when speaking to the “SPF” or “MOM”
+officer over the in-app video call. The victims would only discover that
+they had been scammed when they realised that there were unauthorised transactions
+made from their bank accounts.</p>
 <p></p>
 <hr>
 <blockquote>
 <p></p>
-<p>Amount lost to scammers (updated periodically)</p>
+<p>893 cases reported in 2023. At least $92.5 million lost.</p>
 </blockquote>
 <hr>
 <p>Signs to look out for</p>
