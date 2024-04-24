@@ -24,7 +24,8 @@ then realise that they had been scammed.</p>
 <hr>
 <blockquote>
 <p></p>
-<p>4,030 investment scam cases reported in 2023. $204.5 million lost.</p>
+<p>4,030 investment scam cases reported in 2023. At least $204.5 million
+lost.</p>
 </blockquote>
 <hr>
 <p>Signs to look out for</p>
