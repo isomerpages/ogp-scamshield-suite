@@ -18,14 +18,15 @@ amount of funds to be transferred, for purportedly higher earnings. The
 victims would eventually realise that they had been scammed when they failed
 to receive their commission, when they were unable to withdraw the monies
 from the bank accounts, or when the scammers could no longer be contacted.</p>
-<p></p>
 <hr>
 <blockquote>
 <p></p>
-<p>9,914 cases reported in 2023. At least $135.7 million lost.</p>
+<h2><strong>At least S$135.7 million lost to scammers</strong></h2>
 </blockquote>
+<p></p>
+<p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<p>Signs to look out for</p>
+<h3>Signs to look out for</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sign 1
