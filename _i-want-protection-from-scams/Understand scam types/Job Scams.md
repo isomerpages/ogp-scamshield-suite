@@ -26,39 +26,32 @@ from the bank accounts, or when the scammers could no longer be contacted.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Signs to look out for</h3>
+<h3>It is likely a scam if the job requires you to</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sign 1
-<br>Description</p>
+<p>Pay upfront before starting the job.</p>
 </li>
 <li>
-<p>Sign 2
-<br>Description</p>
+<p>Use your own money to complete tasks as part of the job.</p>
 </li>
 <li>
-<p>Sign 3
-<br>Description</p>
-</li>
-<li>
-<p>Sign 4
-<br>Description</p>
+<p>Use your personal bank account as part of the job.</p>
 </li>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tip 1
-<br>Description</p>
+<p><strong>ADD: </strong>Privacy settings to avoid being added into unknown
+chatgroups.</p>
 </li>
 <li>
-<p>Tip 2
-<br>Description</p>
+<p><strong>CHECK: </strong>Authenticity of job offers through official sources
+such as registered job portals.</p>
 </li>
 <li>
-<p>Tip 3
-<br>Description</p>
+<p><strong>TELL: </strong>Report and block suspected scam accounts and chat
+groups on messaging platforms or social media platform administrators.</p>
 </li>
 </ul>
 <hr>
