@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Add preventive measures
 ---
+<p>ONE LINER ON WHAT SOCIAL MEDIA MEANS TO EVERYONE.</p>
+<p></p>
 <h4><strong>Enable Two-Factor Authentication (2FA) where available</strong></h4>
 <p>2FA uses more than one type of information to identify who you are to
 grant you access to your online account. The first factor in 2FA is usually
