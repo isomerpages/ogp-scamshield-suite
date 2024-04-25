@@ -26,39 +26,37 @@ number nor contacted them.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Signs to look out for</h3>
+<h3>It is likely a scam if the caller</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sign 1
-<br>Description</p>
+<p>Calls you using an unknown number, asks you to guess who they are and
+claims that he/she lost his/her old phone number;</p>
 </li>
 <li>
-<p>Sign 2
-<br>Description</p>
-</li>
-<li>
-<p>Sign 3
-<br>Description</p>
-</li>
-<li>
-<p>Sign 4
-<br>Description</p>
+<p>Ask you to transfer money to unknown bank accounts, click on unknown links
+that lead to bank websites and/or download third-party apps to help them
+in a difficult situation.</p>
 </li>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tip 1
-<br>Description</p>
+<p><strong>ADD: </strong>ScamShield app to block and deter scam calls, Anti-virus
+app as recommended by CSA, International Call Blocking with your telcos
+and security features such as 2FA for your online accounts.</p>
 </li>
 <li>
-<p>Tip 2
-<br>Description</p>
+<p><strong>CHECK</strong>: Verify the caller’s identity through alternative
+means like contacting them on social media, calling the original number
+of the person, meeting in-person, or with other friends. Beware of unusual
+requests from someone claiming to know you. Only download and install apps
+from official app stores (i.e., Google Play Store for Android).</p>
 </li>
 <li>
-<p>Tip 3
-<br>Description</p>
+<p><strong>TELL: </strong>your other friends and family about this scam encounter
+immediately to warn them as the scammer might reach out to others that
+you may also know</p>
 </li>
 </ul>
 <hr>
