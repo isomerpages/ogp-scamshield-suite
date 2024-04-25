@@ -52,32 +52,20 @@ approval of the Singapore government</p>
 warrant card through online communication channels.</p>
 <hr>
 <h3>How to stay safe</h3>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>ADD: </strong>ScamShield app, Anti-virus app as recommended by
 CSA, Money Lock for your bank accounts, International Call Blocking with
 your telcos and security features such as 2FA for your online accounts.</p>
-</li>
-<li>
 <p><strong>CHECK:</strong> for scam signs and with official sources, e.g.,
 NCPC Anti-Scam Helpline @ 1800-722-6688, ScamShield WhatsApp bot or the
 ScamAlert Website.</p>
-</li>
-<li>
 <p>•The NCPC Anti-Scam Helpline can also verify the identity of the Police
 Officer who is trying to reach you.</p>
-</li>
-<li>
 <p>•Never disclose your personal information (including SingPass and CPF-related),
 internet banking and social media account details, and one-time passwords
-(OTPs) to anyone.</p>
-</li>
-<li>
+(OTPs) to anyone</p>
 <p><strong>TELL: </strong>Report &amp; block these scammers on your social
 and messaging platforms. Report any fraudulent transactions to your bank
 immediately.</p>
-</li>
-</ul>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>Help keep the community safe by reporting any instances of this scam you’ve
