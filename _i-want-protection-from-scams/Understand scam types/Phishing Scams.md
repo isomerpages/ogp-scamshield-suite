@@ -21,41 +21,64 @@ bank accounts or debit/credit cards.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Signs to look out for</h3>
+<h3>Common signs of phishing are</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sign 1
-<br>Description</p>
+<p>Unsolicited emails, messages, images or advertisements with clickable
+links.</p>
 </li>
 <li>
-<p>Sign 2
-<br>Description</p>
+<p>Clickable links lead you to a website/s that looks legitimate;</p>
 </li>
 <li>
-<p>Sign 3
-<br>Description</p>
+<p>Spoofed webpage addresses</p>
 </li>
 <li>
-<p>Sign 4
-<br>Description</p>
+<p>Unsecured websites requiring you to provide your personal details or banking
+credentials</p>
 </li>
 </ul>
+<h3>For bank phishing</h3>
+<p>Victims will receive SMS alerts about potential unauthorised access to
+their bank accounts, prompting them to click on embedded URLs to verify
+their identity and stop the transactions.</p>
+<h3>For e-commerce/parcel delivery phishing</h3>
+<p>Messages or emails are designed to look like they were sent by postage
+and e-commerce logistics companies such as Singapore Post (SingPost) and
+contains phishing link.</p>
 <hr>
 <h3>How to stay safe</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tip 1
-<br>Description</p>
+<p><strong>ADD: </strong>Add and use only official banking apps downloaded
+from official app stores (Google Play Store or Apple App Store)&nbsp;to
+make transfers or payments.</p>
 </li>
 <li>
-<p>Tip 2
-<br>Description</p>
+<p>Add ScamShield app and set security features such as 2FA for banking apps,
+social media and Singpass accounts. Set transaction limits on internet
+banking transactions, including PayNow and PayLah.</p>
 </li>
 <li>
-<p>Tip 3
-<br>Description</p>
+<p><strong>CHECK</strong>: that you do not use clickable links or QR codes
+provided by unknown persons to make payments/transfers, as these lead to
+fake bank websites that phish for your banking credentials. Never disclose
+your personal information, internet banking and social media account details,
+and one-time passwords (OTPs) to anyone. Always verify the authenticity
+of unsolicited clickable links you receive and check the webpage addresses
+for discrepancies.</p>
+<p>transactions, including PayNow and PayLah.</p>
 </li>
 </ul>
+<h3>For bank phishing</h3>
+<p>Banks will never send you any clickable links via SMS and will use their
+officially registered SMS Sender ID.</p>
+<h3>For e-commerce/parcel delivery phishing</h3>
+<p>Verify the authenticity of the information with company or e-commerce
+platform directly. Use only official banking apps downloaded from official
+app stores (Google Play Store or Apple App Store)&nbsp;to make transfers
+or payments. Set transaction limits on internet banking transactions, including
+PayNow and PayLah.</p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>Help keep the community safe by reporting any instances of this scam you’ve
