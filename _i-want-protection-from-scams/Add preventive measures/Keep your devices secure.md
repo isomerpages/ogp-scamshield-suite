@@ -16,8 +16,7 @@ malware.&nbsp;</p>
 ScamShield app which can protect you by detecting scam messages and blocking
 scam calls.</p>
 <p>ScamShield is an app developed by Open Government Products in collaboration
-with the Singapore Police Force and the National Crime Prevention Council.
-For more information, visit the <strong><a href="https://www.scamshield.org.sg/" class="text-link" rel="noopener noreferrer nofollow" target="_blank">ScamShield website</a></strong>.</p>
+with the Singapore Police Force and the National Crime Prevention Council.</p>
 <p>Anti-virus apps which can detect malware and malicious phishing links
 are also key to safeguarding your devices and accounts.&nbsp;</p>
 <h4><strong>How to Choose an Anti-Virus App</strong></h4>
