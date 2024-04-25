@@ -4,4 +4,5 @@ permalink: /scamshield/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>ScamShield is an app developed by Open Government Products in collaboration
+with the Singapore Police Force and the National Crime Prevention Council.</p>
