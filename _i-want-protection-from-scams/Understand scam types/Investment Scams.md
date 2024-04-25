@@ -28,39 +28,44 @@ then realise that they had been scammed.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Signs to look out for</h3>
+<h3>Common signs of phony investments are</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sign 1
-<br>Description</p>
+<p>High returns at low or no risk. Scams use lucrative promises to lure investors.
+The greater the promised returns, the higher the risks should be. It’s
+crucial to understand what you're investing in.</p>
 </li>
 <li>
-<p>Sign 2
-<br>Description</p>
+<p>Pressure Tactics. Scammers may use limited offers, timed gifts, or rebates
+to rush you into committing your money.</p>
 </li>
 <li>
-<p>Sign 3
-<br>Description</p>
-</li>
-<li>
-<p>Sign 4
-<br>Description</p>
+<p>Unverified track record. Phony investment opportunities are often offered
+by individuals or organisations that are not located on MAS’s listing of
+registered financial institutions, representative and investor alert list.</p>
 </li>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tip 1
-<br>Description</p>
+<p><strong>ADD: </strong>privacy settings to your messaging apps to only
+allow your contacts to add you to chat groups and avoid scammers luring
+you into such fake opportunities. Be wary of investment&nbsp; opportunities
+posted on social media platforms. Set security features such as 2FA for
+banking apps. Set transaction limits on internet banking transactions,
+including PayNow and PayLah. Money Lock for your bank accounts.</p>
 </li>
 <li>
-<p>Tip 2
-<br>Description</p>
+<p><strong>CHECK: </strong>if the entities you are dealing with are regulated
+using the following resources on the MAS Website: (i) Financial Institutions
+Directory, (ii) Register of Representatives, and (iii) Investor Alert List.
+Dealing with an unregulated company or agent means giving up protections
+under the law.&nbsp;</p>
 </li>
 <li>
-<p>Tip 3
-<br>Description</p>
+<p><strong>TELL: </strong>Report to the authorities and block the communication
+chatgroup and/or social media posting/advertisement to the platform’s administrators.</p>
 </li>
 </ul>
 <hr>
