@@ -2,6 +2,7 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Add preventive measures/Keep your devices secure.md
       - Add preventive measures/Protect your social media accounts.md
       - Add preventive measures/Staying safe on e commerce platforms.md
       - Add preventive measures/.keep
