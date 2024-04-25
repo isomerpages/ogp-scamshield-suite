@@ -5,38 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: Add preventive measures
 ---
-<h3><strong>Use a strong and unique password for each social media account</strong></h3>
-<p>Make it hard for fraudsters to break into your social media accounts.
-To<strong><a href="https://stopthinkfraud.campaign.gov.uk/protect-yourself/protecting-against-online-fraud/improve-your-password-security/" rel="noopener noreferrer nofollow" target="_blank"><u> improve your password security</u></a></strong>,
-choose a ‘strong and long’ password using 3 random words and make sure
-it’s different from your email password.</p>
-<h3><strong>Use 2-step verification (2SV) for your social media accounts</strong></h3>
-<p><strong><a href="https://stopthinkfraud.campaign.gov.uk/protect-yourself/protecting-against-online-fraud/turn-on-2-step-verification-2sv/" rel="noopener noreferrer nofollow" target="_blank"><u>2-step verification</u></a></strong> –
-also called 2-factor authentication – gives you an extra level of protection,
-by asking for more information to prove your identity, for example a one-time
-passcode (OTP). 2SV can usually be set up in the account security settings
-– you can follow these links below to the set-up instructions for specific
-social media / accounts.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://help.instagram.com/1124604297705184" rel="external" target="_blank"><u>Instagram</u></a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.facebook.com/help/148233965247823" rel="external" target="_blank"><u>Facebook</u></a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://help.twitter.com/en/managing-your-account/two-factor-authentication" rel="external" target="_blank"><u>X (formerly Twitter)</u></a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/how-your-phone-number-is-used-on-tiktok#3" rel="external" target="_blank"><u>TikTok</u></a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.linkedin.com/help/linkedin/answer/a1381088/turn-two-step-verification-on-and-off?lang=en" rel="external" target="_blank"><u>LinkedIn</u></a></strong>
-</p>
-</li>
-</ul>
+<h3><strong>Banking Safe</strong></h3>
+<p>ADD - ScamShield App and security features (e.g. enable Two-Factor Authentication
+(2FA), Multifactor Authentication for banks and set up transaction limits
+for internet banking transactions, including PayNow).&nbsp;</p>
+<p>CHECK - For scam signs with official sources (e.g. ScamShield WhatsApp
+bot @ <a href="https://go.gov.sg/scamshield-bot" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/scamshield-bot</a>,
+call the Anti-Scam Helpline on 1800-722-6688, or visit <a href="http://www.scamalert.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamalert.sg</a>).
+Refrain from giving out personal information and bank details, whether
+on a website or to callers over the phone. Personal information and bank
+details such as internet bank account usernames, passwords, OTP codes from
+tokens, are useful to criminals.</p>
+<p>TELL - Authorities, family, and friends about scams and do not be pressured
+by the caller to act impulsively. Report the number to WhatsApp and Telegram
+to initiate in-app blocking and report any fraudulent transactions to your
+bank immediately.</p>
 <p></p>
