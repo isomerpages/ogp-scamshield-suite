@@ -25,23 +25,22 @@ made from their bank accounts.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Signs to look out for</h3>
+<h3>Government officials will never ask you</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sign 1
-<br>Description</p>
+<p>To transfer money to unknown bank accounts</p>
 </li>
 <li>
-<p>Sign 2
-<br>Description</p>
+<p>Provide your personal, banking, SingPass or CPF related information over
+the phone;</p>
 </li>
 <li>
-<p>Sign 3
-<br>Description</p>
+<p>Lie to any bank staff or any other government officials that may call
+you;</p>
 </li>
 <li>
-<p>Sign 4
-<br>Description</p>
+<p>Click on unknown links that lead to bank websites, or download dubious
+third-party apps/software to aid investigations</p>
 </li>
 </ul>
 <hr>
