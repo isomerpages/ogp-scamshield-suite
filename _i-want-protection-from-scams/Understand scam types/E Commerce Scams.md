@@ -21,39 +21,51 @@ screenshots as “proof of payment”.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Signs to look out for</h3>
+<h3>It is likely a scam if the seller</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sign 1
-<br>Description</p>
+<p>Prices the item/service at ridiculously low prices for a limited time.</p>
 </li>
 <li>
-<p>Sign 2
-<br>Description</p>
+<p>Asks you to make payment directly to him/her, instead of using the platform’s
+secure payment option.</p>
 </li>
 <li>
-<p>Sign 3
-<br>Description</p>
+<p>Needs you to download third-party app or click unknown URL links to make
+payment or facilitate a refund.</p>
 </li>
 <li>
-<p>Sign 4
-<br>Description</p>
+<p>Asks you to pay additional customs or delivery fees after the deal is
+confirmed.</p>
 </li>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tip 1
-<br>Description</p>
+<p><strong>ADD</strong>: Anti-virus app as recommended by CSA and security
+features such as 2FA for your online accounts and Money Lock for your bank
+accounts.
+<br>Use only official banking apps downloaded from official app stores (Google
+Play Store or Apple App Store)&nbsp;to make transfers or payments. Set
+transaction limits on internet banking transactions, including PayNow and
+PayLah.</p>
 </li>
 <li>
-<p>Tip 2
-<br>Description</p>
+<p><strong>CHECK: </strong>The e-Commerce platforms’ Transaction Safety Rating
+at <a href="http://go.gov.sg/mhatsr" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mhatsr</a>.
+Only on well-established e-commerce platforms with secure payment options.
+<br>Verify the authenticity of request for additional payments (e.g. GST,
+delivery fees) with e-commerce seller on the platform <a href="http://directly.Do" rel="noopener noreferrer nofollow" target="_blank">directly.Do</a> not
+use clickable links or QR codes provided by sellers out of the platform
+to make payments/transfers as these lead to fake bank websites that phish
+for your banking credentials.
+<br>Never disclose your personal information, internet banking and social
+media account details, and one-time passwords (OTPs) to anyone.</p>
 </li>
 <li>
-<p>Tip 3
-<br>Description</p>
+<p><strong>TELL: </strong>Flag any suspicious users and fraudulent transactions
+to the e-commerce platforms.</p>
 </li>
 </ul>
 <hr>
