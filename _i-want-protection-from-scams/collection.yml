@@ -2,13 +2,13 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
-      - Add preventive measures/Keep your devices secure.md
-      - Add preventive measures/Protect your social media accounts.md
-      - Add preventive measures/Staying safe on e commerce platforms.md
-      - Add preventive measures/.keep
-      - Add preventive measures/Block scam calls and SMSes.md
-      - Add preventive measures/Make banking more secure.md
-      - Add preventive measures/Limit contact from strangers on online
+      - Actions to protect yourself/Keep your devices secure.md
+      - Actions to protect yourself/Protect your social media accounts.md
+      - Actions to protect yourself/Staying safe on e commerce platforms.md
+      - Actions to protect yourself/.keep
+      - Actions to protect yourself/Block scam calls and SMSes.md
+      - Actions to protect yourself/Make banking more secure.md
+      - Actions to protect yourself/Limit contact from strangers on online
         accounts.md
       - Check if something is a scam.md
       - Understand scam types/.keep
