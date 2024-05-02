@@ -33,62 +33,23 @@ advertisements or listings / Instagram stories).</p>
 repeat advances. Some scammers are known to take advantage of their victims’
 vulnerabilities. <strong>They may impersonate police officers or other authorities</strong> and
 approach their victims with the intention of scamming their victims again.</p>
-<p>Being a victim of a scam can be distressing. Seek support from family
-and close friends. Tell them about your scam encounter and seek help.</p>
-<p>Steps to take should you</p>
-<p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I transferred money to scammers</a>
-</p>
-<p><a href="/installed-malware/permalink/" rel="noopener noreferrer nofollow" target="_blank">I installed malware</a>
-</p>
-<p><a href="/gave-bank-details/permalink/" rel="noopener noreferrer nofollow" target="_blank">I gave my bank details to scammers</a>
-</p>
-<p><a href="/get-counselling-support/" rel="noopener noreferrer nofollow" target="_blank">Counselling Support</a>
-</p>
-<h4>List of Bank's Anti-Scam Hotline</h4>
-<p><strong>DBS / POSB</strong> 
-<br>Call the<em> </em>DBS / POSB 24-hour fraud hotline immediately at <strong>1800 339 6963</strong> 
-<br>Call <strong>+65 6339 6963</strong> if you are overseas</p>
-<p></p>
-<p><strong>OCBC</strong> 
-<br>Call the<em> </em>OCBC 24-hour Personal Banking hotline immediately at <strong>6363 3333</strong> 
-<br>Press<em> </em><strong>8</strong> to report fraud or temporarily freeze
-all your accounts and cards.
-<br>Call <strong>+65 6363 3333</strong> if you are overseas</p>
-<p><strong>UOB</strong> 
-<br>Call the*UOB 24-hour Fraud Hotline at <strong>6255 0160</strong>
-</p>
-<p><strong>Citibank</strong> 
-<br>Contact the<em> </em>Citibank Fraud hotline at <strong>+65 6337 5519</strong>
-</p>
-<p><strong>CIMB</strong> 
-<br>Contact the<em> </em>CIMB Fraud hotline <strong>+65 6333 7777</strong> 
-<br>For all other banks, refer to the bank's relevant fraud hotline(s).</p>
-<p></p>
-<h4>Resources and references</h4>
+<h4>Find out more</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>OCBC - How to bank safely &amp; securely
-<br><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams</u></a>
+<p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money to a scammer</a>
 </p>
 </li>
 <li>
-<p>DBS / POSB – How to set safety switch <a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dbs.com.sg/personal/support/bank-ssb-safety-switch.html</u></a>
+<p><a href="/installed-malware/permalink/" rel="noopener noreferrer nofollow" target="_blank">I installed a malicious app</a>
 </p>
 </li>
 <li>
-<p>UOB - What to do if you have been scammed
-<br><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.uob.com.sg/personal/digital-banking/pib/security/what-to-do-if-you-have-been-scammed/index.page</u></a>
-</p>
-</li>
-<li>
-<p>Citibank
-<br><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.citibank.com.sg/static/contact/</u></a>
-</p>
-</li>
-<li>
-<p>CIMB - Security and Fraud Awareness
-<br><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.cimb.com.sg/en/personal/help-support/security-fraud.html</u></a>
+<p><a href="/gave-bank-details/permalink/" rel="noopener noreferrer nofollow" target="_blank">I leaked my bank login info to a scammer</a>
 </p>
 </li>
 </ul>
+<p>Being a victim of a scam can be distressing. Seek support from family
+and close friends. Tell them about your scam encounter and seek help.</p>
+<p><a href="/get-counselling-support/" rel="noopener noreferrer nofollow" target="_blank">Get counselling support</a>
+</p>
 <p></p>
