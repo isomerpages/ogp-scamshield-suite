@@ -18,7 +18,6 @@ the scam incident.&nbsp;</p>
 justice process, from statement-recording to the court trial. If you require
 a VCO to support you, please inform your IO who will make the necessary
 arrangements.</p>
-<p>&nbsp;</p>
 <h4>Community Support&nbsp;</h4>
 <p>Should you require further support in the community, here are some possible
 avenues you may consider:&nbsp;</p>
