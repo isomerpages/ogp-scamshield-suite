@@ -35,7 +35,15 @@ vulnerabilities. <strong>They may impersonate police officers or other authoriti
 approach their victims with the intention of scamming their victims again.</p>
 <p>Being a victim of a scam can be distressing. Seek support from family
 and close friends. Tell them about your scam encounter and seek help.</p>
-<p></p>
+<p>Steps to take should you</p>
+<p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I transferred money to scammers</a>
+</p>
+<p><a href="/installed-malware/permalink/" rel="noopener noreferrer nofollow" target="_blank">I installed malware</a>
+</p>
+<p><a href="/gave-bank-details/permalink/" rel="noopener noreferrer nofollow" target="_blank">I gave my bank details to scammers</a>
+</p>
+<p><a href="/get-counselling-support/" rel="noopener noreferrer nofollow" target="_blank">Counselling Support</a>
+</p>
 <h4>List of Bank's Anti-Scam Hotline</h4>
 <p><strong>DBS / POSB</strong> 
 <br>Call the<em> </em>DBS / POSB 24-hour fraud hotline immediately at <strong>1800 339 6963</strong> 
