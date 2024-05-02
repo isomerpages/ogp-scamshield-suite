@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Whole of Government Effort.md
       - ScamShield.md
       - I can ACT against scams.md
+      - Whole of Government Effort.md
