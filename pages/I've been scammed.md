@@ -36,7 +36,7 @@ approach their victims with the intention of scamming their victims again.</p>
 <h4>Read more</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money / gave bank login details to a scammer</a>
+<p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money / leaked my bank login details to a scammer</a>
 </p>
 </li>
 <li>
