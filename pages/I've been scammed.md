@@ -33,7 +33,7 @@ advertisements or listings / Instagram stories).</p>
 repeat advances. Some scammers are known to take advantage of their victims’
 vulnerabilities. <strong>They may impersonate police officers or other authorities</strong> and
 approach their victims with the intention of scamming their victims again.</p>
-<h4>Find out more</h4>
+<h4>Read more</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money to a scammer</a>
