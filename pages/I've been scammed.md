@@ -36,15 +36,11 @@ approach their victims with the intention of scamming their victims again.</p>
 <h4>Read more</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money to a scammer</a>
+<p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money / gave bank login details to a scammer</a>
 </p>
 </li>
 <li>
 <p><a href="/installed-malware/permalink/" rel="noopener noreferrer nofollow" target="_blank">I installed a malicious app</a>
-</p>
-</li>
-<li>
-<p><a href="/gave-bank-details/permalink/" rel="noopener noreferrer nofollow" target="_blank">I leaked my bank login info to a scammer</a>
 </p>
 </li>
 </ul>
