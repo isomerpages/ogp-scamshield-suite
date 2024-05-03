@@ -4,7 +4,10 @@ permalink: /i-can-act-against-scams/
 variant: tiptap
 description: ""
 ---
-<h1><strong>I CAN ACT AGAINST SCAMS CAMPAIGN</strong></h1>
+<h1></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICANACTAGAINSTSCAMS.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
 </div>
@@ -14,7 +17,13 @@ persuasive tactics to prey on common human vulnerabilities. However, there
 are preventive actions you can take, to protect you and your loved ones
 against scams.</p>
 <p>The ACT (“Add, Check, Tell”) framework outlines three key actions to improve
-your defences against scams. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+your defences against scams.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_add.jpg">
+</div>
+<p>&nbsp;&nbsp;&nbsp;</p>
 <p><strong>“ADD”</strong> stands for adding the ScamShield app and security
 features.</p>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
@@ -24,7 +33,7 @@ job offers and loans, or tricking you to click malicious links.</p>
 <p>&nbsp;Install anti-virus apps to prevent malware. Anti-virus apps which
 can detect malware and malicious phishing links are key to safeguarding
 your devices and accounts. CSA has put together a list of recommended apps
-which users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">Add ScamShield and Anti-Virus Apps (</a>
+which users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">Add ScamShield and Anti-Virus Apps (</a> 
 <a rel="noopener noreferrer nofollow" target="_blank">csa.gov.sg</a><a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">)</a>.
 Refer to the infographics below on the tell-tale signs of a malware infection
 and what to do if your device is infected.</p>
@@ -43,6 +52,12 @@ regularly update your devices’ operating systems and mobile applications
 with the latest security patches.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adjust CPF daily withdrawal limit to safeguard CPF savings against fraudulent withdrawals online. Default is now set at $2,000 a day.</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_check.jpg">
+</div>
+<p></p>
 <p>&nbsp;<strong>“CHECK”</strong> stands for checking for scam signs.</p>
 <p>&nbsp;a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When you receive a phone
 call or message asking for your personal information, banking credentials,
@@ -134,14 +149,19 @@ excited) or pressured by an approach/offer from a stranger, do slow down,
 take a moment to calm down and think carefully about the situation. Review
 the situation for scam signs. Speak to someone you trust about the situation
 or check with official sources before making any decision.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_tell.jpg">
+</div>
+<p></p>
 <p><strong>“Tell”</strong> stands for telling authorities, family and friends
 about scams.</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you suspect that you have fallen
 prey to scams, call your bank or use bank’s mobile application immediately
-and activate the emergency “kill-switch”. This is a feature <a rel="noopener noreferrer nofollow" target="_blank">that the banks can suspend your account immediately</a>
-<a href="#_msocom_11" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[RAM(11]</a>&nbsp;<a href="#_msocom_12" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[RAM(12]</a>&nbsp;<a href="#_msocom_13" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[WT(13]</a>&nbsp;
-<a href="#_msocom_14" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[RAM(14]</a>&nbsp;, to prevent your money from being transferred away
-by scammers.</p>
+and activate the emergency “kill-switch”. This is a feature that the banks
+can suspend your account immediately to prevent your money from being transferred
+away by scammers.</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should also file a police report
 immediately. You may file an e-report online (<a rel="noopener noreferrer nofollow" target="_blank">https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html</a>),
 or in person at the nearest Neighbourhood Police Centre or Neighbourhood
