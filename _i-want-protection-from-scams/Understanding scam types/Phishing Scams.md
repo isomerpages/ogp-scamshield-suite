@@ -68,8 +68,7 @@ fake bank websites that phish for your banking credentials. Never disclose
 your personal information, internet banking and social media account details,
 and one-time passwords (OTPs) to anyone. Always verify the authenticity
 of unsolicited clickable links you receive and check the webpage addresses
-for discrepancies.</p>
-<p>transactions, including PayNow and PayLah.</p>
+for discrepancies. Transactions, including PayNow and PayLah.</p>
 </li>
 </ul>
 <h3>For bank phishing</h3>
@@ -92,7 +91,7 @@ payments to IRAS made via internet banking, ATM bill payment and AXS mobile,
 select “IRAS” from the list of payees. Taxpayers can also pay using PayNow
 QR on myTax Portal. Learn about payment modes for different tax types to
 IRAS. IRAS will not ask taxpayers to pay taxes through third parties or
-intermediaries’ bank account. <strong>For tax matters, transact securely on myTax Portal</strong>(
+intermediaries’ bank account. <strong>For tax matters, transact securely on myTax Portal </strong>(
 <a href="http://mytax.iras.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mytax.iras.gov.sg</a>): It is a secured and personalised portal for taxpayers
 to view and manage tax transactions with IRAS. SingPass authentication
 is also required before any transactions can be performed.</p>
