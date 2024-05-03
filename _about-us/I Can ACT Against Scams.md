@@ -31,9 +31,9 @@ job offers and loans, or tricking you to click malicious links.</p>
 <p>&nbsp;Install anti-virus apps to prevent malware. Anti-virus apps which
 can detect malware and malicious phishing links are key to safeguarding
 your devices and accounts. CSA has put together a list of recommended apps
-which users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">Add ScamShield and Anti-Virus Apps (</a>
-<a href="csa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">csa.gov.sg)</a>. Refer to the infographics below on the tell-tale signs
-of a malware infection and what to do if your device is infected.</p>
+which users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">Add ScamShield and Anti-Virus Apps</a>.
+Refer to the infographics below on the tell-tale signs of a malware infection
+and what to do if your device is infected.</p>
 <p>Other effective security features/practices you can adopt include the
 following:</p>
 <p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enable two-factor or multi-factor authentication
@@ -89,7 +89,7 @@ especially when making payment. A common scam tactic is to lure victims
 to messaging platforms such as WhatsApp or Telegram, and direct victims
 to make banks transfers for items.</p>
 <p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check the safety ratings of e-commerce
-platforms by referring to the <a href="https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings." rel="noopener noreferrer nofollow" target="_blank">E-commerce Marketplace Transaction Safety Ratings (TSR)</a>
+platforms by referring to the <a href="https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings" rel="noopener noreferrer nofollow" target="_blank">E-commerce Marketplace Transaction Safety Ratings (TSR)</a>
 </p>
 <p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Common scam signs include the following
 (not exhaustive):</p>
@@ -154,7 +154,7 @@ and activate the emergency “kill-switch”. This is a feature that the banks
 can suspend your account immediately to prevent your money from being transferred
 away by scammers.</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should also file a police report
-immediately. You may file an e-report online (<a rel="noopener noreferrer nofollow" target="_blank">https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html</a>),
+immediately. You may <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">file an e-report online</a>,
 or in person at the nearest Neighbourhood Police Centre or Neighbourhood
 Police Post.</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can also share your scam encounters
