@@ -6,7 +6,7 @@ description: ""
 ---
 <h1></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ICANACTAGAINSTSCAMS.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ICANACTAGAINSTSCAMS.png">
 </div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
@@ -31,7 +31,7 @@ job offers and loans, or tricking you to click malicious links.</p>
 <p>&nbsp;Install anti-virus apps to prevent malware. Anti-virus apps which
 can detect malware and malicious phishing links are key to safeguarding
 your devices and accounts. CSA has put together a list of recommended apps
-which users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">Add ScamShield and Anti-Virus Apps (</a>
+which users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">Add ScamShield and Anti-Virus Apps (</a> 
 <a href="csa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">csa.gov.sg)</a>. Refer to the infographics below on the tell-tale signs
 of a malware infection and what to do if your device is infected.</p>
 <p>Other effective security features/practices you can adopt include the
