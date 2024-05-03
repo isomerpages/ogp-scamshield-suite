@@ -31,7 +31,7 @@ job offers and loans, or tricking you to click malicious links.</p>
 <p>&nbsp;Install anti-virus apps to prevent malware. Anti-virus apps which
 can detect malware and malicious phishing links are key to safeguarding
 your devices and accounts. CSA has put together a list of recommended apps
-which users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">Add ScamShield and Anti-Virus Apps (</a> 
+which users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">Add ScamShield and Anti-Virus Apps (</a>
 <a href="csa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">csa.gov.sg)</a>. Refer to the infographics below on the tell-tale signs
 of a malware infection and what to do if your device is infected.</p>
 <p>Other effective security features/practices you can adopt include the
@@ -47,8 +47,9 @@ to limit the potential losses to scams.</p>
 <p>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To guard against malware, you should
 regularly update your devices’ operating systems and mobile applications
 with the latest security patches.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adjust CPF daily withdrawal limit to safeguard CPF savings against fraudulent withdrawals online. Default is now set at $2,000 a day.</a>
-</p>
+<p>v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adjust CPF daily withdrawal limit to
+safeguard CPF savings against fraudulent withdrawals online. Default is
+now set at $2,000 a day.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_check.jpg">
@@ -88,8 +89,8 @@ especially when making payment. A common scam tactic is to lure victims
 to messaging platforms such as WhatsApp or Telegram, and direct victims
 to make banks transfers for items.</p>
 <p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check the safety ratings of e-commerce
-platforms by referring to the E-commerce Marketplace Transaction Safety
-Ratings (TSR) at <a rel="noopener noreferrer nofollow" target="_blank">https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings</a>.</p>
+platforms by referring to the <a href="https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings." rel="noopener noreferrer nofollow" target="_blank">E-commerce Marketplace Transaction Safety Ratings (TSR)</a>
+</p>
 <p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Common scam signs include the following
 (not exhaustive):</p>
 <p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attractive offers presented on messaging,
@@ -112,27 +113,25 @@ for abuse of Singpass and bank accounts are severe.&nbsp;</p>
 <p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Official sources you could
 check with include the following:</p>
 <p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check your potential scam encounter (e.g.,
-suspicious call or message) with the ScamShield Bot at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/scamshield-bot</a>.
-The Bot also enables you to conveniently share your scam encounters with
-the Singapore Police Force. By doing so, you will be helping to protect
-our community against scams.</p>
+suspicious call or message) with the <a href="https://go.gov.sg/scamshield-bot" rel="noopener noreferrer nofollow" target="_blank">ScamShield Bot</a>. The Bot also
+enables you to conveniently share your scam encounters with the Singapore
+Police Force. By doing so, you will be helping to protect our community
+against scams.</p>
 <p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check your potential scam encounter
 by calling the National Crime Prevention Council’s (NCPC) Anti-Scam Helpline
 at <a rel="noopener noreferrer nofollow" target="_blank">1800-722-6688 </a>(Mon-Fri,
 9 am-5pm, excl. PH).</p>
-<p>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check NCPC’s ScamAlert website to learn
-about the latest scam trend at <a rel="noopener noreferrer nofollow" target="_blank">www.scamalert.sg</a>.</p>
-<p>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For investment-related situations, check
-with official sources such as the Financial Institutions Directory, Register
-of Representatives, and Monetary Authority of Singapore’s Investor Alert
-List, to verify the legitimacy of the investment offer.</p>
-<p>v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For property-related situations, check
-the Council for Estate Agencies (CEA) Public Register at <a rel="noopener noreferrer nofollow" target="_blank">https://www.cea.gov.sg/aceas/public-register/ea/1</a> to
+<p>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For investment-related situations,
+check with official sources such as the Financial Institutions Directory,
+Register of Representatives, and Monetary Authority of Singapore’s Investor
+Alert List, to verify the legitimacy of the investment offer.</p>
+<p>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For property-related situations, check
+the <a href="https://www.cea.gov.sg/aceas/public-register/ea/1" rel="noopener noreferrer nofollow" target="_blank">Council for Estate Agencies (CEA) Public Register</a> to
 verify that the person you are liaising with is a registered property agent.
 In addition, do not transfer money for rental units until you have viewed
 the unit in person. It is likely a scam if a deposit is requested even
 before you have viewed the unit in person.</p>
-<p>vi.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For job-related situations, check the
+<p>v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For job-related situations, check the
 company’s official website or contact the company directly to verify the
 legitimacy of the job offer.</p>
 <p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slow down and check yourself: Scammers
