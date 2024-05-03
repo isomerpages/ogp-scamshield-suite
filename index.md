@@ -32,23 +32,6 @@ sections:
           description: ""
           linktext: Stay a step ahead
           url: ""
-  - infopic:
-      title: Keep safer with the ScamShield App
-      id: infopic
-      description: The ScamShield App blocks calls from numbers known to be used in
-        illegal activities. It also filters or alerts you to suspicious SMSes.
-      button: Learn more
-      url: https://www.scamshield.org.sg/android-app/
-      alt: Image alt text
-      image: /images/ScamShield_App_whitebg.png
-  - infobar:
-      title: CALL 1799
-      subtitle: unsure if it's a scam?
-      id: infobar
-      description: Call the helpline if you are unsure if a situation you are facing
-        is a scam
-      button: or check using the scamshield app
-      url: www.scamshield.gov.sg
   - infocols:
       title: Top Scams in June 2024
       id: infocols
@@ -64,6 +47,23 @@ sections:
           description: $39.8 million lost
       url: www.scamshield.gov.sg
       subtitle: Monthly scams update
+  - infobar:
+      title: CALL 1799
+      subtitle: unsure if it's a scam?
+      id: infobar
+      description: Call the helpline if you are unsure if a situation you are facing
+        is a scam
+      button: or check using the scamshield app
+      url: www.scamshield.gov.sg
+  - infopic:
+      title: Keep safer with the ScamShield App
+      id: infopic
+      description: The ScamShield App blocks calls from numbers known to be used in
+        illegal activities. It also filters or alerts you to suspicious SMSes.
+      button: Learn more
+      url: https://www.scamshield.org.sg/android-app/
+      alt: Image alt text
+      image: /images/ScamShield_App_whitebg.png
   - resources:
       title: Scam Trends and Updates
       id: resources
