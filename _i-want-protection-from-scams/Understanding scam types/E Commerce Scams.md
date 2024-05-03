@@ -56,7 +56,7 @@ PayLah.</p>
 at <a href="http://go.gov.sg/mhatsr" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mhatsr</a>.
 Only on well-established e-commerce platforms with secure payment options.
 <br>Verify the authenticity of request for additional payments (e.g. GST,
-delivery fees) with e-commerce seller on the platform <a href="http://directly.Do" rel="noopener noreferrer nofollow" target="_blank">directly.Do</a> not
+delivery fees) with e-commerce seller on the platform directly. Do not
 use clickable links or QR codes provided by sellers out of the platform
 to make payments/transfers as these lead to fake bank websites that phish
 for your banking credentials.
