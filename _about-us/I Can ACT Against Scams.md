@@ -21,7 +21,7 @@ your defences against scams.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_add.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_add.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;</p>
 <p><strong>“ADD”</strong> stands for adding the ScamShield app and security
@@ -55,7 +55,7 @@ with the latest security patches.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_check.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_check.jpg">
 </div>
 <p></p>
 <p>&nbsp;<strong>“CHECK”</strong> stands for checking for scam signs.</p>
@@ -152,7 +152,7 @@ or check with official sources before making any decision.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_tell.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_tell.jpg">
 </div>
 <p></p>
 <p><strong>“Tell”</strong> stands for telling authorities, family and friends
