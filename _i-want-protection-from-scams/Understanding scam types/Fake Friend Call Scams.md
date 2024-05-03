@@ -54,7 +54,7 @@ requests from someone claiming to know you. Only download and install apps
 from official app stores (i.e., Google Play Store for Android).</p>
 </li>
 <li>
-<p><strong>TELL: </strong>your other friends and family about this scam encounter
+<p><strong>TELL: </strong>Your other friends and family about this scam encounter
 immediately to warn them as the scammer might reach out to others that
 you may also know</p>
 </li>
