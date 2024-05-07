@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Actions to protect yourself
 ---
-<p>ONE LINER ON WHAT SOCIAL MEDIA MEANS TO EVERYONE.</p>
+<p>Social media is a platform for connecting and sharing, but users should
+safeguard their personal information, be cautious of unsolicited messages,
+and verify the authenticity of information to protect themselves from scams.</p>
 <p></p>
 <h4><strong>Enable Two-Factor Authentication (2FA) where available</strong></h4>
 <p>2FA uses more than one type of information to identify who you are to
