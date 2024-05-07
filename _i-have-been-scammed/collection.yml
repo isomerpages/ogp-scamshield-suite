@@ -2,6 +2,6 @@ collections:
   i-have-been-scammed:
     output: true
     order:
-      - I lost money or leaked my bank login details to a scammer.md
+      - Lost money or leaked my bank login details to a scammer.md
       - Installed a malicious app, apk, or malware.md
       - Get counselling support.md
