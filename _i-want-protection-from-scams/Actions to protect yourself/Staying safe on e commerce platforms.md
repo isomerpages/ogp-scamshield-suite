@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Actions to protect yourself
 ---
-<p>Is this legit?</p>
 <h1><strong>How to Shop Safely on E-commerce Sites</strong></h1>
 <p>Shopping online offers convenience and a wide range of products, but it's
 important to take measures to ensure a safe and secure shopping experience.
