@@ -4,7 +4,7 @@ permalink: /transferred-money/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>If you've lost money / gave bank login details to a scammer:</h3>
+<h3>If you've lost money or gave bank login details to a scammer:</h3>
 <hr>
 <h3>Immediate Actions</h3>
 <ol data-tight="true" class="tight">
