@@ -8,29 +8,22 @@ notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Ex
   site? Give us feedback at go.gov.sg/scam-info –––––
 sections:
   - hero:
-      title: SCAMSHIELD ECOSYSTEM
+      title: SCAMSHIELD
       background: /images/scamshero4.png
       variant: center
       subtitle: Your one-stop scam resource portal
-  - textcards:
-      title: Quick Actions
-      id: textcards
-      cards:
-        - title: I've been scammed
-          description: ""
-          linktext: Get help
+      key_highlights:
+        - title: i've been scammed
+          description: Get help
           url: ""
-        - title: Check if something is a scam
-          description: ""
-          linktext: Check now
+        - title: check if something is a scam
+          description: Check now
           url: ""
-        - title: Report a scam encounter
-          description: ""
-          linktext: Let us know
+        - title: REport a scam encouunter
+          description: Let us know
           url: ""
         - title: Protect yourself against scams
-          description: ""
-          linktext: Stay a step ahead
+          description: Stay a step ahead
           url: ""
   - textcards:
       title: Trending Scams
