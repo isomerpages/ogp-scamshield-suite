@@ -32,21 +32,27 @@ sections:
           description: ""
           linktext: Stay a step ahead
           url: ""
-  - infocols:
-      title: Top Scams in June 2024
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Investment scams
-          description: $204.5 million lost
-        - title: Job scams
-          description: $135.7 million lost
-        - title: Government impersonation scams
-          description: $92.5 million lost
-        - title: Love scams
-          description: $39.8 million lost
-      url: www.scamshield.gov.sg
-      subtitle: Monthly scams update
+  - textcards:
+      title: Trending Scams
+      subtitle: June 2024
+      id: textcards
+      cards:
+        - title: Investment Scams
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Governemnt Impersonation Scam
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Phishing Scam
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Job Scam
+          description: ""
+          linktext: Learn more
+          url: ""
   - infobar:
       title: CALL 1799
       subtitle: unsure if it's a scam?
@@ -64,7 +70,9 @@ sections:
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
       image: /images/ScamShield_App_whitebg.png
-  - resources:
-      title: Scam Trends and Updates
-      id: resources
+  - infobar:
+      title: Scams in a minute
+      subtitle: Bite Sized content
+      id: infobar
+      description: Can this be a video?
 ---
