@@ -75,4 +75,12 @@ sections:
       subtitle: Bite Sized content
       id: infobar
       description: Can this be a video?
+  - infopic:
+      title: Scams Bulletin
+      subtitle: June 2024
+      id: infopic
+      button: Read Now
+      url: about:space
+      image: /images/Weekly_Bulletin.png
+      alt: Image alt text
 ---
