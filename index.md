@@ -70,11 +70,6 @@ sections:
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
       image: /images/ScamShield_App_whitebg.png
-  - infobar:
-      title: Scams in a minute
-      subtitle: Bite Sized content
-      id: infobar
-      description: Can this be a video?
   - infopic:
       title: Scams Bulletin
       subtitle: June 2024
@@ -83,4 +78,9 @@ sections:
       url: about:space
       image: /images/Weekly_Bulletin.png
       alt: Image alt text
+  - infobar:
+      title: Scams in a minute
+      subtitle: Bite Sized content
+      id: infobar
+      description: Can this be a video?
 ---
