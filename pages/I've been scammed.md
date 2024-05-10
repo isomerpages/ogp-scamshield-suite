@@ -46,6 +46,6 @@ approach their victims with the intention of scamming their victims again.</p>
 </ul>
 <p>Being a victim of a scam can be distressing. Seek support from family
 and close friends. Tell them about your scam encounter and seek help.</p>
-<p><a href="/get-counselling-support/" rel="noopener noreferrer nofollow" target="_blank">Get counselling support</a>
+<p><a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">Avenues of support</a>
 </p>
 <p></p>
