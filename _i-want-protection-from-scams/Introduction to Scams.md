@@ -23,11 +23,38 @@ There is usually no face-to-face meeting between perpetrators and their
 victims throughout the entire engagement process.</p>
 <p></p>
 <h2><strong>Common signs of scams</strong></h2>
-<p><strong>Unfamiliar number</strong>
-</p>
-<p>etc</p>
-<p>etc</p>
-<p>etc</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Unexpected Contact</strong>
+<br>If someone contacts you out of the blue, be cautious. Scammers often reach
+out without you asking.</p>
+</li>
+<li>
+<p><strong>Feeling Rushed</strong>
+<br>If you feel pressured to act quickly, it could be a scam. Scammers often
+want you to make decisions in a hurry.</p>
+</li>
+<li>
+<p><strong>Asking for Personal Info</strong>
+<br>Be careful if someone asks for your personal or financial details, like
+passwords or credit card numbers.</p>
+</li>
+<li>
+<p><strong>Offers That Sound Too Good</strong>
+<br>If an offer sounds too good to be true, it might be a scam. Scammers often
+promise amazing benefits or profits.</p>
+</li>
+<li>
+<p><strong>Unsolicited Investment Offers</strong>
+<br>If someone you don't know offers you an investment opportunity, be wary.
+It could be a scam.</p>
+</li>
+<li>
+<p><strong>Unverified Sources</strong>
+<br>If you can't verify the person or website, be cautious. Scammers often
+use untrustworthy sources to trick people.</p>
+</li>
+</ul>
 <h2><strong>Why you should ACT</strong></h2>
 <p><strong>Everyone is vulnerable and anyone can fall prey to scams</strong>.
 As scams are always evolving, we may not always be vigilant to scams.</p>
