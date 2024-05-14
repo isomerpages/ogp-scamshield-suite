@@ -8,9 +8,13 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ICANACTAGAINSTSCAMS.png">
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
 </div>
+<p>In January 2023, the national anti-scam campaign “<strong>I can ACT against scams</strong>”
+was launched by Minister of State Sun Xueling to translate awareness to
+action.</p>
 <h2><strong>Anyone can fall prey to scams.</strong></h2>
 <p>Victims come from all demographic groups and backgrounds. Scam tactics
 constantly evolve and scammers use persuasive tactics to prey on common
