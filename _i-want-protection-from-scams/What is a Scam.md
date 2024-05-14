@@ -8,13 +8,11 @@ description: ""
 into giving away your money, personal details or data by offering an attractive
 deal or false information.</p>
 <h2><strong>Why you should ACT</strong></h2>
-<p>Everyone is vulnerable and anyone can fall prey to scams. As scams are
-always evolving, we may not always be vigilant to scams.</p>
-<p>ACT encourages Indviduals to take preventive actions to protect themselves
+<p><strong>Everyone is vulnerable and anyone can fall prey to scams</strong>.
+As scams are always evolving, we may not always be vigilant to scams.</p>
+<p>ACT encourages indviduals to take preventive actions to protect themselves
 and their loved ones against scams.</p>
-<h3><strong>ADD</strong></h3>
-<p>ScamShield app and security features.</p>
-<h3><strong>CHECK</strong></h3>
-<p>For scam signs and with official sources.</p>
-<h3><strong>TELL</strong></h3>
-<p>Authorities, family and friends.</p>
+<h3><strong>ADD </strong>ScamShield app and security features.</h3>
+<h3><strong>CHECK </strong>for scam signs and with official sources.</h3>
+<h3><strong>TELL </strong>authorities, family and friends.</h3>
+<p></p>
