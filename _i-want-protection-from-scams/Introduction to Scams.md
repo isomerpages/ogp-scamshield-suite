@@ -64,7 +64,7 @@ use untrustworthy sources to trick people.</p>
 As scams are always evolving, we may not always be vigilant to scams.</p>
 <p>ACT encourages indviduals to take preventive actions to protect themselves
 and their loved ones against scams.</p>
-<h3><strong>ADD </strong>ScamShield app and security features.</h3>
-<h3><strong>CHECK </strong>for scam signs and with official sources.</h3>
-<h3><strong>TELL </strong>authorities, family and friends.</h3>
+<p><strong>ADD</strong> ScamShield app and security features.</p>
+<p><strong>CHECK </strong>for scam signs and with official sources.</p>
+<p><strong>TELL</strong> authorities, family and friends.</p>
 <p></p>
