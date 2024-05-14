@@ -12,9 +12,11 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
 </div>
-<p>In January 2023, the national anti-scam campaign “<strong>I can ACT against scams</strong>”
-was launched by Minister of State Sun Xueling to translate awareness to
-action.</p>
+<p>Minister of State Sun Xueling launched the “<strong>I can ACT against scams</strong>”
+national anti-scam campaign during the “SCAMINAR! ACT Against Scams” on
+18 January 2023. The national campaign aims to educate and encourage members
+of the public to translate scam awareness into action by proactively adopting
+anti-scam measures.</p>
 <h2><strong>Anyone can fall prey to scams.</strong></h2>
 <p>Victims come from all demographic groups and backgrounds. Scam tactics
 constantly evolve and scammers use persuasive tactics to prey on common
