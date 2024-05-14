@@ -11,7 +11,7 @@ description: ""
 <p>Call 1799. Our friendly anti-scam operators are ready to assist you.</p>
 <h3><strong>Official Sources</strong></h3>
 <p>Always refer to official sources if you are still unsure. Some sources
-include</p>
+include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>MAS</p>
