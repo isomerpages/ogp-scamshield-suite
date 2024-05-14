@@ -15,16 +15,16 @@ sections:
       key_highlights:
         - title: i've been scammed
           description: Get help
-          url: ""
+          url: /i-ve-been-scammed/
         - title: check if something is a scam
           description: Check now
-          url: ""
-        - title: REport a scam encouunter
+          url: /check-if-something-is-a-scam/
+        - title: Report a scam encouunter
           description: Let us know
-          url: ""
+          url: /report-scam-encounter/
         - title: Protect yourself against scams
           description: Stay a step ahead
-          url: ""
+          url: /introduction-to-scams/
   - textcards:
       title: Trending Scams
       subtitle: June 2024
