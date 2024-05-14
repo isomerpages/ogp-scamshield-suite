@@ -34,7 +34,7 @@ sections:
           description: ""
           linktext: Learn more
           url: ""
-        - title: Governemnt Impersonation Scam
+        - title: Government Impersonation Scam
           description: ""
           linktext: Learn more
           url: ""
@@ -55,7 +55,7 @@ sections:
       button: or check using the scamshield app
       url: www.scamshield.gov.sg
   - infopic:
-      title: Keep safer with the ScamShield App
+      title: Keep safe with the ScamShield App
       id: infopic
       description: The ScamShield App blocks calls from numbers known to be used in
         illegal activities. It also filters or alerts you to suspicious SMSes.
