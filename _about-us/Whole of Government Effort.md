@@ -120,4 +120,8 @@ critical anti-scam features on e-commerce marketplaces</p>
 </ul>
 </li>
 </ol>
+<h4><br><strong>MCI infographic</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240110_MCI_Strategies_to_Combat_Online_Scams_Infographic_compressed.png">
+</div>
 <p></p>
