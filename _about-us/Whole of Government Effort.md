@@ -7,7 +7,8 @@ description: ""
 <h2>Combatting scams is a key priority for the Singapore Government. The Government adopts a multi-layered strategy to tackle scams, centered on <u>four</u> key areas:</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Prevent and block scams</p>
+<p><strong>Prevent and block scams</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Block robocalls and overseas calls which spoof local numbers</p>
@@ -41,14 +42,17 @@ scams, under the Codes of Practice of the Online Criminal Harms Act</p>
 be transferred digitally</p>
 </li>
 <li>
-<p>Implemented anti-malware controls in banking apps</p>
+<p>Implemented anti-malware controls in banking apps
+<br>
+</p>
 </li>
 </ul>
 </li>
 </ul>
 </li>
 <li>
-<p>Detect and report scams</p>
+<p><strong>Detect and report scams</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>ScamShield App allows users to report scam calls and SMSes</p>
@@ -58,12 +62,15 @@ be transferred digitally</p>
 transactions</p>
 </li>
 <li>
-<p>Major banks have 24/7 call centres for scam reporting</p>
+<p>Major banks have 24/7 call centres for scam reporting
+<br>
+</p>
 </li>
 </ul>
 </li>
 <li>
-<p>Enforce against scams and recover lost monies</p>
+<p><strong>Enforce against scams and recover lost monies</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Set up Anti-Scam Command to facilitate swift fund tracing and freezing
@@ -90,14 +97,17 @@ and local SIM cards to facilitate scams</p>
 </li>
 <li>
 <p>Banks implemented emergency self-service “kill switch” to allow banking
-customers to suspend their accounts quickly if compromised</p>
+customers to suspend their accounts quickly if compromised
+<br>
+</p>
 </li>
 </ul>
 </li>
 </ul>
 </li>
 <li>
-<p>Public education</p>
+<p><strong>Public education</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Launched the “I can ACT against scams” campaign, to educate the public
