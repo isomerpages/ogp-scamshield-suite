@@ -76,4 +76,13 @@ sections:
       subtitle: Bite Sized content
       id: infobar
       description: Can this be a video?
+  - infopic:
+      title: United against scammers
+      id: infopic
+      description: ScamShield is a joint effort between the Singapore Police Force,
+        the National Crime Prevention Council, and Open Government Products.
+      button: Learn more
+      url: /scamshield
+      image: /images/ss_infopic.png
+      alt: Image alt text
 ---
