@@ -83,7 +83,7 @@ sections:
         the National Crime Prevention Council, and Open Government Products.
       button: Learn more
       url: /scamshield
-      image: /images/ss_infopic.png
+      image: /images/ss_infopic_bg.png
       alt: Image alt text
       subtitle: for demo purposes
 ---
