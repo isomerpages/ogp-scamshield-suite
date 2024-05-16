@@ -75,7 +75,9 @@ sections:
       title: Scams in a minute
       subtitle: Bite Sized content
       id: infobar
-      description: Can this be a video?
+      description: <iframe height="315" width="560" allowfullscreen="true"
+        frameborder="0"
+        src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
   - infopic:
       title: United against scammers
       id: infopic
