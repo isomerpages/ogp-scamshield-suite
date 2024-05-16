@@ -71,11 +71,16 @@ sections:
       url: about:space
       image: /images/Weekly_Bulletin.png
       alt: Image alt text
-  - infobar:
-      title: Scams in a minute
-      subtitle: Bite Sized content
-      id: infobar
-      description: Can this be a video?
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Pending title
+          date: 16 May 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - infopic:
       title: United against scammers
       id: infopic
