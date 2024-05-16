@@ -70,13 +70,6 @@ sections:
       url: about:space
       image: /images/Weekly_Bulletin.png
       alt: Image alt text
-  - infobar:
-      title: Scams in a minute
-      subtitle: Bite Sized content
-      id: infobar
-      description: <iframe height="540" width="960" allowfullscreen="true"
-        frameborder="0"
-        src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
   - infopic:
       title: United against scammers
       id: infopic
@@ -87,4 +80,11 @@ sections:
       image: /images/ss_infopic_t.png
       alt: Image alt text
       subtitle: for demo purposes
+  - infopic:
+      title: DID YOU KNOW
+      subtitle: Wisemen
+      id: infopic
+      description: 1 in 5 Singaporeans fall prey to scam.
+      image: /images/scamshero3.png
+      alt: Image alt text
 ---
