@@ -19,7 +19,7 @@ sections:
         - title: check if something is a scam
           description: Check now
           url: /check-if-something-is-a-scam/
-        - title: Report a scam encouunter
+        - title: Report a scam encounter
           description: Let us know
           url: /report-scam-encounter/
         - title: Protect yourself against scams
