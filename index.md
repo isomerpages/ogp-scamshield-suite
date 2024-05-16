@@ -75,7 +75,7 @@ sections:
       title: Scams in a minute
       subtitle: Bite Sized content
       id: infobar
-      description: <iframe height="315" width="560" allowfullscreen="true"
+      description: <iframe height="540" width="960" allowfullscreen="true"
         frameborder="0"
         src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
   - infopic:
