@@ -71,16 +71,11 @@ sections:
       url: about:space
       image: /images/Weekly_Bulletin.png
       alt: Image alt text
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: Pending title
-          date: 16 May 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+  - infobar:
+      title: Scams in a minute
+      subtitle: Bite Sized content
+      id: infobar
+      description: Can this be a video?
   - infopic:
       title: United against scammers
       id: infopic
@@ -88,7 +83,7 @@ sections:
         the National Crime Prevention Council, and Open Government Products.
       button: Learn more
       url: /scamshield
-      image: /images/ss_infopic_bg.png
+      image: /images/ss_infopic_t.png
       alt: Image alt text
       subtitle: for demo purposes
 ---
