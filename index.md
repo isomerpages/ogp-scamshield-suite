@@ -85,4 +85,5 @@ sections:
       url: /scamshield
       image: /images/ss_infopic.png
       alt: Image alt text
+      subtitle: for demo purposes
 ---
