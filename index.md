@@ -94,7 +94,7 @@ sections:
       announcement_items:
         - title: Enhanced ScamShield App
           date: 30 June 2024
-          announcement: ScamShield App has been enhanced. Find out more about he new
+          announcement: ScamShield App has been enhanced. Find out more about the new
             features here.
           link_text: Read now
           link_url: scamshield.org.sg
