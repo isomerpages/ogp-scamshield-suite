@@ -92,6 +92,11 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
+        - title: BELOW ARE DRAFT
+          date: 31 December 2200
+          announcement: Below content are draft
+          link_text: ""
+          link_url: ""
         - title: Enhanced ScamShield App
           date: 30 June 2024
           announcement: ScamShield App has been enhanced. Find out more about the new
@@ -109,9 +114,4 @@ sections:
             scams have been launched
           link_text: Find out more
           link_url: mha.gov.sg
-        - title: New Announcement
-          date: 31 December 2200
-          announcement: Below content are draft
-          link_text: ""
-          link_url: ""
 ---
