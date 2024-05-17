@@ -90,11 +90,12 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: Last Anti-Scam efforts
       announcement_items:
-        - title: New Announcement
-          date: 17 May 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+        - title: Enhanced ScamShield App
+          date: 30 June 2024
+          announcement: ScamShield App has been enhanced. Find out more about he new
+            features here.
+          link_text: Find Out More
+          link_url: scamshield.org.sg
 ---
