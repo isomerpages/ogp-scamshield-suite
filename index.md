@@ -88,9 +88,9 @@ sections:
       alt: Image alt text
       subtitle: for demo purposes
   - announcements:
-      title: Announcements
+      title: Lastest News
       id: announcements
-      subtitle: Last Anti-Scam efforts
+      subtitle: Anti-Scam efforts
       announcement_items:
         - title: Enhanced ScamShield App
           date: 30 June 2024
