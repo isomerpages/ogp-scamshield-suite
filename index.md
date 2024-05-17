@@ -75,7 +75,7 @@ sections:
       id: infopic
       button: Read Now
       url: about:space
-      image: /images/Weekly_Bulletin.png
+      image: /images/scams_bulletin.png
       alt: Image alt text
   - infopic:
       title: United against scammers
