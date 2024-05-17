@@ -98,4 +98,20 @@ sections:
             features here.
           link_text: Read now
           link_url: scamshield.org.sg
+        - title: New one-stop portal
+          date: 30 August 2024
+          announcement: A new one-stop portal for all scam related content has been launched.
+          link_text: Read now
+          link_url: scamshield.gov.sg
+        - title: I can ACT against scams launched
+          date: 16 January 2023
+          announcement: A new national campaign to empower individuals to ACT against
+            scams have been launched
+          link_text: Find out more
+          link_url: mha.gov.sg
+        - title: New Announcement
+          date: 31 December 2200
+          announcement: Below content are draft
+          link_text: ""
+          link_url: ""
 ---
