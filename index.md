@@ -54,6 +54,13 @@ sections:
       button: or check using the scamshield app
       url: www.scamshield.gov.sg
   - infopic:
+      title: 1 in 5 Singaporeans fall prey to scam
+      subtitle: Did you know?
+      id: infopic
+      description: Always check if the situation you are facing is a scam
+      image: /images/didyouknow.png
+      alt: Image alt text
+  - infopic:
       title: Keep safe with the ScamShield App
       id: infopic
       description: The ScamShield App blocks calls from numbers known to be used in
@@ -80,11 +87,14 @@ sections:
       image: /images/ss_infopic_t.png
       alt: Image alt text
       subtitle: for demo purposes
-  - infopic:
-      title: DID YOU KNOW
-      subtitle: Wisemen
-      id: infopic
-      description: 1 in 5 Singaporeans fall prey to scam.
-      image: /images/scamshero3.png
-      alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 17 May 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
