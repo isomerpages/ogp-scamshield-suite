@@ -7,7 +7,7 @@ third_nav_title: Actions to protect yourself
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scamshield.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/scamshield.png">
 </div>
 <p>Scam calls and SMSes are pervasive threats that can have serious repercussions
 for individuals. These fraudulent communications often aim to deceive recipients
@@ -40,12 +40,12 @@ on-device algorithm scans SMSes from unsaved contact to detect scam SMSes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.scamshield"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/android_download.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.scamshield"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/android_download.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ios_download.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/ios_download.png">
 </div>
 </td>
 </tr>
@@ -53,13 +53,13 @@ on-device algorithm scans SMSes from unsaved contact to detect scam SMSes.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/android_qr.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/android_qr.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ios_qr.png">
+<img style="width: 68%;" height="auto" width="100%" alt="" src="/images/ios_qr.png">
 </div>
 </td>
 </tr>
