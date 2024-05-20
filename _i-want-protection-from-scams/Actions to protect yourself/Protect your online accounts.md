@@ -5,10 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Actions to protect yourself
 ---
-<p>Social media is a platform for connecting and sharing, but users should
-safeguard their personal information, be cautious of unsolicited messages,
-and verify the authenticity of information to protect themselves from scams.</p>
-<p></p>
+<p>Online accounts, including email and social media accounts, are essential
+for connecting with others, sharing information, and engaging in various
+online activities. Examples of online accounts include email accounts (e.g.,
+Gmail, Outlook) and social media accounts (e.g., Facebook, Twitter, Instagram).
+These accounts are used for personal communication, professional networking,
+content sharing, and staying informed about news and events.</p>
+<p>Take the following measures to help safeguard your personal data, financial
+information, and online reputation from malicious actors seeking to exploit
+vulnerabilities for fraudulent purposes.</p>
 <h4><strong>Enable Two-Factor Authentication (2FA) where available</strong></h4>
 <p>2FA uses more than one type of information to identify who you are to
 grant you access to your online account. The first factor in 2FA is usually
