@@ -114,4 +114,9 @@ sections:
             scams have been launched
           link_text: Find out more
           link_url: mha.gov.sg
+        - title: Anti-Scam competition
+          date: 16 April 2024
+          announcement: ABS launches anti-scam mascot design competition
+          link_text: Find out more
+          link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
 ---
