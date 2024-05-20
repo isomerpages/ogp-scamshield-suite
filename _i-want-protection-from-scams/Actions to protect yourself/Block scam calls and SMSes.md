@@ -165,4 +165,5 @@ you that the app has detected a scam message.</p>
 option.</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2024/opt-to-block-incoming-international-calls" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
+</p>
