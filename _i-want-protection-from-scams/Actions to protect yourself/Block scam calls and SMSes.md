@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Actions to protect yourself
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scamshield.png">
+</div>
 <p>Scam calls and SMSes are pervasive threats that can have serious repercussions
 for individuals. These fraudulent communications often aim to deceive recipients
 into divulging personal information, such as financial details, passwords,
@@ -19,17 +23,14 @@ actions.</p>
 <h1><strong>ScamShield App</strong></h1>
 <p>The ScamShield App blocks incoming calls from scammers. In addition, an
 on-device algorithm scans SMSes from unsaved contact to detect scam SMSes.</p>
-<table style="minWidth: 75px">
+<p>Download ScamShield App</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4>Download ScamShield</h4>
-</th>
 <th rowspan="1" colspan="1">
 <p>iOS</p>
 </th>
@@ -38,9 +39,6 @@ on-device algorithm scans SMSes from unsaved contact to detect scam SMSes.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.scamshield"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/android_download.png"></a>
 </td>
@@ -52,9 +50,6 @@ on-device algorithm scans SMSes from unsaved contact to detect scam SMSes.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
