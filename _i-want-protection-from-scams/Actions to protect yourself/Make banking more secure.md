@@ -36,14 +36,6 @@ be adjusted to any amount, including $0 and up to $200,000, at any time
 online. Any increases to the daily withdrawal limit however, will be subject
 to Singpass Face Verification (SFV) and a 12-hour cooling period to prevent
 unauthorised adjustments.</p>
-<p>&nbsp;</p>
-<p>With the above change, CPF members who wish to disable online withdrawals
-can easily do so by activating the CPF Withdrawal Lock which instantly
-sets the daily withdrawal limit to $0. With the lock activated, CPF withdrawals
-can only be made in person at CPF Service Centres<sup>1</sup>. To re-enable
-online withdrawals, members must increase the daily withdrawal limit.&nbsp;
-This requires SFV authentication and 12 hours to take effect.</p>
-<p>&nbsp;</p>
 <p>Introducing a default daily limit for online CPF withdrawals is part of
 CPF Board’s ongoing efforts to safeguard CPF savings against fraudulent
 withdrawals online. This is on top of our existing precautionary measures,
