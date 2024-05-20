@@ -5,7 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: Actions to protect yourself
 ---
-<p>DETECT SCAM SMSES &amp; CALLS</p>
+<p>Scam calls and SMSes are pervasive threats that can have serious repercussions
+for individuals. These fraudulent communications often aim to deceive recipients
+into divulging personal information, such as financial details, passwords,
+or sensitive data. Scammers may impersonate legitimate organizations, government
+officials, create a sense of urgency, or offer enticing deals to manipulate
+individuals into falling victim to their schemes.</p>
+<p>They usually lead to various detrimental outcomes, including financial
+loss, identity theft, unauthorized access to personal accounts, and compromise
+of sensitive information.</p>
+<p>Protect yourself from the scam calls and SMSes by taking the following
+actions.</p>
 <h1><strong>ScamShield App</strong></h1>
 <p>The ScamShield App blocks incoming calls from scammers. In addition, an
 on-device algorithm scans SMSes from unsaved contact to detect scam SMSes.</p>
