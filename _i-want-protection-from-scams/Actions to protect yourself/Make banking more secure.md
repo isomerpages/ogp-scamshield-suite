@@ -13,7 +13,7 @@ a loss of trust in financial institutions. Prioritizing safe banking practices
 is essential to mitigate these risks and safeguard personal and financial
 well-being.</p>
 <h3><strong>Banking Safe</strong></h3>
-<p>ScamShield App and security features (e.g. enable Two-Factor Authentication
+<p>Add ScamShield App and security features (e.g. enable Two-Factor Authentication
 (2FA), Multifactor Authentication for banks and set up transaction limits
 for internet banking transactions, including PayNow).&nbsp;</p>
 <p>Refrain from giving out personal information and bank details, whether
