@@ -23,7 +23,7 @@ actions.</p>
 <h1><strong>ScamShield App</strong></h1>
 <p>The ScamShield App blocks incoming calls from scammers. In addition, an
 on-device algorithm scans SMSes from unsaved contact to detect scam SMSes.</p>
-<p>Download ScamShield App</p>
+<p>Download the ScamShield App</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
