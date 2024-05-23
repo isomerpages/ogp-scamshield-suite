@@ -76,16 +76,6 @@ sections:
       url: about:space
       image: /images/scams_bulletin.png
       alt: Image alt text
-  - infopic:
-      title: United against scammers
-      id: infopic
-      description: ScamShield is a joint effort between the Singapore Police Force,
-        the National Crime Prevention Council, and Open Government Products.
-      button: Learn more
-      url: /our-partners/
-      image: /images/ss_infopic_t.png
-      alt: Image alt text
-      subtitle: for demo purposes
   - announcements:
       title: Lastest News
       id: announcements
@@ -118,4 +108,13 @@ sections:
           announcement: ABS launches anti-scam mascot design competition
           link_text: Find out more
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
+  - infopic:
+      title: United against scammers
+      id: infopic
+      description: ScamShield is a joint effort between the Singapore Police Force,
+        the National Crime Prevention Council, and Open Government Products.
+      button: Learn more
+      url: /our-partners/
+      image: /images/ss_infopic_t.png
+      alt: Image alt text
 ---
