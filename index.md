@@ -8,8 +8,7 @@ notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Ex
   site? Give us feedback at go.gov.sg/scam-info –––––
 sections:
   - hero:
-      title: MAKING SINGAPORE SCAM FREE
-      background: /images/scamshero4.png
+      background: /images/Hero_banner.png
       variant: center
       key_highlights:
         - title: i've been scammed
