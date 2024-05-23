@@ -9,7 +9,7 @@ notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Ex
 sections:
   - hero:
       background: /images/Hero_banner.png
-      variant: image
+      variant: center
       key_highlights:
         - title: i've been scammed
           description: Get help
