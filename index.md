@@ -2,7 +2,7 @@
 layout: homepage
 title: scams.gov.sg
 description: Government directory for scam-related information
-image: /images/isomer-logo.svg
+image: /images/Logo.png
 permalink: /
 notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Explored the
   site? Give us feedback at go.gov.sg/scam-info –––––
