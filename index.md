@@ -61,11 +61,12 @@ sections:
       alt: Image alt text
       image: /images/ScamShield_App_whitebg.png
   - infopic:
-      title: 1 in 5 Singaporeans fall prey to scam
+      title: 1 in 5 Singaporeans has fallen for a scam
       subtitle: Did you know?
       id: infopic
-      description: Always check if the situation you are facing is a scam
-      image: /images/didyouknow.png
+      description: Protect yourself and loved ones with scam-prevention tools, and
+        always be alert to potential scams.
+      image: /images/thumbnail_frustrated_guy_in_front_of_computer_2x.jpg
       alt: Image alt text
   - infopic:
       title: Scams Bulletin
