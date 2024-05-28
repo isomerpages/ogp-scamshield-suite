@@ -46,10 +46,9 @@ sections:
           url: ""
   - infobar:
       title: CALL 1799
-      subtitle: unsure if it's a scam?
+      subtitle: unsure if something is a scam?
       id: infobar
-      description: Call the helpline if you are unsure if a situation you are facing
-        is a scam
+      description: Call the helpline if you are in a situation you think could be a scam
       button: or check using the scamshield app
       url: www.scamshield.gov.sg
   - infopic:
