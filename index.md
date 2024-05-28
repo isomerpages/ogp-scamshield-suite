@@ -11,17 +11,17 @@ sections:
       background: /images/Hero_banner.png
       variant: center
       key_highlights:
-        - title: i've been scammed
-          description: Get help
+        - title: Get help if you have been scammed
+          description: ""
           url: /i-ve-been-scammed/
-        - title: check if something is a scam
-          description: Check now
+        - title: check if something suspicious is a scam
+          description: ""
           url: /check-if-something-is-a-scam/
-        - title: Report a scam encounter
-          description: Let us know
+        - title: Report a scam you have encountered
+          description: ""
           url: /report-scam-encounter/
         - title: Protect yourself against scams
-          description: Stay a step ahead
+          description: ""
           url: /introduction-to-scams/
   - textcards:
       title: Trending Scams
