@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>Our Partners</h1>
-<p>The ScamShield one-stop portal was developed together with the following
-partners</p>
+<p>ScamShield.gov.sg was developed together with the following partners</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.ncpc.org.sg"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/NCPC_logo.png"></a>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://www.spf.gov.sg"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/SPF_logo.png"></a>
