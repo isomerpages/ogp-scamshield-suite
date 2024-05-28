@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: scams.gov.sg
+title: scamshield.gov.sg
 description: Government directory for scam-related information
 image: /images/Logo.png
 permalink: /
