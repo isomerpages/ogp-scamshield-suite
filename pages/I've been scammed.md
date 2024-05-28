@@ -48,5 +48,6 @@ approach their victims with the intention of scamming their victims again.</p>
 and close friends. Tell them about your scam encounter and seek help.</p>
 <p><a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">Avenues of support</a>
 </p>
-<p>Download the Anti-Scam Resource Guide for information on the investigation
-process for scam cases and resources available to support you.</p>
+<p>Download the <a href="www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx" rel="noopener noreferrer nofollow" target="_blank">Anti-Scam Resource Guide</a> for
+information on the investigation process for scam cases and resources available
+to support you.</p>
