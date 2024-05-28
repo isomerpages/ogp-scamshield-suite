@@ -28,7 +28,7 @@ sections:
       subtitle: June 2024
       id: textcards
       cards:
-        - title: Investment Scams
+        - title: Investment Scam
           description: ""
           linktext: Learn more
           url: ""
