@@ -2,13 +2,12 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
-      - Join Our Messaging Channels.md
       - Introduction to Scams.md
+      - Actions to protect yourself/.keep
       - Actions to protect yourself/Cyber Hygiene Behaviours.md
       - Actions to protect yourself/Keep your devices secure.md
       - Actions to protect yourself/Protect your online accounts.md
       - Actions to protect yourself/Staying safe on e commerce platforms.md
-      - Actions to protect yourself/.keep
       - Actions to protect yourself/Block scam calls and SMSes.md
       - Actions to protect yourself/Make banking more secure.md
       - Actions to protect yourself/Limit contact from strangers on online
@@ -22,3 +21,4 @@ collections:
       - Understanding scam types/Investment Scams.md
       - Understanding scam types/Government Officials Impersonation Scams.md
       - Report scam encounter.md
+      - Join Our Messaging Channels.md
