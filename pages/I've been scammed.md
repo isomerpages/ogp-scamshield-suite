@@ -33,7 +33,7 @@ advertisements or listings / Instagram stories).</p>
 repeat advances. Some scammers are known to take advantage of their victims’
 vulnerabilities. <strong>They may impersonate police officers or other authorities</strong> and
 approach their victims with the intention of scamming their victims again.</p>
-<h4>Read more</h4>
+<h4><strong>Read more</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money / leaked my bank login details to a scammer</a>
@@ -48,4 +48,5 @@ approach their victims with the intention of scamming their victims again.</p>
 and close friends. Tell them about your scam encounter and seek help.</p>
 <p><a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">Avenues of support</a>
 </p>
-<p></p>
+<p>Download the Anti-Scam Resource Guide for information on the investigation
+process for scam cases and resources available to support you.</p>
