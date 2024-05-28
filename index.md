@@ -76,6 +76,8 @@ sections:
       url: about:space
       image: /images/scams_bulletin.png
       alt: Image alt text
+      description: Learn about the latest scam trends from the Police's Monthly Scams
+        Bulletin.
   - announcements:
       title: Lastest News
       id: announcements
