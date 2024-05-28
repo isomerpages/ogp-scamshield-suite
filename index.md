@@ -53,13 +53,6 @@ sections:
       button: or check using the scamshield app
       url: www.scamshield.gov.sg
   - infopic:
-      title: 1 in 5 Singaporeans fall prey to scam
-      subtitle: Did you know?
-      id: infopic
-      description: Always check if the situation you are facing is a scam
-      image: /images/didyouknow.png
-      alt: Image alt text
-  - infopic:
       title: Keep safe with the ScamShield App
       id: infopic
       description: The ScamShield App blocks calls from numbers known to be used in
@@ -68,6 +61,13 @@ sections:
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
       image: /images/ScamShield_App_whitebg.png
+  - infopic:
+      title: 1 in 5 Singaporeans fall prey to scam
+      subtitle: Did you know?
+      id: infopic
+      description: Always check if the situation you are facing is a scam
+      image: /images/didyouknow.png
+      alt: Image alt text
   - infopic:
       title: Scams Bulletin
       subtitle: June 2024
