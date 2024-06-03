@@ -4,7 +4,7 @@ permalink: /whole-of-government-effort/
 variant: tiptap
 description: ""
 ---
-<h2>*draft <strong>Combatting scams is a key priority for the Singapore Government. The Government adopts a multi-layered strategy to tackle scams, centered on <u>four</u> key areas:</strong></h2>
+<h2><strong>Combatting scams is a key priority for the Singapore Government. The Government adopts a multi-layered strategy to tackle scams, centered on <u>four</u> key areas:</strong></h2>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Prevent and block scams</strong>
@@ -31,8 +31,9 @@ SMS Sender ID Registry</p>
 <p>Work with online platforms to take down scam content and accounts</p>
 </li>
 <li>
-<p>Require designated online platforms to implement safety features to counter
-scams, under the Codes of Practice of the Online Criminal Harms Act</p>
+<p>Require designated service providers to implement measures to proactively
+disrupt scams, under the Codes of Practice of the Online Criminal Harms
+Act</p>
 </li>
 <li>
 <p>Introduce safeguards to prevent abuse of banking facilities for scams</p>
@@ -56,6 +57,15 @@ be transferred digitally</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>ScamShield App allows users to report scam calls and SMSes</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Since May 2022, ScamShield has blacklisted and blocked over 120,000 scam
+entities.</p>
+</li>
+<li>
+<p>The app has had over 900,000 downloads since its launch.</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Banks have enhanced their fraud surveillance systems to detect scam-related
