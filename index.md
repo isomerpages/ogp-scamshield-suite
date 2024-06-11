@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: scamshield.gov.sg
+title: ScamShield.gov.sg - Singapore's One-Stop Portal on Scams
 description: Government directory for scam-related information
 image: /images/Logo.png
 permalink: /
