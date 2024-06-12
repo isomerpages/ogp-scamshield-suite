@@ -74,7 +74,7 @@ sections:
       id: infopic
       button: Read Now
       url: about:space
-      image: /images/MSB_Logo.png
+      image: /images/MSB_Logo__1125x373___Generic_.png
       alt: Image alt text
       description: Learn about the latest scam trends from the Police's Monthly Scams
         Bulletin.
