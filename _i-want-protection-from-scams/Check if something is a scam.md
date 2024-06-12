@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 ---
 <p>Unsure if the situation you are facing is a scam? Check with the following</p>
-<h3><strong>ScamShield Check Bot</strong></h3>
-<p>Chat with our live agent right here on <a href="http://scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">scamshield.gov.sg</a>. Chat with them now!</p>
-<h3><strong>Contact NCPC x ScamShield Helpline</strong></h3>
+<h3><strong>Contact ScamShield Helpline</strong></h3>
 <p>Call 1799. Our friendly anti-scam operators are ready to assist you.</p>
+<h3><strong>ScamShield App</strong></h3>
+<p>Call 1799. Our friendly anti-scam operators are ready to assist you.</p>
+<h3><strong>ScamShield Portal Chat</strong></h3>
+<p>Chat with our live agent right here on <a href="http://scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">scamshield.gov.sg</a>. Chat with them now!</p>
 <h3><strong>Official Sources</strong></h3>
 <p>Always refer to official sources if you are still unsure. Some sources
 include:</p>
