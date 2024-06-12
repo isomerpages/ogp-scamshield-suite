@@ -4,7 +4,7 @@ permalink: /check-if-something-is-a-scam/
 variant: tiptap
 description: ""
 ---
-<p>Unsure if the situation you are facing is a scam? Check with the following</p>
+<p>Unsure if the situation you are facing is a scam? Check with the following:</p>
 <h3><strong>Contact ScamShield Helpline</strong></h3>
 <p>Call 1799. Our friendly anti-scam operators are ready to assist you.</p>
 <h3><strong>ScamShield App</strong></h3>
