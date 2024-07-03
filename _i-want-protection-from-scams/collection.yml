@@ -2,12 +2,12 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Introduction to Scams.md
       - Stay safe with ScamShield/.keep
       - Stay safe with ScamShield/Download ScamShield app.md
       - Stay safe with ScamShield/Set up ScamShield app for iOS.md
       - Stay safe with ScamShield/Set up ScamShield app for Android.md
       - Stay safe with ScamShield/ScamShield helpline.md
-      - Introduction to Scams.md
       - Steps to protect yourself/.keep
       - Steps to protect yourself/Cyber Hygiene Behaviours.md
       - Steps to protect yourself/Keep your devices secure.md
