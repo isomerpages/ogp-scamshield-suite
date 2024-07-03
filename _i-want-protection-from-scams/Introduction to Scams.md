@@ -4,7 +4,7 @@ permalink: /introduction-to-scams/
 variant: tiptap
 description: ""
 ---
-<h2><strong>What is a scam?</strong></h2>
+<h3><strong>What is a scam?</strong></h3>
 <p>Not all negative experiences are scams. A scam is designed to trick you
 into giving away your money, personal details or data by offering an attractive
 deal or false information.</p>
@@ -26,7 +26,7 @@ victims throughout the entire engagement process.</p>
 </li>
 </ul>
 <p></p>
-<h2><strong>Common signs of scams</strong></h2>
+<h3><strong>Common signs of scams</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Unexpected Contact</strong> 
@@ -59,7 +59,7 @@ It could be a scam.</p>
 use untrustworthy sources to trick people.</p>
 </li>
 </ul>
-<h2><strong>Anyone can fall prey to scams.</strong></h2>
+<h3><strong>Anyone can fall prey to scams.</strong></h3>
 <p>Victims come from all demographic groups and backgrounds. Scam tactics
 constantly evolve and scammers use persuasive tactics to prey on common
 human vulnerabilities. However, there are preventive actions you can take,
