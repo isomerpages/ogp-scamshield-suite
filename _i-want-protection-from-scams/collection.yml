@@ -2,6 +2,7 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Stay safe with ScamShield/.keep
       - Introduction to Scams.md
       - Steps to protect yourself/.keep
       - Steps to protect yourself/Cyber Hygiene Behaviours.md
