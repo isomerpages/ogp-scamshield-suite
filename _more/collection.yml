@@ -2,7 +2,6 @@ collections:
   more:
     output: true
     order:
-      - ScamShield.md
       - I Can ACT Against Scams.md
       - Our Partners.md
       - Whole of Government Effort.md
