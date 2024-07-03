@@ -4,7 +4,7 @@ permalink: /i-ve-been-scammed/
 variant: tiptap
 description: ""
 ---
-<h2>Should you fall prey to a scam (i.e., suffer monetary loss or loss of personal information), take the following steps to protect yourself from further losses, and prevent other victims from being scammed.</h2>
+<h4>Should you fall prey to a scam (i.e., suffer monetary loss or loss of personal information), take the following steps to protect yourself from further losses, and prevent other victims from being scammed.</h4>
 <p>&nbsp;</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Contact your bank immediately</strong> if
 your bank account or credit card has been compromised, so that the bank
