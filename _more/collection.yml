@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  more:
     output: true
     order:
       - ScamShield.md
