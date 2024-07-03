@@ -59,11 +59,15 @@ It could be a scam.</p>
 use untrustworthy sources to trick people.</p>
 </li>
 </ul>
-<h2><strong>Why you should ACT</strong></h2>
-<p><strong>Everyone is vulnerable and anyone can fall prey to scams</strong>.
-As scams are always evolving, we may not always be vigilant to scams.</p>
-<p>ACT encourages indviduals to take preventive actions to protect themselves
-and their loved ones against scams.</p>
+<h2><strong>Anyone can fall prey to scams.</strong></h2>
+<p>Victims come from all demographic groups and backgrounds. Scam tactics
+constantly evolve and scammers use persuasive tactics to prey on common
+human vulnerabilities. However, there are preventive actions you can take,
+to protect you and your loved ones against scams.</p>
+<p>The ACT (“Add, Check, Tell”) framework outlines three key actions to improve
+your defences against scams.</p>
+<p><s>As scams are always evolving, we may not always be vigilant to scams. The ACT campaign aims to educate and encourage members of the public to translate scam awareness into action by proactively adopting anti-scam measures.</s>
+</p>
 <p><strong>ADD</strong> ScamShield app and security features.</p>
 <p><strong>CHECK </strong>for scam signs and with official sources.</p>
 <p><strong>TELL</strong> authorities, family and friends.</p>
@@ -76,18 +80,6 @@ and their loved ones against scams.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
 </div>
-<p>Minister of State Sun Xueling launched the “<strong>I can ACT against scams</strong>”
-national anti-scam campaign during the “SCAMINAR! ACT Against Scams” on
-18 January 2023. The national campaign aims to educate and encourage members
-of the public to translate scam awareness into action by proactively adopting
-anti-scam measures.</p>
-<h2><strong>Anyone can fall prey to scams.</strong></h2>
-<p>Victims come from all demographic groups and backgrounds. Scam tactics
-constantly evolve and scammers use persuasive tactics to prey on common
-human vulnerabilities. However, there are preventive actions you can take,
-to protect you and your loved ones against scams.</p>
-<p>The ACT (“Add, Check, Tell”) framework outlines three key actions to improve
-your defences against scams.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_add.jpg">
