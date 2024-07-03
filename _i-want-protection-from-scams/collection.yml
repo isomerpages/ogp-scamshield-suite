@@ -2,6 +2,7 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Stay safe with ScamShield/Set up ScamShield app for Android.md
       - Stay safe with ScamShield/Download ScamShield app.md
       - Stay safe with ScamShield/.keep
       - Introduction to Scams.md
