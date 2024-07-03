@@ -7,9 +7,7 @@ third_nav_title: Stay safe with ScamShield
 ---
 <h3>What is ScamShield?</h3>
 <p>ScamShield is a suite of products and tools that helps defend against
-scams. It has been developed by Open Government Products in collaboration
-with the Singapore Police Force (SPF), and the National Crime Prevention
-Council (NCPC).
+scams. <s>It has been developed by Open Government Products in collaboration with the Singapore Police Force (SPF), and the National Crime Prevention Council (NCPC). </s>
 <br>
 <br>The suite consists of the ScamShield app (for iPhone and Android), a website
 (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>)
