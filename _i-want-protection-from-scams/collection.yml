@@ -2,6 +2,7 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Dump/Join our messaging channels.md
       - Dump/Report scam encounter.md
       - Dump/Check if something is a scam.md
       - Dump/.keep
