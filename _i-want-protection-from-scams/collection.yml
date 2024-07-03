@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Introduction to Scams.md
+      - Stay safe with ScamShield/Submit a scam report.md
       - Stay safe with ScamShield/Check for scams.md
       - Stay safe with ScamShield/.keep
       - Stay safe with ScamShield/About ScamShield.md
