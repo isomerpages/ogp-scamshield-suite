@@ -2,10 +2,6 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
-      - Dump/Join our messaging channels.md
-      - Dump/Report scam encounter.md
-      - Dump/Check if something is a scam.md
-      - Dump/.keep
       - Introduction to Scams.md
       - Stay safe with ScamShield/.keep
       - Stay safe with ScamShield/Download ScamShield app.md
@@ -28,3 +24,7 @@ collections:
       - Understanding scam types/Phishing Scams.md
       - Understanding scam types/Investment Scams.md
       - Understanding scam types/Government Officials Impersonation Scams.md
+      - Dump/.keep
+      - Dump/Join our messaging channels.md
+      - Dump/Report scam encounter.md
+      - Dump/Check if something is a scam.md
