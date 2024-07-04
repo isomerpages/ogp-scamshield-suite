@@ -133,3 +133,11 @@ App Store (iOS).</p>
 </details>
 </div>
 <p></p>
+<h4><strong>Limit contact from strangers on online accounts</strong></h4>
+<p>Users should carefully manage their privacy settings, avoid accepting
+friend requests or messages from unknown individuals, and refrain from
+sharing personal details with unfamiliar contacts.
+<br>Add privacy settings on messaging apps to avoid being added into random
+chatgroups by strangers. For WhatsApp and Telegram: Go to in-app Settings
+&gt; Tap on Privacy &gt; Tap on Groups/Channels &gt; Select “My Contacts”</p>
+<p></p>
