@@ -79,7 +79,7 @@ to the app’s functionality.</p>
 <p>Be cautious if the app asks for excessive or unrelated permissions.</p>
 </li>
 </ul>
-<h4><strong>Consider Apps with Malware </strong></h4>
+<h4><strong>Consider Apps with Malware</strong></h4>
 <p></p>
 <h4><strong>Removal Capabilities&nbsp;</strong></h4>
 <p>While many apps provide basic malware detection, malware removal often
