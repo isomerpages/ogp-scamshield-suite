@@ -1,6 +1,6 @@
 title: ScamShield.gov.sg
 url: https://scamshield.gov.sg
-favicon: /images/favicon.png
+favicon: /images/FAVICON.png
 colors:
   primary-color: "#568df4"
   secondary-color: "#005dea"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1521z05iw4y1k.amplifyapp.com
 prod: https://master.d1pzis6dsqd7g.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/Logo.png
+shareicon: /images/Logo_2024.png
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
