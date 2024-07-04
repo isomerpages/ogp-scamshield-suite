@@ -65,22 +65,48 @@ human vulnerabilities. However, there are preventive actions you can take,
 to protect you and your loved ones against scams. The ACT (“Add, Check,
 Tell”) framework outlines three key actions to improve your defences against
 scams.</p>
-<p><strong>ADD</strong> ScamShield app and security features.</p>
-<p><strong>CHECK </strong>for scam signs and with official sources.</p>
-<p><strong>TELL</strong> authorities, family and friends.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ICANACTAGAINSTSCAMS.png">
 </div>
 <p></p>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_add.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">“ADD” stands for adding the ScamShield app and security features.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">“CHECK” stands for checking for scam signs.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">“Tell” stands for telling authorities, family and friends about scams.</div>
+</div>
+</div>
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
 </div>
 <p></p>
-<h3><strong>“ADD”</strong> stands for adding the ScamShield app and security features.</h3>
+<p></p>
+<h3><strong>ADD</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
@@ -98,10 +124,7 @@ and what to do if your device is infected.</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_check.jpg">
-</div>
-<h3><strong>“CHECK”</strong> stands for checking for scam signs.</h3>
+<h3><strong>CHECK</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;When you receive a phone call or message asking for your personal
@@ -130,10 +153,7 @@ via SMSes, or emails.</p>
 </ul>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_tell.jpg">
-</div>
-<h3><strong>“Tell”</strong> stands for telling authorities, family and friends about scams.</h3>
+<h3><strong>TELL</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you suspect that you have fallen prey to scams, call your bank or use
@@ -156,4 +176,6 @@ from falling prey.</p>
 them from falling prey to scams by doing so.</p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <p></p>
