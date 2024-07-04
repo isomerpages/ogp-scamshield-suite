@@ -2,7 +2,7 @@
 layout: homepage
 title: ScamShield.gov.sg
 description: Government directory for scam-related information
-image: /images/Logo.png
+image: /images/Logo_2024.png
 permalink: /
 notification: ""
 sections:
