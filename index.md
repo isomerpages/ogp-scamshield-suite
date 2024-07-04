@@ -8,7 +8,7 @@ notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Ex
   site? Give us feedback at go.gov.sg/scam-info –––––
 sections:
   - hero:
-      background: /images/Hero_Option_2.png
+      background: /images/Hero_Option_3.png
       variant: center
       key_highlights:
         - title: Get help if you have been scammed
