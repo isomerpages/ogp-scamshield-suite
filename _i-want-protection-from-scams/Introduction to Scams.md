@@ -96,22 +96,18 @@ your devices and accounts. CSA has put together a list of recommended apps
 which users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank">Add ScamShield and Anti-Virus Apps</a>.
 Refer to the infographics below on the tell-tale signs of a malware infection
 and what to do if your device is infected.</p>
-<p>Other effective security features/practices you can adopt include the
-following:</p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enable two-factor or multi-factor authentication
-and use strong passphrases for your personal banking, Singpass and social
-media accounts.</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enable privacy settings for your social
-media and messaging accounts. Refer to infographics below to secure your
-WhatsApp and Telegram accounts.</p>
-<p>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lower your bank transaction limits,
-to limit the potential losses to scams.</p>
-<p>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To guard against malware, you should
-regularly update your devices’ operating systems and mobile applications
-with the latest security patches.</p>
-<p>v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adjust CPF daily withdrawal limit to
-safeguard CPF savings against fraudulent withdrawals online. Default is
-now set at $2,000 a day.</p>
+<p><s>Other effective security features/practices you can adopt include the following:</s>
+</p>
+<p><s>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enable two-factor or multi-factor authentication and use strong passphrases for your personal banking, Singpass and social media accounts.</s>
+</p>
+<p><s>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enable privacy settings for your social media and messaging accounts. Refer to infographics below to secure your WhatsApp and Telegram accounts.</s>
+</p>
+<p><s>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lower your bank transaction limits, to limit the potential losses to scams.</s>
+</p>
+<p><s>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To guard against malware, you should regularly update your devices’ operating systems and mobile applications with the latest security patches.</s>
+</p>
+<p><s>v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adjust CPF daily withdrawal limit to safeguard CPF savings against fraudulent withdrawals online. Default is now set at $2,000 a day.</s>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/i_can_act_against_scams_check.jpg">
@@ -133,45 +129,30 @@ Resource Locator to request for your personal information or banking credentials
 If in doubt, do not click on such links. Government agencies will also
 not ask for your personal particulars or banking credentials over the phone,
 via SMSes, or emails.</p>
-<p>When downloading and installing applications, always download only from
-the official application stores (e.g., Google Play Store or Apple App Store).</p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check the developer’s information on
-the application listing to confirm it is the official developer. Check
-the number of downloads and user reviews to ensure that it is a reputable
-application before proceeding with the download.</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Never download files or applications
-from unknown sources, and never click on pop-up advertisements, suspicious
-links, or open files or email attachments from unknown senders. Otherwise,
-you may unknowingly download malware into your computers or mobile devices.</p>
-<p>When making online purchases, check the reviews of the seller, and look
-out for potential tell-tale signs of scams</p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Always pay using the secured payment
-options offered by the platforms. Do not take transactions off-platform,
-especially when making payment. A common scam tactic is to lure victims
-to messaging platforms such as WhatsApp or Telegram, and direct victims
-to make banks transfers for items.</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check the safety ratings of e-commerce
-platforms by referring to the <a href="https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings" rel="noopener noreferrer nofollow" target="_blank">E-commerce Marketplace Transaction Safety Ratings (TSR)</a>
+<p><s>When downloading and installing applications, always download only from the official application stores (e.g., Google Play Store or Apple App Store).</s>
 </p>
-<p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Common scam signs include the following
-(not exhaustive):</p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attractive offers presented on messaging,
-e-commerce or social media platforms. The offers are often unrealistic,
-and can be in the form of e-commerce, loans, investments and job offers.</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requests for transfer of money to bank
-accounts made via phone calls, social media and/or messaging platforms.
-This includes request for urgent money transfers for fake emergencies,
-fake friend calls, fake government officials, or for limited e-commerce
-flash deals.</p>
-<p>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requests to click on unverified links
-or download application provided via social media/messaging platforms.</p>
-<p>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requests for personal details such as
-NRIC, Singpass, bank account details and one-time passwords (OTPs).</p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do
-not allow others to use your Singpass and/or bank accounts. Our bank accounts
-and Singpass accounts are for our own use. It is illegal to share them
-as your accounts may be used to facilitate scams or other crimes. Penalties
-for abuse of Singpass and bank accounts are severe.&nbsp;</p>
+<p><s>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check the developer’s information on the application listing to confirm it is the official developer. Check the number of downloads and user reviews to ensure that it is a reputable application before proceeding with the download.</s>
+</p>
+<p><s>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Never download files or applications from unknown sources, and never click on pop-up advertisements, suspicious links, or open files or email attachments from unknown senders. Otherwise, you may unknowingly download malware into your computers or mobile devices.</s>
+</p>
+<p><s>When making online purchases, check the reviews of the seller, and look out for potential tell-tale signs of scams</s>
+</p>
+<p><s>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Always pay using the secured payment options offered by the platforms. Do not take transactions off-platform, especially when making payment. A common scam tactic is to lure victims to messaging platforms such as WhatsApp or Telegram, and direct victims to make banks transfers for items.</s>
+</p>
+<p><s>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check the safety ratings of e-commerce platforms by referring to the <a href="https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings" rel="noopener noreferrer nofollow" target="_blank">E-commerce Marketplace Transaction Safety Ratings (TSR)</a></s>
+</p>
+<p><s>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Common scam signs include the following (not exhaustive):</s>
+</p>
+<p><s>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attractive offers presented on messaging, e-commerce or social media platforms. The offers are often unrealistic, and can be in the form of e-commerce, loans, investments and job offers.</s>
+</p>
+<p><s>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requests for transfer of money to bank accounts made via phone calls, social media and/or messaging platforms. This includes request for urgent money transfers for fake emergencies, fake friend calls, fake government officials, or for limited e-commerce flash deals.</s>
+</p>
+<p><s>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requests to click on unverified links or download application provided via social media/messaging platforms.</s>
+</p>
+<p><s>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requests for personal details such as NRIC, Singpass, bank account details and one-time passwords (OTPs).</s>
+</p>
+<p><s>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do not allow others to use your Singpass and/or bank accounts. Our bank accounts and Singpass accounts are for our own use. It is illegal to share them as your accounts may be used to facilitate scams or other crimes. Penalties for abuse of Singpass and bank accounts are severe.&nbsp;</s>
+</p>
 <p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Official sources you could
 check with include the following:</p>
 <p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check your potential scam encounter (e.g.,
