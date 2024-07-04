@@ -5,6 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Stay safe with ScamShield
 ---
+<p>Scam calls and SMSes are pervasive threats that can have serious repercussions
+for individuals. These fraudulent communications often aim to deceive recipients
+into divulging personal information, such as financial details, passwords,
+or sensitive data. Scammers may impersonate legitimate organizations, government
+officials, create a sense of urgency, or offer enticing deals to manipulate
+individuals into falling victim to their schemes.</p>
+<p>They usually lead to various detrimental outcomes, including financial
+loss, identity theft, unauthorized access to personal accounts, and compromise
+of sensitive information.</p>
+<p>Protect yourself from the scam calls and SMSes by taking the following
+actions.</p>
+<p></p>
 <h3>Set up ScamShield Android to block scam calls and detect scam SMSes</h3>
 <hr>
 <h4>How can I tell if ScamShield is working on my Android phone?</h4>
