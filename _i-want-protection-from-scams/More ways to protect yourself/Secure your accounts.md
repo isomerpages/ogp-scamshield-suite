@@ -133,7 +133,7 @@ App Store (iOS).</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Limit contact from strangers on online accounts</strong></h4>
+<h4><strong>Enable privacy settings for your social media and messaging accounts</strong></h4>
 <p>Users should carefully manage their privacy settings, avoid accepting
 friend requests or messages from unknown individuals, and refrain from
 sharing personal details with unfamiliar contacts.
