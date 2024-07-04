@@ -65,6 +65,7 @@ human vulnerabilities. However, there are preventive actions you can take,
 to protect you and your loved ones against scams. The ACT (“Add, Check,
 Tell”) framework outlines three key actions to improve your defences against
 scams.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ICANACTAGAINSTSCAMS.png">
 </div>
