@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero_Option_2.png
-      variant: image
+      variant: center
       key_highlights:
         - title: Get help if you have been scammed
           description: ""
