@@ -23,23 +23,23 @@ sections:
           description: ""
           url: /introduction-to-scams/
   - textcards:
-      title: Trending Scams
+      title: Trending scams
       subtitle: June 2024
       id: textcards
       cards:
-        - title: Investment Scam
+        - title: Investment scam
           description: ""
           linktext: Learn more
           url: ""
-        - title: Government Impersonation Scam
+        - title: Government Impersonation scam
           description: ""
           linktext: Learn more
           url: ""
-        - title: Phishing Scam
+        - title: Phishing scam
           description: ""
           linktext: Learn more
           url: ""
-        - title: Job Scam
+        - title: Job scam
           description: ""
           linktext: Learn more
           url: ""
