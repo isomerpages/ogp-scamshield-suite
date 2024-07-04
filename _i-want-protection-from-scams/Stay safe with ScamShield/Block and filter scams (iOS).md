@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Stay safe with ScamShield
 ---
-<p></p>
+<h3><strong>Set up your phone to lock calls and SMSes from scammers</strong></h3>
 <p>Scam calls and SMSes are pervasive threats that can have serious repercussions
 for individuals. These fraudulent communications often aim to deceive recipients
 into divulging personal information, such as financial details, passwords,
@@ -17,8 +17,6 @@ loss, identity theft, unauthorized access to personal accounts, and compromise
 of sensitive information.</p>
 <p>Protect yourself from the scam calls and SMSes by taking the following
 actions.</p>
-<p></p>
-<h3>Set up Scamshield iOS to block scam calls and SMSes</h3>
 <hr>
 <h4>How can I tell if ScamShield is working on my iOS phone?</h4>
 <p></p>
