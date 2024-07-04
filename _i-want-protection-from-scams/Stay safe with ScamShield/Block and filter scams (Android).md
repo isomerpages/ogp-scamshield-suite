@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Stay safe with ScamShield
 ---
-<h3><strong>Set up your phone to lock calls and SMSes from scammers</strong></h3>
+<h3><strong>Set up your phone to block calls and SMSes from scammers</strong></h3>
 <p>Scam calls and SMSes are pervasive threats that can have serious repercussions
 for individuals. These fraudulent communications often aim to deceive recipients
 into divulging personal information, such as financial details, passwords,
