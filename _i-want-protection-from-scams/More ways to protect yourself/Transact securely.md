@@ -8,6 +8,10 @@ third_nav_title: More ways to protect yourself
 <h3><strong>Be wary when shopping on e-commerce sites</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
+<p>When making online purchases, check the reviews of the seller, and look
+out for potential tell-tale signs of scams</p>
+</li>
+<li>
 <p>Always pay using the secured payment options offered by the platforms.
 Do not take transactions off-platform, especially when making payment.
 A common scam tactic is to lure victims to messaging platforms such as
