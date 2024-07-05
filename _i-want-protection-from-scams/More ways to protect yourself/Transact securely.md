@@ -6,43 +6,24 @@ description: ""
 third_nav_title: More ways to protect yourself
 ---
 <h3><strong>Be wary when shopping on e-commerce sites</strong></h3>
-<p><em>Can potentially summarise this</em>
-</p>
-<p><strong>1. Use Secure and Trusted Websites</strong>
-<br>Ensure that you shop on secure and reputable e-commerce websites. Look
-for "https://" in the website's URL and a padlock symbol in the address
-bar, indicating a secure connection.</p>
-<p><strong>2. Review Seller and Product Information</strong>
-<br>Before making a purchase, research the seller's reputation and read product
-reviews. Verify the seller's contact information and return policy.</p>
-<p><strong>3. Use Secure Payment Methods</strong>
-<br>Opt for secure payment methods such as credit cards or digital wallets
-that offer buyer protection. Avoid sharing sensitive financial information
-through email or unsecured websites.</p>
-<p><strong>4. Monitor Financial Statements</strong>
-<br>Regularly review your bank and credit card statements for any unauthorized
-transactions. Report any suspicious activity to your financial institution
-immediately.</p>
-<p><strong>5. Protect Personal Information</strong>
-<br>Limit the amount of personal information shared online and be cautious
-when providing details such as your address, phone number, or social security
-number.</p>
-<p><strong>6. Be Wary of Deals That Seem Too Good to Be True</strong>
-<br>Exercise caution when encountering heavily discounted or unrealistic deals,
-as they may be indicative of fraudulent activity.</p>
-<p>By following these measures, you can enhance your safety and security
-while shopping on e-commerce sites. Remember to trust your instincts and
-prioritize caution when navigating the online shopping landscape.</p>
-<ol start="7" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
-<p>To safeguard consumers when they transact online, the Transactions Safety
-Ratings (TSR) is introduced.</p>
+<p>Always pay using the secured payment options offered by the platforms.
+Do not take transactions off-platform, especially when making payment.
+A common scam tactic is to lure victims to messaging platforms such as
+WhatsApp or Telegram, and direct victims to make banks transfers for items.</p>
 </li>
-</ol>
-<p></p>
-<p><a href="https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings" rel="noopener noreferrer nofollow" target="_blank">Read More About TSR</a>
+<li>
+<p>Be wary of deals that seem too good to be true. Exercise caution when
+encountering heavily discounted or unrealistic deals, as they may be indicative
+of fraudulent activity.</p>
+</li>
+<li>
+<p>Check the safety ratings of e-commerce platforms by referring to the
+<a href="https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings" rel="noopener noreferrer nofollow" target="_blank">E-commerce Marketplace Transaction Safety Ratings (TSR)</a>
 </p>
-<p></p>
+</li>
+</ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Removed for now</summary>
