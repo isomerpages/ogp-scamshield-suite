@@ -72,7 +72,7 @@ Safety Ratings (TSR) is introduced.</p>
 </details>
 </div>
 <p></p>
-<h3><strong>Lower your bank transaction limits </strong></h3>
+<h3><strong>Lower your bank transaction limits</strong></h3>
 <p>Falling prey to scammers due to unsafe banking practices can have significant
 repercussions, including financial loss, identity theft, and emotional
 distress, jeopardizing hard-earned money and financial stability. It can
