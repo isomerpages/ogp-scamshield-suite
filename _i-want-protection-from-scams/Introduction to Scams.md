@@ -7,7 +7,7 @@ description: ""
 <h3><strong>What is a scam?</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="What is a scam?" src="/images/What_is_a_scam_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_is_a_scam_.png">
 </div>
 <p>A scam is designed to trick you into giving away your money, personal
 details or data by offering an attractive deal or false information.</p>
