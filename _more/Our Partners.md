@@ -9,11 +9,40 @@ description: ""
 all anti-scam resources onto a single, trusted brand. This initiative would
 not have been possible without the invaluable support of the following
 partners:</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.ncpc.org.sg"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/NCPC_logo.png"></a>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.spf.gov.sg"><img style="width: 15%;" height="auto" width="100%" alt="" src="/images/SPF_logo.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCPC" src="/images/NCPC_logo.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.mha.gov.sg"><img style="width: 18%;" height="auto" width="100%" alt="" src="/images/mha_logo.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SPF" src="/images/SPF_logo.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.ogp.gov.sg"><img style="width: 35%;" height="auto" width="100%" alt="" src="/images/ogp_logo.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MHA" src="/images/mha_logo.png">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OGP" src="/images/ogp_logo.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
