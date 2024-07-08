@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Stay safe with ScamShield
 ---
 <h3><strong>What is ScamShield?</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="What is ScamShield?" src="/images/What_is_a_ScamShield_.png">
+</div>
 <p>ScamShield is a suite of products and tools that helps defend against
 scams. The suite consists of the ScamShield app (for iPhone and Android),
 a website (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>)
