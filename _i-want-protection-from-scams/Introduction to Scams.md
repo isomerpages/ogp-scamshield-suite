@@ -66,6 +66,10 @@ scams.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ICANACTAGAINSTSCAMS.png">
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
+</div>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -98,42 +102,6 @@ scams.</p>
 </div>
 </div>
 </div>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
-</div>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Orange.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
-With ScamShield, you can expect to receive reduced numbers of scam calls.
-You can also expect fewer malicious SMSes, such as those offering fake
-job offers and loans, or tricking you to click malicious links.</p>
-</li>
-</ul>
-<p>Install anti-virus apps to prevent malware. Anti-virus apps which can
-detect malware and malicious phishing links are key to safeguarding your
-devices and accounts. CSA has put together a list of recommended apps which
-users can download to suit their needs and budget - Add ScamShield and
-Anti-Virus Apps. Refer to the infographics below on the tell-tale signs
-of a malware infection and what to do if your device is infected.</p>
-</th>
-</tr>
-</tbody>
-</table>
 <h3><strong>ADD</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
