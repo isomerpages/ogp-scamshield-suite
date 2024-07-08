@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>What is a scam?</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="What is a scam?" src="/images/What_is_a_scam.png">
 </div>
