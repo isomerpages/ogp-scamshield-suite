@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>What is a scam?</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="What is a scam?" src="/images/What_is_a_scam.png">
+</div>
 <p>A scam is designed to trick you into giving away your money, personal
 details or data by offering an attractive deal or false information.</p>
 <ul data-tight="true" class="tight">
@@ -102,7 +105,7 @@ scams.</p>
 </div>
 </div>
 </div>
-<h3><strong>ADD</strong></h3>
+<h4><strong>ADD</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
@@ -120,7 +123,7 @@ and what to do if your device is infected.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>CHECK</strong></h3>
+<h4><strong>CHECK</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;When you receive a phone call or message asking for your personal
@@ -149,7 +152,7 @@ via SMSes, or emails.</p>
 </ul>
 <p></p>
 <p></p>
-<h3><strong>TELL</strong></h3>
+<h4><strong>TELL</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you suspect that you have fallen prey to scams, call your bank or use
