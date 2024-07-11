@@ -12,12 +12,11 @@ to protect yourself against them. Join our messaging channels on WhatsApp
 and Telegram for the latest updates.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Join our Telegram channel <a href="https://t.me/ncpcscamalert" rel="noopener noreferrer nofollow" target="_blank">here</a> 
+<p>Join our Telegram channel <a href="https://t.me/ncpcscamalert" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p></p>
 </li>
 <li>
-<p>Join our WhatsApp channel <a href="https://whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b" rel="noopener noreferrer nofollow" target="_blank">here</a> 
+<p>Join our WhatsApp channel <a href="https://whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </li>
 </ul>
