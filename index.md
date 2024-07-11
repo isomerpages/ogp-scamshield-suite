@@ -58,7 +58,7 @@ sections:
       button: Learn more
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
-      image: /images/ScamShield.png
+      image: /images/Keep_safe_with_ScamShield.png
   - infopic:
       title: 1 in 5 Singaporeans has fallen for a scam
       subtitle: Did you know?
@@ -73,7 +73,7 @@ sections:
       id: infopic
       button: Read Now
       url: about:space
-      image: /images/MSB_Logo__1125x373___Generic_.png
+      image: /images/Scams_bulletin.png
       alt: Image alt text
       description: Learn about the latest scam trends from the Police's Monthly Scams
         Bulletin.
