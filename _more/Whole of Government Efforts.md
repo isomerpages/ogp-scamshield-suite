@@ -130,8 +130,23 @@ critical anti-scam features on e-commerce marketplaces</p>
 </ul>
 </li>
 </ol>
-<h4><br><strong>MCI infographic</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240110_MCI_Strategies_to_Combat_Online_Scams_Infographic_compressed.png">
 </div>
+<hr>
+<h4>IMDA's international call &amp; SMS blocking feature</h4>
+<p>IMDA’s anti-scam measures are developed to disrupt scam operations across
+various communications channels via a multi-layered approach. IMDA has
+partnered with Telcos to implement anti-scam measures that strengthen safeguards
+for SMS and calls to Singapore users.</p>
+<p>From January to September 2023, more than 300 million scam calls were
+blocked by our Telcos. This translates to approximately one in every four
+incoming calls from international numbers blocked for this period. All
+remaining calls from international numbers are tagged with the “+” prefix
+to remind the public to be vigilant when answering such calls. To further
+protect users who do not wish to receive calls from international numbers,
+Telcos are now introducing the option for subscribers to block such incoming
+calls on their mobile phones. This service is available from 5 January
+2024 onwards.</p>
+<p>More information <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2024/opt-to-block-incoming-international-calls" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
