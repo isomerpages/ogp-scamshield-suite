@@ -78,7 +78,7 @@ sections:
       description: Learn about the latest scam trends from the Police's Monthly Scams
         Bulletin.
   - announcements:
-      title: Lastest News
+      title: Latest News
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
