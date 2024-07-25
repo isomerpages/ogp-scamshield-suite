@@ -15,7 +15,7 @@ sections:
           url: /i-ve-been-scammed/
         - title: check if something suspicious is a scam
           description: ""
-          url: /check-if-something-is-a-scam/
+          url: /check-for-scams/
         - title: Report a scam you have encountered
           description: ""
           url: /report-scam-encounter/
