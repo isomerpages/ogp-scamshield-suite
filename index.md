@@ -18,7 +18,7 @@ sections:
           url: /check-for-scams/
         - title: Report a scam you have encountered
           description: ""
-          url: /report-scam-encounter/
+          url: /submit-a-scam-report/
         - title: Protect yourself against scams
           description: ""
           url: /introduction-to-scams/
