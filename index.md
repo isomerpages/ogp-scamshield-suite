@@ -72,7 +72,7 @@ sections:
       subtitle: June 2024
       id: infopic
       button: Read Now
-      url: trends-and-updates/scams-bulletin
+      url: /trends-and-updates/scams-bulletin
       image: /images/Scams_bulletin.png
       alt: Image alt text
       description: Learn about the latest scam trends from the Police's Monthly Scams
