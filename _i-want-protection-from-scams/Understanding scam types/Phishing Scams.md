@@ -117,9 +117,10 @@ myTax Portal (<a href="http://mytax.iras.gov.sg" rel="noopener noreferrer nofoll
 <hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>Help keep the community safe by reporting any instances of this scam you’ve
-seen or experienced: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-want-protection-from-scams/permalink/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-want-protection-from-scams/permalink/</a> 
-<br>If you have transferred money to a scammer, please visit this page for
-a list of immediate actions: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/</a>
+seen or experienced:</p>
+<p><a href="https://staging.d1pzis6dsqd7g.amplifyapp.com/introduction-to-scams/" rel="noopener noreferrer nofollow" target="_blank">I Want Protection From Scams!</a>
 </p>
-<p></p>
-<p></p>
+<p>If you have transferred money to a scammer, please visit this page for
+a list of immediate actions:</p>
+<p><a href="https://staging.d1pzis6dsqd7g.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">I've Been Scammed!</a>
+</p>
