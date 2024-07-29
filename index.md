@@ -55,7 +55,7 @@ sections:
       description: The ScamShield App blocks calls from numbers known to be used in
         illegal activities. It also filters or alerts you to suspicious SMSes.
       button: Learn more
-      url: https://www.scamshield.org.sg/android-app/
+      url: /about-scamshield/
       alt: Image alt text
       image: /images/Keep_safe_with_ScamShield.png
   - infopic:
