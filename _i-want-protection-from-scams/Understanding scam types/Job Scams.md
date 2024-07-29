@@ -56,12 +56,9 @@ groups on messaging platforms or social media platform administrators.</p>
 </ul>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
-<p>Help keep the community safe by reporting any instances of this scam you’ve
-seen or experienced:</p>
-<p><a href="https://staging.d1pzis6dsqd7g.amplifyapp.com/introduction-to-scams/" rel="noopener noreferrer nofollow" target="_blank">I Want Protection From Scams!</a>
-</p>
 <p>If you have transferred money to a scammer, please visit this page for
-a list of immediate actions:</p>
-<p><a href="https://staging.d1pzis6dsqd7g.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">I've Been Scammed!</a>
+a list of immediate actions: <a href="https://staging.d1pzis6dsqd7g.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">I've Been Scammed!</a>
 </p>
+<p>Help keep the community safe by reporting any instances of this scam you’ve
+seen or experienced with the ScamShield App.</p>
 <p></p>
