@@ -57,10 +57,13 @@ your computers or mobile devices.</p>
 <h4><strong>IMDA international call and SMS blocking feature</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Activate the feature to block calls and SMS from international numbers.</p>
+<p>You can stop receiving calls and SMSes from overseas by contacting your
+telcos to activate this feature.</p>
 </li>
 <li>
-<p>Find out more with your telcos.</p>
+<p>The feature can be activated or disabled based on your needs. Calls made
+from Singapore numbers while you are overseas can still be received as
+per normal.</p>
 <p></p>
 </li>
 </ul>
