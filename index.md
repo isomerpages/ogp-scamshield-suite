@@ -45,11 +45,10 @@ sections:
           url: ""
   - infobar:
       title: CALL 1799
-      subtitle: unsure if something is a scam?
+      subtitle: Coming soon in Sep 2024
       id: infobar
-      description: Call the helpline if you are in a situation you think could be a scam
-      button: or check using the scamshield app
-      url: www.scamshield.gov.sg
+      description: Unsure if something is a scam? Call the helpline if you are in a
+        situation you think could be a scam
   - infopic:
       title: Keep safe with the ScamShield App
       id: infopic
