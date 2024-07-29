@@ -28,18 +28,7 @@ vigilant and adopt good cyber hygiene habits to protect your devices.&nbsp;</p>
 </p>
 </li>
 </ul>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Removed for now</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>How to Choose an Anti-Virus App</strong></h4>
-<p>It is important to note that anti-virus apps from different brands have
-varying functions and capabilities. Below are some factors to consider
-and steps to take when choosing an anti-virus app:</p>
-</div>
-</details>
-</div>
-<h4><br><strong>Always only download from official App Stores</strong></h4>
+<h4><strong>Always only download from official App Stores</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Do not download apps from unknown or unofficial sources.</p>
@@ -65,34 +54,14 @@ from unknown senders. Otherwise, you may unknowingly download malware into
 your computers or mobile devices.</p>
 </li>
 </ul>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Removed for now</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>Verify Application Permissions</strong></h4>
+<h4><strong>IMDA international call and SMS blocking feature</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>When installing an app, review and grant the necessary permissions relevant
-to the app’s functionality.</p>
+<p>Activate the feature to block calls and SMS from international numbers.</p>
 </li>
 <li>
-<p>Be cautious if the app asks for excessive or unrelated permissions.</p>
+<p>Find out more with your telcos.</p>
+<p></p>
 </li>
 </ul>
-<h4><strong>Consider Apps with Malware</strong></h4>
-<p></p>
-<h4><strong>Removal Capabilities&nbsp;</strong></h4>
-<p>While many apps provide basic malware detection, malware removal often
-remains a separate feature. Many free options can only detect and quarantine
-malware, but may not offer removal options if your devices are found to
-be infected.</p>
-<p>CSA conducted tests on the malware and phishing detection capabilities
-of these apps in August this year. The methodology involved installing
-the anti-virus app on a device and infecting the device with recent malware
-variants to test if the app was able to detect them. Similarly, the device
-was also used to access selected phishing websites to test if the anti-virus
-app detected them.&nbsp;</p>
-</div>
-</details>
-</div>
 <p></p>
