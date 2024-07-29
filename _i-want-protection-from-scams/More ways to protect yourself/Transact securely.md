@@ -28,35 +28,6 @@ of fraudulent activity.</p>
 </p>
 </li>
 </ul>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Removed for now</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>How to Shop Safely on E-commerce Sites</strong>
-<br>Shopping online offers convenience and a wide range of products, but it's
-important to take measures to ensure a safe and secure shopping experience.
-Here are some key measures to consider when shopping on e-commerce sites:
-<br>2. Keep Software Updated</p>
-<p>Regularly update your device's operating system, web browser, and antivirus
-software to protect against security vulnerabilities and malware.
-<br><strong>3. Use Strong Passwords</strong>
-</p>
-<p>Create strong, unique passwords for your e-commerce accounts and consider
-using a password manager to securely store and manage your passwords.
-<br><strong>4. Beware of Phishing Attempts</strong>
-</p>
-<p>Be cautious of unsolicited emails, messages, or pop-up ads requesting
-personal or financial information. Avoid clicking on suspicious links and
-only provide sensitive information on trusted websites.</p>
-<h2><strong>E-commerce Marketplace Transaction Safety Ratings</strong></h2>
-<p>E-commerce scams are one of the top scam types in Singapore. In 2021,
-there were more than 2,700 number of cases reported, with about $5.8million
-in losses. To safeguard consumers when they transact online, the Transactions
-Safety Ratings (TSR) is introduced.</p>
-</div>
-</details>
-</div>
-<p></p>
 <h3><strong>Lower your bank transaction limits</strong></h3>
 <p>Falling prey to scammers due to unsafe banking practices can have significant
 repercussions, including financial loss, identity theft, and emotional
