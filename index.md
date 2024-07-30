@@ -42,7 +42,7 @@ sections:
         - title: Job scam
           description: ""
           linktext: Learn more
-          url: https://staging.d1pzis6dsqd7g.amplifyapp.com/i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
+          url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
   - infobar:
       title: CALL 1799
       subtitle: Coming soon in Sep 2024
