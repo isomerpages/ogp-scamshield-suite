@@ -30,19 +30,19 @@ sections:
         - title: Investment scam
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://staging.d1pzis6dsqd7g.amplifyapp.com/i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
         - title: Government Impersonation scam
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://staging.d1pzis6dsqd7g.amplifyapp.com/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
         - title: Phishing scam
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://staging.d1pzis6dsqd7g.amplifyapp.com/i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
         - title: Job scam
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://staging.d1pzis6dsqd7g.amplifyapp.com/i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
   - infobar:
       title: CALL 1799
       subtitle: Coming soon in Sep 2024
