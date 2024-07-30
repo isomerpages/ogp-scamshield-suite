@@ -32,30 +32,45 @@ victims throughout the entire engagement process.</p>
 <h3><strong>Common signs of scams</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Unexpected Contact</strong>: If someone contacts you out of the
-blue, be cautious. Scammers often reach out without you asking.</p>
+<p><strong>Out-of-norm communication: </strong>Communication that deviates
+from the usual or expected patterns.</p>
 </li>
 <li>
-<p><strong>Feeling Rushed</strong>: If you feel pressured to act quickly,
-it could be a scam. Scammers often want you to make decisions in a hurry.</p>
+<p><strong>Comes from an unverified source: </strong>Originates from a sender
+whose identity or credibility has not been confirmed.</p>
 </li>
 <li>
-<p><strong>Asking for Personal Info</strong>: Be careful if someone asks
-for your personal or financial details, like passwords or credit card numbers.</p>
+<p><strong>Purports offers that are too good to be true: </strong>Claims
+to provide benefits or opportunities that seem unrealistic or overly advantageous.</p>
 </li>
 <li>
-<p><strong>Offers That Sound Too Good</strong>: If an offer sounds too good
-to be true, it might be a scam. Scammers often promise amazing benefits
-or profits.</p>
+<p><strong>Visible errors or signs of spoofing:</strong> Contains mistakes
+or indications of falsification or imitation.</p>
 </li>
 <li>
-<p><strong>Unsolicited Investment Offers</strong>: If someone you don't know
-offers you an investment opportunity, be wary. It could be a scam.</p>
+<p><strong>Requires clickable links or downloading of attachments or apps: </strong>Demands
+interaction with hyperlinks or the installation of files or applications.</p>
 </li>
 <li>
-<p><strong>Unverified Sources</strong>: If you can't verify the person or
-website, be cautious. Scammers often use untrustworthy sources to trick
-people.</p>
+<p><strong>Requests for personal details: </strong>Asks for sensitive information
+about an individual.</p>
+</li>
+<li>
+<p><strong>Requests money transfer to individuals/organisations you do not know: </strong>Demands
+the transfer of funds to unfamiliar individuals or entities.</p>
+</li>
+<li>
+<p><strong>Requests for additional device permissions (i.e. screen-sharing): </strong>Asks
+for expanded access rights on a device, such as the ability to share the
+screen.</p>
+</li>
+<li>
+<p><strong>Implies sense of urgency (need to act now / immediacy): </strong>Suggests
+a pressing need for immediate action or response.</p>
+</li>
+<li>
+<p><strong>Implies state of high alert (High emotional arousal / Amygdala hijack response / emotional overreaction):</strong> Indicates
+a heightened emotional state or an exaggerated reaction.</p>
 </li>
 </ul>
 <h3><strong>Anyone can fall prey to scams</strong></h3>
