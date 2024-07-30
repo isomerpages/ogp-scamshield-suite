@@ -30,15 +30,15 @@ sections:
         - title: Investment scam
           description: ""
           linktext: Learn more
-          url: https://staging.d1pzis6dsqd7g.amplifyapp.com/i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
+          url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
         - title: Government Impersonation scam
           description: ""
           linktext: Learn more
-          url: https://staging.d1pzis6dsqd7g.amplifyapp.com/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
+          url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
         - title: Phishing scam
           description: ""
           linktext: Learn more
-          url: https://staging.d1pzis6dsqd7g.amplifyapp.com/i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
+          url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
         - title: Job scam
           description: ""
           linktext: Learn more
