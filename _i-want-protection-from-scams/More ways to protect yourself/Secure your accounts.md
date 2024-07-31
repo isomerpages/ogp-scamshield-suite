@@ -36,7 +36,7 @@ media accounts by following these links.</p>
 Strong passphrases are important for keeping your online accounts and personal
 information safe from cybercriminals.
 <br>Set a strong password containing at least 12 characters. Use five different
-words that relate to a memory that is unique to you. e.g. Learntorideabikeatfive.
+words that relate to a memory that is unique to you. e.g. Learnt2RIDEabikeat5.
 <br>Use uppercase letters, lowercase letters, numbers and symbols to make
 it even harder to crack.
 <br>You can check the strength of your passwords via <a href="https://www.csa.gov.sg/Tips-Resource/Interactive-Tools/Password-Checker" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
