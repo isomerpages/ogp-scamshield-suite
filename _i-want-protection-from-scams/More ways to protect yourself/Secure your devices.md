@@ -54,6 +54,15 @@ from unknown senders. Otherwise, you may unknowingly download malware into
 your computers or mobile devices.</p>
 </li>
 </ul>
+<h4><strong>For Android users</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>CSA and Google have introduced an enhanced security feature under Google
+Play Protect. This feature blocks potentially malicious and high-risk apps
+that are installed not from Google Play but from web browsers, messaging
+apps or file managers.</p>
+</li>
+</ul>
 <h4><strong>IMDA international call and SMS blocking feature</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
