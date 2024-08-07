@@ -63,17 +63,35 @@ that are installed not from Google Play but from web browsers, messaging
 apps or file managers.</p>
 </li>
 </ul>
-<h4><strong>IMDA international call and SMS blocking feature</strong></h4>
+<h4><strong>Block Incoming Calls and SMS from International Numbers</strong></h4>
+<p>Worried about international scam calls and SMSes? Telcos now offer the
+features to prevent calls and SMSes made via international numbers from
+reaching you. Activating the feature(s) can help to safeguard against phone/SMS
+scams.&nbsp;</p>
+<p><strong>What does the features do?</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>You can stop receiving calls and SMSes from overseas by contacting your
-telcos to activate this feature.</p>
-</li>
-<li>
-<p>The feature can be activated or disabled based on your needs. Calls made
-from Singapore numbers while you are overseas can still be received as
-per normal.</p>
+<p>They block all incoming mobile calls and/or SMSes made from international
+numbers. Depending on the feature activated, calls and/or SMSes made from
+Singapore numbers while overseas (e.g. Singapore users roaming overseas
+and calling home) can still be received as normal.</p>
 <p></p>
 </li>
+<li>
+<p>Subscribers can activate and disable the international call and/or SMS
+blocking feature(s) based on their needs. For example, a subscriber can
+opt in to enable both features as a default, but disable the services when
+travelling overseas and expecting calls from international numbers (e.g.
+from the hotel or on-ground transport).</p>
+</li>
 </ul>
+<p>The features are available free of charge. Contact your telco (<a href="https://www.singtel.com/personal/products-services/lifestyle-services/my-smart-network/international-barring" rel="noopener noreferrer nofollow" target="_blank">Singtel</a>,
+<a href="https://www.m1.com.sg/support/faq/call-barring-faq" rel="noopener noreferrer nofollow" target="_blank">M1</a>, <a href="https://www.starhub.com/personal/support/article.html?id=3EB2KjVOW4A2yhKWwqnSb6" rel="noopener noreferrer nofollow" target="_blank">StarHub</a> and
+<a href="https://simba.sg/terms" rel="noopener noreferrer nofollow" target="_blank">SIMBA</a>) to find out how to activate the features. To learn more about
+IMDA’s other anti-scam measures, visit IMDA’s website <a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Option___D2_Block_Intl_Call_SMSes_poster.jpg">
+</div>
 <p></p>
