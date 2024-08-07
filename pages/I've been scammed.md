@@ -15,11 +15,12 @@ been compromised, so that the bank can take immediate actions to prevent
 further monetary loss.</p>
 </li>
 <li>
-<p>File a police report online via Police Report, or in person at the nearest
-Neighbourhood Police Centre or Neighbourhood Police Post. Call 999 if you
-require the Police’s urgent assistance. If you have information about scams,
-you may share the information with the Police via the Police Hotline at
-1800-255-0000 or online via the I-Witness e-Service (<a href="https://www.police.gov.sg/I-witness" rel="noopener noreferrer nofollow" target="_blank">SPF | I-Witness (police.gov.sg)</a>).</p>
+<p>File a police report online via <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report</a>,
+or in person at the nearest Neighbourhood Police Centre or Neighbourhood
+Police Post. Call 999 if you require the Police’s urgent assistance. If
+you have information about scams, you may share the information with the
+Police via the Police Hotline at 1800-255-0000 or online via the I-Witness
+e-Service (<a href="https://www.police.gov.sg/I-witness" rel="noopener noreferrer nofollow" target="_blank">SPF | I-Witness (police.gov.sg)</a>).</p>
 </li>
 <li>
 <p>If your online account (e.g., email or social media) is compromised, notify
