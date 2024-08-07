@@ -28,21 +28,24 @@ of fraudulent activity.</p>
 </p>
 </li>
 </ul>
-<h3><strong>Lower your bank transaction limits</strong></h3>
-<p>Falling prey to scammers due to unsafe banking practices can have significant
-repercussions, including financial loss, identity theft, and emotional
-distress, jeopardizing hard-earned money and financial stability. It can
-lead to unauthorized transactions, compromised personal information, and
-a loss of trust in financial institutions. Prioritizing safe banking practices
-is essential to mitigate these risks and safeguard personal and financial
-well-being.</p>
+<h3><strong>Safeguard banking details and lower transaction limits</strong></h3>
+<p>Falling prey to scammers can have significant repercussions, including
+financial loss, identity theft, and emotional distress, jeopardizing hard-earned
+money and financial stability. Prioritizing safe banking practices is essential
+to mitigate these risks and safeguard personal and financial well-being.
+Some ways to do so include lowering your bank transaction limits, setting
+a low threshold for funds transfer transaction notifications, including
+for PayNow, and staying alert to all transaction notifications so that
+any unauthorised payments are reported as soon as possible to increase
+the chances of recovery.</p>
+<h3><strong>Adopting good digital banking hygiene practices</strong></h3>
 <p>Add ScamShield App and security features (e.g. enable Two-Factor Authentication
-(2FA), Multifactor Authentication for banks and set up transaction limits
-for internet banking transactions, including PayNow).&nbsp;</p>
-<p>Refrain from giving out personal information and bank details, whether
-on a website or to callers over the phone. Personal information and bank
-details such as internet bank account usernames, passwords, OTP codes from
-tokens, are useful to criminals.</p>
+(2FA), Multifactor Authentication for banks).&nbsp;</p>
+<p>Refrain from giving out personal information and bank details (such as
+your internet bank account usernames, passwords, OTP codes from tokens),
+whether on a website or to callers over the phone.</p>
+<p>Activate the emergency self-service “kill switch” to suspend your bank
+account quickly if you suspect that your bank account has been compromised.</p>
 <h3><strong>Enable Money Lock</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/moneylock.jpg">
@@ -50,7 +53,7 @@ tokens, are useful to criminals.</p>
 <p>Money Lock secures a portion of your bank savings to further protect it
 against scams. Speak to your bank for more information on how to add Money
 Lock.</p>
-<p><a href="https://www.moneysense.gov.sg/scams/moneylock/" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
+<p><a href="https://www.moneysense.gov.sg/scams/moneylock/" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
 find out more about Money Lock.</p>
 <p></p>
 <h3><strong>Adjust CPF withdrawal limit</strong></h3>
