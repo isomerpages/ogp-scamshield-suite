@@ -11,7 +11,7 @@ links:
   - title: More
     collection: more
   - title: TRENDS & UPDATES
-    url: /permalink
+    url: /trends-and-updates/
     sublinks:
       - title: Police News Release
         url: https://www.police.gov.sg/Media-Room/News?keyword=scam&filter=60EAEE3222EC46C0B918EB4CD8A3D4CB
@@ -22,4 +22,4 @@ links:
       - title: Scams Bulletin
         url: /trends-and-updates/scams-bulletin/
       - title: Videos
-        url: /trends-and-updates/scams-bulletin/
+        url: /trends-and-updates/videos
