@@ -4,9 +4,6 @@ permalink: /gotscammed/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled11111.png">
-</div>
 <p>In the unfortunate event you fall prey to a scam, do not feel alone. Consider
 taking the following steps to protect yourself from further losses, and
 prevent other victims being caught out.</p>
