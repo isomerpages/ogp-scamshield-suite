@@ -90,6 +90,7 @@ police report immediately. You can do so via these methods:</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Reporting Methods</strong>
@@ -168,6 +169,63 @@ to the platform on which you met and transacted with the seller. This is
 to allow the platform to take down the fraudulent seller’s account as soon
 as possible.</p>
 </td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Here are some links that will help guide you to report sellers to some platforms</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Facebook Marketplace</p>
+</li>
+<li>
+<p>Carousell</p>
+</li>
+<li>
+<p>Shopee</p>
+</li>
+<li>
+<p>E-Bay</p>
+</li>
+<li>
+<p>Amazon</p>
+</li>
+<li>
+<p>Paypal</p>
+</li>
+<li>
+<p>Lazada</p>
+</li>
+<li>
+<p>Qoo10</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Orange.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<h4>ONLINE ACCOUNTS HACKED OR IMPERSONATED</h4>
+<p><strong>Good cyber hygiene is increasingly important given that our data can fall into the wrong hands, easily.</strong>
+</p>
+</th>
 </tr>
 </tbody>
 </table>
