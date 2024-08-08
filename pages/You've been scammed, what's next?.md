@@ -53,7 +53,7 @@ a police report.</div>
 <summary>MONETARY / PERSONAL INFORMATION LOSS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/moneylock.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/moneylock.jpg">
 </div>
 <p>If you suffer a monetary loss or loss of personal information, file a
 police report immediately. You can do so via these methods:</p>
@@ -61,15 +61,10 @@ police report immediately. You can do so via these methods:</p>
 <h4>Reporting Methods</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong><u>E-report link</u></strong>
-</p>
-<p>File an e-report online with the <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">Singapore Police Force</a>.</p>
-<p></p>
+<p>File an <strong>e-report</strong> online with the <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">Singapore Police Force</a>.</p>
 </li>
 <li>
-<p><strong><u>In-Person</u></strong>
-</p>
-<p>File a report at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/manned-npps" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Police Centre</a>.</p>
+<p>File a report <strong>in-person</strong> at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/manned-npps" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Police Centre</a>.</p>
 </li>
 </ol>
 <p></p>
@@ -82,8 +77,8 @@ police report immediately. You can do so via these methods:</p>
 or do online trading (phishing and investment scams), or asked you to download
 a mobile application from a website, you can report the link by keying
 in the full URL of the scam website visited, which may be from shortened
-URLs, (e.g. Tinyurl, <a href="http://Bit.ly" rel="noopener noreferrer nofollow" target="_blank">Bit.ly</a>). Refer to your Internet browser history
-to retrieve the full link. This allows for the authorities to take action
+URLs, (e.g. Tinyurl, Bit.ly). Refer to your Internet browser history to
+retrieve the full link. This allows for the authorities to take action
 against the website.</p>
 <p></p>
 </li>
