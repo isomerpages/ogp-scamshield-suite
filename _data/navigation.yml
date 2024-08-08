@@ -6,10 +6,6 @@ links:
     url: /i-ve-been-scammed/
   - title: Protection against scams
     collection: i-want-protection-from-scams
-  - title: Trends & updates
-    resource_room: true
-  - title: More
-    collection: more
   - title: TRENDS & UPDATES
     url: /trends-and-updates/
     sublinks:
@@ -23,3 +19,5 @@ links:
         url: /trends-and-updates/scams-bulletin/
       - title: Videos
         url: /trends-and-updates/videos
+  - title: More
+    collection: more
