@@ -48,7 +48,6 @@ a police report.</div>
 </div>
 </div>
 <p></p>
-<hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>MONETARY / PERSONAL INFORMATION LOSS</summary>
