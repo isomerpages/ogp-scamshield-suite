@@ -68,29 +68,15 @@ a police report.</div>
 </div>
 <p></p>
 <hr>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>MONETARY / PERSONAL INFORMATION LOSS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/moneylock.jpg">
 </div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<h4>MONETARY / PERSONAL INFORMATION LOSS</h4>
 <p>If you suffer a monetary loss or loss of personal information, file a
 police report immediately. You can do so via these methods:</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Reporting Methods</strong>
@@ -142,22 +128,15 @@ IMO, Viber, etc.</p>
 </div>
 </details>
 </div>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+</details>
+<details class="isomer-details">
+<summary>E-COMMERCE SCAM</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pink.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Orange.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<h4>E-COMMERCE SCAM</h4>
 <p>While most platforms put in safeguards to ensure they are free from scams,
 scammers can still find ways to beat the system to execute their crimes.
 Thus, always pay using the platform’s payment wallet or payment options
@@ -168,10 +147,6 @@ offers a discount.</p>
 to the platform on which you met and transacted with the seller. This is
 to allow the platform to take down the fraudulent seller’s account as soon
 as possible.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -207,25 +182,53 @@ as possible.</p>
 </div>
 </details>
 </div>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Orange.png">
 </div>
-</th>
-<td rowspan="1" colspan="1">
-<h4>ONLINE ACCOUNTS HACKED OR IMPERSONATED</h4>
+</details>
+<details class="isomer-details">
+<summary>ONLINE ACCOUNTS HACKED OR IMPERSONATED</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green.png">
+</div>
 <p>Good cyber hygiene is increasingly important given that our data can fall
 into the wrong hands, easily.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<h4>IF YOUR ONLINE ACCOUNT IS HACKED</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Social Media Accounts</strong>
+</p>
+<p>The first thing to do if your social media accounts have been compromised
+is to notify all your contacts. Scammers may request for personal information
+or One-Time Passwords (OTPs) but never share them. Report the incident
+to the respective social media platforms immediately.</p>
+<p></p>
+</li>
+<li>
+<p><strong>How to protect your WhatsApp account:</strong>
+</p>
+<p>Enable the ‘Two-Step Verification’ feature by opening WhatsApp &gt;&gt;
+Settings &gt;&gt; Account &gt;&gt; Two-Step Verification &gt;&gt; Enable</p>
+<p></p>
+</li>
+<li>
+<p><strong>Emails</strong>
+</p>
+<p>If your email account has been compromised or hacked, contact your email
+service provider for help. If you still have access to your account, change
+your password right away. Secure passwords or passphrases should contain
+at least 12 characters, including numbers, symbols and a mix of capital
+and lowercase letters.</p>
+<p></p>
+<p>Next, change your security questions and turn on two-step verification
+for extra security. You may also want to warn your colleagues, family and
+friends in your email list to delete any suspicious messages that came
+from your account.</p>
+</li>
+</ul>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
