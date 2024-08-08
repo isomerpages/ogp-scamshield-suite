@@ -2,6 +2,7 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Example Title testt.md
       - Introduction to Scams.md
       - Stay safe with ScamShield/.keep
       - Stay safe with ScamShield/About ScamShield.md
