@@ -57,11 +57,8 @@ a police report.</div>
 </div>
 <p>If you suffer a monetary loss or loss of personal information, file a
 police report immediately. You can do so via these methods:</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Reporting Methods</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>Reporting Methods</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>E-report link</u></strong>
@@ -75,12 +72,8 @@ police report immediately. You can do so via these methods:</p>
 <p>File a report at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/manned-npps" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Police Centre</a>.</p>
 </li>
 </ol>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>What to do while filing a police report</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>What to do while filing a police report</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Website address (URL) shared by scammers</strong>
@@ -107,9 +100,6 @@ IMO, Viber, etc.</p>
 </ul>
 </div>
 </details>
-</div>
-</div>
-</details>
 <details class="isomer-details">
 <summary>E-COMMERCE SCAM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -128,40 +118,42 @@ to the platform on which you met and transacted with the seller. This is
 to allow the platform to take down the fraudulent seller’s account as soon
 as possible.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Here are some links that will help guide you to report sellers to some platforms</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Here are some links that will help guide you to report sellers to some
+platforms</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Facebook Marketplace</p>
+<p><a href="https://www.facebook.com/help/196126404168290" rel="noopener noreferrer nofollow" target="_blank">Facebook Marketplace</a>
+</p>
 </li>
 <li>
-<p>Carousell</p>
+<p><a href="https://support.carousell.com/hc/en-us/articles/115011190428-How-do-I-report-a-user-listing-" rel="noopener noreferrer nofollow" target="_blank">Carousell</a>
+</p>
 </li>
 <li>
-<p>Shopee</p>
+<p><a href="https://help.shopee.sg/s/article/How-can-I-report-a-user" rel="noopener noreferrer nofollow" target="_blank">Shopee</a>
+</p>
 </li>
 <li>
-<p>E-Bay</p>
+<p><a href="https://www.ebay.com/help/buying/resolving-issues-sellers/reporting-item-issue-seller?id=4022" rel="noopener noreferrer nofollow" target="_blank">E-bay</a>
+</p>
 </li>
 <li>
-<p>Amazon</p>
+<p><a href="https://sellercentral.amazon.com/forums/t/informative-how-to-report-a-buyer-or-how-to-report-a-seller-by-oneida/457693" rel="noopener noreferrer nofollow" target="_blank">Amazon</a>
+</p>
 </li>
 <li>
-<p>Paypal</p>
+<p><a href="https://www.paypal.com/sg/webapps/mpp/buyer-dispute-resolution" rel="noopener noreferrer nofollow" target="_blank">Paypal</a>
+</p>
 </li>
 <li>
-<p>Lazada</p>
+<p><a href="https://www.lazada.com.my/helpcenter/How-do-I-report-a-Seller-8450.html" rel="noopener noreferrer nofollow" target="_blank">Lazada</a>
+</p>
 </li>
 <li>
-<p>Qoo10</p>
+<p><a href="https://www.qoo10.sg/gmkt.inc/Qsafe/QsafeItemReport.aspx" rel="noopener noreferrer nofollow" target="_blank">Qoo10</a>
+</p>
 </li>
 </ul>
-</div>
-</details>
-</div>
 </div>
 </details>
 <details class="isomer-details">
