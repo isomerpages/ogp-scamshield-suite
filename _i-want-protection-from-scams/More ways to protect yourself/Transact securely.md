@@ -56,19 +56,23 @@ Lock.</p>
 <p><a href="https://www.moneysense.gov.sg/scams/moneylock/" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
 find out more about Money Lock.</p>
 <p></p>
-<h3><strong>Adjust CPF withdrawal limit</strong></h3>
-<p>A default online CPF withdrawal limit of $2,000 a day will be applied
-to all CPF members aged 55 and above. &nbsp;This default daily limit can
-be adjusted to any amount, including $0 and up to $200,000, at any time
-online. Any increases to the daily withdrawal limit however, will be subject
-to Singpass Face Verification (SFV) and a 12-hour cooling period to prevent
-unauthorised adjustments.</p>
-<p>Introducing a default daily limit for online CPF withdrawals is part of
-CPF Board’s ongoing efforts to safeguard CPF savings against fraudulent
-withdrawals online. This is on top of our existing precautionary measures,
-which include SFV as a step-up authentication challenge for certain CPF
-e-services. In addition, CPF members can be assured that their CPF savings
-can only be paid to bank accounts that are verified as belonging to them.&nbsp;
-They will also be notified immediately of any CPF withdrawals.</p>
-<p><a href="https://www.cpf.gov.sg/member/infohub/news/news-releases/new-default-daily-limit-of-2000-for-online-cpf-withdrawals-with-option-to-further-limit-online-cpf-withdrawals" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
-find out more.</p>
+<h3><strong>CPF Withdrawal Lock and online Daily Withdrawal Limit</strong></h3>
+<p>If you are aged 55 and above, the default online Daily Withdrawal Limit
+is automatically set at $2,000 per day.</p>
+<p>If you have no immediate plans to withdraw your CPF savings, you are encouraged
+to safeguard your CPF savings by activating the CPF Withdrawal Lock to
+disable online withdrawals. You can do so in 3 easy steps via the <a href="https://www.cpf.gov.sg/member/ds/account-settings" rel="noopener noreferrer nofollow" target="_blank">CPF account settings</a>&nbsp;after
+logging on to the CPF website using your Singpass.</p>
+<p>When you need to make a CPF withdrawal, you can enable online withdrawals
+again by increasing the online Daily Withdrawal Limit via the CPF account
+settings. You are encouraged to plan your CPF withdrawals in advance, as
+this process will involve enhanced authentication measures and a 12-hour
+cooling period for security purposes.</p>
+<p>The online Daily Withdrawal Limit and CPF Withdrawal Lock complement CPFB’s
+existing security measures, which include Singpass Two-Factor Authentication
+(2FA) and ensuring that your CPF savings can only be paid to bank accounts
+that are verified as belonging to you.&nbsp;You will also receive instant
+notifications of any CPF withdrawals and adjustments to your online Daily
+Withdrawal Limit or bank account details registered with CPFB.</p>
+<p><a href="http://www.cpf.gov.sg/antiscammeasures" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
+find out more about CPFB’s anti-scam measures.</p>
