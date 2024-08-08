@@ -26,6 +26,9 @@ prevent other victims being caught out.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled11111.png">
+</div>
 <hr>
 <p></p>
 <div class="isomer-card-grid">
