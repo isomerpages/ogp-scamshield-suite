@@ -216,16 +216,15 @@ as possible.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Orange.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4>ONLINE ACCOUNTS HACKED OR IMPERSONATED</h4>
-<p><strong>Good cyber hygiene is increasingly important given that our data can fall into the wrong hands, easily.</strong>
-</p>
-</th>
+<p>Good cyber hygiene is increasingly important given that our data can fall
+into the wrong hands, easily.</p>
+</td>
 </tr>
 </tbody>
 </table>
