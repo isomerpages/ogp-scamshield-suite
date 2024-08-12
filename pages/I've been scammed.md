@@ -24,7 +24,8 @@ further monetary loss.</p>
 <p></p>
 </li>
 <li>
-<p>File a police report with these <a href="/making-a-police-report/" rel="noopener noreferrer nofollow" target="_blank">information</a> online via <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report</a>,
+<p>File a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report</a> with
+these <a href="/making-a-police-report/" rel="noopener noreferrer nofollow" target="_blank">information</a> online,
 or in person at the nearest Neighbourhood Police Centre or Neighbourhood
 Police Post. Call 999 if you require the Police’s urgent assistance. If
 you have information about scams, you may share the information with the
