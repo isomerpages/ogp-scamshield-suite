@@ -109,7 +109,8 @@ WhatsApp numbers and account details, information and screenshots of the
 fraudulent posts (e.g., Instagram/Facebook/TikTok advertisements or listings
 / Instagram stories).</p>
 <p></p>
-<p>Guides to report sellers for each platform can be found here:</p>
+<p>Here are some URLs containing guides on how to report sellers across various
+platforms:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.facebook.com/help/196126404168290" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook Marketplace</u></a>
