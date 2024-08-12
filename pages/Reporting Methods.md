@@ -13,14 +13,13 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>File an <strong>e-report</strong> online with the <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">Singapore Police Force</a>.</p>
-<p><a href="/making-a-police-report/" rel="noopener noreferrer nofollow" target="_blank">(Information needed to make a police report)</a>
-</p>
-<p></p>
 </li>
 <li>
 <p>File a report <strong>in-person</strong> at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/manned-npps" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Police Centre</a>.</p>
 </li>
 </ol>
+<p><a href="/making-a-police-report/" rel="noopener noreferrer nofollow" target="_blank">Information needed to file a police report</a>
+</p>
 <p></p>
 <h4>What to do while filing a police report</h4>
 <ul data-tight="true" class="tight">
