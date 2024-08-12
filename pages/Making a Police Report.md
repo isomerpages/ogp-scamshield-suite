@@ -46,12 +46,22 @@ or any other contact details used)</p>
 <p>Screenshots/photos of any messages, emails or websites of the scam</p>
 </li>
 <li>
-<p>Relevant documents such as receipts, invoices or contracts</p>
+<p>Documents such as receipts, invoices or contracts</p>
 </li>
 <li>
-<p></p>
+<p>Copies of any bank or financial transactions that showed amount of money
+lost</p>
+</li>
+<li>
+<p>Recordings of conversations with scammer</p>
 </li>
 </ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Reports to other organizations</p>
+</li>
+</ol>
+<p></p>
 <p></p>
 <p>Financial impact</p>
 <p>Reports to other organizations</p>
