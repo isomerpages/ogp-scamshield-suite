@@ -4,50 +4,10 @@ permalink: /reporting-methods/
 variant: tiptap
 description: ""
 ---
-<p>Should you fall prey to a scam (i.e., suffer monetary loss or loss of
-personal information), take the following steps to protect yourself from
-further losses, and prevent other victims from being scammed.</p>
-<hr>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Monetary or Personal Information Loss" src="/images/loss_banner.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Monetary or Personal Information Loss</div>
-<div class="isomer-card-description">If you suffer a monetary loss or loss of personal information, file a
-police report immediately. You can do so via E-report link or In-Person.</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="/ecommerce-scam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="E-Commerce Scam" src="/images/ecomm_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">E-Commerce Scam</div><div class="isomer-card-description">If you fell for an E-Commerce scam, report it to the police and rep</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/oneline-account-compromised/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Online Accounts Hacked or Impersonated" src="/images/acct_banner.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Online Accounts Hacked or Impersonated</div>
-<div class="isomer-card-description">If your account has been hacked or compromised, notify your family and
-friends immediately so they do not fall prey to the scammer. Next, file
-a police report.</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a>
-</div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>MONETARY / PERSONAL INFORMATION LOSS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/loss.png">
-</div>
-<p>If you suffer a monetary loss or loss of personal information, file a
-police report immediately. You can do so via these methods:</p>
 <p></p>
 <h4>Reporting Methods</h4>
 <ol data-tight="true" class="tight">
@@ -111,14 +71,8 @@ to exercise greater caution.</p>
 <summary>E-COMMERCE SCAM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ecomm.png">
-</div>
-<p>While most platforms put in safeguards to ensure they are free from scams,
-scammers can still find ways to beat the system to execute their crimes.
-Thus, always pay using the platform’s payment wallet or payment options
-offered by the platforms. Do not switch to making direct payment to the
-seller via bank transfers to personal bank accounts, even if the seller
+<p>Always pay using the payment options offered by the platforms. Do not
+make direct payment to the seller via bank transfers even if the seller
 offers a discount.</p>
 <p>If you did not receive an item you bought online, quickly report the seller
 to the platform on which you met and transacted with the seller. This is
@@ -166,14 +120,7 @@ platforms</p>
 <details class="isomer-details">
 <summary>ONLINE ACCOUNTS HACKED OR IMPERSONATED</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/acct.png">
-</div>
-<p>Good cyber hygiene is increasingly important given that our data can fall
-into the wrong hands, easily.</p>
-<p></p>
-<h4>IF YOUR ONLINE ACCOUNT IS HACKED</h4>
+<h4></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Social Media Accounts</strong>
