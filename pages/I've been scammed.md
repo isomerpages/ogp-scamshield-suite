@@ -51,9 +51,10 @@ in between numbers (omit dashes) in your police report. Please indicate
 if the number has a ‘+’ prefix. For example: +65123456789</p>
 <p>Do state the type of call made, e.g. normal call, WhatsApp, Telegram,
 IMO, Viber, etc.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
+<p>-- Remove from here--</p>
 <p><strong><em>If you received a scam call, you can take the following steps to prevent the scammers from using the number to target others.</em></strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -72,6 +73,7 @@ via the app.</p>
 <p>If you receive an unexpected call with the “+” prefix, be careful. It
 could be a scam. While this is not a foolproof method, it’s a good indicator
 to exercise greater caution.</p>
+<p>--to here--</p>
 </li>
 </ol>
 </div>
