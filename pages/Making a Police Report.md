@@ -21,3 +21,4 @@ scammed, file a police report immediately. You can do so via these methods:</p>
 <p>Important Information to have when filing a police report:</p>
 <p>Details of the scam</p>
 <p>Records of what was transacted</p>
+<p>Relavant documents</p>
