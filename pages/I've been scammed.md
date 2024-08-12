@@ -8,24 +8,64 @@ description: ""
 personal information), take the following steps to protect yourself from
 further losses, and prevent other victims from being scammed.</p>
 <p></p>
-<hr>
-<p></p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/loss.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Monetary or Personal Information Loss</div><div class="isomer-card-description">If you suffer a monetary loss or loss of personal information, file a police report immediately. You can do so via E-report link or In-Person.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/ecommerce-scam/" class="isomer-card">
-<div class="isomer-card-image">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Monetary or Personal Information Loss</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ecomm.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/loss_banner.jpg">
 </div>
+<p></p>
+<p>Contact your bank immediately if your bank account or credit card has
+been compromised, so that the bank can take immediate actions to prevent
+further monetary loss.</p>
+<p></p>
+<p>File a police report online via Police Report, or in person at the nearest
+Neighbourhood Police Centre or Neighbourhood Police Post. Call 999 if you
+require the Police’s urgent assistance. If you have information about scams,
+you may share the information with the Police via the Police Hotline at
+1800-255-0000 or online via the I-Witness e-Service (SPF | I-Witness (
+<a href="http://police.gov.sg" rel="noopener noreferrer nofollow" target="_blank">police.gov.sg</a>)).</p>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">E-Commerce Scam</div>
-<div class="isomer-card-description">If you fell for an E-Commerce scam, report it to the police and report
-it to the platform admins.</div>
-<div class="isomer-card-link">Find out more</div>
+</details>
+<details class="isomer-details">
+<summary>Online account compromised</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/acct_banner.jpg">
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/online-account-compromised/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/acct.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Online Accounts Hacked or Impersonated</div><div class="isomer-card-description">If your account has been hacked or compromised, notify your family and friends immediately so they do not fall prey to the scammer. Next, file a police report.</div><div class="isomer-card-link">Find out more</div></div></a>
+<p>
+<br>If your online account (e.g., email or social media) is compromised, notify
+all your contacts, and report the incident to the respective email service
+provider or social media platform. If you still have access to your account,
+change your passphrase immediately. Set up two-factor or multi-factor authentication
+if you have not done so earlier.</p>
 </div>
+</details>
+<details class="isomer-details">
+<summary>E-commerce scam</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ecomm_banner.jpg">
+</div>
+<p></p>
+<p>For e-commerce related scams, in addition to making a police report, do
+also report the incident to the platform administrators. This is to allow
+the platform to take down the fraudulent seller’s account as soon as possible.
+Provide as much information as you can in the police report such as scammers’
+WhatsApp numbers and account details, information and screenshots of the
+fraudulent posts (e.g., Instagram/Facebook/TikTok advertisements or listings
+/ Instagram stories).</p>
+</div>
+</details>
+</div>
+<p></p>
+<p>Be on alert for scammers’ repeated advances. Some scammers are known to
+take advantage of their victims’ vulnerabilities. They may impersonate
+police officers or other authorities and approach their victims with the
+intention of scamming their victims again.</p>
 <h3><strong>Read more</strong></h3>
 <p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money / leaked my bank login details to a scammer</a>
 </p>
