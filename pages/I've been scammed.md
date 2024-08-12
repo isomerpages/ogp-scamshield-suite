@@ -8,6 +8,7 @@ description: ""
 personal information), take the following steps to protect yourself from
 further losses, and prevent other victims from being scammed.</p>
 <p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Monetary or Personal Information Loss</summary>
@@ -61,6 +62,7 @@ fraudulent posts (e.g., Instagram/Facebook/TikTok advertisements or listings
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p>Be on alert for scammers’ repeated advances. Some scammers are known to
 take advantage of their victims’ vulnerabilities. They may impersonate
