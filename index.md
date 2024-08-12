@@ -102,7 +102,7 @@ sections:
           announcement: A new national campaign to empower individuals to ACT against
             scams have been launched
           link_text: Find out more
-          link_url: mha.gov.sg
+          link_url: /introduction-to-scams/
   - infopic:
       title: United against scammers
       id: infopic
