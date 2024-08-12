@@ -82,7 +82,8 @@ sections:
       announcement_items:
         - title: Enhanced ScamShield App
           date: 12 August 2024
-          announcement: The ScamShield App has been enhanced with more new features.
+          announcement: Block calls and SMS, report scams, verify potential scams with our
+            enhanced ScamShield App.
           link_text: Learn more
           link_url: /about-scamshield/
         - title: Launch of scam portal
