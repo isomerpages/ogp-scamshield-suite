@@ -18,4 +18,5 @@ scammed, file a police report immediately. You can do so via these methods:</p>
 </li>
 </ol>
 <p></p>
+<p>Important Information to have when filing a police report:</p>
 <p></p>
