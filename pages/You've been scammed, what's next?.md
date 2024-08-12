@@ -115,42 +115,6 @@ could be a scam. While this is not a foolproof method, it’s a good indicator
 to exercise greater caution.</p>
 </li>
 </ol>
-<p></p>
-<h5><strong>Scam Website Links</strong></h5>
-<p>Scam Website Links include, but are not limited to, phishing links in
-text messages and emails, download links for fake investment platform applications,
-fake gambling platform applications.</p>
-<p></p>
-<h5><strong>Bank Phishing Scams</strong></h5>
-<p>If there are signs of compromise, immediately suspend your bank account
-and ibanking facility with the bank. Do not give away any banking credentials
-and OTPs, and set up 2FA. Always be alert and never key in banking credentials
-in lookalike sites which are redirected.</p>
-<p></p>
-<h5><strong>WhatsApp account takeover</strong></h5>
-<p>If you’re a victim of WhatsApp takeover, you can recover your account
-with WhatsApp immediately. Next, get assistance from friends/relatives
-to inform your contacts to not respond to the messages.
-<br>
-<br>Always set up two-step verification for your WhatsApp account and never
-use a default PIN for your voicemail. You can also terminate your voicemail
-with your telco if you don’t need it.</p>
-<p></p>
-<h5><strong>Reporting Emails</strong></h5>
-<p>If you are reporting against a phishing email, retain the entire email
-for investigation purposes.
-<br>Where possible, retrieve the email header and attach it to your report.
-To find out how to retrieve email headers, take this <a href="https://www.google.com/search?q=how+to+retrieve+email+header&amp;oq=how+to+retrieve+email+header&amp;aqs=chrome.0.69i59j35i39j0i512j0i22i30l7.1125j0j7&amp;sourceid=chrome&amp;ie=UTF-8" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.</p>
-<p></p>
-<h5><strong>Unauthorised Bank Transactions</strong></h5>
-<p>If you noticed unauthorised bank transactions call your bank immediately
-to report the matter. This could help save you thousands, though there
-is no guarantee you will get your money back.</p>
-<p></p>
-<h5><strong>Bitcoin Wallet</strong></h5>
-<p>If you want to report a bitcoin wallet, copy the entire bitcoin wallet
-address – which is case sensitive. Do also keep the wallet’s QR code if
-it was provided to you.</p>
 </div>
 </details>
 <details class="isomer-details">
