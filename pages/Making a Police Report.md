@@ -84,8 +84,8 @@ such as your bank, 1799 scam hotline or other stakeholders</p>
 appearance)</p>
 </li>
 <li>
-<p>Steps you have taken to prevent further losses (Freezing accounts, reporting
-)</p>
+<p>Steps you have taken to prevent further losses (Freezing accounts, restricting
+further access)</p>
 </li>
 </ul>
 <p></p>
