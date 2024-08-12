@@ -13,7 +13,7 @@ prevent other victims being caught out.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Monetary or Personal Information Loss" src="/images/loss.png">
+<img style="width: 100%" height="auto" width="100%" alt="Monetary or Personal Information Loss" src="/images/loss_banner.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -25,7 +25,7 @@ police report immediately. You can do so via E-report link or In-Person.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="E-Commerce Scam" src="/images/ecomm.png">
+<img style="width: 100%" height="auto" width="100%" alt="E-Commerce Scam" src="/images/ecomm_banner.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -36,7 +36,7 @@ police report immediately. You can do so via E-report link or In-Person.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Online Accounts Hacked or Impersonated" src="/images/acct.png">
+<img style="width: 100%" height="auto" width="100%" alt="Online Accounts Hacked or Impersonated" src="/images/acct_banner.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
