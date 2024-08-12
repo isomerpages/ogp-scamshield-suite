@@ -50,6 +50,8 @@ of scamming their victims again.</p>
 </p>
 <p><a href="/installed-malware/permalink/" rel="noopener noreferrer nofollow" target="_blank">I installed a malicious app</a>
 </p>
+<p><a href="/gotscammed" rel="noopener noreferrer nofollow" target="_blank">I've been scammed, what's next?</a>
+</p>
 <p>Being a victim of a scam can be distressing. Seek support from family
 and close friends. Tell them about your scam encounter and seek help.</p>
 <p><a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">Avenues of support</a>
