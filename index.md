@@ -85,7 +85,7 @@ sections:
           announcement: Block calls, report scams and more with the enhanced ScamShield App.
           link_text: Learn more
           link_url: /about-scamshield/
-        - title: Launch of scam portal
+        - title: Launch of New ScamShield portal
           date: 12 August 2024
           announcement: An all new one-stop portal for scam related content has been
             launched.
