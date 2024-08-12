@@ -52,8 +52,9 @@ a police report.</div>
 <details class="isomer-details">
 <summary>MONETARY / PERSONAL INFORMATION LOSS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/moneylock.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/loss.png">
 </div>
 <p>If you suffer a monetary loss or loss of personal information, file a
 police report immediately. You can do so via these methods:</p>
@@ -100,7 +101,7 @@ IMO, Viber, etc.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Orange.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ecomm.png">
 </div>
 <p>While most platforms put in safeguards to ensure they are free from scams,
 scammers can still find ways to beat the system to execute their crimes.
@@ -156,7 +157,7 @@ platforms</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/acct.png">
 </div>
 <p>Good cyber hygiene is increasingly important given that our data can fall
 into the wrong hands, easily.</p>
