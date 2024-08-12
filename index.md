@@ -82,26 +82,28 @@ sections:
       subtitle: Anti-Scam efforts
       announcement_items:
         - title: Enhanced ScamShield App
-          date: 22 August 2024
-          announcement: ScamShield App has been enhanced. Find out more about the new
-            features here.
+          date: 12 August 2024
+          announcement: The ScamShield App has been enhanced with more new features.
           link_text: Learn more
           link_url: /about-scamshield/
-        - title: New one-stop portal
-          date: 22 August 2024
-          announcement: A new one-stop portal for all scam related content has been launched.
-          link_text: Read now
-          link_url: /homepage/
-        - title: Anti-Scam competition
+        - title: Launch of scam portal
+          date: 12 August 2024
+          announcement: An all new one-stop portal for scam related content has been
+            launched.
+          link_text: Learn more
+          link_url: https://www.scamshield.gov.sg/
+        - title: Anti-Scam mascot design competition
           date: 16 April 2024
-          announcement: ABS launches anti-scam mascot design competition
-          link_text: Find out more
+          announcement: The Association of Banks in Singapore launched a mascot design
+            competition to encourage wider participation in the nation’s ongoing
+            fight against scams.
+          link_text: Learn more
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
-        - title: I can ACT against scams launched
+        - title: Launch of ACT campaign
           date: 16 January 2023
           announcement: A new national campaign to empower individuals to ACT against
-            scams have been launched
-          link_text: Find out more
+            scams have been launched.
+          link_text: Learn more
           link_url: /introduction-to-scams/
   - infopic:
       title: United against scammers
