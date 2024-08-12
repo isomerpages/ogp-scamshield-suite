@@ -41,16 +41,19 @@ or any other contact details used)</p>
 <p>Supporting evidence</p>
 </li>
 </ol>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Financial impact</p>
+<p>Screenshots/photos of any messages, emails or websites of the scam</p>
 </li>
 <li>
-<p>Reports to other organizations</p>
+<p>Relevant documents such as receipts, invoices or contracts</p>
 </li>
 <li>
-<p>Witness</p>
+<p></p>
 </li>
 </ul>
+<p></p>
+<p>Financial impact</p>
+<p>Reports to other organizations</p>
+<p>Witness</p>
 <p></p>
