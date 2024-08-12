@@ -85,13 +85,13 @@ sections:
           date: 22 August 2024
           announcement: ScamShield App has been enhanced. Find out more about the new
             features here.
-          link_text: ""
-          link_url: ""
+          link_text: Learn more
+          link_url: /about-scamshield/
         - title: New one-stop portal
           date: 22 August 2024
           announcement: A new one-stop portal for all scam related content has been launched.
           link_text: Read now
-          link_url: scamshield.gov.sg
+          link_url: /ogp-scamshield-suite/homepage/
         - title: Anti-Scam competition
           date: 16 April 2024
           announcement: ABS launches anti-scam mascot design competition
