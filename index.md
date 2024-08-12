@@ -91,7 +91,7 @@ sections:
           date: 22 August 2024
           announcement: A new one-stop portal for all scam related content has been launched.
           link_text: Read now
-          link_url: /ogp-scamshield-suite/homepage/
+          link_url: /homepage/
         - title: Anti-Scam competition
           date: 16 April 2024
           announcement: ABS launches anti-scam mascot design competition
