@@ -21,19 +21,8 @@ further losses, and prevent other victims from being scammed.</p>
 <div class="isomer-card-description">If you suffer a monetary loss or loss of personal information, file a
 police report immediately. You can do so via E-report link or In-Person.</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="E-Commerce Scam" src="/images/ecomm_banner.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">E-Commerce Scam</div>
-<div class="isomer-card-description">If you fell for an E-Commerce scam, report it to the police and rep</div>
-</div>
-</div>
-<div class="isomer-card">
+</div><a rel="noopener noreferrer nofollow" href="/ecommerce-scam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="E-Commerce Scam" src="/images/ecomm_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">E-Commerce Scam</div><div class="isomer-card-description">If you fell for an E-Commerce scam, report it to the police and rep</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/oneline-account-compromised/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Online Accounts Hacked or Impersonated" src="/images/acct_banner.jpg">
@@ -44,8 +33,9 @@ police report immediately. You can do so via E-report link or In-Person.</div>
 <div class="isomer-card-description">If your account has been hacked or compromised, notify your family and
 friends immediately so they do not fall prey to the scammer. Next, file
 a police report.</div>
+<div class="isomer-card-link">Find out more</div>
 </div>
-</div>
+</a>
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
