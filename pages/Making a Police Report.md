@@ -20,7 +20,8 @@ scammed, file a police report immediately. You can do so via these methods:</p>
 <h4>Important Information to have when filing a police report:</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Details of the scam</p>
+<p><strong>Details of the scam</strong>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -37,7 +38,8 @@ or any other contact details used)</p>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Supporting evidence</p>
+<p><strong>Supporting evidence</strong>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -57,7 +59,8 @@ lost</p>
 </ul>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>Reports to other organizations</p>
+<p><strong>Reports to other organizations</strong>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
