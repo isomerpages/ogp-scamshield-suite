@@ -24,7 +24,7 @@ sections:
           url: /introduction-to-scams/
   - textcards:
       title: Trending scams
-      subtitle: July 2024
+      subtitle: August 2024
       id: textcards
       cards:
         - title: Investment scam
@@ -68,7 +68,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Scams Bulletin
-      subtitle: June 2024
       id: infopic
       button: Read Now
       url: /trends-and-updates/scams-bulletin
