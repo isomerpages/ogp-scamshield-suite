@@ -4,9 +4,9 @@ permalink: /gotscammed/permalink/
 variant: tiptap
 description: ""
 ---
-<p>In the unfortunate event you fall prey to a scam, do not feel alone. Consider
-taking the following steps to protect yourself from further losses, and
-prevent other victims being caught out.</p>
+<p>Should you fall prey to a scam (i.e., suffer monetary loss or loss of
+personal information), take the following steps to protect yourself from
+further losses, and prevent other victims from being scammed.</p>
 <hr>
 <p></p>
 <div class="isomer-card-grid">
