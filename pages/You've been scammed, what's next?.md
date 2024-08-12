@@ -95,25 +95,21 @@ IMO, Viber, etc.</p>
 </li>
 </ul>
 <p></p>
-<h4>If you receive a scam call, you can take the following steps to prevent the scammers from using the number to target others.</h4>
-<ul data-tight="true" class="tight">
+<p><strong><em>If you receive a scam call, you can take the following steps to prevent the scammers from using the number to target others.</em></strong>
+</p>
+<ol data-tight="true" class="tight">
 <li>
 <p>If you receive a scam phone call on a messaging app, do a “Report and
 Block”. This ensures the app will take down the account. By doing so, you
 are helping to stall the scammers from using that number to make more calls
 to potential victims.</p>
-</li>
-</ul>
 <p></p>
-<ol data-tight="true" class="tight">
+</li>
 <li>
 <p>If you receive a scam call via phone, block the phone number on your phone
 immediately. If you are using an iPhone, you may download ScamShield app
 – an app that filters scam messages and calls – and report the phone number
 via the app.</p>
-<p></p>
-</li>
-<li>
 <p>If you receive an unexpected call with the “+” prefix, be careful. It
 could be a scam. While this is not a foolproof method, it’s a good indicator
 to exercise greater caution.</p>
@@ -123,12 +119,14 @@ to exercise greater caution.</p>
 <h5><strong>Scam Website Links</strong></h5>
 <p>Scam Website Links include, but are not limited to, phishing links in
 text messages and emails, download links for fake investment platform applications,
-fake gambling platform applications.&nbsp;</p>
+fake gambling platform applications.</p>
+<p></p>
 <h5><strong>Bank Phishing Scams</strong></h5>
 <p>If there are signs of compromise, immediately suspend your bank account
 and ibanking facility with the bank. Do not give away any banking credentials
 and OTPs, and set up 2FA. Always be alert and never key in banking credentials
 in lookalike sites which are redirected.</p>
+<p></p>
 <h5><strong>WhatsApp account takeover</strong></h5>
 <p>If you’re a victim of WhatsApp takeover, you can recover your account
 with WhatsApp immediately. Next, get assistance from friends/relatives
@@ -137,18 +135,18 @@ to inform your contacts to not respond to the messages.
 <br>Always set up two-step verification for your WhatsApp account and never
 use a default PIN for your voicemail. You can also terminate your voicemail
 with your telco if you don’t need it.</p>
+<p></p>
 <h5><strong>Reporting Emails</strong></h5>
 <p>If you are reporting against a phishing email, retain the entire email
 for investigation purposes.
-<br>
 <br>Where possible, retrieve the email header and attach it to your report.
 To find out how to retrieve email headers, take this <a href="https://www.google.com/search?q=how+to+retrieve+email+header&amp;oq=how+to+retrieve+email+header&amp;aqs=chrome.0.69i59j35i39j0i512j0i22i30l7.1125j0j7&amp;sourceid=chrome&amp;ie=UTF-8" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.</p>
-<hr>
+<p></p>
 <h5><strong>Unauthorised Bank Transactions</strong></h5>
 <p>If you noticed unauthorised bank transactions call your bank immediately
 to report the matter. This could help save you thousands, though there
 is no guarantee you will get your money back.</p>
-<hr>
+<p></p>
 <h5><strong>Bitcoin Wallet</strong></h5>
 <p>If you want to report a bitcoin wallet, copy the entire bitcoin wallet
 address – which is case sensitive. Do also keep the wallet’s QR code if
