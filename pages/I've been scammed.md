@@ -29,7 +29,7 @@ you may share the information with the Police via the Police Hotline at
 </div>
 </details>
 <details class="isomer-details">
-<summary>Online account compromised</summary>
+<summary>Online account hacked</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
