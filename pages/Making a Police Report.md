@@ -74,7 +74,8 @@ such as your bank, 1799 scam hotline or other stakeholders</p>
 </ul>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>Additional information</p>
+<p><strong>Additional information</strong>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
