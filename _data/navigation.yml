@@ -4,6 +4,11 @@ links:
     url: https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/
   - title: I've been scammed
     url: /i-ve-been-scammed/
+    sublinks:
+      - title: What's Next
+        url: /gotscammed/
+  - title: I've been scammed
+    url: /i-ve-been-scammed/
   - title: Protection against scams
     collection: i-want-protection-from-scams
   - title: TRENDS & UPDATES
@@ -21,8 +26,3 @@ links:
         url: /trends-and-updates/videos
   - title: More
     collection: more
-  - title: I've been scammed
-    url: /i-ve-been-scammed/
-    sublinks:
-      - title: What's Next
-        url: /gotscammed/
