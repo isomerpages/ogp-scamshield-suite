@@ -95,7 +95,7 @@ IMO, Viber, etc.</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em>If you receive a scam call, you can take the following steps to prevent the scammers from using the number to target others.</em></strong>
+<p><strong><em>If you received a scam call, you can take the following steps to prevent the scammers from using the number to target others.</em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
