@@ -17,7 +17,7 @@ scammed, file a police report immediately. You can do so via these methods:</p>
 </p>
 </li>
 </ul>
-<p>Important Information to have when filing a police report:</p>
+<h4>Important Information to have when filing a police report:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Details of the scam</p>
@@ -60,9 +60,28 @@ lost</p>
 <p>Reports to other organizations</p>
 </li>
 </ol>
-<p></p>
-<p></p>
-<p>Financial impact</p>
-<p>Reports to other organizations</p>
-<p>Witness</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mention if you have reported the scam to other authorities or organizations
+such as your bank, 1799 scam hotline or other stakeholders</p>
+</li>
+<li>
+<p>Include reference number of those reports to facilitate investigation</p>
+</li>
+</ul>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Additional information</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide descriptions of the scammer if possible (Name/Alias used, physical
+appearance)</p>
+</li>
+<li>
+<p>Steps you have taken to prevent further losses (Freezing accounts, reporting
+)</p>
+</li>
+</ul>
 <p></p>
