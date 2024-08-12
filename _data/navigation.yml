@@ -21,3 +21,8 @@ links:
         url: /trends-and-updates/videos
   - title: More
     collection: more
+  - title: I've been scammed
+    url: /i-ve-been-scammed/
+    sublinks:
+      - title: What's Next
+        url: /gotscammed/
