@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Videos.md
-      - Scams Bulletins.md
-      - Scams and Cybercrime Briefs.md
       - Public Education Materials.md
+      - Scams and Cybercrime Briefs.md
+      - Scams Bulletins.md
+      - Videos.md
