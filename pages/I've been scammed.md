@@ -19,18 +19,17 @@ from further losses, and to prevent other victims from being scammed.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Contact your bank immediately if your bank account or credit card has
-been compromised, so that the bank can take immediate actions to prevent
-further monetary loss.</p>
+been compromised. This will enable the bank to take immediate action to
+prevent further financial losses.</p>
 <p></p>
 </li>
 <li>
-<p>File a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report</a> with
-these <a href="/making-a-police-report/" rel="noopener noreferrer nofollow" target="_blank">information</a> online,
-or in person at the nearest Neighbourhood Police Centre or Neighbourhood
-Police Post. Call 999 if you require the Police’s urgent assistance. If
-you have information about scams, you may share the information with the
-Police via the Police Hotline at 1800-255-0000 or online via the I-Witness
-e-Service (<a href="https://www.police.gov.sg/I-witness" rel="noopener noreferrer nofollow" target="_blank">SPF | I-Witness (police.gov.sg</a>).</p>
+<p>File a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report online</a> or
+in person at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Police Centre</a> or
+Neighbourhood Police Post. For urgent assistance, call 999. To report scams,
+you may share information with the Police via the Police Hotline at 1800-255-0000
+or online through the <a href="https://www.police.gov.sg/I-witness" rel="noopener noreferrer nofollow" target="_blank">I-Witness e-Service</a>.</p>
+<p></p>
 <p></p>
 <h4><strong><em>Here's what you can do while filing a police report</em></strong></h4>
 <p><strong>Website address (URL) shared by scammers</strong>
@@ -90,7 +89,7 @@ to exercise greater caution.</p>
 all your contacts, and report the incident to the respective email service
 provider or social media platform. If you still have access to your account,
 change your passphrase immediately. Set up two-factor or multi-factor authentication
-if you have not done so earlier.</p>
+if you have not done so.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -102,8 +101,8 @@ if you have not done so earlier.</p>
 </div>
 <p></p>
 <p>For e-commerce related scams, in addition to making a police report, do
-also report the incident to the platform administrators. This is to allow
-the platform to take down the fraudulent seller’s account as soon as possible.
+also report the incident to the platform administrators. This allows the
+platform to take down the fraudulent seller’s account as soon as possible.
 Provide as much information as you can in the police report such as scammers’
 WhatsApp numbers and account details, information and screenshots of the
 fraudulent posts (e.g., Instagram/Facebook/TikTok advertisements or listings
