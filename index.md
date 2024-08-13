@@ -24,33 +24,32 @@ sections:
           url: /introduction-to-scams/
   - infopic:
       title: 1 in 5 Singaporeans has fallen for a scam
-      subtitle: Did you know?
       id: infopic
-      description: Protect yourself and loved ones with scam-prevention tools, and
+      description: Protect yourself and loved ones with our scam-prevention tools, and
         always be alert to potential scams.
       image: /images/thumbnail_frustrated_guy_in_front_of_computer_2x.jpg
       alt: Image alt text
   - textcards:
-      title: Trending scams
-      subtitle: August 2024
+      title: Latest scam threats
       id: textcards
       cards:
         - title: Investment scam
-          description: ""
+          description: ~$50,700 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
         - title: Government Impersonation scam
-          description: ""
+          description: ~$103,600 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
         - title: Phishing scam
-          description: ""
+          description: ~$2,394 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
         - title: Job scam
-          description: ""
+          description: ~$13,692 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
+      description: Singapore lost $651.8 million to scams in 2023 across 50,376 cases
   - infopic:
       title: Keep safe with the ScamShield App
       id: infopic
@@ -115,4 +114,16 @@ sections:
       button: Button Text
       image: /images/header_image.png
       alt: Image alt text
+  - infocols:
+      title: Stay Safe with the ScamShield app
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
