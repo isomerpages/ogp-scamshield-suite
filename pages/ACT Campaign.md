@@ -4,7 +4,9 @@ permalink: /act-campaign/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Anyone can fall prey to scams</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT_logo_white_bg.png">
+</div>
 <p>Victims come from all demographic groups and backgrounds. Scam tactics
 constantly evolve and scammers use persuasive tactics to prey on common
 human vulnerabilities. However, there are preventive actions you can take,
@@ -12,7 +14,14 @@ to protect you and your loved ones against scams. The ACT (“Add, Check,
 Tell”) framework outlines three key actions to improve your defences against
 scams.</p>
 <p></p>
-<h4><strong>“ADD”</strong> the ScamShield app and security features.</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>“ADD” the ScamShield app and security features.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Orange.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
@@ -29,8 +38,15 @@ Refer to the infographics below on the tell-tale signs of a malware infection
 and what to do if your device is infected.</p>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>“CHECK” for scam signs with official sources</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>“CHECK”</strong> for scam signs with official sources</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pink.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>When you receive a phone call or message asking for your personal information,
@@ -56,8 +72,15 @@ not ask for your personal particulars or banking credentials over the phone,
 via SMSes, or emails.</p>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>“TELL” authorities, family and friends about scams.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>“TELL”</strong> authorities, family and friends about scams.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Green.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you suspect that you have fallen prey to scams, call your bank or use
@@ -80,4 +103,11 @@ from falling prey.</p>
 them from falling prey to scams by doing so.</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
+<h4></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
+</div>
 <p></p>
