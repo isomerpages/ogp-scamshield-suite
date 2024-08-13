@@ -152,7 +152,9 @@ platforms:</p>
 <p>Remain vigilant against repeated advances from scammers. Some may exploit
 their victims' vulnerabilities by impersonating authorities in an attempt
 to scam them again.</p>
-<h3><strong>Read more</strong></h3>
+<p></p>
+<hr>
+<h3><strong>Require more assistance?</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/transferred-money/permalink/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/loss.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">I lost money / leaked my bank login details to a scammer</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/installed-malware/permalink/" class="isomer-card">
 <div class="isomer-card-image">
