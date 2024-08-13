@@ -49,7 +49,7 @@ sections:
       image: /images/ecomm_banner.jpg
       alt: Image alt text
   - textcards:
-      title: Latest scam threats
+      title: Scam threats
       id: textcards
       cards:
         - title: Investment scam
@@ -69,6 +69,7 @@ sections:
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
       description: Singapore lost $651.8 million to scams in 2023 across 50,376 cases
+      subtitle: stay informed
   - infopic:
       title: Scams Bulletin
       id: infopic
