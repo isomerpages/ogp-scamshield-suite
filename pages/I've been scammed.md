@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>Should you fall prey to a scam (i.e., suffer monetary loss or loss of
-personal information), refer to each section below to protect yourself
-from further losses, and to prevent other victims from being scammed.</p>
+personal information), take the following steps to protect yourself from
+further losses, and prevent other victims from being scammed.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
