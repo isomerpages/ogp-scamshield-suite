@@ -149,11 +149,23 @@ platforms:</p>
 </div>
 <p></p>
 <p></p>
-<p>Be on alert for scammers’ repeated advances. Some scammers are known to
-take advantage of their victims’ vulnerabilities. They may impersonate
-police officers or other authorities and approach their victims with the
-intention of scamming their victims again.</p>
+<p>Remain vigilant against repeated advances from scammers. Some may exploit
+their victims' vulnerabilities by impersonating authorities in an attempt
+to scam them again.</p>
 <h3><strong>Read more</strong></h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/transferred-money/permalink/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/loss.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">I lost money / leaked my bank login details to a scammer</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/installed-malware/permalink/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/acct.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">I installed a malicious app</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a>
+</div>
 <p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money / leaked my bank login details to a scammer</a>
 </p>
 <p><a href="/installed-malware/permalink/" rel="noopener noreferrer nofollow" target="_blank">I installed a malicious app</a>
@@ -165,3 +177,4 @@ and close friends. Tell them about your scam encounter and seek help.</p>
 <p>Download the <a href="www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx" rel="noopener noreferrer nofollow" target="_blank">Anti-Scam Resource Guide</a> for
 information on the investigation process for scam cases and resources available
 to support you.</p>
+<p></p>
