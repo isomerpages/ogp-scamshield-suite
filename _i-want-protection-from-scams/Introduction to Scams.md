@@ -118,7 +118,6 @@ scams.</p>
 </div>
 </div>
 </div>
-<hr>
 <h4><strong>ADD</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
