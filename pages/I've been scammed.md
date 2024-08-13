@@ -167,9 +167,9 @@ to scam them again.</p>
 </a>
 </div>
 <p></p>
-<p>Experiencing a scam can be distressing. Seek support from family and close
-friends by sharing your experiences. If you require more support during
-the investigation process, we have a <a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">range of support</a> options available to you.</p>
+<p>Experiencing a scam can be distressing. Seek support from family and friends
+by sharing your experiences. If you require more support during the investigation
+process, we have a <a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">range of support</a> options available to you.</p>
 <p>Download the <a href="www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx" rel="noopener noreferrer nofollow" target="_blank">Anti-Scam Resource Guide</a> for
 information on the investigation process for scam cases and resources available
 to support you.</p>
