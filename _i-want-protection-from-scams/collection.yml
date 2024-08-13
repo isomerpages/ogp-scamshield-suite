@@ -2,8 +2,8 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
-      - ACT Campaign.md
       - Introduction to Scams.md
+      - ACT Campaign.md
       - Stay safe with ScamShield/.keep
       - Stay safe with ScamShield/About ScamShield.md
       - Stay safe with ScamShield/Check for scams.md
