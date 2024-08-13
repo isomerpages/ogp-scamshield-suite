@@ -119,7 +119,7 @@ to scam them again.</p>
 <div class="isomer-card-description">I accidentally installed a malicious app.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/making-a-police-report" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Police report" src="/images/Staging/icon3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">Important Information for Police Report.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/making-a-police-report" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Police report" src="/images/Staging/icon3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">Required information when you file Police Report.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
 <p>Experiencing a scam can be distressing. Seek support from family and friends
