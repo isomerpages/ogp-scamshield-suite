@@ -103,6 +103,14 @@ sections:
           link_text: Learn more
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
   - infopic:
+      title: ACT against scams
+      subtitle: Learn more
+      id: infopic
+      description: Learn more about the campaign
+      button: Button Text
+      image: /images/header_image.png
+      alt: Image alt text
+  - infopic:
       title: United against scammers
       id: infopic
       description: ScamShield is a joint effort by the Ministry of Home Affairs, the
@@ -113,14 +121,6 @@ sections:
       image: /images/ss_infopic_bg_1.png
       alt: Image alt text
   - infopic:
-      title: ACT against scams
-      subtitle: Learn more
-      id: infopic
-      description: Learn more about the campaign
-      button: Button Text
-      image: /images/header_image.png
-      alt: Image alt text
-  - infopic:
       title: Keep safe with the ScamShield App
       id: infopic
       description: The ScamShield App blocks calls from numbers known to be used in
@@ -129,13 +129,6 @@ sections:
       url: /about-scamshield/
       alt: Image alt text
       image: /images/Keep_safe_with_ScamShield.png
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - infobar:
       title: "Call the anti-scam helpline: 1799"
       subtitle: need more help?
