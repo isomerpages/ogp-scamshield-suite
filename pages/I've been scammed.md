@@ -107,7 +107,7 @@ to scam them again.</p>
 <p></p>
 <hr>
 <h3><strong>Require more assistance?</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/transferred-money/permalink/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/icon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">I've lost money or exposed my bank login details to a scammer.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/transferred-money/permalink/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/icon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">I've lost money or exposed my bank login details to a scammer.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/installed-malware/permalink/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -119,12 +119,12 @@ to scam them again.</p>
 <div class="isomer-card-description">I accidentally installed a malicious app.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/important-information-for-police-report/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Police report" src="/images/Staging/icon3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">Required information when you file a Police Report.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/important-information-for-police-report/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Police report" src="/images/Staging/icon3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">Required information when you file a Police Report.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
 <p>Experiencing a scam can be distressing. Seek support from family and friends
 by sharing your experiences. If you require more support during the investigation
-process, we have a <a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">range of support</a> options available to you.</p>
+process, we have a <a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">range of support</a> options available for you.</p>
 <p>Download the <a href="www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx" rel="noopener noreferrer nofollow" target="_blank">Anti-Scam Resource Guide</a> for
 information on the investigation process for scam cases and resources available
 to support you.</p>
