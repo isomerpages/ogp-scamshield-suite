@@ -166,14 +166,10 @@ to scam them again.</p>
 </div>
 </a>
 </div>
-<p><a href="/transferred-money/permalink/" rel="noopener noreferrer nofollow" target="_blank">I lost money / leaked my bank login details to a scammer</a>
-</p>
-<p><a href="/installed-malware/permalink/" rel="noopener noreferrer nofollow" target="_blank">I installed a malicious app</a>
-</p>
-<p>Being a victim of a scam can be distressing. Seek support from family
-and close friends. Tell them about your scam encounter and seek help.</p>
-<p><a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">Avenues of support</a>
-</p>
+<p></p>
+<p>Experiencing a scam can be distressing. Seek support from family and close
+friends by sharing your experiences. If you require more support during
+the investigation process, we have a <a href="/avenues-of-support/" rel="noopener noreferrer nofollow" target="_blank">range of support</a> options available to you.</p>
 <p>Download the <a href="www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx" rel="noopener noreferrer nofollow" target="_blank">Anti-Scam Resource Guide</a> for
 information on the investigation process for scam cases and resources available
 to support you.</p>
