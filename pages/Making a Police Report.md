@@ -9,8 +9,6 @@ description: ""
 <li>
 <p><strong>Details of the scam</strong>
 </p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Date and time when the scam happened</p>
@@ -23,12 +21,12 @@ description: ""
 or any other contact details used)</p>
 </li>
 </ul>
+</li>
+</ol>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Supporting evidence</strong>
 </p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Screenshots/photos of any messages, emails or websites of the scam</p>
@@ -44,12 +42,12 @@ lost</p>
 <p>Recordings of conversations with scammer</p>
 </li>
 </ul>
+</li>
+</ol>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Reports to other organizations</strong>
 </p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mention if you have reported the scam to other authorities or organizations
@@ -59,12 +57,10 @@ such as your bank, 1799 scam hotline or other stakeholders</p>
 <p>Include reference number of those reports to facilitate investigation</p>
 </li>
 </ul>
-<ol start="4" data-tight="true" class="tight">
+</li>
 <li>
 <p><strong>Additional information</strong>
 </p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Provide descriptions of the scammer if possible (Name/Alias used, physical
@@ -75,6 +71,8 @@ appearance)</p>
 further access)</p>
 </li>
 </ul>
+</li>
+</ol>
 <p></p>
 <p>
 <br>
