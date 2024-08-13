@@ -8,10 +8,6 @@ description: ""
 personal information), take the following steps to protect yourself from
 further losses, and prevent other victims from being scammed.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Monetary or Personal Information Loss</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/loss_banner.jpg">
 </div>
@@ -29,52 +25,10 @@ in person at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/po
 Neighbourhood Police Post. For urgent assistance, call 999. To report scams,
 you may share information with the Police via the Police Hotline at 1800-255-0000
 or online through the <a href="https://www.police.gov.sg/I-witness" rel="noopener noreferrer nofollow" target="_blank">I-Witness e-Service</a>.</p>
-<p></p>
-<p></p>
-<h4><strong><em>Here's what you can do while filing a police report</em></strong></h4>
-<p><strong>Website address (URL) shared by scammers</strong>
-</p>
-<p>If a scammer has directed you to access a website to input your banking
-details or engage in online trading (phishing and investment scams), or
-instructed you to download a mobile application from a website, you can
-report the link by entering the full URL of the scam website. Retrieve
-the full link from your Internet browser history. This action enables the
-authorities to take appropriate measures against the website.</p>
-<p></p>
-<p><strong>Phone numbers</strong>
-</p>
-<p>You can report the phone number used by the scammer by entering the complete
-string of numbers without any spacing in your police report. Please indicate
-if the number has a ‘+’ prefix. Additionally, specify the type of call
-made, such as normal call, WhatsApp, Telegram, IMO, Viber, etc. For example:
-+65123456789</p>
-<p></p>
 </li>
 </ol>
-<p>-- Remove from here--</p>
-<p><strong><em>If you received a scam call, you can take the following steps to prevent the scammers from using the number to target others.</em></strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>If you receive a scam phone call on a messaging app, do a “Report and
-Block”. This ensures the app will take down the account. By doing so, you
-are helping to stall the scammers from using that number to make more calls
-to potential victims.</p>
 <p></p>
-</li>
-<li>
-<p>If you receive a scam call via phone, block the phone number on your phone
-immediately. If you are using an iPhone, you may download ScamShield app
-– an app that filters scam messages and calls – and report the phone number
-via the app.</p>
-<p>If you receive an unexpected call with the “+” prefix, be careful. It
-could be a scam. While this is not a foolproof method, it’s a good indicator
-to exercise greater caution.</p>
-<p>--to here--</p>
-</li>
-</ol>
-</div>
-</details>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Online account hacked</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -82,8 +36,8 @@ to exercise greater caution.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/acct_banner.jpg">
 </div>
-<p>
-<br>If your online account (e.g., email or social media) is compromised, promptly
+<p></p>
+<p>If your online account (e.g., email or social media) is compromised, promptly
 inform all your contacts and report the incident to the relevant email
 service provider or social media platform. If you still have access to
 your account, immediately change your password. Additionally, consider
@@ -147,7 +101,6 @@ platforms:</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <p>Remain vigilant against repeated advances from scammers. Some may exploit
 their victims' vulnerabilities by impersonating authorities in an attempt
 to scam them again.</p>
@@ -166,7 +119,7 @@ to scam them again.</p>
 <div class="isomer-card-description">I accidentally installed a malicious app.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/making-a-police-report" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Police report" src="/images/Staging/icon3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">I need additional details on how to file a police report.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/making-a-police-report" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Police report" src="/images/Staging/icon3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">Important Information for Police Report.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
 <p>Experiencing a scam can be distressing. Seek support from family and friends
