@@ -34,22 +34,20 @@ or online through the <a href="https://www.police.gov.sg/I-witness" rel="noopene
 <h4><strong><em>Here's what you can do while filing a police report</em></strong></h4>
 <p><strong>Website address (URL) shared by scammers</strong>
 </p>
-<p>If a scammer had told you to access a website to key in your banking details
-or do online trading (phishing and investment scams), or asked you to download
-a mobile application from a website, you can report the link by keying
-in the full URL of the scam website visited, which may be from shortened
-URLs, (e.g. Tinyurl, Bit.ly). Refer to your Internet browser history to
-retrieve the full link. This allows for the authorities to take action
-against the website.</p>
+<p>If a scammer has directed you to access a website to input your banking
+details or engage in online trading (phishing and investment scams), or
+instructed you to download a mobile application from a website, you can
+report the link by entering the full URL of the scam website. Retrieve
+the full link from your Internet browser history. This action enables the
+authorities to take appropriate measures against the website.</p>
 <p></p>
 <p><strong>Phone numbers</strong>
 </p>
-<p>If you have fallen prey to a scam, you can report the phone number used
-by the scammer by entering the entire string of numbers with no spacing
-in between numbers (omit dashes) in your police report. Please indicate
-if the number has a ‘+’ prefix. For example: +65123456789</p>
-<p>Do state the type of call made, e.g. normal call, WhatsApp, Telegram,
-IMO, Viber, etc.</p>
+<p>You can report the phone number used by the scammer by entering the complete
+string of numbers without any spacing in your police report. Please indicate
+if the number has a ‘+’ prefix. Additionally, specify the type of call
+made, such as normal call, WhatsApp, Telegram, IMO, Viber, etc. For example:
++65123456789</p>
 <p></p>
 </li>
 </ol>
