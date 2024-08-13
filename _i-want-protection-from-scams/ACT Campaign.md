@@ -45,7 +45,7 @@ and what to do if your device is infected.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pink.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Green.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -79,7 +79,7 @@ via SMSes, or emails.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Green.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pink.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
