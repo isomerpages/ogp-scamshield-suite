@@ -85,9 +85,6 @@ scams.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ICANACTAGAINSTSCAMS.png">
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
-</div>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -121,6 +118,7 @@ scams.</p>
 </div>
 </div>
 </div>
+<hr>
 <h4><strong>ADD</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -138,7 +136,7 @@ Refer to the infographics below on the tell-tale signs of a malware infection
 and what to do if your device is infected.</p>
 </li>
 </ul>
-<p></p>
+<hr>
 <h4><strong>CHECK</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -166,8 +164,7 @@ not ask for your personal particulars or banking credentials over the phone,
 via SMSes, or emails.</p>
 </li>
 </ul>
-<p></p>
-<p></p>
+<hr>
 <h4><strong>TELL</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -192,5 +189,8 @@ them from falling prey to scams by doing so.</p>
 </li>
 </ul>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
+</div>
 <p></p>
 <p></p>
