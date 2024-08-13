@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Scams Bulletins.md
       - Scams and Cybercrime Briefs.md
       - Public Education Materials.md
