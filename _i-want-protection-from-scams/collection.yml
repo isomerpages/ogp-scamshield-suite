@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Introduction to Scams.md
-      - ACT Campaign.md
       - Stay safe with ScamShield/.keep
       - Stay safe with ScamShield/About ScamShield.md
       - Stay safe with ScamShield/Check for scams.md
@@ -23,3 +22,4 @@ collections:
       - Understanding scam types/E Commerce Scams.md
       - Understanding scam types/Fake Friend Call Scams.md
       - Understanding scam types/Phishing Scams.md
+      - ACT Campaign.md
