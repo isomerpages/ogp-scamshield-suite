@@ -5,7 +5,7 @@ links:
   - title: I've been scammed
     url: /i-ve-been-scammed/
     sublinks:
-      - title: Making a police report
+      - title: Making a Police Report
         url: /making-a-police-report/
   - title: Protection against scams
     collection: i-want-protection-from-scams
@@ -24,5 +24,3 @@ links:
         url: /trends-and-updates/videos
   - title: More
     collection: more
-  - title: Test
-    collection: resources
