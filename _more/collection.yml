@@ -2,6 +2,6 @@ collections:
   more:
     output: true
     order:
-      - ACT Campaign.md
       - Our Partners.md
       - Whole of Government Efforts.md
+      - ACT Campaign.md
