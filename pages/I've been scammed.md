@@ -85,11 +85,12 @@ to exercise greater caution.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/acct_banner.jpg">
 </div>
 <p>
-<br>If your online account (e.g., email or social media) is compromised, notify
-all your contacts, and report the incident to the respective email service
-provider or social media platform. If you still have access to your account,
-change your passphrase immediately. Set up two-factor or multi-factor authentication
-if you have not done so.</p>
+<br>If your online account (e.g., email or social media) is compromised, promptly
+inform all your contacts and report the incident to the relevant email
+service provider or social media platform. If you still have access to
+your account, immediately change your password. Additionally, consider
+enabling two-factor or multi-factor authentication if you have not already
+done so.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -100,13 +101,13 @@ if you have not done so.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ecomm_banner.jpg">
 </div>
 <p></p>
-<p>For e-commerce related scams, in addition to making a police report, do
-also report the incident to the platform administrators. This allows the
-platform to take down the fraudulent seller’s account as soon as possible.
-Provide as much information as you can in the police report such as scammers’
-WhatsApp numbers and account details, information and screenshots of the
-fraudulent posts (e.g., Instagram/Facebook/TikTok advertisements or listings
-/ Instagram stories).</p>
+<p>For e-commerce related scams, apart from filing a police report, it is
+important to also report the incident to the platform administrators. This
+enables the platform to swiftly deactivate the fraudulent seller’s account.
+When making the police report, include as much information as possible,
+such as the scammers’ WhatsApp numbers and account details, along with
+information and screenshots of the fraudulent posts (e.g., Instagram/Facebook/TikTok
+advertisements or listings/Instagram stories).</p>
 <p></p>
 <p>Here are some URLs containing guides on how to report sellers across various
 platforms:</p>
