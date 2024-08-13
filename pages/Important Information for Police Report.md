@@ -9,23 +9,25 @@ description: ""
 <li>
 <p><strong>Website address (URL) shared by scammers</strong>
 </p>
+</li>
+</ul>
 <p>If a scammer has directed you to access a website to input your banking
 details or engage in online trading (phishing and investment scams), or
 instructed you to download a mobile application from a website, you can
 report the link by entering the full URL of the scam website. Retrieve
 the full link from your Internet browser history. This action enables the
 authorities to take appropriate measures against the website.</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Phone numbers</strong>
 </p>
+</li>
+</ul>
 <p>You can report the phone number used by the scammer by entering the complete
 string of numbers without any spacing in your police report. Please indicate
 if the number has a ‘+’ prefix. Additionally, specify the type of call
 made, such as normal call, WhatsApp, Telegram, IMO, Viber, etc. For example:
 +65123456789</p>
-</li>
-</ul>
 <h4>Important Information to have when filing a police report:</h4>
 <ol data-tight="true" class="tight">
 <li>
