@@ -24,16 +24,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Annual Scams Brief/20240218_Annual_Scams_and_Cybercrime_Brief_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/loss_banner.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/Annual Scam brief"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/loss_banner.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Annual Scams Brief/Annual_Scams_and_Cybercrime_Brief_2023_Infographic.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
