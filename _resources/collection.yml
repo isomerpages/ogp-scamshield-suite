@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Police News Release.md
       - Public Education Materials.md
       - Scams and Cybercrime Briefs.md
       - Scams Bulletin.md
