@@ -22,6 +22,14 @@ sections:
         - title: Protect yourself against scams
           description: ""
           url: /introduction-to-scams/
+  - infopic:
+      title: 1 in 5 Singaporeans has fallen for a scam
+      subtitle: Did you know?
+      id: infopic
+      description: Protect yourself and loved ones with scam-prevention tools, and
+        always be alert to potential scams.
+      image: /images/thumbnail_frustrated_guy_in_front_of_computer_2x.jpg
+      alt: Image alt text
   - textcards:
       title: Trending scams
       subtitle: August 2024
@@ -43,11 +51,6 @@ sections:
           description: ""
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
-  - infobar:
-      title: CALL 1799
-      subtitle: Coming soon in Sep 2024
-      id: infobar
-      description: If you are uncertain whether something may be a scam.
   - infopic:
       title: Keep safe with the ScamShield App
       id: infopic
@@ -57,14 +60,11 @@ sections:
       url: /about-scamshield/
       alt: Image alt text
       image: /images/Keep_safe_with_ScamShield.png
-  - infopic:
-      title: 1 in 5 Singaporeans has fallen for a scam
-      subtitle: Did you know?
-      id: infopic
-      description: Protect yourself and loved ones with scam-prevention tools, and
-        always be alert to potential scams.
-      image: /images/thumbnail_frustrated_guy_in_front_of_computer_2x.jpg
-      alt: Image alt text
+  - infobar:
+      title: CALL 1799
+      subtitle: Coming soon in Sep 2024
+      id: infobar
+      description: If you are uncertain whether something may be a scam.
   - infopic:
       title: Scams Bulletin
       id: infopic
@@ -106,5 +106,13 @@ sections:
       button: Learn more
       url: /our-partners/
       image: /images/ss_infopic_bg_1.png
+      alt: Image alt text
+  - infopic:
+      title: ACT against scams
+      subtitle: Learn more
+      id: infopic
+      description: Learn more about the campaign
+      button: Button Text
+      image: /images/header_image.png
       alt: Image alt text
 ---
