@@ -47,8 +47,7 @@ sections:
       title: CALL 1799
       subtitle: Coming soon in Sep 2024
       id: infobar
-      description: Unsure if something is a scam? Call the helpline if you are in a
-        situation you think could be a scam
+      description: If you are uncertain whether something may be a scam.
   - infopic:
       title: Keep safe with the ScamShield App
       id: infopic
@@ -98,12 +97,6 @@ sections:
             fight against scams.
           link_text: Learn more
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
-        - title: Launch of ACT campaign
-          date: 16 January 2023
-          announcement: A new national campaign to empower individuals to ACT against
-            scams have been launched.
-          link_text: Learn more
-          link_url: /introduction-to-scams/
   - infopic:
       title: United against scammers
       id: infopic
