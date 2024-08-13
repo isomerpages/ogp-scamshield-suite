@@ -29,6 +29,25 @@ sections:
         always be alert to potential scams.
       image: /images/thumbnail_frustrated_guy_in_front_of_computer_2x.jpg
       alt: Image alt text
+  - infocols:
+      title: Stay safe with the enhanced ScamShield app
+      subtitle: get scam protection
+      id: infocols
+      linktext: about scamshield
+      infoboxes:
+        - title: Check for scams
+          description: Know if a suspicious message, link, or number is likely a scam
+        - title: Report potential scams
+          description: Submit reports with screenshots, so we can monitor them better
+        - title: Block and filter scams
+          description: Set up your phone to block calls and SMSes from scammers
+      url: /about-scamshield/
+  - infopic:
+      title: "Call the anti-scam helpline: 1799"
+      subtitle: need more help?
+      id: infopic
+      image: /images/ecomm_banner.jpg
+      alt: Image alt text
   - textcards:
       title: Latest scam threats
       id: textcards
@@ -50,20 +69,6 @@ sections:
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
       description: Singapore lost $651.8 million to scams in 2023 across 50,376 cases
-  - infopic:
-      title: Keep safe with the ScamShield App
-      id: infopic
-      description: The ScamShield App blocks calls from numbers known to be used in
-        illegal activities. It also filters or alerts you to suspicious SMSes.
-      button: Learn more
-      url: /about-scamshield/
-      alt: Image alt text
-      image: /images/Keep_safe_with_ScamShield.png
-  - infobar:
-      title: CALL 1799
-      subtitle: Coming soon in Sep 2024
-      id: infobar
-      description: If you are uncertain whether something may be a scam.
   - infopic:
       title: Scams Bulletin
       id: infopic
@@ -114,16 +119,24 @@ sections:
       button: Button Text
       image: /images/header_image.png
       alt: Image alt text
-  - infocols:
-      title: Stay Safe with the ScamShield app
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+  - infopic:
+      title: Keep safe with the ScamShield App
+      id: infopic
+      description: The ScamShield App blocks calls from numbers known to be used in
+        illegal activities. It also filters or alerts you to suspicious SMSes.
+      button: Learn more
+      url: /about-scamshield/
+      alt: Image alt text
+      image: /images/Keep_safe_with_ScamShield.png
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: "Call the anti-scam helpline: 1799"
+      subtitle: need more help?
+      id: infobar
 ---
