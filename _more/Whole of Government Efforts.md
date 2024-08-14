@@ -6,6 +6,7 @@ description: ""
 ---
 <p>Combatting scams is a key priority for the Singapore Government. The Government
 adopts a multi-layered strategy to tackle scams, centered on four key areas:</p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Prevent and block scams</strong>
