@@ -21,10 +21,10 @@ prevent further financial losses.</p>
 </li>
 <li>
 <p>File a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report online</a> or
-in person at the nearest <a href="https://www.sgdi.gov.sg/search-results?term=Neighbourhood%20Police" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Police Centre</a> or
-Neighbourhood Police Post. For urgent assistance, call 999. To report scams,
-you may share information with the Police via the Police Hotline at 1800-255-0000
-or online through the <a href="https://www.police.gov.sg/I-witness" rel="noopener noreferrer nofollow" target="_blank">I-Witness e-Service</a>.</p>
+in person at the nearest <a href="https://www.sgdi.gov.sg/search-results?term=Neighbourhood%20Police" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Police Centre or Neighbourhood Police Post</a>.
+For urgent assistance, call 999. To report scams, you may share information
+with the Police via the Police Hotline at 1800-255-0000 or online through
+the <a href="https://www.police.gov.sg/I-witness" rel="noopener noreferrer nofollow" target="_blank">I-Witness e-Service</a>.</p>
 </li>
 </ol>
 <p></p>
