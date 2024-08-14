@@ -27,15 +27,13 @@ scams.</p>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
 With ScamShield, you can expect to receive reduced numbers of scam calls.
 You can also expect fewer malicious SMSes, such as those offering fake
-job offers and loans, or tricking you to click malicious links.</p>
+job offers and loans, or tricking you into clicking malicious links.</p>
 </li>
 <li>
 <p>Install anti-virus apps to prevent malware. Anti-virus apps which can
-detect malware and malicious phishing links are key to safeguarding your
+detect malware and malicious phishing links are keys to safeguarding your
 devices and accounts. CSA has put together a list of recommended apps which
-users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank"><u>Add ScamShield and Anti-Virus Apps</u></a>.
-Refer to the infographics below on the tell-tale signs of a malware infection
-and what to do if your device is infected.</p>
+users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank"><u>Add ScamShield and Anti-Virus Apps</u></a>.</p>
 </li>
 </ul>
 </div>
@@ -83,19 +81,19 @@ via SMSes, or emails.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>If you suspect that you have fallen prey to scams, call your bank or use
-bank’s mobile application immediately and activate the emergency “kill-switch”.
-This is a feature that the banks can suspend your account immediately to
-prevent your money from being transferred away by scammers.</p>
+<p>If you suspect that you have fallen prey to a scam, call your bank or
+use the bank’s mobile application to activate the emergency “kill-switch”.
+This enables the bank to promptly suspend your account to prevent scammers
+from transferring your funds.</p>
 </li>
 <li>
-<p>You should also file a police report immediately. You may <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank"><u>file an e-report online</u></a>,
-or in person at the nearest Neighbourhood Police Centre or Neighbourhood
-Police Post.</p>
+<p>You should also file a police report immediately via <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank"><u>e-report online</u></a> or
+in person at the nearest Neighbourhood Police Centre or Neighbourhood Police
+Post.</p>
 </li>
 <li>
 <p>You can also share your scam encounters via the ScamShield app and/or
-to the ScamShield Bot. Your sharing can help prevent other potential victims
+the ScamShield Bot. Your sharing can help prevent other potential victims
 from falling prey.</p>
 </li>
 <li>
