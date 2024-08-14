@@ -4,7 +4,8 @@ permalink: /whole-of-government-effort/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Combatting scams is a key priority for the Singapore Government. The Government adopts a multi-layered strategy to tackle scams, centered on <u>four</u> key areas:</strong></h2>
+<p>Combatting scams is a key priority for the Singapore Government. The Government
+adopts a multi-layered strategy to tackle scams, centered on four key areas:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Prevent and block scams</strong>
