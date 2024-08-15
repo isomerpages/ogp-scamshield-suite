@@ -110,7 +110,7 @@ sections:
       button: Learn more
       image: /images/header_image.png
       alt: Image alt text
-      url: /act-campaign
+      url: /act-campaign/
   - infopic:
       title: United against scammers
       id: infopic
