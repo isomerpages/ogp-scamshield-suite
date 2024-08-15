@@ -107,9 +107,10 @@ sections:
       subtitle: Learn more
       id: infopic
       description: Learn more about the campaign
-      button: Button Text
+      button: Learn more
       image: /images/header_image.png
       alt: Image alt text
+      url: /act-campaign
   - infopic:
       title: United against scammers
       id: infopic
