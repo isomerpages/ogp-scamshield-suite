@@ -4,48 +4,6 @@ permalink: /st-article/
 variant: tiptap
 description: ""
 ---
-<h4></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Jan 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article1.jpg"></a>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Feb 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article2.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mar 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article3.jpg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Apr 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article3.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>May 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article1.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Jun 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article2.jpg"></a>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start01" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore is a prime target for scammers.</div><div class="isomer-card-description">Here’s how you can stay safe</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start02" class="isomer-card">
 <div class="isomer-card-image">
