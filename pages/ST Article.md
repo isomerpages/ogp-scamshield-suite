@@ -47,7 +47,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">What to do when you’re asked to pay to earn easy mone</div>
+<div class="isomer-card-title">What to do when you’re asked to pay to earn easy money</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start09" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/ST Article/st09.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Received an unsolicited link?</div><div class="isomer-card-description">Here’s how to check if it’s legitimate</div><div class="isomer-card-link">Learn more</div></div></a>
