@@ -62,7 +62,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start04" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST Article/st04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st04.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -70,7 +70,29 @@ description: ""
 <div class="isomer-card-description">Here's how to know if it's a scam</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start05" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST Article/st05.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tired of scam calls from overseas?</div><div class="isomer-card-description">This new measure lets you take a preventive stance</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start05" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st05.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tired of scam calls from overseas?</div><div class="isomer-card-description">This new measure lets you take a preventive stance</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start06" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st06.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Here are some measures you should take for more secure digital banking</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start07" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/ST Article/st07.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Young adults are falling for job scams.</div><div class="isomer-card-description">Here’s why they are more susceptible</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start08" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/ST Article/st08.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">What to do when you’re asked to pay to earn easy mone</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start09" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/ST Article/st09.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Received an unsolicited link?</div><div class="isomer-card-description">Here’s how to check if it’s legitimate</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
 <p></p>
