@@ -13,30 +13,30 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Jan 2024</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article1.jpg"></a>
+<td rowspan="1" colspan="1">
+<p><strong>Jan 2024</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article1.jpg"></a>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Feb 2024</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article2.jpg"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mar 2024</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article3.jpg"></a>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Feb 2024</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article2.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mar 2024</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article3.jpg"></a>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>Apr 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>May 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>Jun 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article2.jpg"></a>
 </td>
