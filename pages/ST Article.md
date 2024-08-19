@@ -15,6 +15,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p>Jan 2024</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article1.jpg"></a>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Feb 2024</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article2.jpg"></a>
