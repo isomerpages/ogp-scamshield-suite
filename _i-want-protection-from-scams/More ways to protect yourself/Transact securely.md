@@ -63,6 +63,39 @@ is automatically set at $2,000 per day.</p>
 to safeguard your CPF savings by activating the CPF Withdrawal Lock to
 disable online withdrawals. You can do so in 3 easy steps via the <a href="https://www.cpf.gov.sg/member/ds/account-settings" rel="noopener noreferrer nofollow" target="_blank">CPF account settings</a>&nbsp;after
 logging on to the CPF website using your Singpass.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Steps to disable online withdrawal</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__1_.png">
+</div>
+</li>
+<li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__2_.png">
+</div>
+</li>
+<li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__3_.png">
+</div>
+</li>
+<li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__4_.png">
+</div>
+</li>
+</ol>
+</div>
+</details>
+</div>
 <p>When you need to make a CPF withdrawal, you can enable online withdrawals
 again by increasing the online Daily Withdrawal Limit via the CPF account
 settings. You are encouraged to plan your CPF withdrawals in advance, as
