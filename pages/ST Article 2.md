@@ -19,7 +19,6 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong><a href="https://go.gov.sg/start01" rel="noopener noreferrer nofollow" target="_blank">Singapore is a prime target for scammers. Here’s how you can stay safe</a></strong>
 </p>
 </td>
@@ -33,7 +32,6 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong><a href="https://go.gov.sg/start02" rel="noopener noreferrer nofollow" target="_blank">Found a good deal? Check for these e-commerce scam signs before you checkout</a></strong>
 </p>
 </td>
@@ -47,7 +45,6 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong><a href="https://go.gov.sg/start03" rel="noopener noreferrer nofollow" target="_blank">Asked to pay extra delivery fees to ship your parcel? It could be a scam</a></strong>
 </p>
 </td>
