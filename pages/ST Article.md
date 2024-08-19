@@ -46,19 +46,19 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/i-ve-been-scammed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/Scam_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">331 under investigation for scams where victims lost over $7.3 million</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="/i-ve-been-scammed/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start01" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st_01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore is a prime target for scammers.</div><div class="isomer-card-description">Here’s how you can stay safe</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start02" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/Scam_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description">Scammers prey on young Chinese desperate for jobs in bleak economy</div>
-<div class="isomer-card-link"></div>
+<div class="isomer-card-title">Found a good deal?</div>
+<div class="isomer-card-description">Check for these e-commerce scam signs before you checkout</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/i-ve-been-scammed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/Scam_3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">594 people have lost $1.3m in online marketplace scams</div><div class="isomer-card-link"></div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start03" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/Scam_3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asked to pay extra delivery fees to ship your parcel?</div><div class="isomer-card-description">It could be a scam</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
 <p></p>
