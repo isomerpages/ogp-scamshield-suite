@@ -21,3 +21,5 @@ links:
         url: /trends-and-updates/videos
   - title: More
     collection: more
+  - title: Test
+    collection: resources-testing
