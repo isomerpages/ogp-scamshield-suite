@@ -61,8 +61,7 @@ find out more about Money Lock.</p>
 is automatically set at $2,000 per day.</p>
 <p>If you have no immediate plans to withdraw your CPF savings, you are encouraged
 to safeguard your CPF savings by activating the CPF Withdrawal Lock to
-disable online withdrawals. You can do so in 3 easy steps via the <a href="https://www.cpf.gov.sg/member/ds/account-settings" rel="noopener noreferrer nofollow" target="_blank">CPF account settings</a>&nbsp;after
-logging on to the CPF website using your Singpass.</p>
+disable online withdrawals.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Steps to disable online withdrawal</summary>
