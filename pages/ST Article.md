@@ -26,15 +26,15 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Apr 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/Article3.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>May 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/Article1.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Jun 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/Article2.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article2.jpg"></a>
 </td>
 </tr>
 </tbody>
