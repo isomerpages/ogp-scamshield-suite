@@ -64,7 +64,7 @@ to safeguard your CPF savings by activating the CPF Withdrawal Lock to
 disable online withdrawals.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>How do I disable CPF online withdrawal</summary>
+<summary>How do I disable CPF online withdrawals</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
