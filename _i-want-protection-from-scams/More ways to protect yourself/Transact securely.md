@@ -66,40 +66,26 @@ disable online withdrawals.</p>
 <details class="isomer-details">
 <summary>Steps to disable online withdrawal</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
-<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__1_.png">
 </div>
-</li>
-<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__2_.png">
 </div>
-</li>
-<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__3_.png">
 </div>
-</li>
-<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__4_.png">
 </div>
-</li>
-</ol>
 </div>
 </details>
 </div>
-<p>When you need to make a CPF withdrawal, you can enable online withdrawals
-again by increasing the online Daily Withdrawal Limit via the CPF account
-settings. You are encouraged to plan your CPF withdrawals in advance, as
-this process will involve enhanced authentication measures and a 12-hour
-cooling period for security purposes.</p>
+<p></p>
 <p>The online Daily Withdrawal Limit and CPF Withdrawal Lock complement CPFB’s
 existing security measures, which include Singpass Two-Factor Authentication
 (2FA) and ensuring that your CPF savings can only be paid to bank accounts
