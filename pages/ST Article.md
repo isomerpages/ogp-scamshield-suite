@@ -42,7 +42,7 @@ description: ""
 </table>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/i-ve-been-scammed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/icon3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description"></div><div class="isomer-card-link">Jan 2024</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/HDB%20DDPs/beware_investment_scam.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/icon3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-link">Jan 2024</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/i-ve-been-scammed/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -53,7 +53,7 @@ description: ""
 <div class="isomer-card-title"></div>
 <div class="isomer-card-link">Feb 2024</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/i-ve-been-scammed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/icon2_skull.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-link">Mar 2024</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/i-ve-been-scammed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/icon2_skull.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-link">Mar 2024</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/i-ve-been-scammed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/WA.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-link">Apr 2024</div></div></a>
