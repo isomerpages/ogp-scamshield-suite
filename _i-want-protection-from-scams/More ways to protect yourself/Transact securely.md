@@ -68,19 +68,19 @@ disable online withdrawals.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__1_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__1_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__2_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__2_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__3_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__3_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__4_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__4_.png">
 </div>
 </div>
 </details>
