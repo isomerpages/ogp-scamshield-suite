@@ -14,7 +14,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ST Article/st01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ST Article/st01.jpg">
 </div>
 <p></p>
 </td>
@@ -27,7 +27,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ST Article/st02.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ST Article/st02.jpg">
 </div>
 <p></p>
 </td>
@@ -40,7 +40,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ST Article/st03.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ST Article/st03.jpg">
 </div>
 <p></p>
 </td>
