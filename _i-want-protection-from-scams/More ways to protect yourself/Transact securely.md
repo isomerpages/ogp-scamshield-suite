@@ -83,6 +83,7 @@ disable online withdrawals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__4_.png">
 </div>
+<p></p>
 </div>
 </details>
 </div>
