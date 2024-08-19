@@ -62,7 +62,7 @@ description: ""
 <div class="isomer-card-description">Beware of clickable links from buyers</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start11" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Good cyber hygiene routine can keep dirty tricks of scammers at bay</div><div class="isomer-card-description"> </div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start11" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Good cyber hygiene routine can keep dirty tricks of scammers at bay</div><div class="isomer-card-description"></div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start12" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -112,16 +112,15 @@ description: ""
 </div>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start19" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start19" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Received an SMS from the Government?</div><div class="isomer-card-description">Here's an easy way to tell if it's real</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start20" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st20.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Recent global IT outage a timely reminder to stay vigilant against scams</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
 </a>
