@@ -17,8 +17,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore is a prime target for scammers.</p>
-<p>Here’s how you can stay safe</p>
+<p>Singapore is a prime target for scammers. Here’s how you can stay safe</p>
 </td>
 </tr>
 <tr>
@@ -28,8 +27,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Found a good deal?</p>
-<p>Check for these e-commerce scam signs before you checkout</p>
+<p>Found a good deal? Check for these e-commerce scam signs before you checkout</p>
 </td>
 </tr>
 <tr>
@@ -39,8 +37,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asked to pay extra delivery fees to ship your parcel?</p>
-<p>It could be a scam</p>
+<p>Asked to pay extra delivery fees to ship your parcel? It could be a scam</p>
 </td>
 </tr>
 </tbody>
