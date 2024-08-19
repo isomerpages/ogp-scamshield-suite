@@ -26,20 +26,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Apr 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>May 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Jun 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/Article2.jpg"></a>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/i-ve-been-scammed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Staging/Scam_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">331 under investigation for scams where victims lost over $7.3 million</div><div class="isomer-card-link"></div></div></a>
