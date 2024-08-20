@@ -53,6 +53,7 @@ description: ""
 </tbody>
 </table>
 <h4>| 2023</h4>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
