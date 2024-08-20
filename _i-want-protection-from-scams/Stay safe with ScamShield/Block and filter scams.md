@@ -18,9 +18,15 @@ of sensitive information.</p>
 <p>Protect yourself from the scam calls and SMSes by taking the following
 actions.</p>
 <hr>
-<h4>For iOS (iPhone) users</h4>
-<p><strong>How can I tell if ScamShield is working on my iOS phone?</strong>
+<h4>Set up scam blocking on iOS</h4>
+<p></p>
+<p></p>
+<p><strong>Frequently asked questions</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>How can I tell if ScamShield is working on my iOS phone?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>When you receive a scam SMS from an <strong>unknown number</strong> that
 is determined to be a scam, ScamShield filters the messages to a junk SMS
 folder.</p>
@@ -40,18 +46,11 @@ Junk Messages and seeing the label <strong>‘Filtered by ScamShield’</strong>
 by ScamShield.</p>
 </li>
 </ul>
-<p>
-<br><strong>What should I report to ScamShield?</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To help us protect you better, report any scams that we may have missed
-filtering.</p>
-</li>
-</ul>
-<p>
-<br><strong>How does it work on my iOS phone?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>How does it work on my iOS phone?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>The app filters incoming calls and SMSes from <strong>unknown numbers, including overseas numbers</strong>.
@@ -67,9 +66,12 @@ if the SMS is a scam using an on-device algorithm.</p>
 <p>For iOS, it filters the messages to a junk SMS folder.</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <hr>
 <h4>For Android users</h4>
-<p><strong>How can I tell if ScamShield is working on my Android phone? </strong>
+<p><strong>How can I tell if ScamShield is working on my Android phone?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
