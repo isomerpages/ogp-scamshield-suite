@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Stay safe with ScamShield
 ---
-<h3><strong>What is ScamShield? </strong></h3>
+<h3><strong>What is ScamShield?</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="What is ScamShield?" src="/images/What_is_a_ScamShield_.png">
@@ -19,11 +19,25 @@ at 1799).
 <br>Each of these plays a crucial role in empowering individuals to fight
 against scams, and protect themselves, as well as the community, from fraudulent
 activities.</p>
-<h3><strong>How the app works</strong></h3>
-<p>Fighting scams is a collaborative effort, and the ScamShield system works
-better when it constantly receives scam reports with sufficient information.
-When members of the public spot or encounter scams and report them on ScamShield,
-the Singapore Police Force (SPF) reviews them to help strengthen our defences.&nbsp;</p>
+<h3><strong>How the app works </strong></h3>
+<p>The ScamShield app can help you:</p>
+<ul>
+<li>
+<p><strong>Check for scams</strong>: Enter a suspicious message, link, or
+phone number to check if it’s a scam. You can also upload a screenshot
+of a message (received via SMS, WhatsApp, or Telegram) to check if it is
+likely to be a scam.</p>
+</li>
+<li>
+<p><strong>Block and filter scams</strong>: Follow step-by-step instructions
+to set up your phone to block scam calls and SMSes.</p>
+</li>
+<li>
+<p><strong>Submit scam reports</strong>: Include screenshots when submitting
+scam reports, so it’s easier for the police to take action on them. Your
+reports help expand our database of scammers, and keep our community safe.</p>
+</li>
+</ul>
 <p></p>
 <h4>Call blocking and SMS filtering</h4>
 <p>The ScamShield app blocks calls from numbers known to be associated with
