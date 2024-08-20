@@ -26,10 +26,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>14 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/HDaHv_bgxS8" rel="noopener noreferrer nofollow" target="_blank">Beware of Tech Support Scams</a>
+</p>
 </td>
 </tr>
 <tr>
