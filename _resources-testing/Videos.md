@@ -44,10 +44,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>06 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/8rIsm809gmA" rel="noopener noreferrer nofollow" target="_blank">Stay Safe from Investment Scams</a>
+</p>
 </td>
 </tr>
 </tbody>
