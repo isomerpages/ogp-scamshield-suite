@@ -48,7 +48,7 @@ whether on a website or to callers over the phone.</p>
 account quickly if you suspect that your bank account has been compromised.</p>
 <h3><strong>Enable Money Lock</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/moneylock.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/moneylock.jpg">
 </div>
 <p>Money Lock secures a portion of your bank savings to further protect it
 against scams. Speak to your bank for more information on how to add Money
