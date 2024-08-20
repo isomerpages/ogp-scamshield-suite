@@ -19,7 +19,7 @@ at 1799).
 <br>Each of these plays a crucial role in empowering individuals to fight
 against scams, and protect themselves, as well as the community, from fraudulent
 activities.</p>
-<h3><strong>How the app works </strong></h3>
+<h3><strong>How the app works</strong></h3>
 <p>The ScamShield app can help you:</p>
 <ul>
 <li>
