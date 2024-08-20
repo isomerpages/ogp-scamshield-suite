@@ -39,7 +39,10 @@ more guidance and information.</p>
 </ol>
 <p></p>
 <h4>Download the ScamShield app today</h4>
-<p></p>
+<p>Visit the App Store or Play Store to download the ScamShield app, or update
+to the latest version for new features.</p>
+<p><a href="https://apps.apple.com/sg/app/scamshield/id1497144087" class="textcards-card-body is-flex p-6 remove-after" rel="noreferrer" target="_blank"><br></a>
+</p>
 <h4></h4>
 <p></p>
 <p></p>
