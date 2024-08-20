@@ -27,7 +27,8 @@ link</p>
 </li>
 <li>
 <p>Share the suspicious number, message, or link you want to check. For message
-checks, you are able to upload message screenshots from WhatsApp and Telegram.</p>
+checks, you are also able to upload message screenshots from SMS, WhatsApp
+and Telegram.</p>
 </li>
 <li>
 <p>ScamShield's AI-powered checker will let you know if it's a scam or not.
