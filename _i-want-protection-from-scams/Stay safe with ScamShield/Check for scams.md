@@ -36,7 +36,7 @@ a habit using the ScamShield app!</p>
 <p></p>
 <h4><strong>How it works</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/step_1.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/step_1.png">
 </div>
 <ol data-tight="true" class="tight">
 <li>
@@ -46,7 +46,7 @@ link</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/step_2.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/step_2.png">
 </div>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -56,7 +56,7 @@ checks, you can upload message screenshots from SMS, WhatsApp and Telegram.</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/step_3.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/step_3.png">
 </div>
 <ol start="3" data-tight="true" class="tight">
 <li>
