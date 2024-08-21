@@ -53,10 +53,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12 Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/62Jw37henQc" rel="noopener noreferrer nofollow" target="_blank">Emotions in My Head: Investment Scams</a>
+</p>
 </td>
 </tr>
 <tr>
