@@ -146,7 +146,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/qFkaIbp589Y" rel="noopener noreferrer nofollow" target="_blank">Add Check Tell Campaign 15s Video</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +155,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/yA72z-zZHNY" rel="noopener noreferrer nofollow" target="_blank">Check that you are not walking into a Money Mule Trap</a>
+</p>
 </td>
 </tr>
 <tr>
