@@ -191,12 +191,13 @@ description: ""
 <p>12 May 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/VJMzI-c0DEg" rel="noopener noreferrer nofollow" target="_blank">Let's ACT Against Scams!</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>26 Apr 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
