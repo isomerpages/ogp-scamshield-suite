@@ -60,12 +60,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Weekly Scams Bulletin Issue 14</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Weekly Scams Bulletin Issue 13</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 12</strong>
+</p>
 <p></p>
 </td>
 </tr>
