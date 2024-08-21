@@ -101,7 +101,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/hNOWDEoXAYs" rel="noopener noreferrer nofollow" target="_blank">Emotions in My Head: Phishing Scams</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +110,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/5wPxjwKtB0c" rel="noopener noreferrer nofollow" target="_blank">Add Check Tell Campaign 60s Video</a>
+</p>
 </td>
 </tr>
 <tr>
