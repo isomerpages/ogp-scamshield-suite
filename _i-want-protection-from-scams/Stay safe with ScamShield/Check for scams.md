@@ -25,11 +25,15 @@ identified by authorities, and let you know it looks like a scam</p>
 <p>Let you know if other scam-spotters in the community reported the number
 or message too
 <br>
-<br>
 </p>
 </li>
 </ul>
-<h4>How it works</h4>
+<h4><strong>Check before you act</strong> </h4>
+<p>Scammers rely on urgency and confusion to get you to act quickly without
+thinking. By taking a moment to verify suspicious calls, messages, or links,
+you can ensure any transactions you're making are legitimate.</p>
+<p></p>
+<h4><strong>How it works</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/step_1.png">
@@ -62,15 +66,11 @@ relevant information to authorities to take action.</p>
 </li>
 </ol>
 <p></p>
+<p></p>
 <p>Please click <a href="https://guide.scamshield.gov.sg/using-scamshield/check-for-scams" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more guidance and information.</p>
 <p></p>
-<h4>Download the ScamShield app today</h4>
-<p>Visit the App Store or Play Store to download the ScamShield app, or update
-to the latest version for new features.</p>
-<p><a href="https://apps.apple.com/sg/app/scamshield/id1497144087" class="textcards-card-body is-flex p-6 remove-after" rel="noreferrer" target="_blank"><br></a>
-</p>
-<h4></h4>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Download_ScamShield.png">
+</div>
 <p></p>
