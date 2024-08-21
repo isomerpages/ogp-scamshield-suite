@@ -242,7 +242,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>16 Dec 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/embed/lPmPEFw9E-4" rel="noopener noreferrer nofollow" target="_blank">Red Flags: E-commerce Scams</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Nov 2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -250,7 +259,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>18 Nov 2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -258,15 +267,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>29 Sep 2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
