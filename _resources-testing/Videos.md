@@ -263,7 +263,8 @@ description: ""
 <p>18 Nov 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/KB30i39fQB8" rel="noopener noreferrer nofollow" target="_blank">Red Flags: Bank Related Phishing Scams</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +272,8 @@ description: ""
 <p>29 Sep 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/MbSB_DUgYUs" rel="noopener noreferrer nofollow" target="_blank">Common Ground Ep 2: Scams</a>
+</p>
 </td>
 </tr>
 <tr>
