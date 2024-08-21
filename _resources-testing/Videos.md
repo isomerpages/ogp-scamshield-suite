@@ -290,7 +290,8 @@ description: ""
 <p>09 Jan 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/EG3_uI1goG0" rel="noopener noreferrer nofollow" target="_blank">ScamShield Part 2</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +299,8 @@ description: ""
 <p>09 Jan 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/jpmb9Svb5lU" rel="noopener noreferrer nofollow" target="_blank">ScamShield Part 1</a>
+</p>
 </td>
 </tr>
 </tbody>
