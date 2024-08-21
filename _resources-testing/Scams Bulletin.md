@@ -37,15 +37,15 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Weekly Scams Bulletin Issue 17</strong>
+<p><strong>Weekly Scams Bulletin Issue 16</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Weekly Scams Bulletin Issue 17</strong>
+<p><strong>Weekly Scams Bulletin Issue 15</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Weekly Scams Bulletin Issue 17</strong>
+<p><strong>Weekly Scams Bulletin Issue 14</strong>
 </p>
 </th>
 </tr>
