@@ -46,16 +46,10 @@ description: ""
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<h4>| 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,14 +58,27 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Monthly Scams Bulletin Issue 02</strong>
+</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Test</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Test</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Test</p>
 </th>
 </tr>
 <tr>
