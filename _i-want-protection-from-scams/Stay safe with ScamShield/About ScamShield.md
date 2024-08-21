@@ -20,24 +20,6 @@ at 1799).
 against scams, and protect themselves, as well as the community, from fraudulent
 activities.</p>
 <h3><strong>The ScamShield app</strong></h3>
-<p>The ScamShield app can help you:</p>
-<ul>
-<li>
-<p><strong>Check for scams</strong>: Enter a suspicious message, link, or
-phone number to check if it’s a scam. You can also upload a screenshot
-of a message (received via SMS, WhatsApp, or Telegram) to check if it is
-likely to be a scam.</p>
-</li>
-<li>
-<p><strong>Block and filter scams</strong>: Follow step-by-step instructions
-to set up your phone to block scam calls and SMSes.</p>
-</li>
-<li>
-<p><strong>Submit scam reports</strong>: Include screenshots when submitting
-scam reports, so it’s easier for the police to take action on them. Your
-reports help expand our database of scammers, and keep our community safe.</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Check_from_Figma__1_.png">
 </div>
@@ -47,31 +29,7 @@ reports help expand our database of scammers, and keep our community safe.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block.png">
 </div>
-<h4>Call blocking and SMS filtering</h4>
-<p>The ScamShield app blocks calls from numbers known to be associated with
-scams, and identifies SMSes that are potentially scams.
-<br>Incoming calls from unknown numbers are checked against a live database
-maintained by the Singapore Police Force. If the call is from a number
-that has been used for scams, it will be blocked.
-<br>For incoming SMSes from anyone who isn’t a saved contact, ScamShield will
-determine if the SMS is a scam using an on-device algorithm. For the iOS
-version, it filters these scam SMSes into the Junk folder. For Android,
-a notification is sent to alert you that the SMS you just received may
-be a scam.
-<br>Whenever a scam message or call is detected, it is automatically sent
-to SPF for review. This keeps the App updated and will help protect others
-from similar scam messages and calls.
-<br>
-</p>
-<h4>Scam reporting<br></h4>
-<p>Scammers are constantly trying new tactics, so it is important for everyone
-to be alert to potential scams, and always&nbsp;
-<br>
-</p>
-<h4>Checking if something is a scam<br></h4>
-<p>[Scammers are constantly trying new tactics, so it is important for everyone
-to be alert to potential scams, and always]</p>
-<h3><strong>Your privacy is our priority</strong></h3>
+<h3><br><strong>Your privacy is our priority</strong></h3>
 <p>We value and respect your privacy, and follow the strictest measures to
 keep your information safe and confidential when you use ScamShield products.
 <br>
