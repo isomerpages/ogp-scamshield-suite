@@ -173,7 +173,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/3FX8nM8t6Mc" rel="noopener noreferrer nofollow" target="_blank">Let's ACT Against Scams!</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +182,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/tVgveYaj2pI" rel="noopener noreferrer nofollow" target="_blank">Beware of Fake Friend Calls Scams</a>
+</p>
 </td>
 </tr>
 <tr>
