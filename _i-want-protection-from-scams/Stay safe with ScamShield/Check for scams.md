@@ -28,13 +28,12 @@ or message too
 </p>
 </li>
 </ul>
-<h4><strong>Check before you act</strong> </h4>
+<h4><strong>Check before you act</strong></h4>
 <p>Scammers rely on urgency and confusion to get you to act quickly without
 thinking. By taking a moment to verify suspicious calls, messages, or links,
 you can ensure any transactions you're making are legitimate.</p>
 <p></p>
 <h4><strong>How it works</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/step_1.png">
 </div>
