@@ -224,10 +224,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>30 Dec 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/AxKEfu5x8Xk" rel="noopener noreferrer nofollow" target="_blank">Red Flags: Job Scams</a>
+</p>
 </td>
 </tr>
 <tr>
