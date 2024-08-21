@@ -104,13 +104,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Weekly Scams Bulletin Issue 05</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Weekly Scams Bulletin Issue 04</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Weekly Scams Bulletin Issue 03</strong>
+</p>
 </td>
 </tr>
 <tr>
