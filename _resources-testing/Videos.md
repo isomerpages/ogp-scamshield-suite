@@ -83,7 +83,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/Pdk3yEcs7FM" rel="noopener noreferrer nofollow" target="_blank">Emotions in My Head: Malware</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +92,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/VOVsUXBxXNY" rel="noopener noreferrer nofollow" target="_blank">Emotions in My Head: Impersonation Scams</a>
+</p>
 </td>
 </tr>
 <tr>
