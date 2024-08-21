@@ -62,6 +62,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 14</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 13</strong>
@@ -85,6 +86,31 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 09</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 08</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 07</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 06</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
