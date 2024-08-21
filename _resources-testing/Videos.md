@@ -164,7 +164,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/MtVV_guD-a4" rel="noopener noreferrer nofollow" target="_blank">ScamShield Setup Guide</a>
+</p>
 </td>
 </tr>
 <tr>
