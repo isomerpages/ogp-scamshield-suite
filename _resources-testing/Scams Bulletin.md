@@ -37,16 +37,25 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Weekly Scams Bulletin Issue 16</strong>
+<p><strong>Weekly Scams Bulletin Issue 17</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 1</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 15</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Weekly Scams Bulletin Issue 14</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </th>
 </tr>
 <tr>
