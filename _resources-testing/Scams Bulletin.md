@@ -118,9 +118,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 02</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 01</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,6 +143,8 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 41</strong>
+</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
