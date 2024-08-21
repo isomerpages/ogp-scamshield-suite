@@ -143,7 +143,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>06 Dec 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/qFkaIbp589Y" rel="noopener noreferrer nofollow" target="_blank">Add Check Tell Campaign 15s Video</a>
@@ -152,7 +152,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>28 Nov 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/yA72z-zZHNY" rel="noopener noreferrer nofollow" target="_blank">Check that you are not walking into a Money Mule Trap</a>
@@ -161,7 +161,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>21 Jun 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/MtVV_guD-a4" rel="noopener noreferrer nofollow" target="_blank">ScamShield Setup Guide</a>
@@ -170,7 +170,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>14 Jun 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/3FX8nM8t6Mc" rel="noopener noreferrer nofollow" target="_blank">Let's ACT Against Scams!</a>
@@ -179,7 +179,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>01 Jun 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/tVgveYaj2pI" rel="noopener noreferrer nofollow" target="_blank">Beware of Fake Friend Calls Scams</a>
@@ -188,7 +188,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12 May 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
