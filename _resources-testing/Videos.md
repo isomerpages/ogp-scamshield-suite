@@ -254,7 +254,8 @@ description: ""
 <p>21 Nov 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/aAvavl2YAEc" rel="noopener noreferrer nofollow" target="_blank">Sale of Fake Concert Tickets Scam</a>
+</p>
 </td>
 </tr>
 <tr>
