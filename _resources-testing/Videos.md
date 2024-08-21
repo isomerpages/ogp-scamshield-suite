@@ -65,7 +65,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/vCkRkup2NUw" rel="noopener noreferrer nofollow" target="_blank">Emotions in My Head: Job Scams</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +74,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/embed/6o4bsdPyKYQ" rel="noopener noreferrer nofollow" target="_blank">Beware of Tech Support Scams</a>
+</p>
 </td>
 </tr>
 <tr>
