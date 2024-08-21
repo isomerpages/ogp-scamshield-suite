@@ -62,7 +62,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11 Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/vCkRkup2NUw" rel="noopener noreferrer nofollow" target="_blank">Emotions in My Head: Job Scams</a>
@@ -71,7 +71,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>02 Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/6o4bsdPyKYQ" rel="noopener noreferrer nofollow" target="_blank">Beware of Tech Support Scams</a>
@@ -80,7 +80,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>26 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/Pdk3yEcs7FM" rel="noopener noreferrer nofollow" target="_blank">Emotions in My Head: Malware</a>
@@ -89,7 +89,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/VOVsUXBxXNY" rel="noopener noreferrer nofollow" target="_blank">Emotions in My Head: Impersonation Scams</a>
@@ -98,7 +98,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>09 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/hNOWDEoXAYs" rel="noopener noreferrer nofollow" target="_blank">Emotions in My Head: Phishing Scams</a>
@@ -107,7 +107,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>01 Jan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/embed/5wPxjwKtB0c" rel="noopener noreferrer nofollow" target="_blank">Add Check Tell Campaign 60s Video</a>
