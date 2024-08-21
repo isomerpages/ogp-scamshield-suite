@@ -30,8 +30,9 @@ or message too
 </ul>
 <h4><strong>Check before you act</strong></h4>
 <p>Scammers rely on urgency and confusion to get you to act quickly without
-thinking. By taking a moment to verify suspicious calls, messages, or links,
-you can ensure any transactions you're making are legitimate.</p>
+thinking. By taking a moment to check suspicious calls, messages, or links,
+you can ensure any transactions you're making are legitimate. Make this
+a habit using the ScamShield app!</p>
 <p></p>
 <h4><strong>How it works</strong></h4>
 <div class="isomer-image-wrapper">
