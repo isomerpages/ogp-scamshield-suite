@@ -19,7 +19,7 @@ at 1799).
 <br>Each of these plays a crucial role in empowering individuals to fight
 against scams, and protect themselves, as well as the community, from fraudulent
 activities.</p>
-<h3><strong>How the app works</strong></h3>
+<h3><strong>The ScamShield app</strong></h3>
 <p>The ScamShield app can help you:</p>
 <ul>
 <li>
@@ -38,7 +38,15 @@ scam reports, so it’s easier for the police to take action on them. Your
 reports help expand our database of scammers, and keep our community safe.</p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Check_from_Figma__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figma_Report.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block.png">
+</div>
 <h4>Call blocking and SMS filtering</h4>
 <p>The ScamShield app blocks calls from numbers known to be associated with
 scams, and identifies SMSes that are potentially scams.
@@ -73,3 +81,4 @@ signs of scams.
 <br>
 <br>When you submit a scam encounter via the ScamShield app, the SPF can only
 see the information you have submitted.</p>
+<p></p>
