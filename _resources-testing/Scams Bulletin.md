@@ -127,7 +127,7 @@ description: ""
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>|  2023</strong>
+<summary><strong>| 2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
@@ -141,14 +141,23 @@ description: ""
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 41</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023_WSB.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 40</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023_WSB.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 39</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023_WSB.png">
+</div>
 </th>
 </tr>
 <tr>
