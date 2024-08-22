@@ -100,7 +100,7 @@ sections:
       image: /images/ss_infopic_bg_1.png
       alt: Image alt text
   - announcements:
-      title: Latest News
+      title: Highlights
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
