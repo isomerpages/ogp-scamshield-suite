@@ -18,7 +18,9 @@ correctly so that it can protect you against scammers. To do this, you
 will need to give the app a few permissions, so it is able to block scam
 calls, and filter scam SMSes.</p>
 <hr>
-<h3>How to set up call blocking on iPhone</h3>
+<h3>How it works</h3>
+<p>For step by step guidance on how to set-up your phone permissions, click
+here.</p>
 <p><strong>Step 1: Launch ScamShield. Tap 'Set up' to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
