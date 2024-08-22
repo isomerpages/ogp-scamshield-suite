@@ -10,27 +10,20 @@ third_nav_title: Stay safe with ScamShield
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_App_v2_Block_Filter.png">
 </div>
 <h3><strong>Set up your phone to block scam calls and SMSes</strong></h3>
-<p>Scam calls and SMSes are pervasive threats that can have serious repercussions
-for individuals. These fraudulent communications often aim to deceive recipients
-into divulging personal information, such as financial details, passwords,
-or sensitive data. Scammers may impersonate legitimate organizations, government
-officials, create a sense of urgency, or offer enticing deals to manipulate
-individuals into falling victim to their schemes.</p>
-<p>Protect yourself from the scam calls and SMSes by taking the following
-actions. Once you download the ScamShield app, it needs to to be set up
-correctly so that it can protect you against scammers. To do this, you
-will need to give the app a few permissions, so it is able to block scam
-calls, and filter scam SMSes.</p>
-<p>By setting up the right permissions on your mobile device, ScamShield
-will use its blocklist of reviewed scam numbers</p>
+<p></p>
 <p></p>
 <p>Protect yourself from scam calls and SMSes by giving setting up ScamShield
-permissions for your mobile device.</p>
+permissions for your mobile device. This allows ScamShield to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Block numbers marked as scam by the authorities&nbsp;</p>
+</li>
+<li>
+<p>Filter/detect scam SMSes as identified by ScamShield’s AI</p>
+</li>
+</ul>
 <p></p>
-<p></p>
-<p></p>
-<hr>
-<h3>How it works</h3>
+<h3>How it works (iOS)</h3>
 <p>For step by step guidance on how to set-up your phone permissions, click
 here.</p>
 <p><strong>Step 1: Launch ScamShield. Tap 'Set up' to get started.</strong>
@@ -63,12 +56,9 @@ here.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_Step_5.jpg">
 </div>
-<p></p>
-<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-call-blocking#setup-call-blocking-on-ios" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
-how to set up call blocking on your iPhone.</p>
 <hr>
 <p></p>
-<h3>How to set up SMS filtering on iPhone</h3>
+<h3>How it works (Android)</h3>
 <p><strong>Step 1: Tap 'Set up' next to SMS filtering to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
