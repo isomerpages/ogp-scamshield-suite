@@ -61,7 +61,7 @@ overseas)</p>
 <details class="isomer-details">
 <summary>HSBC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dial <strong><a href="tel:18004722669" rel="noopener nofollow" target="_blank">1800 4722 669</a></strong> (from
+<p>Dial <strong><a href="tel:18004722669" rel="noopener nofollow" target="_blank">1800 472 2669</a></strong> (from
 Singapore) or <strong><a href="tel:+6564722669" rel="noopener nofollow" target="_blank">+65 6472 2669</a></strong> (from
 overseas)</p>
 </div>
