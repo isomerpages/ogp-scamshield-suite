@@ -4,25 +4,19 @@ permalink: /transferred-money/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>If you've lost money or gave bank login details to a scammer</h3>
-<hr>
-<h3>Immediate Actions</h3>
+<h4>If you've lost money or gave your bank login details to a scammer</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Keep calm.</p>
+<p>Contact your bank immediately</p>
 </li>
 <li>
-<p>Contact your bank immediately (numbers below).</p>
+<p>Activate your account's kill switch</p>
 </li>
 <li>
-<p>Activate your account's kill switch.</p>
+<p>File a police report</p>
 </li>
 <li>
-<p>File a police report online: <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">Police Report.</a>
-</p>
-</li>
-<li>
-<p>Call 999 if you require the Police's urgent assistance.</p>
+<p>Call 999 if you require the Police's urgent assistance</p>
 </li>
 </ol>
 <h5>Bank's Anti-Scam Hotline</h5>
@@ -87,23 +81,12 @@ overseas)</p>
 </div>
 </details>
 </div>
-<p></p>
 <p>For all other banks, refer to the bank's relevant fraud hotline(s).</p>
-<hr>
-<p></p>
 <h4>File a police report</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank">I-Witness e-Service</a>
-</p>
-</li>
-<li>
-<p>In person at your nearest <a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Police Post</a>
-</p>
-</li>
-</ul>
+<p>File a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank"><u>Police Report online</u></a> or
+in person at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener noreferrer nofollow" target="_blank"><u>Neighbourhood Police Post</u></a>.</p>
 <hr>
-<h3>Resources and references</h3>
+<h4>Resources and references</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank">OCBC - How to bank safely &amp; securely</a>
