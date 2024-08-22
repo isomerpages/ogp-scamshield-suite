@@ -71,6 +71,6 @@ relevant information to authorities to take action.</p>
 more guidance and information.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Download_ScamShield.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Download_ScamShield.png">
 </div>
 <p></p>
