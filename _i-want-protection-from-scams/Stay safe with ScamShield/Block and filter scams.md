@@ -9,7 +9,7 @@ third_nav_title: Stay safe with ScamShield
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_App_v2_Block_Filter.png">
 </div>
-<h3><strong>Set up phone to block scam calls and SMSes</strong></h3>
+<h3><strong>Set up your phone to block scam calls and SMSes</strong></h3>
 <p>Scam calls and SMSes are pervasive threats that can have serious repercussions
 for individuals. These fraudulent communications often aim to deceive recipients
 into divulging personal information, such as financial details, passwords,
@@ -21,6 +21,13 @@ actions. Once you download the ScamShield app, it needs to to be set up
 correctly so that it can protect you against scammers. To do this, you
 will need to give the app a few permissions, so it is able to block scam
 calls, and filter scam SMSes.</p>
+<p>By setting up the right permissions on your mobile device, ScamShield
+will use its blocklist of reviewed scam numbers</p>
+<p></p>
+<p>Protect yourself from scam calls and SMSes by giving setting up ScamShield
+permissions for your mobile device.</p>
+<p></p>
+<p></p>
 <p></p>
 <hr>
 <h3>How it works</h3>
