@@ -31,6 +31,19 @@ as you.</p>
 </ul>
 <p></p>
 <h4>How it works</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/report___step_1.png">
+</div>
+<ol data-tight="true" class="tight">
+<li>
 <p></p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/report___step_2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/report___step_3.png">
+</div>
 <p></p>
