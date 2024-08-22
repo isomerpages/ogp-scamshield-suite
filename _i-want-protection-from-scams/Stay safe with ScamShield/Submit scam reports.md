@@ -36,14 +36,36 @@ as you.</p>
 </div>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Let ScamShield know if you would like to report a number or message.</p>
 </li>
 </ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/report___step_2.png">
 </div>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Provide ScamShield with the relevant suspicious content. For call reports,
+this includes details like who was on the call, and who they claimed to
+be; this helps us assess if it's a potential scam. For message reports,
+the enhanced ScamShield app now supports uploading message screenshots
+for ease of reporting.</p>
+</li>
+</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/report___step_3.png">
+</div>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>After you submit the report, ScamShield alerts the relevant authorities
+to review it. Numbers marked as scam will be added to ScamShield's blocklist
+for all users.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Download_ScamShield.png">
 </div>
 <p></p>
