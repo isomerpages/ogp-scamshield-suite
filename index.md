@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: Protect yourself and loved ones with our scam-prevention tools, and
         always be alert to potential scams.
-      image: /images/thumbnail_frustrated_guy_in_front_of_computer_2x.jpg
+      image: /images/1_in_5.png
       alt: Image alt text
   - infocols:
       title: Stay safe with the enhanced ScamShield app
@@ -46,7 +46,7 @@ sections:
       title: "Call the anti-scam helpline: 1799"
       subtitle: need more help?
       id: infopic
-      image: /images/ecomm_banner.jpg
+      image: /images/ScamShield_App_v2_Hotline.png
       alt: Image alt text
   - textcards:
       title: Scam threats
@@ -75,7 +75,7 @@ sections:
       id: infopic
       button: Read Now
       url: /trends-and-updates/scams-bulletin
-      image: /images/Scams_bulletin.png
+      image: /images/scams_bulletin_new.png
       alt: Image alt text
       description: Learn about the latest scam trends from the Police's Monthly Scams
         Bulletin.
@@ -130,8 +130,4 @@ sections:
       url: /about-scamshield/
       alt: Image alt text
       image: /images/Keep_safe_with_ScamShield.png
-  - infobar:
-      title: "Call the anti-scam helpline: 1799"
-      subtitle: need more help?
-      id: infobar
 ---
