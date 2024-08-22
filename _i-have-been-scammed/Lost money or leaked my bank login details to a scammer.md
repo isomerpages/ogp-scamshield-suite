@@ -74,13 +74,16 @@ overseas)</p>
 <details class="isomer-details">
 <summary>Maybank</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dial <strong><a href="tel:18006292265" rel="noopener nofollow" target="_blank">1800 629 2265</a></strong> (from
+Singapore) or <strong><a href="tel:+6565335229" rel="noopener nofollow" target="_blank">+65 6533 5229</a></strong> (from
+overseas)</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Standard Chartered</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dial <a href="tel:67477000" rel="noopener nofollow" target="_blank">6747 7000</a>
+</p>
 </div>
 </details>
 </div>
