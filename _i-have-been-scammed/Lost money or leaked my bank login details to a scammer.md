@@ -27,7 +27,7 @@ in person at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/po
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dial <strong><a href="tel:18003396963" rel="noopener nofollow" target="_blank">1800 339 6963</a></strong> (from
 Singapore) or <strong><a href="tel:+6563396963" rel="noopener nofollow" target="_blank">+65 6339 6963</a></strong> (from
-overseas).</p>
+overseas)</p>
 </div>
 </details>
 <details class="isomer-details">
