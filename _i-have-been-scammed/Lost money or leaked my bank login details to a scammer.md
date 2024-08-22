@@ -4,7 +4,7 @@ permalink: /transferred-money/permalink/
 variant: tiptap
 description: ""
 ---
-<h4>If you've lost money or gave your bank login details to a scammer</h4>
+<h4>If you've lost money or disclosed your bank login details to a scammer</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Contact your bank immediately</p>
@@ -13,7 +13,8 @@ description: ""
 <p>Activate your account's kill switch</p>
 </li>
 <li>
-<p>File a police report</p>
+<p>File a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank"><u>Police Report online</u></a> or
+in person at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener noreferrer nofollow" target="_blank"><u>Neighbourhood Police Post</u></a>.</p>
 </li>
 <li>
 <p>Call 999 if you require the Police's urgent assistance</p>
@@ -81,31 +82,40 @@ overseas)</p>
 </div>
 </details>
 </div>
-<p>For all other banks, refer to the bank's relevant fraud hotline(s).</p>
-<h4>File a police report</h4>
-<p>File a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank"><u>Police Report online</u></a> or
-in person at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener noreferrer nofollow" target="_blank"><u>Neighbourhood Police Post</u></a>.</p>
-<hr>
+<p>For banks not listed here, contact your respective bank's fraud hotline
+for assistance.</p>
 <h4>Resources and references</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/impersonation-scams" rel="noopener noreferrer nofollow" target="_blank">OCBC - How to bank safely &amp; securely</a>
+<p><a href="https://www.dbs.com.sg/personal/support/guide-security-on-scams-and-fraud.html" rel="noopener nofollow" target="_blank">DBS/POSB</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.dbs.com.sg/personal/support/bank-ssb-safety-switch.html" rel="noopener noreferrer nofollow" target="_blank">DBS / POSB – How to set safety switch</a>
+<p><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/phishing-scams.page" rel="noopener nofollow" target="_blank">OCBC</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.uob.com.sg/personal/digital-banking/pib/security/what-to-do-if-you-have-been-scammed/index.page" rel="noopener noreferrer nofollow" target="_blank">UOB - What to do if you have been scammed</a>
+<p><a href="https://www.uobgroup.com/uobgroup/contact-us/index.page" rel="noopener nofollow" target="_blank">UOB</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.citibank.com.sg/static/contact/" rel="noopener noreferrer nofollow" target="_blank">Citibank</a>
+<p><a href="https://www.citibank.com.sg/static/contact/" rel="noopener nofollow" target="_blank">Citibank</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.cimb.com.sg/en/personal/help-support/security-fraud.html" rel="noopener noreferrer nofollow" target="_blank">CIMB - Security and Fraud Awareness</a>
+<p><a href="https://www.cimb.com.sg/en/personal/help-support/contact-us.html" rel="noopener nofollow" target="_blank">CIMB</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.hsbc.com.sg/help/security-centre/fraud-guide/" rel="noopener nofollow" target="_blank">HSBC</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.maybank2u.com.sg/en/personal/eservices/security-alerts/online-threats/measures-to-protect-you-from-scams.page" rel="noopener nofollow" target="_blank">Maybank</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sc.com/sg/fraud-scam/help/" rel="noopener nofollow" target="_blank">Standard Chartered</a>
 </p>
 </li>
 </ul>
