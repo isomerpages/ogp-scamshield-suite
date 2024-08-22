@@ -14,18 +14,18 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Monthly Scams Bulletin Issue 03</strong>
+<p><strong>Monthly Scams Bulletin Issue 03-August 2024</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_MSB.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Monthly Scams Bulletin Issue 02</strong>
+<p><strong>Monthly Scams Bulletin Issue 02-July 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Jul%202024/Monthly_Scams_Bulletin_Issue_2__5_July.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_MSB.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Monthly Scams Bulletin Issue 01</strong>
+<p><strong>Monthly Scams Bulletin Issue 01-June 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Jun%202024/Monthly_Scams_Bulletin_0124__June.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_MSB.png"></a>
 </th>
 </tr>
