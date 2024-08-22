@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Stay safe with ScamShield
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_App_v2_Block_Filter.png">
+</div>
 <h3><strong>Set up phone to block scam calls and SMSes</strong></h3>
 <p>Scam calls and SMSes are pervasive threats that can have serious repercussions
 for individuals. These fraudulent communications often aim to deceive recipients
