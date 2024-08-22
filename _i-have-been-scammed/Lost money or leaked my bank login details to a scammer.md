@@ -25,7 +25,7 @@ description: ""
 <p>Call 999 if you require the Police's urgent assistance.</p>
 </li>
 </ol>
-<h5>List of Bank's Anti-Scam Hotline</h5>
+<h5>Bank's Anti-Scam Hotline</h5>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>DBS / POSB</summary>
@@ -82,65 +82,15 @@ overseas)</p>
 <details class="isomer-details">
 <summary>Standard Chartered</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dial <a href="tel:67477000" rel="noopener nofollow" target="_blank">6747 7000</a>
+<p>Dial <strong><a href="tel:67477000" rel="noopener nofollow" target="_blank">6747 7000</a></strong>
 </p>
 </div>
 </details>
 </div>
-<p><strong>DBS / POSB</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Call the <strong>DBS / POSB 24-hour fraud hotline</strong> immediately at <strong><a href="tel:1800 339 6963" rel="noopener noreferrer nofollow" target="_blank">1800 339 6963</a></strong>
-</p>
-</li>
-<li>
-<p><em>Call <a href="tel:+65 6339 6963" rel="noopener noreferrer nofollow" target="_blank">+65 6339 6963</a> if you are overseas</em>
-</p>
-</li>
-</ul>
-<p><strong>OCBC</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Call the <strong>OCBC 24-hour Personal Banking hotline</strong> immediately
-at <strong><a href="tel:6363 3333" rel="noopener noreferrer nofollow" target="_blank">6363 33330</a></strong>
-</p>
-</li>
-<li>
-<p>Press <strong>8</strong> to report fraud or temporarily freeze all your
-accounts and cards.</p>
-</li>
-<li>
-<p><em>Call <a href="tel:+65 6363 3333" rel="noopener noreferrer nofollow" target="_blank">+65 6363 33330</a> if you are overseas</em>
-</p>
-</li>
-</ul>
-<p><strong>UOB</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Call the <strong>UOB 24-hour Fraud Hotline</strong> at <strong><a href="tel:6255 0160" rel="noopener noreferrer nofollow" target="_blank">6255 0160</a></strong>
-</p>
-</li>
-</ul>
-<p><strong>Citibank</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Contact the <strong>Citibank Fraud hotline</strong> at <strong><a href="tel:+65 6337 5519" rel="noopener noreferrer nofollow" target="_blank">+65 6337 5519</a></strong>
-</p>
-</li>
-</ul>
-<p><strong>CIMB</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Contact the <strong>CIMB Fraud hotline</strong> at <strong><a href="tel:+65 6333 7777" rel="noopener noreferrer nofollow" target="_blank">++65 6333 7777</a></strong>
-</p>
-</li>
-</ul>
+<p></p>
 <p>For all other banks, refer to the bank's relevant fraud hotline(s).</p>
+<hr>
+<p></p>
 <h4>File a police report</h4>
 <ul data-tight="true" class="tight">
 <li>
