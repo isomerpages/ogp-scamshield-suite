@@ -32,7 +32,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dial <strong><a href="tel:18003396963" rel="noopener nofollow" target="_blank">1800 339 6963</a></strong> (from
 Singapore) or <strong><a href="tel:+6563396963" rel="noopener nofollow" target="_blank">+65 6339 6963</a></strong> (from
-Overseas).</p>
+overseas).</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -45,27 +45,30 @@ Overseas).</p>
 <details class="isomer-details">
 <summary>UOB</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dial <a href="tel:62550160" rel="noopener nofollow" target="_blank">6255 0160</a>
+<p>Dial <strong><a href="tel:62550160" rel="noopener nofollow" target="_blank">6255 0160</a></strong>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Citibank</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dial <a href="tel:63375519" rel="noopener nofollow" target="_blank">6337 5519</a>
+<p>Dial <strong><a href="tel:63375519" rel="noopener nofollow" target="_blank">6337 5519</a></strong>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>CIMB</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dial <strong><a href="tel:63337777" rel="noopener nofollow" target="_blank">6333 7777</a></strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>HSBC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dial <strong><a href="tel:18004722669" rel="noopener nofollow" target="_blank">1800 4722 669</a></strong> (from
+Singapore) or <strong><a href="tel:+6564722669" rel="noopener nofollow" target="_blank">+65 64722 669</a></strong> (from
+overseas)</p>
 </div>
 </details>
 <details class="isomer-details">
