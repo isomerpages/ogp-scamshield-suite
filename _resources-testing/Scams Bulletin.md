@@ -131,26 +131,39 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 05</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 04</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 03</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 02</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 01</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
