@@ -22,7 +22,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 02</strong>
-</p><a class="isomer-image-wrapper" href="files%2F2024%20Scams%20Bulletins%2FJul%202024/Monthly_Scams_Bulletin_Issue_2__5_July.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_MSB.png"></a>
+</p><a class="isomer-image-wrapper" href="files/2024%20Scams%20Bulletins/Jul%202024/Monthly_Scams_Bulletin_Issue_2__5_July.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_MSB.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 01</strong>
