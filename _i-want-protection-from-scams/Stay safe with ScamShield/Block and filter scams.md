@@ -21,6 +21,7 @@ actions. Once you download the ScamShield app, it needs to to be set up
 correctly so that it can protect you against scammers. To do this, you
 will need to give the app a few permissions, so it is able to block scam
 calls, and filter scam SMSes.</p>
+<p></p>
 <hr>
 <h3>How it works</h3>
 <p>For step by step guidance on how to set-up your phone permissions, click
