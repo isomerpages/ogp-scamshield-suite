@@ -26,6 +26,61 @@ description: ""
 </li>
 </ol>
 <h5>List of Bank's Anti-Scam Hotline</h5>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>DBS / POSB</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dial <strong><a href="tel:18003396963" rel="noopener nofollow" target="_blank">1800 339 6963</a></strong> (from
+Singapore) or <strong><a href="tel:+6563396963" rel="noopener nofollow" target="_blank">+65 6339 6963</a></strong> (from
+Overseas).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>OCBC</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dial <strong><a href="tel:63633333" rel="noopener nofollow" target="_blank">6363 3333</a></strong>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>UOB</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dial <a href="tel:62550160" rel="noopener nofollow" target="_blank">6255 0160</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Citibank</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dial <a href="tel:63375519" rel="noopener nofollow" target="_blank">6337 5519</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>CIMB</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>HSBC</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Maybank</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Standard Chartered</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p><strong>DBS / POSB</strong>
 </p>
 <ul data-tight="true" class="tight">
