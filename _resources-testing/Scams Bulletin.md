@@ -139,6 +139,117 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 38</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 37</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 36</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 35</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 34</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 33</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 32</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 31</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 30</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 29</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 28</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Weekly Scams Bulletin Issue 27</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
