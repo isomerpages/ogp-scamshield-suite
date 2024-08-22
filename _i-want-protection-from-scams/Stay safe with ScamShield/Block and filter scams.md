@@ -11,7 +11,6 @@ third_nav_title: Stay safe with ScamShield
 </div>
 <h3><strong>Set up your phone to block scam calls and SMSes</strong></h3>
 <p></p>
-<p></p>
 <p>Protect yourself from scam calls and SMSes by giving setting up ScamShield
 permissions for your mobile device. This allows ScamShield to:</p>
 <ul data-tight="true" class="tight">
@@ -26,57 +25,66 @@ permissions for your mobile device. This allows ScamShield to:</p>
 <h3>How it works (iOS)</h3>
 <p>For step by step guidance on how to set-up your phone permissions, click
 here.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_1.png">
+</div>
 <p><strong>Step 1: Launch ScamShield. Tap 'Set up' to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_Step_1.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_2.png">
+</div>
 <p><strong>Step 2: Tap 'Next' to proceed.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_Step_2.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_3.png">
+</div>
 <p><strong>Step 3: Tap 'Open Settings -&gt; Phone</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_Step_3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_4.png">
 </div>
-<p></p>
-<p><strong>Step 4: This will take you to your Settings -&gt; Phone. Tap Call Blocking &amp; Identification -&gt; Tap on ScamShield to switch on the permissions.</strong>
+<p><strong>Step 4: This will take you to your Settings -&gt; Phone. Tap Call Blocking &amp; Identification -&gt; Tap on ScamShield to switch on the permissions. All done! On your ScamShield home screen, you will be able to see call blocking is now active.</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/iOS_Step_4.png">
-</div>
 <p></p>
-<p><strong>All done! On your ScamShield home screen, you will be able to see call blocking is now active.</strong>
-</p>
+<p>For more guidance, click here.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_Step_5.jpg">
 </div>
-<hr>
 <p></p>
 <h3>How it works (Android)</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_1.png">
+</div>
 <p><strong>Step 1: Tap 'Set up' next to SMS filtering to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_1.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_2.png">
+</div>
 <p><strong>Step 2: Tap 'Next' to proceed.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_2.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_3.png">
+</div>
 <p><strong>Step 3: Tap 'Settings &gt; Messages</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_3.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_4.png">
+</div>
 <p><strong>Step 4: This will open Settings &gt; Messages. Scroll down and tap on Unknown &amp; Spam.</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -114,8 +122,6 @@ label.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_8.jpg">
 </div>
 <p></p>
-<p>You can also <a href="https://guide.scamshield.gov.sg/getting-started/setup-sms-filtering#setup-sms-filtering-on-ios" rel="noopener noreferrer nofollow" target="_blank">watch an interactive demo</a> of
-how to set up SMS filtering on your iPhone.</p>
 <p></p>
 <p></p>
 <p></p>
@@ -226,6 +232,11 @@ you that the app has detected a scam message.</p>
 <h4>Feedback</h4>
 <p>For any queries, questions or feedback, please contact us here: <a href="https://go.gov.sg/scamshield-feedback" rel="noopener noreferrer nofollow" target="_blank"><u>ScamShield Feedback</u></a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Download_ScamShield.png">
+</div>
 <p><a href="https://www.scamshield.org.sg/android-app/setup/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
 <p></p>
