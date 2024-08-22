@@ -22,13 +22,6 @@ sections:
         - title: Protect yourself against scams
           description: ""
           url: /introduction-to-scams/
-  - infopic:
-      title: 1 in 5 Singaporeans has fallen for a scam
-      id: infopic
-      description: Protect yourself and loved ones with our scam-prevention tools, and
-        always be alert to potential scams.
-      image: /images/1_in_5.png
-      alt: Image alt text
   - infocols:
       title: Stay safe with the enhanced ScamShield app
       subtitle: get scam protection
@@ -47,6 +40,14 @@ sections:
       subtitle: need more help?
       id: infopic
       image: /images/ScamShield_App_v2_Hotline.png
+      alt: Image alt text
+      description: Available 24/7, Monday to Sunday
+  - infopic:
+      title: 1 in 5 Singaporeans has fallen for a scam
+      id: infopic
+      description: Protect yourself and loved ones with our scam-prevention tools, and
+        always be alert to potential scams.
+      image: /images/1_in_5.png
       alt: Image alt text
   - textcards:
       title: Scam threats
@@ -79,6 +80,25 @@ sections:
       alt: Image alt text
       description: Learn about the latest scam trends from the Police's Monthly Scams
         Bulletin.
+  - infopic:
+      title: ACT against scams
+      subtitle: Learn more
+      id: infopic
+      description: Learn more about the campaign
+      button: Learn more
+      image: /images/ACT_campaign.png
+      alt: Image alt text
+      url: /act-campaign/
+  - infopic:
+      title: United against scammers
+      id: infopic
+      description: ScamShield is a joint effort by the Ministry of Home Affairs, the
+        Singapore Police Force, Open Government Products, and the National Crime
+        Prevention Council.
+      button: Learn more
+      url: /our-partners/
+      image: /images/ss_infopic_bg_1.png
+      alt: Image alt text
   - announcements:
       title: Latest News
       id: announcements
@@ -102,32 +122,4 @@ sections:
             fight against scams.
           link_text: Learn more
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
-  - infopic:
-      title: ACT against scams
-      subtitle: Learn more
-      id: infopic
-      description: Learn more about the campaign
-      button: Learn more
-      image: /images/header_image.png
-      alt: Image alt text
-      url: /act-campaign/
-  - infopic:
-      title: United against scammers
-      id: infopic
-      description: ScamShield is a joint effort by the Ministry of Home Affairs, the
-        Singapore Police Force, Open Government Products, and the National Crime
-        Prevention Council.
-      button: Learn more
-      url: /our-partners/
-      image: /images/ss_infopic_bg_1.png
-      alt: Image alt text
-  - infopic:
-      title: Keep safe with the ScamShield App
-      id: infopic
-      description: The ScamShield App blocks calls from numbers known to be used in
-        illegal activities. It also filters or alerts you to suspicious SMSes.
-      button: Learn more
-      url: /about-scamshield/
-      alt: Image alt text
-      image: /images/Keep_safe_with_ScamShield.png
 ---
