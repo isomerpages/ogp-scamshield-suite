@@ -26,6 +26,15 @@ description: ""
 </p>
 </th>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 17</strong>
