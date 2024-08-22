@@ -10,7 +10,7 @@ a scam victim, please file an official police report.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Static_report.png">
 </div>
-<h3><strong>Help the authorities monitor ongoing scams</strong></h3>
+<h3><strong>Reporting keeps our loved ones safe</strong></h3>
 <p></p>
 <p>If you have encountered a potential scam, report it to us so that we can
 monitor ongoing scams effectively. Through reports, ScamShield can:</p>
@@ -30,8 +30,7 @@ as you.</p>
 </li>
 </ul>
 <p></p>
-<h4>Reporting keeps our loved ones safe</h4>
-<p></p>
 <h4>How it works</h4>
+<p></p>
 <p></p>
 <p></p>
