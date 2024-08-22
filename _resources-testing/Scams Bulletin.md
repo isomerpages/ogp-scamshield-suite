@@ -85,18 +85,33 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 11</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 10</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 09</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png">
+</div>
 <p><strong>Weekly Scams Bulletin Issue 08</strong>
 </p>
 </td>
