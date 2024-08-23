@@ -106,13 +106,13 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 03</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Jan%202024/WSB_Issue_24_3__19_Jan_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png"></a>
+</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/2024%20Scams%20Bulletins/Jan%202024/WSB_Issue_24_3__19_Jan_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_WSB_03.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 02</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Jan%202024/WSB_Issue_24_2__12_Jan_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png"></a>
+</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Jan%202024/WSB_Issue_24_2__12_Jan_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_WSB_02.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 01</strong>
