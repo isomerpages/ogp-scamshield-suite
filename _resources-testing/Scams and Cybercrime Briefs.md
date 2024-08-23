@@ -13,10 +13,12 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Annual Scams and Cybercrime Brief 2023</p>
+<p><strong>Annual Scams and Cybercrime Brief 2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Annual Scams and Cybercrime Brief 2023 Infographic</p>
+<p><strong>Annual Scams and Cybercrime Brief 2023 Infographic</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
