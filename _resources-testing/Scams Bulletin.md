@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4>| 2024</h4>
-<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -112,7 +111,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>| 2023</strong>
@@ -334,6 +332,9 @@ description: ""
 </div>
 </details>
 </div>
+<p></p>
+<hr>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
