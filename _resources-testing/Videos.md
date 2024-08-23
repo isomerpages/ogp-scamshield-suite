@@ -9,7 +9,6 @@ description: ""
 <iframe height="385" width="550" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
 </div>
 <h4>| 2024</h4>
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -207,7 +206,6 @@ description: ""
 </tbody>
 </table>
 <h4>| 2022</h4>
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
