@@ -6,11 +6,11 @@ description: ""
 third_nav_title: Stay safe with ScamShield
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_App_v2_Block_Filter.png">
-</div>
 <h3><strong>Set up your phone to block scam calls and SMSes</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block_and_filter_scams.png">
+</div>
 <p>Protect yourself from scam calls and SMSes by giving setting up ScamShield
 permissions for your mobile device. This allows ScamShield to:</p>
 <ul data-tight="true" class="tight">
@@ -235,7 +235,7 @@ you that the app has detected a scam message.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Download_ScamShield.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Download_ScamShield_buttons.png">
 </div>
 <p><a href="https://www.scamshield.org.sg/android-app/setup/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
