@@ -97,7 +97,7 @@ sections:
         Prevention Council.
       button: Learn more
       url: /our-partners/
-      image: /images/ss_infopic_bg_1.png
+      image: /images/our_partners.png
       alt: Image alt text
   - announcements:
       title: Highlights
