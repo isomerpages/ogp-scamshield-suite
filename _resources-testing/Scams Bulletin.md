@@ -334,9 +334,6 @@ description: ""
 </details>
 </div>
 <p></p>
-<hr>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
