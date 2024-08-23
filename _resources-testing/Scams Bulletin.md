@@ -42,35 +42,35 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 17</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Apr%202024/WSB_Issue_24_17__26_Apr_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png"></a>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 16</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Apr%202024/WSB_Issue_24_16__19_Apr_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 15</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Apr%202024/WSB_Issue_24_15__12_Apr_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png"></a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 14</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Apr%202024/WSB_Issue_24_14__5_Apr_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 13</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Mar%202024/WSB_Issue_24_13__28_Mar_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 12</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Mar%202024/WSB_Issue_24_12__22_Mar_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png"></a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 11</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Mar%202024/WSB_Issue_24_11__15_Mar_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024_WSB.png"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 10</strong>
