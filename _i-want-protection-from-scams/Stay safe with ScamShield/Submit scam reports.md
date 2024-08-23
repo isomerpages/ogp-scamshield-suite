@@ -7,8 +7,9 @@ third_nav_title: Stay safe with ScamShield
 ---
 <p>Reports made on ScamShield are not an official police report. If you are
 a scam victim, please file an official police report.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Static_report.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Submit_scam_reports.png">
 </div>
 <h3><strong>Reporting keeps our loved ones safe</strong></h3>
 <p></p>
@@ -66,6 +67,6 @@ for all users.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Download_ScamShield.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Download_ScamShield_buttons.png">
 </div>
 <p></p>
