@@ -67,7 +67,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 11</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Mar%202024/WSB_Issue_24_11__15_Mar_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_WSB_11.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 10</strong>
