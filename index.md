@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/22_Aug_Banner.png
+      background: /images/23_Aug_Banner.png
       variant: center
       key_highlights:
         - title: Get help if you have been scammed
