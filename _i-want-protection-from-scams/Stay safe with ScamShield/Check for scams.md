@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Stay safe with ScamShield
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Check_Static.png">
-</div>
 <h3><strong>Saw something suspicious? Check if it's a scam.</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Check_for_scams.png">
+</div>
 <p>The enhanced ScamShield app utilises an AI-powered classifier to help
 you identify potential scams. By submitting a number, message or link,
 ScamShield can:</p>
@@ -70,7 +70,8 @@ relevant information to authorities to take action.</p>
 <p>Please click <a href="https://guide.scamshield.gov.sg/using-scamshield/check-for-scams" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more guidance and information.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Download_ScamShield.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Download_ScamShield_buttons.png">
 </div>
 <p></p>
