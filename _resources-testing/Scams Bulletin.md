@@ -16,7 +16,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 03-August 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Aug%202024/Monthly_Scams_Bulletin_Issue_3___August.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_03.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Aug%202024/Monthly_Scams_Bulletin_Issue_3_August.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_03.jpg"></a>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 02-July 2024</strong>
