@@ -111,6 +111,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>| 2023</strong>
