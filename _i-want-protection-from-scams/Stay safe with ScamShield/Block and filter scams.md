@@ -206,6 +206,4 @@ detecting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Download_ScamShield_buttons.png">
 </div>
-<p><a href="https://www.scamshield.org.sg/android-app/setup/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
 <p></p>
