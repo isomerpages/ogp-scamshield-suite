@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Understanding scam types
 ---
 <h2><strong>Phishing Scams</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Phising scams" src="/images/Phising_scams.png">
+</div>
 <p>Phishing scams involve emails, messages, calls, or advertisements by scammers
 posing as government officials, financial institutions or businesses. Victims
 would be tricked into revealing sensitive information such as usernames,
