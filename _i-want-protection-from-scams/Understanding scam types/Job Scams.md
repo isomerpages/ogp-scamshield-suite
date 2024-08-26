@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Understanding scam types
 ---
 <h2><strong>Job Scams</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Job scams" src="/images/Job_scams.png">
+</div>
 <p>Job scams typically involve victims being offered online jobs that could
 be performed from home. They would be asked to perform tasks for a commission,
 such as making advance purchases, liking social media posts, reviewing
