@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Understanding scam types
 ---
 <h2><strong>Investment Scams</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Investment scams" src="/images/Investment_scams.png">
+</div>
 <p>Victims of investment scams usually came across “investment opportunities”
 through their own internet searches or via recommendations from online
 friends. Once they were duped or had been enticed by the false testimonies,
