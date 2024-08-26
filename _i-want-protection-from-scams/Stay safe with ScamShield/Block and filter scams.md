@@ -25,7 +25,7 @@ permissions for your mobile device. This allows ScamShield to:</p>
 <p>For step by step guidance on how to set-up your phone permissions, click
 here.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_1.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/block_iOS_1.png">
 </div>
 <p><strong>Step 1: Launch ScamShield. Tap 'Set up' to get started.</strong>
 </p>
