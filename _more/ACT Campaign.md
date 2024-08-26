@@ -4,10 +4,10 @@ permalink: /act-campaign/
 variant: tiptap
 description: ""
 ---
-<p>Victims come from all demographic groups and backgrounds. Scam tactics
-constantly evolve and scammers use persuasive tactics to prey on common
-human vulnerabilities. However, there are preventive actions you can take,
-to protect you and your loved ones against scams</p>
+<p>Scams can affect people from any demographic or background. Scammers are
+always coming up with new tricks to prey on common human vulnerabilities.
+Take these steps to safeguard yourself and your loved ones from falling
+prey to scams.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT_logo_wbg.png">
