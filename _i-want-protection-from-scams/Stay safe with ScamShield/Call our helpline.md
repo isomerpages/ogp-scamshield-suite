@@ -9,6 +9,10 @@ third_nav_title: Stay safe with ScamShield
 <blockquote>
 <p>Helpline will be operational from 28th Sep 2024</p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Call_our_hotline.png">
+</div>
 <p>Scams can be tricky to navigate, and it's not always easy to discern their
 true nature. If you find yourself unsure about a situation and suspect
 it might be a scam, don't hesitate to reach out for assistance. <strong>Call 1799</strong>,
