@@ -88,8 +88,7 @@ from transferring your funds.</p>
 </li>
 <li>
 <p>You should also file a police report immediately via <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank"><u>e-report online</u></a> or
-in person at the nearest Neighbourhood Police Centre or Neighbourhood Police
-Post.</p>
+in person at the nearest <a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener nofollow" target="_blank">Neighbourhood Police Post</a>.</p>
 </li>
 <li>
 <p>You can also share your scam encounters via the ScamShield app and/or
