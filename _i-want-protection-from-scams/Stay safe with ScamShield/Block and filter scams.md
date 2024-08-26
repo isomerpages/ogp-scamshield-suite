@@ -90,7 +90,7 @@ label.</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
+<hr>
 <p></p>
 <p></p>
 <p><strong>Frequently asked questions</strong>
@@ -140,11 +140,9 @@ if the SMS is a scam using an on-device algorithm.</p>
 </ul>
 </div>
 </details>
-</div>
-<hr>
-<h4>For Android users</h4>
-<p><strong>How can I tell if ScamShield is working on my Android phone?</strong>
-</p>
+<details class="isomer-details">
+<summary>How can I tell if ScamShield is working on my Android phone?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>When you receive a scam SMS from an <strong>unknown number</strong>, you
@@ -159,18 +157,11 @@ ScamShield automatically reports it to the authorities to ensure your safety.</p
 <p>ScamShield also works in the background silently to block scam calls.</p>
 </li>
 </ul>
-<p>
-<br><strong>What should I report to ScamShield?</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To help us protect you better, report any scams that we may have missed
-detecting.</p>
-</li>
-</ul>
-<p>
-<br><strong>How does it work on my Android phone?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>How does it work on my Android phone</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
 <p>The app filters incoming calls and SMSes from <strong>unknown numbers, including overseas numbers.</strong> ScamShield
@@ -187,8 +178,17 @@ if the SMS is a scam using an on-device algorithm.</p>
 you that the app has detected a scam message.</p>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>What should I report to ScamShield?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To help us protect you better, report any scams that we may have missed
+detecting.</p>
+</div>
+</details>
+</div>
 <hr>
-<p></p>
 <h4>Your privacy is important to us</h4>
 <ul data-tight="true" class="tight">
 <li>
