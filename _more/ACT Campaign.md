@@ -87,7 +87,7 @@ This enables the bank to promptly suspend your account to prevent scammers
 from transferring your funds.</p>
 </li>
 <li>
-<p>You should also file a police report immediately via <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" rel="noopener noreferrer nofollow" target="_blank"><u>e-report online</u></a> or
+<p>You should also file a police report immediately via <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank"><u>e-report online</u></a> or
 in person at the nearest Neighbourhood Police Centre or Neighbourhood Police
 Post.</p>
 </li>
