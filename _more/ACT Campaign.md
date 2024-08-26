@@ -4,16 +4,15 @@ permalink: /act-campaign/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT_logo_white_bg.png">
-</div>
 <p>Victims come from all demographic groups and backgrounds. Scam tactics
 constantly evolve and scammers use persuasive tactics to prey on common
 human vulnerabilities. However, there are preventive actions you can take,
-to protect you and your loved ones against scams. The ACT (“Add, Check,
-Tell”) framework outlines three key actions to improve your defences against
-scams.</p>
-<p></p>
+to protect you and your loved ones against scams</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT_logo_white_bg.png">
+</div>
+<p>The ACT (“Add, Check, Tell”) framework outlines three key actions to improve
+your defences against scams.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>“ADD” the ScamShield app and security features.</summary>
