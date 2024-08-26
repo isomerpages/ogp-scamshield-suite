@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Understanding scam types
 ---
 <h2><strong>Fake Friend Call Scams</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fake friend call scams" src="/images/Fake_friend_call_scams.png">
+</div>
 <p>Fake friend call scams typically involve scammers contacting victims via
 phone calls or WhatsApp, pretending to be their acquaintance. During the
 conversation, the scammers would claim that they had lost their mobile
