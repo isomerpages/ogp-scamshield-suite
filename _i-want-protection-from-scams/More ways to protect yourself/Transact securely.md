@@ -62,31 +62,46 @@ is automatically set at $2,000 per day.</p>
 <p>If you have no immediate plans to withdraw your CPF savings, you are encouraged
 to safeguard your CPF savings by activating the CPF Withdrawal Lock to
 disable online withdrawals.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>How do I disable CPF online withdrawals</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<h4><strong>How do I disable CPF online withdrawals</strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__1_.png">
 </div>
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__2_.png">
 </div>
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__3_.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__4_.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-</div>
-</details>
-</div>
 <p></p>
 <p>The online Daily Withdrawal Limit and CPF Withdrawal Lock complement CPFB’s
 existing security measures, which include Singpass Two-Factor Authentication
