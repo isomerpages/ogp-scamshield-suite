@@ -19,7 +19,7 @@ of the second factor.</p>
 media accounts by following these links.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.facebook.com/help/325807937506242" class="btn btn-outline-danger" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+<p><a href="https://www.facebook.com/help/148233965247823" class="btn btn-outline-danger" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
 </p>
 </li>
 <li>
