@@ -2,6 +2,5 @@ collections:
   i-have-been-scammed:
     output: true
     order:
-      - Monetary loss or bank details leaked.md
       - Installed a malicious app.md
       - Avenues of support.md
