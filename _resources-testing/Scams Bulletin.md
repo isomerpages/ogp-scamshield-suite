@@ -128,23 +128,14 @@ description: ""
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 41</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023_WSB.png">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 40</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023_WSB.png">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 39</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023_WSB.png">
-</div>
 </th>
 </tr>
 <tr>
