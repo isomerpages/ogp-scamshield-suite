@@ -239,21 +239,21 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 17</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Jul%202023/Weekly_Scams_Bulletin_Issue_17_EngChiMalTam__24_to_30_Jun_2023_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_17.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 16</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Jul%202023/Weekly_Scams_Bulletin_Issue_16_EngChiMalTam__17_to_23_Jun_2023.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_16.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 15</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Jun%202023/Weekly_Scams_Bulletin_Issue_15_v2_EngChiMalTam__10_to_16_Jun_2023_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_15.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 14</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Jun%202023/Weekly_Scams_Bulletin_Issue_14_EngChiMalTam__3_to_9_Jun_2023_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_14.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 13</strong>
