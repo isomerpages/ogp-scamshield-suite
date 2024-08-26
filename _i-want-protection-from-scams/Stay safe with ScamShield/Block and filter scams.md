@@ -190,12 +190,8 @@ detecting.</p>
 </div>
 <hr>
 <h4>Your privacy is important to us</h4>
-<ul data-tight="true" class="tight">
-<li>
 <p>For your privacy, ScamShield <strong>does not filter calls and SMSes from contacts that you have saved on your phone.</strong>
 </p>
-</li>
-</ul>
 <h4>Feedback</h4>
 <p>For any queries, questions or feedback, please contact us here: <a href="https://go.gov.sg/scamshield-feedback" rel="noopener noreferrer nofollow" target="_blank"><u>ScamShield Feedback</u></a>
 </p>
