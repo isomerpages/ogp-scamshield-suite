@@ -30,16 +30,10 @@ here.</p>
 <p><strong>Step 1: Launch ScamShield. Tap 'Set up' to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_Step_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_2.png">
 </div>
 <p><strong>Step 2: Tap 'Next' to proceed.</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_Step_2.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_3.png">
 </div>
@@ -52,9 +46,6 @@ here.</p>
 </p>
 <p></p>
 <p>For more guidance, click here.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_Step_5.jpg">
-</div>
 <p></p>
 <h4><strong>How it works (Android)</strong></h4>
 <div class="isomer-image-wrapper">
@@ -63,24 +54,15 @@ here.</p>
 <p><strong>Step 1: Tap 'Set up' next to SMS filtering to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_2.png">
 </div>
 <p><strong>Step 2: Tap 'Next' to proceed.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_3.png">
 </div>
 <p><strong>Step 3: Tap 'Settings &gt; Messages</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_3.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_4.png">
 </div>
