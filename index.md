@@ -45,8 +45,8 @@ sections:
   - infopic:
       title: Over S$2.2 billion lost since 2020
       id: infopic
-      description: Protect yourself and loved ones with our scam-prevention tools, and
-        always be alert to potential scams.
+      description: Protect yourself and your loved ones with our scam-prevention
+        tools, and always be alert to potential scams.
       image: /images/1_in_5.png
       alt: Image alt text
   - textcards:
