@@ -21,7 +21,11 @@ arrangements.</p>
 <h4>Community Support&nbsp;</h4>
 <p>Should you require further support in the community, here are some possible
 avenues you may consider:&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -63,7 +67,7 @@ avenues you may consider:&nbsp;</p>
 <p>Counselling and Care Centre&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65366 366&nbsp;</p>
+<p>6536 6366&nbsp;</p>
 </td>
 </tr>
 <tr>
