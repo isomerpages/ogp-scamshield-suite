@@ -294,17 +294,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 07</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_07.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/May%202023/Weekly_Scams_Bulletin_07.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_07.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 06</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_06.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Apr%202023/Weekly_Scams_Bulletin_06.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_06.jpg"></a>
 </td>
 </tr>
 <tr>
