@@ -10,8 +10,8 @@ third_nav_title: Stay safe with ScamShield
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block_and_filter_scams.png">
 </div>
-<p>Protect yourself from scam calls and SMSes by giving setting up ScamShield
-permissions for your mobile device. This allows ScamShield to:</p>
+<p>Protect yourself from scam calls and SMSes by granting ScamShield permissions
+on your mobile device. This allows ScamShield to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Block numbers marked as scam by the authorities&nbsp;</p>
