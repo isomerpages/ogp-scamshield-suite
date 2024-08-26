@@ -29,7 +29,7 @@ activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block.png">
 </div>
-<h3><br><strong>Your privacy is our priority</strong></h3>
+<h3><strong>Your privacy is our priority</strong></h3>
 <p>We value and respect your privacy, and follow the strictest measures to
 keep your information safe and confidential when you use ScamShield products.
 <br>
