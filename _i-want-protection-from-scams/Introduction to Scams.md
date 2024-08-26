@@ -15,13 +15,13 @@ details or data by offering an attractive deal or false information.</p>
 <li>
 <p>Perpetrators would establish links with potential victims via various
 communication channels, such as via phone calls, WhatsApp messages, SMSes,
-social media and e-commerce platforms;</p>
+social media and e-commerce platforms.</p>
 </li>
 <li>
 <p>Perpetrators would target victims who unwittingly respond to their outreach
 and deceive the victims, resulting in victims losing something of value
 to the perpetrators (usually transferring of money or virtual credits,
-or revealing personal particulars or credentials)</p>
+or revealing personal particulars or credentials).</p>
 </li>
 <li>
 <p>There is usually no face-to-face meeting between perpetrators and their
