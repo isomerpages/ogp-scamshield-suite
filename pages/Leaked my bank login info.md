@@ -124,10 +124,38 @@ accounts and cards.</p>
 </ul>
 <p>For all other banks, refer to the bank's relevant fraud hotline(s).</p>
 <hr>
-<h3>Resources</h3>
+<h3>Resources and references</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www1.citibank.com.sg/personal-banking/online-services/kill-switch" rel="noopener noreferrer nofollow" target="_blank">Citibank Killswitch</a>
+<p><a href="https://www.dbs.com.sg/personal/support/guide-security-on-scams-and-fraud.html" rel="noopener nofollow" target="_blank">DBS/POSB</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/phishing-scams.page" rel="noopener nofollow" target="_blank">OCBC</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.uobgroup.com/uobgroup/contact-us/index.page" rel="noopener nofollow" target="_blank">UOB</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.citibank.com.sg/static/contact/" rel="noopener nofollow" target="_blank">Citibank</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.cimb.com.sg/en/personal/help-support/contact-us.html" rel="noopener nofollow" target="_blank">CIMB</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.hsbc.com.sg/help/security-centre/fraud-guide/" rel="noopener nofollow" target="_blank">HSBC</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.maybank2u.com.sg/en/personal/eservices/security-alerts/online-threats/measures-to-protect-you-from-scams.page" rel="noopener nofollow" target="_blank">Maybank</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sc.com/sg/fraud-scam/help/" rel="noopener nofollow" target="_blank">Standard Chartered</a>
 </p>
 </li>
 </ul>
