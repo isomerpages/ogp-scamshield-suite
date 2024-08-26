@@ -22,6 +22,10 @@ on your mobile device. This allows ScamShield to:</p>
 </ul>
 <p></p>
 <h4><strong>How it works (iOS)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_1.png">
+</div>
 <p><strong>Step 1: Launch ScamShield. Tap 'Set up' to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -42,9 +46,11 @@ on your mobile device. This allows ScamShield to:</p>
 <p></p>
 <hr>
 <h4><strong>How it works (Android)</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_1.png">
 </div>
+<p></p>
 <p><strong>Step 1: Tap 'Set up' next to SMS filtering to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
