@@ -4,7 +4,7 @@ permalink: /installed-malware/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>If you've installed a malicious app from an unofficial source:</h3>
+<h4>If you've installed a malicious app from an unofficial source:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Turn on '<strong>flight mode</strong>' on your phone.</p>
