@@ -86,10 +86,7 @@ travelling overseas and expecting calls from international numbers (e.g.
 from the hotel or on-ground transport).</p>
 </li>
 </ul>
-<p>The features are available free of charge. Contact your telco (<a href="https://www.singtel.com/personal/products-services/lifestyle-services/my-smart-network/international-barring" rel="noopener noreferrer nofollow" target="_blank">Singtel</a>,
-<a href="https://www.m1.com.sg/support/faq/call-barring-faq" rel="noopener noreferrer nofollow" target="_blank">M1</a>, <a href="https://www.starhub.com/personal/support/article.html?id=3EB2KjVOW4A2yhKWwqnSb6" rel="noopener noreferrer nofollow" target="_blank">StarHub</a> and
-<a href="https://simba.sg/terms" rel="noopener noreferrer nofollow" target="_blank">SIMBA</a>) to find out how to activate the features. To learn more about
-IMDA’s other anti-scam measures, visit IMDA’s website <a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To learn more about IMDA’s other anti-scam measures, click <a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Option___D2_Block_Intl_Call_SMSes_poster.jpg">
