@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Lost money or bank details leaked.md
-      - Installed a malicious app, apk, or malware.md
+      - Installed a malicious app.md
       - Avenues of support.md
