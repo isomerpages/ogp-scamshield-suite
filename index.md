@@ -43,7 +43,7 @@ sections:
       alt: Image alt text
       description: Available 24/7, Monday to Sunday
   - infopic:
-      title: Over S$2.2 billion lost to scams since 2020
+      title: Over S$2.2 billion has been lost to scams since 2020
       id: infopic
       description: Protect yourself and your loved ones with our scam-prevention
         tools, and always be alert to potential scams.
