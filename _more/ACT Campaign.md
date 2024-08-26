@@ -8,8 +8,9 @@ description: ""
 constantly evolve and scammers use persuasive tactics to prey on common
 human vulnerabilities. However, there are preventive actions you can take,
 to protect you and your loved ones against scams</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT_logo_white_bg.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT_logo_wbg.png">
 </div>
 <p>The ACT (“Add, Check, Tell”) framework outlines three key actions to improve
 your defences against scams.</p>
