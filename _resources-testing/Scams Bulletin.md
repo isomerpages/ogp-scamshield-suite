@@ -333,17 +333,11 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 02</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_02.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Mar%202023/Weekly_Scams_Bulletin_02.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_02.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 01</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_01.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Mar%202023/Weekly_Scams_Bulletin_01.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_01.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
