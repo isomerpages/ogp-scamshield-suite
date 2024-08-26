@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Stay safe with ScamShield
 ---
-<p></p>
 <h3><strong>Set up your phone to block scam calls and SMSes</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
