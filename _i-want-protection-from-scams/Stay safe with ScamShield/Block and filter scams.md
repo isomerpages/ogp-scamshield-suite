@@ -30,17 +30,17 @@ here.</p>
 <p><strong>Step 1: Launch ScamShield. Tap 'Set up' to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_2.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/block_iOS_2.png">
 </div>
 <p><strong>Step 2: Tap 'Next' to proceed.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_3.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/block_iOS_3.png">
 </div>
 <p><strong>Step 3: Tap 'Open Settings -&gt; Phone</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_4.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/block_iOS_4.png">
 </div>
 <p><strong>Step 4: This will take you to your Settings -&gt; Phone. Tap Call Blocking &amp; Identification -&gt; Tap on ScamShield to switch on the permissions. All done! On your ScamShield home screen, you will be able to see call blocking is now active.</strong>
 </p>
