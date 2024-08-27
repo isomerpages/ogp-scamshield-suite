@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: More ways to protect yourself
 ---
-<p><strong>Understanding the latest scams and recognizing their signs is essential for safeguarding yourself. Join our messaging channels on WhatsApp and Telegram to receive up-to-date information.</strong>
+<p><strong>Understanding the latest scams and recognizing their signs is essential for safeguarding yourself. Join our messaging channels on WhatsApp and Telegram to receive up-to-date information on scam trends and more.</strong>
 </p>
 <p></p>
 <ul data-tight="true" class="tight">
