@@ -5,11 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: More ways to protect yourself
 ---
-<p><em>[Visual with WhatsApp and Tele logos + maybe a screenshot of the kind of updates sent on the channels]</em>
+<p><strong>Understanding the latest scams and recognizing their signs is essential for safeguarding yourself. Join our messaging channels on WhatsApp and Telegram to receive up-to-date information on scam trends and more.</strong>
 </p>
-<p>Knowing about the latest scams and how to spot them is important in order
-to protect yourself against them. Join our messaging channels on WhatsApp
-and Telegram for the latest updates.</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Join our Telegram channel <a href="https://t.me/ncpcscamalert" rel="noopener noreferrer nofollow" target="_blank">here</a>
