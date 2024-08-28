@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Understanding scam types
 ---
 <h2><strong>E-commerce Scams</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="E-commerce scams" src="/images/E_commerce_scams.png">
+</div>
 <p>E-commerce scams involve the sales of goods and services without physical
 meet-ups. Generally, victims would come across attractive deals on online
 marketplaces or social media platforms but would fail to receive the goods
