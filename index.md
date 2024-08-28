@@ -39,8 +39,8 @@ sections:
       title: "Call the anti-scam helpline: 1799"
       subtitle: need more help?
       id: infopic
-      image: /images/ScamShield_App_v2_Hotline.png
-      alt: Image alt text
+      image: /images/1799_hotline.png
+      alt: 1799 Hotline
       description: Available 24/7, Monday to Sunday
   - infopic:
       title: Over S$2.2 billion has been lost to scams since 2020
