@@ -28,8 +28,7 @@ third_nav_title: More ways to protect yourself
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/ncpcscamalert"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/Telegram.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
