@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Understanding scam types
 ---
 <h2><strong>Government Officials Impersonation Scams</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Government officer impersonation scams" src="/images/Gov_officer_impersonation.png">
+</div>
 <p>Victims would receive unsolicited phone calls or in-app calls (e.g. WhatsApp
 video call) allegedly from government agencies such as the Singapore Police
 Force (SPF) or the Ministry of Manpower (MOM). The scammers would claim
