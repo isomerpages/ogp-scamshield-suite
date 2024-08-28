@@ -15,26 +15,15 @@ third_nav_title: More ways to protect yourself
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staging/join_whatsapp.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/join_whatsapp.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/ncpcscamalert"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staging/join_telegram.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/ncpcscamalert"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/join_telegram.png"></a>
+</th>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <p></p>
