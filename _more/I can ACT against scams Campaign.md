@@ -68,10 +68,10 @@ via SMSes, or emails.</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pink.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/Tell.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you suspect that you have fallen prey to a scam, call your bank or
