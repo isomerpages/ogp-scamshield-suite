@@ -22,6 +22,7 @@ your defences against scams.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/act1.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
@@ -40,6 +41,7 @@ users can download to suit their needs and budget - <a href="https://www.csa.gov
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/check1.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>When you receive a phone call or message asking for your personal information,
@@ -69,6 +71,7 @@ via SMSes, or emails.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/tell1.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you suspect that you have fallen prey to a scam, call your bank or
