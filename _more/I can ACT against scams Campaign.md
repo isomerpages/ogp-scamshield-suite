@@ -20,7 +20,7 @@ your defences against scams.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/ACT.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/act1.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +38,7 @@ users can download to suit their needs and budget - <a href="https://www.csa.gov
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/CHECK.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/check1.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -67,7 +67,7 @@ via SMSes, or emails.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/TELL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/tell1.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
