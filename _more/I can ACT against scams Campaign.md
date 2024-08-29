@@ -20,9 +20,8 @@ your defences against scams.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Orange.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/ACT.png">
 </div>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
@@ -39,9 +38,8 @@ users can download to suit their needs and budget - <a href="https://www.csa.gov
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Green.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/CHECK.png">
 </div>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>When you receive a phone call or message asking for your personal information,
@@ -68,9 +66,8 @@ via SMSes, or emails.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/Tell.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/TELL.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -94,27 +91,6 @@ them from falling prey to scams by doing so.</p>
 </li>
 </ul>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>“ADD” the ScamShield app and security features.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>“CHECK” for scam signs with official sources</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>“TELL” authorities, family and friends about scams.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<h4></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
 </div>
