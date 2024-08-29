@@ -81,7 +81,7 @@ sections:
       description: Learn about the latest scam trends from the Police's Monthly Scams
         Bulletin.
   - infopic:
-      title: ACT against scams
+      title: I can ACT against scams
       subtitle: Learn more
       id: infopic
       description: Learn more about the campaign
