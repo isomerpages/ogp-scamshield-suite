@@ -86,7 +86,7 @@ sections:
       id: infopic
       description: Learn more about the campaign
       button: Learn more
-      image: /images/ACT_campaign.png
+      image: /images/ACT Campaign/act_campaign_homepage.png
       alt: Image alt text
       url: /act-campaign/
   - infopic:
