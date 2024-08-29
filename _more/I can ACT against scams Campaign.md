@@ -16,10 +16,8 @@ prey to scams.</p>
 <p></p>
 <p>The ACT (“Add, Check, Tell”) framework outlines three key actions to improve
 your defences against scams.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>“ADD” the ScamShield app and security features.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Orange.png">
@@ -38,15 +36,13 @@ devices and accounts. CSA has put together a list of recommended apps which
 users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank"><u>Add ScamShield and Anti-Virus Apps</u></a>.</p>
 </li>
 </ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>“CHECK” for scam signs with official sources</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Green.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>When you receive a phone call or message asking for your personal information,
@@ -72,15 +68,13 @@ not ask for your personal particulars or banking credentials over the phone,
 via SMSes, or emails.</p>
 </li>
 </ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>“TELL” authorities, family and friends about scams.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pink.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you suspect that you have fallen prey to a scam, call your bank or
@@ -102,6 +96,24 @@ from falling prey.</p>
 them from falling prey to scams by doing so.</p>
 </li>
 </ul>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>“ADD” the ScamShield app and security features.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>“CHECK” for scam signs with official sources</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>“TELL” authorities, family and friends about scams.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
