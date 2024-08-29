@@ -4,14 +4,16 @@ permalink: /act-campaign/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT_logo_wbg.png">
+</div>
+<p>The national anti-scam campaign “I can ACT against scams” was launched
+in January 2023 to translate awareness to action with the acronym ACT.</p>
 <p>Scams can affect people from any demographic or background. Scammers are
 always coming up with new tricks to prey on common human vulnerabilities.
 Take these steps to safeguard yourself and your loved ones from falling
 prey to scams.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT_logo_wbg.png">
-</div>
 <p>The ACT (“Add, Check, Tell”) framework outlines three key actions to improve
 your defences against scams.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
