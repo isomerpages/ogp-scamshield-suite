@@ -38,8 +38,6 @@ users can download to suit their needs and budget - <a href="https://www.csa.gov
 </li>
 </ul>
 <p></p>
-<hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Green.png">
 </div>
@@ -69,8 +67,6 @@ not ask for your personal particulars or banking credentials over the phone,
 via SMSes, or emails.</p>
 </li>
 </ul>
-<p></p>
-<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pink.png">
