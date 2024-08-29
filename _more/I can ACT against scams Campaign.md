@@ -19,6 +19,9 @@ your defences against scams.</p>
 <p></p>
 <hr>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/act.png">
+</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,6 +38,9 @@ users can download to suit their needs and budget - <a href="https://www.csa.gov
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/check.png">
+</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -62,6 +68,9 @@ via SMSes, or emails.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/tell.png">
+</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
