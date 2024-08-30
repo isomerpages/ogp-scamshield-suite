@@ -107,8 +107,8 @@ via the various pop-ups.</p>
 see that scam call blocking and SMS detection is active.</p>
 </li>
 </ol>
-<hr>
-<p><strong>Frequently asked questions</strong>
+<p>
+<br><strong>Frequently asked questions</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -203,7 +203,6 @@ detecting.</p>
 </div>
 </details>
 </div>
-<hr>
 <h4>Your privacy is important to us</h4>
 <p>For your privacy, ScamShield <strong>does not filter calls and SMSes from contacts that you have saved on your phone.</strong>
 </p>
