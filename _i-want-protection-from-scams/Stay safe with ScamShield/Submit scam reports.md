@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Stay safe with ScamShield
 ---
-<p>Reports made on ScamShield are not an official police report. If you are
-a scam victim, please file an official police report.</p>
+<p><strong>Reports made on ScamShield are not an official police report. If you are a scam victim, please file an </strong>
+<a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener nofollow" target="_blank">official police report</a><strong>.</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Submit_scam_reports.png">
