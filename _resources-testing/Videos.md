@@ -304,7 +304,7 @@ description: ""
 </tbody>
 </table>
 <h4></h4>
-<h4>2024</h4>
+<h4>Beware of Tech Support Scams</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -313,18 +313,51 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Beware of Tech Support Scams</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="180" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HDaHv_bgxS8"></iframe>
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ADD these security features!</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="180" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6o4bsdPyKYQ"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>ADD these security features!</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="180" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
 </div>
-</td>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="180" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c"></iframe>
+</div>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
