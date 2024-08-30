@@ -313,16 +313,17 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Beware of Tech Support Scams</p>
 <div class="iframe-wrapper">
 <iframe height="180" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HDaHv_bgxS8"></iframe>
 </div>
-<p>Beware of Tech Support Scams</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>ADD these security features!</p>
 <div class="iframe-wrapper">
 <iframe height="180" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
 </div>
-<p>ADD these security features!</p>
 </td>
 </tr>
 <tr>
