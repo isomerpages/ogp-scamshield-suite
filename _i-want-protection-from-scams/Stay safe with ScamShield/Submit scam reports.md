@@ -33,7 +33,7 @@ as you.</p>
 <p></p>
 <h4>How it works</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/report___step_1.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/report___step_1.png">
 </div>
 <ol data-tight="true" class="tight">
 <li>
@@ -42,7 +42,7 @@ as you.</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/report___step_2.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/report___step_2.png">
 </div>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -55,7 +55,7 @@ for ease of reporting.</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/report___step_3.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/report___step_3.png">
 </div>
 <ol start="3" data-tight="true" class="tight">
 <li>
