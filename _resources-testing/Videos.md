@@ -315,14 +315,14 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Beware of Tech Support Scams</p>
 <div class="iframe-wrapper">
 <iframe height="250" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HDaHv_bgxS8"></iframe>
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ADD these security features!</p>
 <div class="iframe-wrapper">
 <iframe height="250" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
 </div>
