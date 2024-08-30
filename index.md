@@ -91,13 +91,12 @@ sections:
             day to reduce scam losses
           link_text: Learn more
           link_url: https://www.cpf.gov.sg/member/infohub/news/news-releases/lowering-of-maximum-daily-withdrawal-limit-to-50000-for-online-cpf-withdrawals-to-strengthen-safeguards-against-scams
-        - title: Annual Scams and Cybercrime Brief 2023
-          date: 18 February 2024
+        - title: Mid Year Scams and Cybercrime Brief 2024
+          date: 22 August 2024
           announcement: The Singapore Police Force (SPF) released these latest figures in
-            their annual scams and cybercrime brief on Sunday (Feb 18), which
-            showed a continued rise in the overall number of scams.
+            their mid-year scams and cybercrime brief on 22 Aug 2024.
           link_text: Learn more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/20240218_Annual_Scams_and_Cybercrime_Brief_2023.pdf
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/mid_year_scams_and_cybercrime_brief_2024.pdf
         - title: Anti-Scam mascot design competition
           date: 16 April 2024
           announcement: The Association of Banks in Singapore launched a mascot design
@@ -105,12 +104,13 @@ sections:
             fight against scams.
           link_text: Learn more
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
-        - title: Mid Year Scams and Cybercrime brief 2023
-          date: 22 August 2024
+        - title: Annual Scams and Cybercrime Brief 2023
+          date: 18 February 2024
           announcement: The Singapore Police Force (SPF) released these latest figures in
-            their mid-year scams and cybercrime brief on 22 Aug 2024.
+            their annual scams and cybercrime brief on Sunday (Feb 18), which
+            showed a continued rise in the overall number of scams.
           link_text: Learn more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/mid_year_scams_and_cybercrime_brief_2024.pdf
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/20240218_Annual_Scams_and_Cybercrime_Brief_2023.pdf
   - infopic:
       title: I can ACT against scams
       subtitle: Learn more
