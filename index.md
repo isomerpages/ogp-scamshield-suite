@@ -85,17 +85,6 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
-        - title: Enhanced ScamShield App
-          date: 12 August 2024
-          announcement: Block calls, report scams and more with the enhanced ScamShield App.
-          link_text: Learn more
-          link_url: /about-scamshield/
-        - title: Launch of anti-scam portal
-          date: 12 August 2024
-          announcement: An all new one-stop portal for scam related content has been
-            launched.
-          link_text: Learn more
-          link_url: https://www.scamshield.gov.sg/
         - title: Anti-Scam mascot design competition
           date: 16 April 2024
           announcement: The Association of Banks in Singapore launched a mascot design
@@ -103,6 +92,19 @@ sections:
             fight against scams.
           link_text: Learn more
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
+        - title: Annual Scams and Cybercrime Brief 2023
+          date: 18 February 2024
+          announcement: The Singapore Police Force (SPF) released these latest figures in
+            their annual scams and cybercrime brief on Sunday (Feb 18), which
+            showed a continued rise in the overall number of scams.
+          link_text: Learn more
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/20240218_Annual_Scams_and_Cybercrime_Brief_2023.pdf
+        - title: Mid Year Scams and Cybercrime brief 2023
+          date: 22 August 2024
+          announcement: The Singapore Police Force (SPF) released these latest figures in
+            their mid-year scams and cybercrime brief on 22 Aug 2024.
+          link_text: Learn more
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/mid_year_scams_and_cybercrime_brief_2024.pdf
   - infopic:
       title: I can ACT against scams
       subtitle: Learn more
