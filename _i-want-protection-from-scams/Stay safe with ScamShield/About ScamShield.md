@@ -36,6 +36,6 @@ keep your information safe and confidential when you use ScamShield products.
 phone. It only scans SMSes from unfamiliar numbers to look for any known
 signs of scams.
 <br>
-<br>When you submit a scam encounter via the ScamShield app, the SPF can only
-see the information you have submitted.</p>
+<br>When you submit a scam encounter via the ScamShield app, the authorities
+can only see the information you have submitted and not nay personal information.</p>
 <p></p>
