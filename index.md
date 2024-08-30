@@ -80,25 +80,6 @@ sections:
       alt: Image alt text
       description: Learn about the latest scam trends from the Police's Monthly Scams
         Bulletin.
-  - infopic:
-      title: I can ACT against scams
-      subtitle: Learn more
-      id: infopic
-      description: Learn more about the campaign
-      button: Learn more
-      image: /images/ACT Campaign/act_campaign_homepage.png
-      alt: Image alt text
-      url: /act-campaign/
-  - infopic:
-      title: United against scammers
-      id: infopic
-      description: ScamShield is a joint effort by the Ministry of Home Affairs, the
-        Singapore Police Force, Open Government Products, and the National Crime
-        Prevention Council.
-      button: Learn more
-      url: /our-partners/
-      image: /images/our_partners.png
-      alt: Image alt text
   - announcements:
       title: Highlights
       id: announcements
@@ -122,4 +103,23 @@ sections:
             fight against scams.
           link_text: Learn more
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
+  - infopic:
+      title: I can ACT against scams
+      subtitle: Learn more
+      id: infopic
+      description: Learn more about the campaign
+      button: Learn more
+      image: /images/ACT Campaign/act_campaign_homepage.png
+      alt: Image alt text
+      url: /act-campaign/
+  - infopic:
+      title: United against scammers
+      id: infopic
+      description: ScamShield is a joint effort by the Ministry of Home Affairs, the
+        Singapore Police Force, Open Government Products, and the National Crime
+        Prevention Council.
+      button: Learn more
+      url: /our-partners/
+      image: /images/our_partners.png
+      alt: Image alt text
 ---
