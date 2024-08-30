@@ -105,6 +105,12 @@ sections:
             their mid-year scams and cybercrime brief on 22 Aug 2024.
           link_text: Learn more
           link_url: /files/Scams%20and%20Cybercrime%20Briefs/mid_year_scams_and_cybercrime_brief_2024.pdf
+        - title: CPF Withdrawal Limit Reduced
+          date: 22 August 2024
+          announcement: Online CPF withdrawal limit reduced from S$200,000 to S$50,000 per
+            day to reduce scam losses
+          link_text: Learn more
+          link_url: https://www.cpf.gov.sg/member/infohub/news/news-releases/lowering-of-maximum-daily-withdrawal-limit-to-50000-for-online-cpf-withdrawals-to-strengthen-safeguards-against-scams
   - infopic:
       title: I can ACT against scams
       subtitle: Learn more
