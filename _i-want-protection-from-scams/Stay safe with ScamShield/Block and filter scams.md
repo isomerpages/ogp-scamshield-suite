@@ -24,47 +24,46 @@ on your mobile device. This allows ScamShield to:</p>
 <h4><strong>How it works (iOS)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_1.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_iOS_1.png">
 </div>
 <p><strong>Step 1: Launch ScamShield. Tap 'Set up' to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_2.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_iOS_2.png">
 </div>
 <p><strong>Step 2: Tap 'Next' to proceed.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_3.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_iOS_3.png">
 </div>
 <p><strong>Step 3: Tap 'Open Settings -&gt; Phone</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_iOS_4.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_iOS_4.png">
 </div>
 <p><strong>Step 4: This will take you to your Settings -&gt; Phone. Tap Call Blocking &amp; Identification -&gt; Tap on ScamShield to switch on the permissions. All done! On your ScamShield home screen, you will be able to see call blocking is now active.</strong>
 </p>
 <p></p>
 <hr>
 <h4><strong>How it works (Android)</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_1.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_android_1.png">
 </div>
 <p></p>
 <p><strong>Step 1: Tap 'Set up' next to SMS filtering to get started.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_2.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_android_2.png">
 </div>
 <p><strong>Step 2: Tap 'Next' to proceed.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_3.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_android_3.png">
 </div>
 <p><strong>Step 3: Tap 'Settings &gt; Messages</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/block_android_4.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_android_4.png">
 </div>
 <p><strong>Step 4: This will open Settings &gt; Messages. Scroll down and tap on Unknown &amp; Spam.</strong>
 </p>
@@ -94,10 +93,7 @@ label.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_8.jpg">
 </div>
-<p></p>
-<p></p>
 <hr>
-<p></p>
 <p></p>
 <p><strong>Frequently asked questions</strong>
 </p>
@@ -198,10 +194,6 @@ detecting.</p>
 <h4>Your privacy is important to us</h4>
 <p>For your privacy, ScamShield <strong>does not filter calls and SMSes from contacts that you have saved on your phone.</strong>
 </p>
-<h4>Feedback</h4>
-<p>For any queries, questions or feedback, please contact us here: <a href="https://go.gov.sg/scamshield-feedback" rel="noopener noreferrer nofollow" target="_blank"><u>ScamShield Feedback</u></a>
-</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Download_ScamShield_buttons.png">
