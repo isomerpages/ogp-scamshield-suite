@@ -66,6 +66,8 @@ for all users.</p>
 </li>
 </ol>
 <p></p>
+<p>Please click <a href="https://guide.scamshield.gov.sg/using-scamshield/submit-a-scam-report" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more guidance and information.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Download_ScamShield_buttons.png">
