@@ -12,9 +12,9 @@ description: ""
 personal information), take the following steps to protect yourself from
 further losses, and prevent other victims from being scammed.</p>
 <p></p>
-<h4><strong>Contact your bank immediately</strong><br></h4>
-<p>If your bank account or credit card has been compromised, so that the
-bank can take immediate actions to prevent further monetary loss.</p>
+<h4><strong>Contact your bank immediately</strong></h4>
+<p>If your bank account or credit card has been compromised, the bank can
+take immediate actions to prevent further monetary loss.</p>
 <p></p>
 <h4><strong>File a police report</strong></h4>
 <p>File a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report online</a> or
@@ -46,7 +46,7 @@ to scam them again.</p>
 <p></p>
 <hr>
 <h3><strong>Require more assistance?</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/transferred-money/permalink/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="I've lost money or exposed my bank login details to a scammer." src="/images/I_ve_lost_money.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">I've lost money or exposed my bank login details to a scammer.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/transferred-money/permalink/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="I've lost money or exposed my bank login details to a scammer." src="/images/I_ve_lost_money.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">I've lost money or exposed my bank login details to a scammer.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/installed-malware/permalink/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -58,7 +58,7 @@ to scam them again.</p>
 <div class="isomer-card-description">I accidentally installed a malicious app.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/important-information-for-police-report/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="What to include when you file a Police Report." src="/images/Police_report.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description">What to include when you file a Police Report.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/important-information-for-police-report/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="What to include when you file a Police Report." src="/images/Police_report.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description">What to include when you file a Police Report.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
 <p>Experiencing a scam can be distressing. Seek support from family and friends
