@@ -20,9 +20,8 @@ your defences against scams.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/act.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/add.png">
 </div>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
