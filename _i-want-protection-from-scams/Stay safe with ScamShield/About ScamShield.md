@@ -16,9 +16,8 @@ a website (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofol
 with a range of anti-scam resources, and the ScamShield Helpline (reachable
 at 1799).
 <br>
-<br>Each of these plays a crucial role in empowering individuals to fight
-against scams, and protect themselves, as well as the community, from fraudulent
-activities.</p>
+<br>Each of these play a crucial role in empowering individuals to fight against
+scams as well as the community from fraudulent activities.</p>
 <h3><strong>The ScamShield app</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Check_from_Figma__1_.png">
