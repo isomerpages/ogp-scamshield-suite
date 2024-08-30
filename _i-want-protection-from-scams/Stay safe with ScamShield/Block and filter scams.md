@@ -22,79 +22,92 @@ on your mobile device. This allows ScamShield to:</p>
 </ul>
 <p></p>
 <h4><strong>How it works (iOS)</strong></h4>
+<p>For a step-by-step walkthrough on how to set-up your phone permissions,
+please <a href="https://guide.scamshield.gov.sg/getting-started/setup-call-blocking/setup-call-blocking-on-ios" rel="noopener nofollow" target="_blank">read our guide</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_iOS_1.png">
 </div>
-<p><strong>Step 1: Launch ScamShield. Tap 'Set up' to get started.</strong>
-</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Launch ScamShield. Tap 'Set up' for call blocking or SMS filtering to
+get started.</p>
+</li>
+</ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_iOS_2.png">
 </div>
-<p><strong>Step 2: Tap 'Next' to proceed.</strong>
-</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Tap on next to proceed.</p>
+</li>
+</ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_iOS_3.png">
 </div>
-<p><strong>Step 3: Tap 'Open Settings -&gt; Phone</strong>
-</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Follow the step-by-step instructions to enable call blocking permissions,
+then tap on "I've done this"</p>
+</li>
+</ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_iOS_4.png">
 </div>
-<p><strong>Step 4: This will take you to your Settings -&gt; Phone. Tap Call Blocking &amp; Identification -&gt; Tap on ScamShield to switch on the permissions. All done! On your ScamShield home screen, you will be able to see call blocking is now active.</strong>
-</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>After following the set-up for call blocking and SMS filtering, you will
+see that scam call blocking and filtering is active. To check for messages
+which have been filtered by ScamShield, you can check your Junk Messages.
+Filtered SMSes will display a 'Filtered by ScamShield' label.</p>
+</li>
+</ol>
 <p></p>
 <hr>
 <h4><strong>How it works (Android)</strong></h4>
+<p>For a step-by-step walkthrough on how to set-up your phone permissions,
+please <a href="https://guide.scamshield.gov.sg/getting-started/setup-call-blocking/setup-call-blocking-on-android" rel="noopener nofollow" target="_blank">read our guide</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_android_1.png">
 </div>
+<ol data-tight="true" class="tight">
+<li>
+<p>Launch ScamShield. Tap 'Set up' for call blocking or SMS filtering to
+get started.</p>
+</li>
+</ol>
 <p></p>
-<p><strong>Step 1: Tap 'Set up' next to SMS filtering to get started.</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_android_2.png">
 </div>
-<p><strong>Step 2: Tap 'Next' to proceed.</strong>
-</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Tap on next to proceed.</p>
+<p></p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_android_3.png">
 </div>
-<p><strong>Step 3: Tap 'Settings &gt; Messages</strong>
-</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Follow the step-by-step instructions to enable permissions on ScamShield
+via the various pop-ups.</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_android_4.png">
 </div>
-<p><strong>Step 4: This will open Settings &gt; Messages. Scroll down and tap on Unknown &amp; Spam.</strong>
-</p>
-<p></p>
-<p><strong>Step 5: Tap on 'Filter Unknown Senders' if it is off. Tap on ScamShield under 'SMS Filtering' &gt; Enable.</strong>
-</p>
-<p>Please note that if you have other anti-virus or anti-scam apps that allow
-you to filter SMSes, you cannot enable more than one app under this feature.</p>
-<p></p>
-<p><strong>Step 6: ScamShield should now be enabled to filter SMSes.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_6.jpg">
-</div>
-<p></p>
-<p><strong>All done! On your ScamShield home screen, you will be able to see SMS filtering is now active.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_7.jpg">
-</div>
-<p></p>
-<p></p>
-<p>To check for messages which have been filtered by ScamShield, you can
-check your Junk Messages. Filtered SMSes will display a 'Filtered by ScamShield'
-label.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/iOS_SMS_Step_8.jpg">
-</div>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>After following the set-up for call blocking and SMS filtering, you will
+see that scam call blocking and SMS detection is active.</p>
+</li>
+</ol>
 <hr>
-<p></p>
 <p><strong>Frequently asked questions</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
