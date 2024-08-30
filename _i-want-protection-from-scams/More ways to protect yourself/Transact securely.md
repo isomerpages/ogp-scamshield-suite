@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: More ways to protect yourself
 ---
-<h3><strong>Be wary when shopping on e-commerce sites</strong></h3>
+<h4><strong>Be wary when shopping on e-commerce sites</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>When making online purchases, check the reviews of the seller, and look
@@ -28,7 +28,7 @@ of fraudulent activity.</p>
 </p>
 </li>
 </ul>
-<h3><strong>Safeguard banking details and lower transaction limits</strong></h3>
+<h4><strong>Safeguard banking details and lower transaction limits</strong></h4>
 <p>Falling prey to scammers can have significant repercussions, including
 financial loss, identity theft, and emotional distress, jeopardizing hard-earned
 money and financial stability. Prioritizing safe banking practices is essential
@@ -38,7 +38,7 @@ a low threshold for funds transfer transaction notifications, including
 for PayNow, and staying alert to all transaction notifications so that
 any unauthorised payments are reported as soon as possible to increase
 the chances of recovery.</p>
-<h3><strong>Adopting good digital banking hygiene practices</strong></h3>
+<h4><strong>Adopting good digital banking hygiene practices</strong></h4>
 <p>Add ScamShield App and security features (e.g. enable Two-Factor Authentication
 (2FA), Multifactor Authentication for banks).&nbsp;</p>
 <p>Refrain from giving out personal information and bank details (such as
@@ -46,7 +46,7 @@ your internet bank account usernames, passwords, OTP codes from tokens),
 whether on a website or to callers over the phone.</p>
 <p>Activate the emergency self-service “kill switch” to suspend your bank
 account quickly if you suspect that your bank account has been compromised.</p>
-<h3><strong>Enable Money Lock</strong></h3>
+<h4><strong>Enable Money Lock</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/moneylock.jpg">
 </div>
@@ -56,15 +56,15 @@ Lock.</p>
 <p><a href="https://www.moneysense.gov.sg/scams/moneylock/" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
 find out more about Money Lock.</p>
 <p></p>
-<h3><strong>CPF Withdrawal Lock and online Daily Withdrawal Limit</strong></h3>
+<h4><strong>CPF Withdrawal Lock and online Daily Withdrawal Limit</strong></h4>
 <p>If you are aged 55 and above, the default online Daily Withdrawal Limit
 is automatically set at $2,000 per day.</p>
 <p>If you have no immediate plans to withdraw your CPF savings, you are encouraged
 to safeguard your CPF savings by activating the CPF Withdrawal Lock to
 disable online withdrawals.</p>
 <p></p>
-<h4><strong>How do I disable CPF online withdrawals</strong></h4>
-<p></p>
+<p><strong>How to disable CPF online withdrawals</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
