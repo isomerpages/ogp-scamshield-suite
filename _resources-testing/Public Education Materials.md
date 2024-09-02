@@ -41,18 +41,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bank Phishing Scam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hari Raya E-commerce Scam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hari Raya Car Rental Scam</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Concert Ticket Scam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
