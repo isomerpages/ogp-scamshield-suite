@@ -73,8 +73,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fake Friend Call Scam</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -82,10 +81,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Add ScamShield and Anti-Virus Apps</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ScamShield_Antivirus_App.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Fake Friend Call Scam</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Not sure which Security Apps to Download?</strong>
