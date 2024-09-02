@@ -28,7 +28,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Social Messaging Privacy Settings</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Social_Media_Privacy_Settings_Infographic.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Whatsapp_Privacy_Settings_Infographic_1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Anti-Scam Resource Guide</strong>
