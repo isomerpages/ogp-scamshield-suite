@@ -64,19 +64,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Money Mule Trap Check</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>How to Secure your Devices</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/CHECK_Money_Mule.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/money_mule.jpg"></a>
 </td>
 </tr>
 <tr>
