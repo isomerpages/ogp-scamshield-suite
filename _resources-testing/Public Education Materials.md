@@ -36,7 +36,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ACT campaign ADD</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/ADD_Round_Up_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ACT_ADD_Round_Up.jpg"></a>
 </td>
 </tr>
 <tr>
