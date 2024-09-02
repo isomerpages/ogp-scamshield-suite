@@ -60,10 +60,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Parcel Delivery Phishing Scam</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Parcel_Delivery_Scam_1080x1920_.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Parcel_Delivery_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Parcel_Delivery_Scam_1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Money Mule Trap Check</strong>
