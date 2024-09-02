@@ -49,6 +49,7 @@ sections:
         tools, and always be alert to potential scams.
       image: /images/1_in_5.png
       alt: Image alt text
+      subtitle: did you know?
   - textcards:
       title: Scam threats
       id: textcards
