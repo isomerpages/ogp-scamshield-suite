@@ -82,10 +82,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Add ScamShield and Anti-Virus Apps</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ScamShield_Antivirus_App.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/CSA_Security_Apps_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ScamShield_Antivirus_App.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fake Friend Call Scam</strong>
@@ -109,10 +106,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Malicious Apps Telltale Signs</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Malicious_Apps_Telltale___What_to_Do__1080_x_1920_.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/CSA_Malware_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Malicious_Apps_Telltale___What_to_Do__1080_x_1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fight Scams with ScamShield</strong>
