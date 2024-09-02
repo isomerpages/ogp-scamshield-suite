@@ -36,8 +36,8 @@ sections:
           description: Set up your phone to block calls and SMSes from scammers
       url: /about-scamshield/
   - infopic:
-      title: "Call the anti-scam helpline: 1799"
-      subtitle: need more help?
+      title: Call 1799 to check with the ScamShield anti-scam helpline
+      subtitle: Unsure if it's a scam?
       id: infopic
       image: /images/1799_hotline.png
       alt: 1799 Hotline
