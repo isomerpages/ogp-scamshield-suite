@@ -77,8 +77,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Beware of Malicious Apps</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,7 +88,11 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Not sure which security apps to download?</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Security_Apps_Infographic_1080x1920.jpg">
+</div>
 </td>
 </tr>
 <tr>
