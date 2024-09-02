@@ -32,7 +32,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Anti-Scam Resource Guide</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="https://www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Others/SPF_Anti_Scam_Resource_Guide.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ACT campaign ADD</strong>
