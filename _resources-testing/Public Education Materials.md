@@ -14,10 +14,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Beware of Investment Scams</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Beware_Investment_Scam_1080x1920_.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Beware_Investment_Scam_1080x1920_.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>CSA Cyber Tips</strong>
@@ -25,10 +22,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Beware of Job Scams!</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Job_Scam_1080x1920_.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Beware_Job_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Job_Scam_1080x1920_.jpg"></a>
 </th>
 </tr>
 <tr>
