@@ -46,11 +46,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hari Raya E-commerce Scam</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Hari_Raya_E_commerce_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/HR_ECS__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hari Raya Car Rental Scam</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Hari_Raya_Car_Rental_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/HR_CRS__1080x1920_.jpg"></a>
 </td>
 </tr>
 <tr>
