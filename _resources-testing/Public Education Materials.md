@@ -42,7 +42,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Bank Phishing Scam</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Bank_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/BPS_SA_Full__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hari Raya E-commerce Scam</strong>
@@ -56,7 +56,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Concert Ticket Scam</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Concert_Ticket_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/CTS_SA_Full__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Parcel Delivery Phishing Scam</strong>
