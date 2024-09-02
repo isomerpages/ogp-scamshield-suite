@@ -28,7 +28,7 @@ vigilant and adopt good cyber hygiene habits to protect your devices.&nbsp;</p>
 </p>
 </li>
 </ul>
-<h4><strong>Always only download from official App Stores</strong></h4>
+<h4><strong>Always download from official App Stores</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Do not download apps from unknown or unofficial sources.</p>
@@ -86,9 +86,9 @@ travelling overseas and expecting calls from international numbers (e.g.
 from the hotel or on-ground transport).</p>
 </li>
 </ul>
-<p>To learn more about IMDA’s other anti-scam measures, click <a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Option___D2_Block_Intl_Call_SMSes_poster.jpg">
 </div>
+<p>To learn more about IMDA’s other anti-scam measures, click <a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p></p>
