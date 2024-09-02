@@ -41,35 +41,44 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bank Phishing Scam</p>
+<p><strong>Bank Phishing Scam</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya E-commerce Scam</p>
+<p><strong>Hari Raya E-commerce Scam</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Car Rental Scam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Ticket Scam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Hari Raya Car Rental Scam</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Concert Ticket Scam</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Parcel Delivery Phishing Scam</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Money Mule Trap Check</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>How to Secure your Devices</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fake Friend Call Scam</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beware of Malicious Apps</strong>
+</p>
 </td>
 </tr>
 </tbody>
