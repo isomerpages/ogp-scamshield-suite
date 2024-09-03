@@ -324,7 +324,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>ADD these security features!</p>
 <div class="iframe-wrapper">
-<iframe height="250" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
+<iframe height="250" width="80%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
 </div>
 </td>
 </tr>
