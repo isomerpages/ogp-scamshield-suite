@@ -23,11 +23,16 @@ identified by authorities, and let you know it looks like a scam</p>
 </li>
 <li>
 <p>Let you know if other scam-spotters in the community reported the number
-or message too
-<br>
-</p>
+or message too</p>
 </li>
 </ul>
+<p></p>
+<p><strong><u>Using other platforms? </u></strong>
+</p>
+<p>The ScamShield suite offers multiple ways for you to verify potential
+scams. You can reach out to our 24/7 anti-scam helpline at <a href="tel:1799" rel="noopener nofollow" target="_blank">1799</a> for immediate assistance
+or utilize the live chat feature available on our one-stop online portal.</p>
+<p></p>
 <h4><strong>Check before you act</strong></h4>
 <p>Scammers rely on urgency and confusion to get you to act quickly without
 thinking. By taking a moment to check suspicious calls, messages, or links,
