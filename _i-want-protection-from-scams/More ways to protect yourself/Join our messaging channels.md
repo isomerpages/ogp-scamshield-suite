@@ -19,12 +19,12 @@ third_nav_title: More ways to protect yourself
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="scam-alert-whatsapp" src="/images/Staging/join_scamalert_whatsapp_group.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="scam-alert-telegram" src="/images/Staging/join_scamalert_telegram_channel.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
