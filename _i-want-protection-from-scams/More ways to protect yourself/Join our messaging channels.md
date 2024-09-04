@@ -29,7 +29,7 @@ third_nav_title: More ways to protect yourself
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/blank.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staging/blank.png">
 </div>
 </td>
 </tr>
