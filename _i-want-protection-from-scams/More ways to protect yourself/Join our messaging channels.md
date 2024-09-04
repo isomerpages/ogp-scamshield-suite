@@ -9,7 +9,20 @@ third_nav_title: More ways to protect yourself
 </p>
 <p></p>
 <hr>
-<p></p><a class="isomer-image-wrapper" href="https://whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Staging/join_whatsapp.png"></a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/join_our_whatsapp.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/ncpcscamalert"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/join_our_telegram.png"></a>
+</td>
+</tr>
+</tbody>
+</table><a class="isomer-image-wrapper" href="https://whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Staging/join_whatsapp.png"></a>
 <a class="isomer-image-wrapper" href="https://t.me/ncpcscamalert">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Staging/join_telegram.png">
 </a>
