@@ -18,15 +18,9 @@ third_nav_title: More ways to protect yourself
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/join_our_whatsapp_group.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/join_our_whatsapp_group.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/join_our_telegram_channel.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/ncpcscamalert"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/join_our_telegram_channel.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
