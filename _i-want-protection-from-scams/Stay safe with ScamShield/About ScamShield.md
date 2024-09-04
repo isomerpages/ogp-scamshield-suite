@@ -30,7 +30,7 @@ scams as well as the community from fraudulent activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block.png">
 </div>
 <p></p>
-<h3><strong>The ScamShield helpline (Dial 1799)</strong></h3>
+<h3><strong>The ScamShield helpline (Dial <a href="tel:1799" rel="noopener nofollow" target="_blank">1799</a>)</strong></h3>
 <p>The anti-scam helpline is available 24/7, to offer immediate support for
 anyone who needs assistance in verifying potential scams. If you have concerns
 about a suspicious offer or need guidance on how to protect yourself, our
