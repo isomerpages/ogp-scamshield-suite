@@ -9,16 +9,32 @@ third_nav_title: More ways to protect yourself
 </p>
 <p></p>
 <hr>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/join_our_whatsapp.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/whatsapp1.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/ncpcscamalert"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Staging/join_our_telegram.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/telegram1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
