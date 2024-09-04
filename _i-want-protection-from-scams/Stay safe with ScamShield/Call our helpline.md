@@ -16,7 +16,8 @@ third_nav_title: Stay safe with ScamShield
 <p>Scams can be tricky to navigate, and it is not easy to discern their true
 nature and intentions, as they are designed to deceit and mislead you in
 ways that can confuse even the most vigilant individuals.</p>
-<h4><strong>Suspicious about a possible scam? Don’t risk it — call <a href="tel:1799" rel="noopener nofollow" target="_blank">1799</a> for immediate help!</strong></h4>
+<p><strong><em>Suspicious about a possible scam? Don’t risk it — call <a href="tel:1799" rel="noopener nofollow" target="_blank">1799</a> for immediate help!</em></strong>
+</p>
 <p>Our anti-scam helpline is available 24/7 to provide assistance and support,
 ensuring that you have access to all the help you need.</p>
 <p>Your vigilance can help protect not only yourself but also others in the
