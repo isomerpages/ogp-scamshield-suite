@@ -3,7 +3,7 @@ url: https://scamshield.gov.sg
 favicon: /images/FAVICON.png
 colors:
   primary-color: "#568df4"
-  secondary-color: "#ff002e"
+  secondary-color: "#1361f0"
   media-colors:
     - title: media-color-one
       color: "#093890"
