@@ -34,4 +34,24 @@ third_nav_title: More ways to protect yourself
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/join_scamalert_whatsapp.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staging/join_scamalert_telegram.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
