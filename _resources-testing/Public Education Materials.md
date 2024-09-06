@@ -74,7 +74,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fake Friend Call Scam</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Fake_Friend_Call_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/FFCS_1080x1920.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Not sure which Security Apps to Download?</strong>
