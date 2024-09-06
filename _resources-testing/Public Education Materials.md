@@ -35,17 +35,17 @@ description: ""
 </p><a class="isomer-image-wrapper" href="https://www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Others/SPF_Anti_Scam_Resource_Guide.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ACT campaign ADD Roundup Poster</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/ADD_Round_Up_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ACT_ADD_Round_Up.jpg"></a>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Beware of Bank Phishing Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Bank_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/BPS_SA_Full__1080x1920_.jpg"></a>
+<p><strong>ACT campaign ADD Roundup Poster</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/ADD_Round_Up_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ACT_ADD_Round_Up.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Beware of Bank Phishing Scams</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Bank_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/BPS_SA_Full__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hari Raya: Watch Out for Car Rental Scams!</strong>
