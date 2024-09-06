@@ -122,16 +122,6 @@ description: ""
 <div class="isomer-card-title">Recent global IT outage a timely reminder to stay vigilant against scams</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start21" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/ST Article/st21.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Here’s how to spot bulk orders from scammers posing as school teachers</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
