@@ -14,10 +14,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Beware of the Impostors</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/GOIS_2_SA_Full__1080x1920_.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/GOIS_2_SA_Full__1080x1920_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/GOIS_2_SA_Full__1080x1920_.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Beware of Investment Scams</strong>
