@@ -78,10 +78,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Not sure which Security Apps to Download?</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Security_Apps_Infographic_1080x1920.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Security_Apps_Infographic_1080x1920.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Security_Apps_Infographic_1080x1920.jpg"></a>
 </td>
 </tr>
 <tr>
