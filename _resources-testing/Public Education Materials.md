@@ -87,10 +87,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Malicious Apps Do's and Don'ts</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Malicious_Apps_Dos___Donts__1080_x_1920_.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Malicious_Apps_Dos___Donts__1080_x_1920_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Malicious_Apps_Dos___Donts__1080_x_1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Malicious Apps Telltale Signs</strong>
