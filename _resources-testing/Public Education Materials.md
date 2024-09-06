@@ -35,31 +35,31 @@ description: ""
 </p><a class="isomer-image-wrapper" href="https://www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Others/SPF_Anti_Scam_Resource_Guide.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ACT campaign ADD Poster</strong>
+<p><strong>ACT campaign ADD Roundup Poster</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/ADD_Round_Up_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ACT_ADD_Round_Up.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Bank Phishing Scam</strong>
+<p><strong>Beware of Bank Phishing Scams</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Bank_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/BPS_SA_Full__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hari Raya E-commerce Scam</strong>
+<p><strong>Hari Raya Watch Out for E-commerce Scams!</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Hari_Raya_E_commerce_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/HR_ECS__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hari Raya Car Rental Scam</strong>
+<p><strong>Hari Raya Watch Out for Car Rental Scams!</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Hari_Raya_Car_Rental_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/HR_CRS__1080x1920_.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Concert Ticket Scam</strong>
+<p><strong>Concert Ticket Scams</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Concert_Ticket_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/CTS_SA_Full__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Parcel Delivery Phishing Scam</strong>
+<p><strong>Beware of Parcel Delivery Phishing Scams</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Parcel_Delivery_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Parcel_Delivery_Scam_1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +72,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fake Friend Call Scam</strong>
+<p><strong>Beware of Fake Friend Call Scams</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Fake_Friend_Call_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/FFCS_1080x1920.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
