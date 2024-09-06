@@ -92,10 +92,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fight Scams with ScamShield</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ScamShield_1080x1920_.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/ScamShield__1080___1920_px__288dpi.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ScamShield_1080x1920_.jpg"></a>
 </td>
 </tr>
 </tbody>
