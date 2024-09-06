@@ -21,14 +21,14 @@ description: ""
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Beware_Investment_Scam_1080x1920_.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Beware of Job Scams!</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Beware_Job_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Job_Scam_1080x1920_.jpg"></a>
+<p>CSA Cyber Tips</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<th rowspan="1" colspan="1">
+<p><strong>Beware of Job Scams!</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Beware_Job_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Job_Scam_1080x1920_.jpg"></a>
+</th>
 <td rowspan="1" colspan="1">
 <p><strong>Social Messaging Privacy Settings Infographics</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Social_Media_Privacy_Settings_Infographic.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Whatsapp_Privacy_Settings_Infographic_1080x1920_.jpg"></a>
