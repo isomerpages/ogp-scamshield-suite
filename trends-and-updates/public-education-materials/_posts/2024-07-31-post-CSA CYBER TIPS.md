@@ -29,7 +29,7 @@ variant: tiptap
 </p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__3_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Install apps to safeguard your devices</strong>
+<p><strong>Apps to safeguard your devices</strong>
 </p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__4_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_4.jpg"></a>
 </td>
 </tr>
