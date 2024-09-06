@@ -45,8 +45,7 @@ description: ""
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Bank_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/BPS_SA_Full__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hari Raya: Watch Out for E-commerce Scams!</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Hari_Raya_E_commerce_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/HR_ECS__1080x1920_.jpg"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hari Raya: Watch Out for Car Rental Scams!</strong>
@@ -55,7 +54,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Hari Raya: Watch Out for E-commerce Scams!</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Hari_Raya_E_commerce_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/HR_ECS__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Concert Ticket Scams</strong>
