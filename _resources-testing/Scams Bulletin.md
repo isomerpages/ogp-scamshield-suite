@@ -15,7 +15,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 04 - September</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Sep%202024/msb_issue_04_sep.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_04.jpg"></a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 03 - August</strong>
