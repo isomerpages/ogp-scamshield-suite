@@ -83,11 +83,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Malicious Apps Do's and Don'ts</strong>
+<p><strong>Beware of Malicious Apps Do's and Don'ts</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Malicious_Apps_Dos___Donts__1080_x_1920_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Malicious_Apps_Dos___Donts__1080_x_1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Malicious Apps Telltale Signs</strong>
+<p><strong>Beware of Malicious Apps Telltale Signs</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/CSA_Malware_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Malicious_Apps_Telltale___What_to_Do__1080_x_1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
