@@ -13,8 +13,11 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Beware of Impostors</strong>
+<p><strong>Beware of the Impostors</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/GOIS_2_SA_Full__1080x1920_.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Beware of Investment Scams</strong>
