@@ -25,7 +25,7 @@ variant: tiptap
 </p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__2_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_2.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Protect your devices</strong>
+<p><strong>Ensure apps are up to date</strong>
 </p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__3_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
