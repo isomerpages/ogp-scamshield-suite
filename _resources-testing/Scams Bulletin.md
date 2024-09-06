@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monthly Scams Bulletin Issue 01 - June 2024</strong>
+<p><strong>Monthly Scams Bulletin Issue 01 - Jun 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Jun%202024/Monthly_Scams_Bulletin_0124__June.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_01.jpg"></a>
 </td>
 <th rowspan="1" colspan="1">
