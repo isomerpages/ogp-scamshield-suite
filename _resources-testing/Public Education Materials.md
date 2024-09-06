@@ -13,12 +13,12 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Beware of Investment Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Beware_Investment_Scam_1080x1920_.jpg"></a>
+<p><strong>Beware of Impostors</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>CSA Cyber Tips</strong>
-</p>
+<p><strong>Beware of Investment Scams</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Beware_Investment_Scam_1080x1920_.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Beware of Job Scams!</strong>
