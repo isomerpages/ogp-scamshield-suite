@@ -19,17 +19,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Cyber Tip #1</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_1.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__1_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Cyber Tip #2</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_2.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__2_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_2.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Cyber Tip #3</strong>
