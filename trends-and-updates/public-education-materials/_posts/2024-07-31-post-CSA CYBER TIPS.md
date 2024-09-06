@@ -18,25 +18,29 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Cyber Tip #1</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Cyber Tip #2</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Cyber Tip #3</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Cyber Tip #4</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_4.jpg">
 </div>
