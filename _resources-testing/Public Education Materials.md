@@ -45,11 +45,11 @@ description: ""
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Bank_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/BPS_SA_Full__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hari Raya Watch Out for E-commerce Scams!</strong>
+<p><strong>Hari Raya: Watch Out for E-commerce Scams!</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Hari_Raya_E_commerce_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/HR_ECS__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hari Raya Watch Out for Car Rental Scams!</strong>
+<p><strong>Hari Raya: Watch Out for Car Rental Scams!</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Hari_Raya_Car_Rental_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/HR_CRS__1080x1920_.jpg"></a>
 </td>
 </tr>
