@@ -14,7 +14,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Monthly Scams Bulletin Issue 04 - September</strong>
+<p><strong>Monthly Scams Bulletin Issue 04 - September 2024</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_04.jpg">
