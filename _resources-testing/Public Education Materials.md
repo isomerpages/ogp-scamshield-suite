@@ -55,6 +55,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Concert Ticket Scams</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Concert_Ticket_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/CTS_SA_Full__1080x1920_.jpg"></a>
 </td>
@@ -62,14 +65,11 @@ description: ""
 <p><strong>Beware of Parcel Delivery Phishing Scams</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Parcel_Delivery_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Parcel_Delivery_Scam_1080x1920_.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Money Mule Trap Check</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/CHECK_Money_Mule.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/money_mule.jpg"></a>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Money Mule Trap Check</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/CHECK_Money_Mule.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/money_mule.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Not sure which Security Apps to Download?</strong>
