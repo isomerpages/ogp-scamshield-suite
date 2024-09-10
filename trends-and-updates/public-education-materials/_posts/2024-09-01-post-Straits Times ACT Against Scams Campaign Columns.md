@@ -39,5 +39,18 @@ scams have the highest average losses at about $116,000</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start05" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st05.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tired of scam calls from overseas? This new measure lets you take a preventive stance</div><div class="isomer-card-description">Subscribers of local telcos can now block all international calls on their mobile phones for free</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start06" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st06.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Here are some measures you should take for more secure digital banking</div>
+<div class="isomer-card-description">As Chinese New Year approaches, police warn of increase in e-commerce
+scams</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a>
 </div>
 <p></p>
