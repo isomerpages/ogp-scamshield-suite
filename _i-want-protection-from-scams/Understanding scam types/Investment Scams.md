@@ -78,7 +78,6 @@ chatgroup and/or social media posting/advertisement to the platform’s administ
 </p>
 <p><a href="https://www.straitstimes.com/singapore/why-investment-scams-are-on-the-rise-and-how-you-can-protect-yourself" rel="noopener nofollow" target="_blank">Why investment scams are on the rise and how you can protect yourself</a>
 </p>
-<p></p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>If you have transferred money to a scammer, please visit this page for
