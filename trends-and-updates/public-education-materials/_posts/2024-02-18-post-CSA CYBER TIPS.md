@@ -7,6 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Whether we're using our devices at home, at work, or during our daily
+commutes, we are often unknowingly exposing ourselves to numerous hidden
+threats. Without vigilance and proper online protection, we risk losing
+our personal data and money to cybercriminals.</p>
+<p></p>
+<p>Protect yourselves from cyber threats and scams through the adoption of
+four Cyber Tips:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
