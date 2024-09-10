@@ -148,5 +148,18 @@ events to deceive victims in times of uncertainty</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start21" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st21.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Here’s how to spot bulk orders from scammers posing as school teachers</div><div class="isomer-card-description">At least 60 people fell for fake bulk order scams since April 12, say the police</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start22" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st22.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Why investment scams are on the rise and how you can protect yourself</div>
+<div class="isomer-card-description">Investment scam victims in the first half of 2024 lost an average of $40,080
+per case, police say</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a>
 </div>
 <p></p>
