@@ -51,6 +51,6 @@ scams have the highest average losses at about $116,000</div>
 scams</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start07" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st07.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Young adults are falling for job scams. Here’s why they are more susceptible</div><div class="isomer-card-description">Job scams were the top scam type in Singapore in the first half of 2023, says the Singapore Police Force</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
