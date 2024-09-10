@@ -51,7 +51,7 @@ our personal data and money to cybercriminals.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Cyber Tip #01: Strengthen your account security</strong>
+<p><strong>Cyber Tip #01: Enable 2FA and Use Strong Passphrases</strong>
 </p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__1_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
