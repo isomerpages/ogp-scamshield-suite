@@ -122,5 +122,18 @@ first four months of 2024, police figures reveal</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start17" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st17.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Here’s how to stop receiving unsolicited messages on Telegram and WhatsApp</div><div class="isomer-card-description">In 2023, there were 12,368 scam cases in which victims were contacted by scammers via messaging platforms, notes the police</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start18" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st18.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Friend or fraudster: Beware of unusual requests via text messages or calls</div>
+<div class="isomer-card-description">There were 6,859 victims of fake friend call scam cases in 2023, an increase
+of over 220 per cent from the year before</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start19" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st19.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Received an SMS from the Government? Here's an easy way to tell if it's real</div><div class="isomer-card-description">From July 1, all SMSes sent from Government agencies, ministries, statutory boards, and services will show ‘gov.sg’ as the sender ID</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
