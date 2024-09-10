@@ -4,7 +4,11 @@ permalink: /st-columns/
 variant: tiptap
 description: ""
 ---
-<h4>Stay ahead of scams with the latest news updates from The Straits Times:</h4>
+<h4>Learn about the different types of scams and how to stay safe with The Straits Times:</h4>
+<p></p>
+<p>Learn about the different types of scams and the protective measures you
+can take to avoid getting scammed. Understanding these scams and knowing
+how to defend yourself can help keep you safe.</p>
 <h4></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start01" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore is a prime target for scammers. Here’s how you can stay safe</div><div class="isomer-card-description">In the first six months of 2023, the number of scam cases increased by 64 per cent compared with the same period in 2022</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start02" class="isomer-card">
