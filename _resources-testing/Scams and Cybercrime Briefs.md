@@ -14,17 +14,11 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2024 Mid-Year Scams and Cybercrime Brief</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/Mid_Year_Scams_and_Cybercrime_Brief_2024.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/mid_year_scams_and_cybercrime_brief_2024.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/Mid_Year_Scams_and_Cybercrime_Brief_2024.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2024 Mid-Year Scams and Cybercrime Infographic</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/Mid_Year_Scams_and_Cybercrime_Brief_2024_Infographic.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/mid_year_scams_and_cybercrime_brief_2024_infographic.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/Mid_Year_Scams_and_Cybercrime_Brief_2024_Infographic.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023 Annual Scams and Cybercrime Brief</strong>
