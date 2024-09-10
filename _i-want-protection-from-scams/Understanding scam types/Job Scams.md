@@ -56,8 +56,16 @@ such as registered job portals.</p>
 <li>
 <p><strong>TELL: </strong>Report and block suspected scam accounts and chat
 groups on messaging platforms or social media platform administrators.</p>
+<p></p>
 </li>
 </ul>
+<hr>
+<h3>Learn more about job scams</h3>
+<p><a href="https://www.straitstimes.com/singapore/young-adults-are-falling-for-job-scams-here-s-why-they-are-more-susceptible" rel="noopener nofollow" target="_blank">Young adults are falling for job scams</a>
+</p>
+<p><a href="https://www.straitstimes.com/singapore/what-to-do-when-you-re-asked-to-pay-to-earn-easy-money" rel="noopener nofollow" target="_blank">What to do when you’re asked to pay to earn easy money</a>
+</p>
+<p></p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>If you have transferred money to a scammer, please visit this page for
