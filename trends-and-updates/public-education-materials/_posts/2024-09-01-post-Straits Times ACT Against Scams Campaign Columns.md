@@ -135,5 +135,18 @@ of over 220 per cent from the year before</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start19" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st19.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Received an SMS from the Government? Here's an easy way to tell if it's real</div><div class="isomer-card-description">From July 1, all SMSes sent from Government agencies, ministries, statutory boards, and services will show ‘gov.sg’ as the sender ID</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start20" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st20.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Recent global IT outage a timely reminder to stay vigilant against scams</div>
+<div class="isomer-card-description">Besides the CrowdStrike outage, here’s how scammers have leveraged public
+events to deceive victims in times of uncertainty</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start21" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st21.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Here’s how to spot bulk orders from scammers posing as school teachers</div><div class="isomer-card-description">At least 60 people fell for fake bulk order scams since April 12, say the police</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
