@@ -34,8 +34,8 @@ scams as well as the community from fraudulent activities.</p>
 <p>The anti-scam helpline is available 24/7, to offer immediate support for
 anyone who needs assistance in verifying potential scams. If you have concerns
 about a suspicious offer or need guidance on how to protect yourself, our
-operators is here to provide you with the support you need to protect you
-from fraudulent activities at any time of the day.</p>
+operators are here to provide you with the support you need to protect
+you from fraudulent activities at any time of the day.</p>
 <p></p>
 <h3><strong>A one-stop portal (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>)</strong></h3>
 <p>Find up-to-date information on current scam trends, tips on how to safeguard
