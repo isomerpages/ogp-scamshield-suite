@@ -117,33 +117,45 @@ first four months of 2024, police figures reveal</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start17" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st17.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Here’s how to stop receiving unsolicited messages on Telegram and WhatsApp</div><div class="isomer-card-description">In 2023, there were 12,368 scam cases in which victims were contacted by scammers via messaging platforms, notes the police</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start19" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start18" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st18.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Received an SMS from the Government? Here's an easy way to tell if it's
-real</div>
-<div class="isomer-card-description">From July 1, all SMSes sent from Government agencies, ministries, statutory
-boards, and services will show ‘gov.sg’ as the sender ID</div>
+<div class="isomer-card-title">Friend or fraudster: Beware of unusual requests via text messages or calls</div>
+<div class="isomer-card-description">There were 6,859 victims of fake friend call scam cases in 2023, an increase
+of over 220 per cent from the year before</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start20" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st20.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Recent global IT outage a timely reminder to stay vigilant against scams</div><div class="isomer-card-description">Besides the CrowdStrike outage, here’s how scammers have leveraged public events to deceive victims in times of uncertainty</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start21" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start19" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st19.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Received an SMS from the Government? Here's an easy way to tell if it's real</div><div class="isomer-card-description">From July 1, all SMSes sent from Government agencies, ministries, statutory boards, and services will show ‘gov.sg’ as the sender ID</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start20" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st21.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st20.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Here’s how to spot bulk orders from scammers posing as school teachers</div>
-<div class="isomer-card-description">At least 60 people fell for fake bulk order scams since April 12, say
-the police</div>
+<div class="isomer-card-title">Recent global IT outage a timely reminder to stay vigilant against scams</div>
+<div class="isomer-card-description">Besides the CrowdStrike outage, here’s how scammers have leveraged public
+events to deceive victims in times of uncertainty</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start21" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st21.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Here’s how to spot bulk orders from scammers posing as school teachers</div><div class="isomer-card-description">At least 60 people fell for fake bulk order scams since April 12, say the police</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start22" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st22.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Why investment scams are on the rise and how you can protect yourself</div>
+<div class="isomer-card-description">Investment scam victims in the first half of 2024 lost an average of $40,080
+per case, police say</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start22" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st22.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Why investment scams are on the rise and how you can protect yourself</div><div class="isomer-card-description">Investment scam victims in the first half of 2024 lost an average of $40,080 per case, police say</div><div class="isomer-card-link">Read more</div></div></a>
+</a>
 </div>
 <p></p>
 <p></p>
