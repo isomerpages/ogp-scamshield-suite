@@ -86,29 +86,6 @@ to fake buyer phishing scams</div>
 year, up from 771 in 2022, police warn</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start15" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/ST Article/st15.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">An investment scheme that promises quick and easy returns?</div><div class="isomer-card-description">It’s likely a scam</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start16" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/ST Article/st16.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">A pop-up alert claims that your device is compromised.</div>
-<div class="isomer-card-description">Here’s what you should do</div>
-<div class="isomer-card-link">Learn more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start17" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/ST Article/st17.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Here’s how to stop receiving unsolicited messages on Telegram and WhatsApp</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start18" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/ST Article/st18.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Friend or fraudster: Beware of unusual requests via text messages or calls</div>
-<div class="isomer-card-link">Learn more</div>
-</div>
 </a>
 </div>
 <p></p>
