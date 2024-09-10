@@ -56,7 +56,6 @@ such as registered job portals.</p>
 <li>
 <p><strong>TELL: </strong>Report and block suspected scam accounts and chat
 groups on messaging platforms or social media platform administrators.</p>
-<p></p>
 </li>
 </ul>
 <hr>
@@ -65,7 +64,6 @@ groups on messaging platforms or social media platform administrators.</p>
 </p>
 <p><a href="https://www.straitstimes.com/singapore/what-to-do-when-you-re-asked-to-pay-to-earn-easy-money" rel="noopener nofollow" target="_blank">What to do when you’re asked to pay to earn easy money</a>
 </p>
-<p></p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>If you have transferred money to a scammer, please visit this page for
