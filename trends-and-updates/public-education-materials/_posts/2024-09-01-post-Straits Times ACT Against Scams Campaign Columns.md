@@ -50,6 +50,19 @@ scams have the highest average losses at about $116,000</div>
 scams</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start07" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st07.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Young adults are falling for job scams. Here’s why they are more susceptible</div><div class="isomer-card-description">Job scams were the top scam type in Singapore in the first half of 2023, says the Singapore Police Force</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start08" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st08.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">What to do when you’re asked to pay to earn easy money</div>
+<div class="isomer-card-description">Job scams typically involve victims being offered online jobs that could
+be performed from home</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start09" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st09.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Received an unsolicited link? Here’s how to check if it’s legitimate</div><div class="isomer-card-description">The majority of phishing scam victims in 2023 were aged 30 to 49, says the Singapore Police Force</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
