@@ -70,7 +70,6 @@ internet banking and social media account details, and one-time passwords
 <p><strong>TELL: </strong>Report &amp; block these scammers on your social
 and messaging platforms. Report any fraudulent transactions to your bank
 immediately.</p>
-<p></p>
 <hr>
 <h3>Learn more about government officials impersonation scams</h3>
 <p><a href="https://www.straitstimes.com/singapore/urgent-calls-from-the-police-or-the-bank-here-s-how-to-know-if-it-s-a-scam" rel="noopener nofollow" target="_blank">Urgent calls from the police or the bank? Learn how to know if it's a scam</a>
