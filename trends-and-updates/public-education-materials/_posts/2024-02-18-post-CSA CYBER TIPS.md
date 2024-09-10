@@ -13,8 +13,8 @@ threats. Without vigilance and proper online protection, we risk losing
 our personal data and money to cybercriminals.</p>
 <p></p>
 <hr>
-<p><strong>Protect yourselves from cyber threats and scams through the adoption of four Cyber Tips:</strong>
-</p>
+<h4>Protect yourselves from cyber threats and scams with these Cyber Tips:</h4>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
