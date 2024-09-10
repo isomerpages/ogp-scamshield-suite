@@ -25,5 +25,19 @@ expert</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start03" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st03.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asked to pay extra delivery fees to ship your parcel? It could be a scam</div><div class="isomer-card-description">At least 25 people were victims of parcel delivery phishing scams in October, says the Singapore Police Force</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start04" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st04.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Urgent calls from the police or the bank? Here's how to know if it's a
+scam</div>
+<div class="isomer-card-description">Among the top scam types in Singapore, government official impersonation
+scams have the highest average losses at about $116,000</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start05" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st05.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tired of scam calls from overseas? This new measure lets you take a preventive stance</div><div class="isomer-card-description">Subscribers of local telcos can now block all international calls on their mobile phones for free</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
