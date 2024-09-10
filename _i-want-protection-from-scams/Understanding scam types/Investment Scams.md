@@ -73,7 +73,7 @@ chatgroup and/or social media posting/advertisement to the platform’s administ
 </li>
 </ul>
 <hr>
-<h3>Learn more about investment Scams</h3>
+<h3>Learn more about investment scams</h3>
 <p><a href="https://www.straitstimes.com/singapore/seniors-beware-don-t-be-enticed-by-investment-deals-using-cpf-savings" rel="noopener nofollow" target="_blank">Don’t be enticed by investment deals using CPF savings</a>
 </p>
 <p><a href="https://www.straitstimes.com/singapore/why-investment-scams-are-on-the-rise-and-how-you-can-protect-yourself" rel="noopener nofollow" target="_blank">Why investment scams are on the rise and how you can protect yourself</a>
