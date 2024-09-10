@@ -64,6 +64,6 @@ scams</div>
 be performed from home</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start09" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st09.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Received an unsolicited link? Here’s how to check if it’s legitimate</div><div class="isomer-card-description">The majority of phishing scam victims in 2023 were aged 30 to 49, says the Singapore Police Force</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
