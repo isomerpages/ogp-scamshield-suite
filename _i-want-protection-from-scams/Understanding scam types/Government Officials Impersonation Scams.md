@@ -72,7 +72,7 @@ and messaging platforms. Report any fraudulent transactions to your bank
 immediately.</p>
 <hr>
 <h3>Learn more about government officials impersonation scams</h3>
-<p><a href="https://www.straitstimes.com/singapore/urgent-calls-from-the-police-or-the-bank-here-s-how-to-know-if-it-s-a-scam" rel="noopener nofollow" target="_blank">Urgent calls from the police or the bank? Learn how to know if it's a scam</a>
+<p><a href="https://go.gov.sg/start04" rel="noopener nofollow" target="_blank">Urgent calls from the police or the bank? Learn how to know if it's a scam</a>
 </p>
 <p><a href="https://www.straitstimes.com/singapore/more-fall-victim-to-scammers-posing-as-local-and-foreign-officials" rel="noopener nofollow" target="_blank">More fall victim to scammers posing as local and foreign officials</a>
 </p>
