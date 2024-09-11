@@ -14,24 +14,39 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2024 Mid-Year Scams and Cybercrime Brief</strong>
-</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/mid_year_scams_and_cybercrime_brief_2024.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/Mid_Year_Scams_and_Cybercrime_Brief_2024.jpg"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2024 Mid-Year Scams and Cybercrime Infographic</strong>
-</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/mid_year_scams_and_cybercrime_brief_2024_infographic.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/Mid_Year_Scams_and_Cybercrime_Brief_2024_Infographic.jpg"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023 Annual Scams and Cybercrime Brief</strong>
-</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/20240218_Annual_Scams_and_Cybercrime_Brief_2023.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/Annual_Scams_and_Cybercrime_Brief_2023.jpg"></a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2023 Annual Scams and Cybercrime Infographic</strong>
-</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/Annual_Scams_and_Cybercrime_Brief_2023_Infographic.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/Annual_Scams_and_Cybercrime_Brief_2023_Infographic.jpg"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2023 Mid-Year Scams and Cybercrime Brief</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023 Mid-Year Scams and Cybercrime Infographic</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022 Annual Scams and Cybercrime Brief</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022 Annual Scams and Cybercrime Infographic</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
