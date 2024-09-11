@@ -76,7 +76,7 @@ immediately.</p>
 </p>
 <p><a href="https://go.gov.sg/start12" rel="noopener nofollow" target="_blank">More fall victim to scammers posing as local and foreign officials</a>
 </p>
-<p><a href="https://www.straitstimes.com/singapore/received-an-sms-from-the-government-here-s-an-easy-way-to-tell-if-it-s-real" rel="noopener nofollow" target="_blank">Received an SMS from the Government? Here's an easy way to tell if it's real</a>
+<p><a href="https://go.gov.sg/start19" rel="noopener nofollow" target="_blank">Received an SMS from the Government? Here's an easy way to tell if it's real</a>
 </p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
