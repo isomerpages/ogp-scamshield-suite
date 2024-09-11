@@ -42,11 +42,11 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2022 Annual Scams and Cybercrime Brief</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/2022_Annual_SCC_Brief.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/2022_Annual_SCC_Brief.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2022 Annual Scams and Cybercrime Infographic</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/2022_Annual_SCC_Infographic.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/2022_Annual_SCC_Infographic.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
