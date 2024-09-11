@@ -76,6 +76,8 @@ chatgroup and/or social media posting/advertisement to the platform’s administ
 <h3>Learn more about investment scams</h3>
 <p><a href="https://go.gov.sg/start13" rel="noopener nofollow" target="_blank">Don’t be enticed by investment deals using CPF savings</a>
 </p>
+<p><a href="https://go.gov.sg/start15" rel="noopener nofollow" target="_blank">An investment scheme that promises quick and easy returns? It’s likely a scam</a>
+</p>
 <p><a href="https://go.gov.sg/start22" rel="noopener nofollow" target="_blank">Why investment scams are on the rise and how you can protect yourself</a>
 </p>
 <hr>
