@@ -2,7 +2,6 @@ collections:
   resources-testing:
     output: true
     order:
-      - Straits Times ACT Against Scams Campaign.md
       - Public Education Materials.md
       - Scams and Cybercrime Briefs.md
       - Scams Bulletin.md
