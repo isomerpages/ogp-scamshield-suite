@@ -74,9 +74,9 @@ to the e-commerce platforms.</p>
 </ul>
 <hr>
 <h3>Learn more about e-commerce scams</h3>
-<p><a href="https://www.straitstimes.com/singapore/found-a-good-deal-check-for-these-e-commerce-scam-signs-before-you-checkout" rel="noopener nofollow" target="_blank">Found a good deal? Check for these e-commerce scam signs before you checkout</a>
+<p><a href="https://go.gov.sg/start02" rel="noopener nofollow" target="_blank">Found a good deal? Check for these e-commerce scam signs before you checkout</a>
 </p>
-<p><a href="https://www.straitstimes.com/singapore/e-commerce-scams-are-on-the-rise-here-s-how-you-can-shop-safely-online" rel="noopener nofollow" target="_blank">E-commerce scams are on the rise. Here’s how you can shop safely online</a>
+<p><a href="https://go.gov.sg/start14" rel="noopener nofollow" target="_blank">E-commerce scams are on the rise. Here’s how you can shop safely online</a>
 </p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
