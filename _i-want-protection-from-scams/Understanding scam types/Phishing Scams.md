@@ -120,9 +120,9 @@ emails. Confidential documents are deposited and can be retrieved from
 myTax Portal (<a href="http://mytax.iras.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mytax.iras.gov.sg</a>).</p>
 <hr>
 <h3>Learn more about phishing scams</h3>
-<p><a href="https://www.straitstimes.com/singapore/asked-to-pay-extra-delivery-fees-to-ship-your-parcel-it-could-be-a-scam" rel="noopener nofollow" target="_blank">Asked to pay extra delivery fees to ship your parcel? It could be a scam</a>
+<p><a href="https://go.gov.sg/start03" rel="noopener nofollow" target="_blank">Asked to pay extra delivery fees to ship your parcel? It could be a scam</a>
 </p>
-<p><a href="https://www.straitstimes.com/singapore/received-an-unsolicited-link-here-s-how-to-check-if-it-s-legitimate" rel="noopener nofollow" target="_blank">Received an unsolicited link? Here’s how to check if it’s legitimate</a>
+<p><a href="https://go.gov.sg/start09" rel="noopener nofollow" target="_blank">Received an unsolicited link? Here’s how to check if it’s legitimate</a>
 </p>
 <p><a href="https://www.straitstimes.com/singapore/received-an-offer-for-your-listed-item-beware-of-clickable-links-from-buyers" rel="noopener nofollow" target="_blank">Received an offer for your listed item? Beware of clickable links from buyers</a>
 </p>
