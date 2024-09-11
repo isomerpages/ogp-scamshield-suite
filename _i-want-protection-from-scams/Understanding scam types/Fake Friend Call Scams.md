@@ -64,7 +64,7 @@ you may also know</p>
 </li>
 </ul>
 <hr>
-<h3>Learn more about investment scams</h3>
+<h3>Learn more about fake friend call scams</h3>
 <p><a href="https://go.gov.sg/start18" rel="noopener nofollow" target="_blank">Friend or fraudster: Beware of unusual requests via text messages or calls</a>
 </p>
 <hr>
