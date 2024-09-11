@@ -64,6 +64,11 @@ you may also know</p>
 </li>
 </ul>
 <hr>
+<h3>Learn more about investment scams</h3>
+<p><a href="https://go.gov.sg/start18" rel="noopener nofollow" target="_blank">Friend or fraudster: Beware of unusual requests via text messages or calls</a>
+</p>
+<p></p>
+<hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>If you have transferred money to a scammer, please visit this page for
 a list of immediate actions: <a href="https://staging.d1pzis6dsqd7g.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">I've Been Scammed!</a>
