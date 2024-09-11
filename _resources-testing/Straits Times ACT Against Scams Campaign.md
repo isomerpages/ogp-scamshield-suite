@@ -159,6 +159,18 @@ events to deceive victims in times of uncertainty</div>
 per case, police say</div>
 <div class="isomer-card-link">Read more</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start23" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">23</div><div class="isomer-card-description">23</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start24" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">24</div>
+<div class="isomer-card-description">24</div>
+<div class="isomer-card-link">Read more</div>
+</div>
 </a>
 </div>
 <p></p>
