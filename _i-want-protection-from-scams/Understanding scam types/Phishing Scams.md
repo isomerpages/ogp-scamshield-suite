@@ -124,7 +124,7 @@ myTax Portal (<a href="http://mytax.iras.gov.sg" rel="noopener noreferrer nofoll
 </p>
 <p><a href="https://go.gov.sg/start09" rel="noopener nofollow" target="_blank">Received an unsolicited link? Here’s how to check if it’s legitimate</a>
 </p>
-<p><a href="https://www.straitstimes.com/singapore/received-an-offer-for-your-listed-item-beware-of-clickable-links-from-buyers" rel="noopener nofollow" target="_blank">Received an offer for your listed item? Beware of clickable links from buyers</a>
+<p><a href="https://go.gov.sg/start10" rel="noopener nofollow" target="_blank">Received an offer for your listed item? Beware of clickable links from buyers</a>
 </p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
