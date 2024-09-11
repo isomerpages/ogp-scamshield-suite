@@ -60,7 +60,7 @@ groups on messaging platforms or social media platform administrators.</p>
 </ul>
 <hr>
 <h3>Learn more about job scams</h3>
-<p><a href="https://www.straitstimes.com/singapore/young-adults-are-falling-for-job-scams-here-s-why-they-are-more-susceptible" rel="noopener nofollow" target="_blank">Young adults are falling for job scams</a>
+<p><a href="https://go.gov.sg/start07" rel="noopener nofollow" target="_blank">Young adults are falling for job scams. Here’s why they are more susceptible</a>
 </p>
 <p><a href="https://www.straitstimes.com/singapore/what-to-do-when-you-re-asked-to-pay-to-earn-easy-money" rel="noopener nofollow" target="_blank">What to do when you’re asked to pay to earn easy money</a>
 </p>
