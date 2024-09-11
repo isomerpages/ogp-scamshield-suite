@@ -14,21 +14,21 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Monthly Scams Bulletin Issue 04 - September 2024</strong>
+<p><strong>Monthly Scams Bulletin Issue 04 - Sep 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Sep%202024/msb_issue_04_sep.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_04.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Monthly Scams Bulletin Issue 03 - August 2024</strong>
+<p><strong>Monthly Scams Bulletin Issue 03 - Aug 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Aug%202024/monthly_scams_bulletin_issue_3_august.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_03.jpg"></a>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Monthly Scams Bulletin Issue 02 - July 2024</strong>
+<p><strong>Monthly Scams Bulletin Issue 02 - Jul 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Jul%202024/Monthly_Scams_Bulletin_Issue_2__5_July.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_02.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monthly Scams Bulletin Issue 01 - June 2024</strong>
+<p><strong>Monthly Scams Bulletin Issue 01 - Jun 2024</strong>
 </p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Jun%202024/Monthly_Scams_Bulletin_0124__June.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_01.jpg"></a>
 </td>
 <th rowspan="1" colspan="1">
