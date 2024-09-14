@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Stay safe with ScamShield
 ---
-<p><strong>Reports made on ScamShield are not an official police report. If you are a scam victim, please file an </strong>
+<p><strong>Reports submitted on ScamShield are <u>not</u> official police reports. If you have fallen for a scam, please file an </strong>
 <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener nofollow" target="_blank">official police report</a><strong>.</strong>
 </p>
 <p></p>
@@ -18,7 +18,7 @@ third_nav_title: Stay safe with ScamShield
 monitor ongoing scams effectively. Through reports, ScamShield can:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Alert authorities of potential scam phone numbers. Once reviewed, numbers
+<p>Alert authorities to potential scam phone numbers. Once reviewed, numbers
 suspected as scams will be added to ScamShield's blocklist. This means
 you'll be helping all ScamShield users receive less scam calls or messages.</p>
 </li>
