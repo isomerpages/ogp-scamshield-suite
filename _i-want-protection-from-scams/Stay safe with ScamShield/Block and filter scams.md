@@ -10,11 +10,11 @@ third_nav_title: Stay safe with ScamShield
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block_and_filter_scams.png">
 </div>
-<p>Protect yourself from scam calls and SMSes by granting ScamShield permissions
-on your mobile device. This allows ScamShield to:</p>
+<p>Protect yourself from scam calls and SMSes by giving ScamShield the required
+permissions on your mobile device. This allows ScamShield to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Block numbers marked as scam by the authorities&nbsp;</p>
+<p>Block numbers marked as scams by the authorities&nbsp;</p>
 </li>
 <li>
 <p>Filter/detect scam SMSes as identified by ScamShield’s AI</p>
@@ -22,7 +22,7 @@ on your mobile device. This allows ScamShield to:</p>
 </ul>
 <p></p>
 <h4><strong>How it works (iOS)</strong></h4>
-<p>For a step-by-step walkthrough on how to set-up your phone permissions,
+<p>For step-by-step instructions on how to set up your phone permissions,
 please <a href="https://guide.scamshield.gov.sg/getting-started/setup-call-blocking/setup-call-blocking-on-ios" rel="noopener nofollow" target="_blank">read our guide</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -59,7 +59,7 @@ then tap on "I've done this"</p>
 </div>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>After following the set-up for call blocking and SMS filtering, you will
+<p>After following the setup for call blocking and SMS filtering, you will
 see that scam call blocking and filtering is active. To check for messages
 which have been filtered by ScamShield, you can check your Junk Messages.
 Filtered SMSes will display a 'Filtered by ScamShield' label.</p>
@@ -68,7 +68,7 @@ Filtered SMSes will display a 'Filtered by ScamShield' label.</p>
 <p></p>
 <hr>
 <h4><strong>How it works (Android)</strong></h4>
-<p>For a step-by-step walkthrough on how to set-up your phone permissions,
+<p>For step-by-step instructions on how to set up your phone permissions,
 please <a href="https://guide.scamshield.gov.sg/getting-started/setup-call-blocking/setup-call-blocking-on-android" rel="noopener nofollow" target="_blank">read our guide</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/block_android_1.png">
@@ -103,7 +103,7 @@ via the various pop-ups.</p>
 </div>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>After following the set-up for call blocking and SMS filtering, you will
+<p>After following the setup for call blocking and SMS filtering, you will
 see that scam call blocking and SMS detection is active.</p>
 </li>
 </ol>
