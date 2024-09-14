@@ -6,9 +6,7 @@ description: ""
 third_nav_title: Stay safe with ScamShield
 ---
 <h3><strong>1799 – the ScamShield Helpline</strong></h3>
-<blockquote>
-<p>The helpline will be operational from 28th Sep 2024</p>
-</blockquote>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Call our hotline" src="/images/Call_our_hotline.png">
