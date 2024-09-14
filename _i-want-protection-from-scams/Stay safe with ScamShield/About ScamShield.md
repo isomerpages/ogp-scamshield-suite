@@ -20,6 +20,11 @@ against scams, as well as keeping the community safe from fraudulent activities.
 <p></p>
 <hr>
 <h3><strong>ScamShield app</strong></h3>
+<p>The new and enhanced ScamShield app now lets you check suspicious calls,
+websites, and messages (SMS, Telegram, and WhatsApp) to know if they’re
+scams. Together with improved blocking and filtering of scam calls and
+SMSes, the app offers better protection against scams for you and your
+loved ones.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Check_from_Figma__1_.png">
 </div>
@@ -29,6 +34,18 @@ against scams, as well as keeping the community safe from fraudulent activities.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block.png">
 </div>
+<p></p>
+<p>Download the ScamShield app from the official app stores today:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>iOS: <a href="https://go.gov.sg/ss-ios" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ss-ios</a>
+</p>
+</li>
+<li>
+<p>Android: <a href="https://go.gov.sg/ss-android" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ss-android</a>
+</p>
+</li>
+</ul>
 <p></p>
 <h3><strong>ScamShield helpline (dial <a href="tel:1799" rel="noopener nofollow" target="_blank">1799</a>)</strong></h3>
 <p>The anti-scam helpline is available 24/7, to offer immediate support for
