@@ -118,7 +118,8 @@ sections:
       title: I can ACT against scams
       subtitle: Learn more
       id: infopic
-      description: Learn more about the campaign
+      description: Read more about the campaign that helps improve your defences
+        against scams.
       button: Learn more
       image: /images/ACT Campaign/act_campaign_homepage.png
       alt: Image alt text
