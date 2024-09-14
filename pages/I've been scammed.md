@@ -8,9 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/I_ve_been_scammed.png">
 </div>
-<p>Should you fall prey to a scam (i.e., suffer monetary loss or loss of
-personal information), take the following steps to protect yourself from
-further losses, and prevent other victims from being scammed.</p>
+<p>If you fall for a scam (i.e. suffer monetary loss or loss of personal
+information), take the following steps to protect yourself from further
+losses, and help prevent other victims from being scammed.</p>
 <p></p>
 <h4><strong>Contact your bank immediately</strong></h4>
 <p>If your bank account or credit card has been compromised, the bank can
@@ -19,25 +19,27 @@ take immediate actions to prevent further monetary loss.</p>
 <h4><strong>File a police report</strong></h4>
 <p>File a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">Police Report online</a> or
 in person at the nearest Neighbourhood Police Centre or <a href="https://www.sgdi.gov.sg/other-organisations/police-posts-manned-npps" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Police Post</a>.
-For urgent assistance, call 999. To report scams, you may share information
+<br>
+<br>For urgent assistance, call 999. To report scams, you may share information
 with the Police via the Police Hotline at 1800-255-0000 or online through
 the <a href="https://www.police.gov.sg/I-witness" rel="noopener noreferrer nofollow" target="_blank">I-Witness e-Service</a>.</p>
 <p></p>
-<h4><strong>Online account hacked</strong></h4>
-<p>If your online account (e.g., email or social media) is compromised, promptly
+<h4><strong>Inform contacts and secure accounts</strong></h4>
+<p>If your online account (e.g. email or social media) is compromised, promptly
 inform all your contacts and report the incident to the relevant email
-service provider or social media platform. If you still have access to
-your account, immediately change your password. Additionally, consider
-enabling two-factor or multi-factor authentication if you have not already
-done so.</p>
+service provider or social media platform.
+<br>
+<br>If you still have access to your account, immediately change your password.
+Also consider turning on two-factor or multi-factor authentication if you
+have not already done so.</p>
 <p></p>
-<h4><strong>E-commerce scam</strong></h4>
+<h4><strong>Report to platform administrators</strong></h4>
 <p>For e-commerce related scams, apart from filing a police report, it is
 important to also report the incident to the platform administrators. This
-enables the platform to swiftly deactivate the fraudulent seller’s account.
+lets the platform swiftly take action against the fraudulent seller’s account.
 When making the police report, include as much information as possible,
 such as the scammers’ WhatsApp numbers and account details, along with
-information and screenshots of the fraudulent posts (e.g., Instagram/Facebook/TikTok
+information and screenshots of the fraudulent posts (e.g. Instagram/Facebook/TikTok
 advertisements or listings/Instagram stories).</p>
 <p></p>
 <p>Remain vigilant against repeated advances from scammers. Some may exploit
