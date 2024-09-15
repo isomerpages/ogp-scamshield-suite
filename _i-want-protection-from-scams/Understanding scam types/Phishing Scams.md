@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Understanding scam types
 ---
 <h2><strong>Phishing Scams</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Phising scams" src="/images/Phising_scams.png">
+</div>
 <p>Phishing scams involve emails, messages, calls, or advertisements by scammers
 posing as government officials, financial institutions or businesses. Victims
 would be tricked into revealing sensitive information such as usernames,
@@ -115,11 +119,17 @@ of assessment, refund letters or other tax statements through unsecured
 emails. Confidential documents are deposited and can be retrieved from
 myTax Portal (<a href="http://mytax.iras.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mytax.iras.gov.sg</a>).</p>
 <hr>
-<h3>Encountered this scam? Report it!</h3>
-<p>Help keep the community safe by reporting any instances of this scam you’ve
-seen or experienced: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-want-protection-from-scams/permalink/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-want-protection-from-scams/permalink/</a> 
-<br>If you have transferred money to a scammer, please visit this page for
-a list of immediate actions: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/</a>
+<h3>Learn more about phishing scams</h3>
+<p><a href="https://go.gov.sg/start03" rel="noopener nofollow" target="_blank">Asked to pay extra delivery fees to ship your parcel? It could be a scam</a>
 </p>
-<p></p>
-<p></p>
+<p><a href="https://go.gov.sg/start09" rel="noopener nofollow" target="_blank">Received an unsolicited link? Here’s how to check if it’s legitimate</a>
+</p>
+<p><a href="https://go.gov.sg/start10" rel="noopener nofollow" target="_blank">Received an offer for your listed item? Beware of clickable links from buyers</a>
+</p>
+<hr>
+<h3>Encountered this scam? Report it!</h3>
+<p>If you have transferred money to a scammer, please visit this page for
+a list of immediate actions: <a href="https://staging.d1pzis6dsqd7g.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">I've Been Scammed!</a>
+</p>
+<p>Help keep the community safe by reporting any instances of this scam you’ve
+seen or experienced with the ScamShield App.</p>

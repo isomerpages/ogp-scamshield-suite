@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Understanding scam types
 ---
 <h2><strong>Job Scams</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Job scams" src="/images/Job_scams.png">
+</div>
 <p>Job scams typically involve victims being offered online jobs that could
 be performed from home. They would be asked to perform tasks for a commission,
 such as making advance purchases, liking social media posts, reviewing
@@ -55,12 +59,16 @@ groups on messaging platforms or social media platform administrators.</p>
 </li>
 </ul>
 <hr>
-<h3>Encountered this scam? Report it!</h3>
-<p>Help keep the community safe by reporting any instances of this scam you’ve
-seen or experienced: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-want-protection-from-scams/permalink/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-want-protection-from-scams/permalink/</a> 
-<br>If you have transferred money to a scammer, please visit this page for
-a list of immediate actions: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/</a>
+<h3>Learn more about job scams</h3>
+<p><a href="https://go.gov.sg/start07" rel="noopener nofollow" target="_blank">Young adults are falling for job scams. Here’s why they are more susceptible</a>
 </p>
-<p></p>
-<p></p>
+<p><a href="https://go.gov.sg/start08" rel="noopener nofollow" target="_blank">What to do when you’re asked to pay to earn easy money</a>
+</p>
+<hr>
+<h3>Encountered this scam? Report it!</h3>
+<p>If you have transferred money to a scammer, please visit this page for
+a list of immediate actions: <a href="https://staging.d1pzis6dsqd7g.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">I've Been Scammed!</a>
+</p>
+<p>Help keep the community safe by reporting any instances of this scam you’ve
+seen or experienced with the ScamShield App.</p>
 <p></p>

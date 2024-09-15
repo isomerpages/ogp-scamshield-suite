@@ -1,20 +1,20 @@
-title: ScamShield.gov.sg
+title: ScamShield Website
 url: https://scamshield.gov.sg
-favicon: /images/favicon.png
+favicon: /images/FAVICON.png
 colors:
-  primary-color: "#005dea"
-  secondary-color: "#005dea"
+  primary-color: "#568df4"
+  secondary-color: "#1361f0"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#093890"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#333c56"
     - title: media-color-three
-      color: "#00838f"
+      color: "#0d4fca"
     - title: media-color-four
-      color: "#00838f"
+      color: "#465173"
     - title: media-color-five
-      color: "#00838f"
+      color: "#0b4550"
 description: Government directory for scam-related information
 permalink: none
 baseurl: ""
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1521z05iw4y1k.amplifyapp.com
 prod: https://master.d1pzis6dsqd7g.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/Logo.png
+shareicon: /images/Logo_2024.png
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""

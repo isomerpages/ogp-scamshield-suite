@@ -3,22 +3,22 @@ collections:
     output: true
     order:
       - Introduction to Scams.md
-      - Actions to protect yourself/.keep
-      - Actions to protect yourself/Cyber Hygiene Behaviours.md
-      - Actions to protect yourself/Keep your devices secure.md
-      - Actions to protect yourself/Protect your online accounts.md
-      - Actions to protect yourself/Staying safe on e commerce platforms.md
-      - Actions to protect yourself/Block scam calls and SMSes.md
-      - Actions to protect yourself/Make banking more secure.md
-      - Actions to protect yourself/Limit contact from strangers on online
-        accounts.md
-      - Check if something is a scam.md
+      - Stay safe with ScamShield/.keep
+      - Stay safe with ScamShield/About ScamShield.md
+      - Stay safe with ScamShield/Check for scams.md
+      - Stay safe with ScamShield/Block and filter scams.md
+      - Stay safe with ScamShield/Submit scam reports.md
+      - Stay safe with ScamShield/Call our helpline.md
+      - More ways to protect yourself/.keep
+      - More ways to protect yourself/Secure your devices.md
+      - More ways to protect yourself/Secure your accounts.md
+      - More ways to protect yourself/Transact securely.md
+      - More ways to protect yourself/Verify with official sources.md
+      - More ways to protect yourself/Join our messaging channels.md
       - Understanding scam types/.keep
+      - Understanding scam types/Investment Scams.md
       - Understanding scam types/Job Scams.md
+      - Understanding scam types/Government Officials Impersonation Scams.md
       - Understanding scam types/E Commerce Scams.md
       - Understanding scam types/Fake Friend Call Scams.md
       - Understanding scam types/Phishing Scams.md
-      - Understanding scam types/Investment Scams.md
-      - Understanding scam types/Government Officials Impersonation Scams.md
-      - Report scam encounter.md
-      - Join our messaging channels.md

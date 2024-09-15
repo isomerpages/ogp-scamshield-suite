@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Understanding scam types
 ---
 <h2><strong>Fake Friend Call Scams</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fake friend call scams" src="/images/Fake_friend_call_scams.png">
+</div>
 <p>Fake friend call scams typically involve scammers contacting victims via
 phone calls or WhatsApp, pretending to be their acquaintance. During the
 conversation, the scammers would claim that they had lost their mobile
@@ -60,11 +64,13 @@ you may also know</p>
 </li>
 </ul>
 <hr>
-<h3>Encountered this scam? Report it!</h3>
-<p>Help keep the community safe by reporting any instances of this scam you’ve
-seen or experienced: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-want-protection-from-scams/permalink/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-want-protection-from-scams/permalink/</a> 
-<br>If you have transferred money to a scammer, please visit this page for
-a list of immediate actions: <a href="https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3cb8a6tciqp1n.amplifyapp.com/i-ve-been-scammed/</a>
+<h3>Learn more about fake friend call scams</h3>
+<p><a href="https://go.gov.sg/start18" rel="noopener nofollow" target="_blank">Friend or fraudster: Beware of unusual requests via text messages or calls</a>
 </p>
-<p></p>
-<p></p>
+<hr>
+<h3>Encountered this scam? Report it!</h3>
+<p>If you have transferred money to a scammer, please visit this page for
+a list of immediate actions: <a href="https://staging.d1pzis6dsqd7g.amplifyapp.com/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">I've Been Scammed!</a>
+</p>
+<p>Help keep the community safe by reporting any instances of this scam you’ve
+seen or experienced with the ScamShield App.</p>
