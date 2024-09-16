@@ -47,13 +47,13 @@ loved ones.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong><a href="/scamshield-helpline" rel="noopener nofollow" target="_blank">1799 </a>ScamShield helpline</strong></h3>
+<h3><strong>1799 ScamShield Helpline</strong></h3>
 <p>The anti-scam helpline is available 24/7, to offer immediate support for
 anyone who needs assistance in verifying potential scams. If you have concerns
 about a suspicious offer or need guidance on how to protect yourself, our
 operators are here to provide you with the support you need to protect
-you from fraudulent activities at any time of the day.</p>
-<p></p>
+you from fraudulent activities at any time of the day. Learn more about
+the ScamShield Helpline by clicking this <a href="/scamshield-helpline" rel="noopener nofollow" target="_blank">link</a>.</p>
 <h3><strong>One-stop portal on scams</strong></h3>
 <p>Find up-to-date information on current scam trends, tips on how to safeguard
 yourself against scams and steps to take if you’ve fallen for a scam on
