@@ -99,7 +99,7 @@ sections:
           announcement: The Singapore Police Force (SPF) released these latest figures in
             their mid-year scams and cybercrime brief on 22 Aug 2024.
           link_text: Learn more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/mid_year_scams_and_cybercrime_brief_2024.pdf
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf
         - title: Anti-Scam mascot design competition
           date: 16 April 2024
           announcement: The Association of Banks in Singapore launched a mascot design
@@ -113,7 +113,7 @@ sections:
             their annual scams and cybercrime brief on Sunday (Feb 18), which
             showed a continued rise in the overall number of scams.
           link_text: Learn more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/20240218_Annual_Scams_and_Cybercrime_Brief_2023.pdf
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2023_Annual_SCC_Brief.pdf
   - infopic:
       title: I can ACT against scams
       subtitle: Learn more
