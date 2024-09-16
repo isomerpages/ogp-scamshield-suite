@@ -47,19 +47,22 @@ loved ones.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>ScamShield helpline (dial <a href="tel:1799" rel="noopener nofollow" target="_blank">1799</a>)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1799_KV_Banner.png">
+</div>
+<h3><strong>1799 ScamShield Helpline</strong></h3>
 <p>The anti-scam helpline is available 24/7, to offer immediate support for
 anyone who needs assistance in verifying potential scams. If you have concerns
 about a suspicious offer or need guidance on how to protect yourself, our
 operators are here to provide you with the support you need to protect
-you from fraudulent activities at any time of the day.</p>
-<p></p>
-<h3><strong>ScamShield website (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>)</strong></h3>
+you from fraudulent activities at any time of the day. Learn more about
+the ScamShield Helpline by clicking this <a href="/scamshield-helpline" rel="noopener nofollow" target="_blank">link</a>.</p>
+<h3><strong>One-stop portal on scams</strong></h3>
 <p>Find up-to-date information on current scam trends, tips on how to safeguard
-yourself against scams and steps to take if you’ve fallen for a scam. You
-can find an online chat feature which allows you to easily send scam-related
-queries directly to our helpline operators to quickly get answers and guidance
-if you suspect that something is a scam.</p>
+yourself against scams and steps to take if you’ve fallen for a scam on
+<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>. You can send scam-related queries directly
+to our helpline operators through the online chat to check if something
+is a scam.</p>
 <p></p>
 <hr>
 <h3><strong>Your privacy is our priority</strong></h3>

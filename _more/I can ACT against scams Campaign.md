@@ -1,5 +1,5 @@
 ---
-title: I Can ACT Against Scams Campaign
+title: I can ACT against scams Campaign
 permalink: /act-campaign/
 variant: tiptap
 description: ""
