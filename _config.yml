@@ -50,7 +50,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 staging: https://staging-lite.d1521z05iw4y1k.amplifyapp.com
-prod: https://master.d1pzis6dsqd7g.amplifyapp.com
+prod: https://master.d32jce887uc809.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/Logo_2024.png
 is_government: true
