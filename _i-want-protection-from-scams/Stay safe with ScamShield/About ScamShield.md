@@ -47,6 +47,10 @@ loved ones.</p>
 </li>
 </ul>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1799_KV_Banner.png">
+</div>
 <h3><strong>1799 ScamShield Helpline</strong></h3>
 <p>The anti-scam helpline is available 24/7, to offer immediate support for
 anyone who needs assistance in verifying potential scams. If you have concerns
