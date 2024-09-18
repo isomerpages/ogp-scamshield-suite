@@ -20,6 +20,8 @@ ways that can confuse even the most vigilant individuals.</p>
 ensuring that you have access to all the help you need.</p>
 <p>Your vigilance can help protect not only yourself but also others in the
 community from falling victim to fraudulent activities.</p>
+<p><em>If you are overseas, call +65 6390 8379 to access the ScamShield Helpline.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_helpline_1799_1080x1920_03.jpg">
