@@ -92,7 +92,7 @@ disable online withdrawals.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CPF Wdl Lock/wdl_lock_2_v4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CPF Wdl Lock/wdl_lock_4_v2.jpg">
 </div>
 </td>
 </tr>
