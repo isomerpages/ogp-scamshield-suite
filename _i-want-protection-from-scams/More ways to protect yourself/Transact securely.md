@@ -80,22 +80,19 @@ disable online withdrawals.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__2_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CPF Wdl Lock/wdl_lock_2_v2.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__3_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Disable CPF online withdrawal" src="/images/CPF Wdl Lock/wdl_lock__4_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CPF Wdl Lock/wdl_lock_2_v4.jpg">
 </div>
 </td>
 </tr>
