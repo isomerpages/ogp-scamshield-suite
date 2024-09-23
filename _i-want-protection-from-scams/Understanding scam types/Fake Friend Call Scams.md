@@ -15,13 +15,13 @@ phone calls or WhatsApp, pretending to be their acquaintance. During the
 conversation, the scammers would claim that they had lost their mobile
 phone and changed phone number. After establishing rapport, the scammers
 would capitalise on the perceived friendship and seek money from the victims
-for various reasons. The common reasons offered by scammers for these “loans”
-were to pay contractors for renovation fees, pay for costs relating to
-the opening of new businesses, or pay vendors/suppliers. The victims would
-transfer money via PayNow to bank accounts belonging to unknown persons.
-They would discover that they had been scammed when they contacted their
-actual acquaintance and realised that they had neither changed their contact
-number nor contacted them.</p>
+for various reasons.</p>
+<p>The common reasons offered by scammers for these “loans” were to pay contractors
+for renovation fees, pay for costs relating to the opening of new businesses,
+or pay vendors/suppliers. The victims would transfer money via PayNow to
+bank accounts belonging to unknown persons. They would discover that they
+had been scammed when they contacted their actual acquaintance and realised
+that they had neither changed their contact number nor contacted them.</p>
 <hr>
 <blockquote>
 <p></p>
@@ -44,23 +44,44 @@ in a difficult situation.</p>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
+<p><strong>ADD:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>ADD: </strong>ScamShield app to block and deter scam calls, Anti-virus
-app as recommended by CSA, International Call Blocking with your telcos
-and security features such as 2FA for your online accounts.</p>
+<p>ScamShield app to block scams calls and filter scam SMSes.</p>
 </li>
 <li>
-<p><strong>CHECK</strong>: Verify the caller’s identity through alternative
-means like contacting them on social media, calling the original number
-of the person, meeting in-person, or with other friends. Beware of unusual
-requests from someone claiming to know you. Only download and install apps
-from official app stores (i.e., Google Play Store for Android).</p>
+<p>Anti-virus apps recommended by CSA to your devices.</p>
 </li>
 <li>
-<p><strong>TELL: </strong>Your other friends and family about this scam encounter
-immediately to warn them as the scammer might reach out to others that
-you may also know</p>
+<p>International Call Blocking option to your mobile accounts.</p>
+</li>
+</ul>
+<p><strong>CHECK</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Callers' identity by calling their last known number, via social media
+or physical meetup.</p>
+</li>
+<li>
+<p>Apps are installed from official app stores.</p>
+</li>
+<li>
+<p>With someone you trust about the situation.​</p>
+</li>
+<li>
+<p>Call the ScamShield Helpline (1799) to check if you are unsure.</p>
+</li>
+</ul>
+<p><strong>TELL:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Friends and family by warning them about this scam encounter.</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+been scammed.</p>
 </li>
 </ul>
 <hr>

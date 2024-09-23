@@ -14,16 +14,17 @@ third_nav_title: Understanding scam types
 through their own internet searches or via recommendations from online
 friends. Once they were duped or had been enticed by the false testimonies,
 they transferred funds to specified bank accounts or cryptocurrency wallets
-or made payments via their bank cards for their “investments”. In some
-cases, the victims would receive initial small “profits” which led them
-to believe that their “investments” were genuine, enticing them to invest
-more money by transferring larger amounts of monies or cryptocurrencies
+or made payments via their bank cards for their “investments”.</p>
+<p>In some cases, the victims would receive initial small “profits” which
+led them to believe that their “investments” were genuine, enticing them
+to invest more money by transferring larger amounts of monies or cryptocurrencies
 to the scammers. The victims might also be deceived by the scammers’ use
 of “investment” websites or apps to display their “profits” and be convinced
-to invest more monies. After larger amounts of monies or cryptocurrencies
-were transferred to the scammers for their “investment”, they would experience
-difficulties withdrawing their earnings from their “investments” and only
-then realise that they had been scammed.</p>
+to invest more monies.</p>
+<p>After larger amounts of monies or cryptocurrencies were transferred to
+the scammers for their “investment”, they would experience difficulties
+withdrawing their earnings from their “investments” and only then realise
+that they had been scammed.</p>
 <hr>
 <blockquote>
 <p></p>
@@ -35,13 +36,13 @@ then realise that they had been scammed.</p>
 <h3>Common signs of phony investments are</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>High returns at low or no risk. Scams use lucrative promises to lure investors.
-The greater the promised returns, the higher the risks should be. It’s
-crucial to understand what you're investing in.</p>
+<p>Promises of high returns at low or no risk. Scams use lucrative promises
+to lure investors. The greater the promised returns, the higher the risks
+should be. It’s crucial to understand what you're investing in.</p>
 </li>
 <li>
-<p>Pressure Tactics. Scammers may use limited offers, timed gifts, or rebates
-to rush you into committing your money.</p>
+<p>Involvement of pressure tactics. Scammers may use limited offers, timed
+gifts, or rebates to rush you into committing your money.</p>
 </li>
 <li>
 <p>Unverified track record. Phony investment opportunities are often offered
@@ -51,25 +52,55 @@ registered financial institutions, representative and investor alert list.</p>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
+<p><strong>ADD:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>ADD: </strong>privacy settings to your messaging apps to only
-allow your contacts to add you to chat groups and avoid scammers luring
-you into such fake opportunities. Be wary of investment&nbsp; opportunities
-posted on social media platforms. Set security features such as 2FA for
-banking apps. Set transaction limits on internet banking transactions,
-including PayNow and PayLah. Money Lock for your bank accounts.</p>
+<p>Privacy settings to your messaging apps to only allow your contacts to
+add you to chat groups and avoid being added into unknown chatgroups by
+scammers luring you into such fake opportunities.</p>
 </li>
 <li>
-<p><strong>CHECK: </strong>if the entities you are dealing with are regulated
-using the following resources on the MAS Website: (i) Financial Institutions
-Directory, (ii) Register of Representatives, and (iii) Investor Alert List.
-Dealing with an unregulated company or agent means giving up protections
-under the law.&nbsp;</p>
+<p>Security features such as 2 or Multi-Factor Authentication (2FA/MFA) for
+banking apps, setting transaction limits on payment accounts, including
+PayNow and PayLah.</p>
 </li>
 <li>
-<p><strong>TELL: </strong>Report to the authorities and block the communication
-chatgroup and/or social media posting/advertisement to the platform’s administrators.</p>
+<p>Money Lock for your bank accounts to further secure a portion of your
+savings.</p>
+</li>
+</ul>
+<p><strong>CHECK:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Resources on the MAS website; (i) Financial Institutions Directory, (ii)
+Register of Representatives, and (iii) Investor Alert List to check if
+the company offering the investment product is regulated by MAS.</p>
+</li>
+<li>
+<p>With someone you trust to get a second opinion about the offer.</p>
+</li>
+<li>
+<p>The ScamShield helpline (1799) when unsure if it is a scam.</p>
+</li>
+<li>
+<p>With the company by calling their official hotline if the investment product
+is legitimate.</p>
+</li>
+</ul>
+<p><strong>TELL:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Friends and family by warning them about this scam encounter.</p>
+</li>
+<li>
+<p>Report and block suspected scam accounts/chat groups.</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+scammed.</p>
 </li>
 </ul>
 <hr>

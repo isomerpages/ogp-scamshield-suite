@@ -16,11 +16,12 @@ Force (SPF) or the Ministry of Manpower (MOM). The scammers would claim
 that there were issues with the victim’s bank accounts and required additional
 verification. Victims would then be asked to provide their banking or personal
 information such as banking credentials and One-Time Passwords (OTPs) to
-resolve these issues. Victims may also be asked to show their identity
-cards, work permit or their bank cards when speaking to the “SPF” or “MOM”
-officer over the in-app video call. The victims would only discover that
-they had been scammed when they realised that there were unauthorised transactions
-made from their bank accounts.</p>
+resolve these issues.</p>
+<p>Victims may also be asked to show their identity cards, work permit or
+their bank cards when speaking to the “SPF” or “MOM” officer over the in-app
+video call. The victims would only discover that they had been scammed
+when they realised that there were unauthorised transactions made from
+their bank accounts.</p>
 <hr>
 <blockquote>
 <p></p>
@@ -47,13 +48,13 @@ you;</p>
 third-party apps/software to aid investigations</p>
 </li>
 </ul>
-<p><u>Additional Advisories</u>
+<p><strong><u>Additional Advisories</u></strong>
 </p>
-<p>•Overseas law enforcement agencies have no legal powers to require members
+<p>Overseas law enforcement agencies have no legal powers to require members
 of the public in Singapore to assist in their investigations without the
-approval of the Singapore government</p>
+approval of the Singapore government.</p>
 <h3>SPF officers will never ask you to:</h3>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Transfer money to bank accounts, or mobile numbers linked to bank accounts</p>
 </li>
@@ -66,23 +67,65 @@ approval of the Singapore government</p>
 <li>
 <p>Ask you to install apps or software from third party websites</p>
 </li>
-</ol>
+</ul>
 <hr>
 <h3>How to stay safe</h3>
-<p><strong>ADD: </strong>ScamShield app, Anti-virus app as recommended by
-CSA, Money Lock for your bank accounts, International Call Blocking with
-your telcos and security features such as 2FA for your online accounts.</p>
-<p><strong>CHECK:</strong> for scam signs and with official sources, e.g.,
-NCPC Anti-Scam Helpline @ 1800-722-6688, ScamShield WhatsApp bot or the
-ScamAlert Website.</p>
-<p>•The NCPC Anti-Scam Helpline can also verify the identity of the Police
-Officer who is trying to reach you.</p>
-<p>•Never disclose your personal information (including SingPass and CPF-related),
+<p><strong>ADD:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ScamShield app to block scam scalls and filter scam SMSes.</p>
+</li>
+<li>
+<p>Anti-virus apps recommended by CSA to your devices.</p>
+</li>
+<li>
+<p>Money Lock for your bank accounts to further secure a protion of your
+savings.</p>
+</li>
+<li>
+<p>International Call Blocking option to your mobile accounts.</p>
+</li>
+<li>
+<p>Security features such as Two or Multi-Factor Authentication (2FA/MFA)
+for your online accounts.</p>
+</li>
+</ul>
+<p><strong>CHECK:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>With someone you trust about the situation.​</p>
+</li>
+<li>
+<p>Call the ScamShield Helpline (1799) to check if you are unsure.​</p>
+</li>
+<li>
+<p>Never disclose your personal information (including SingPass and CPF-related),
 internet banking and social media account details, and one-time passwords
-(OTPs) to anyone</p>
-<p><strong>TELL: </strong>Report &amp; block these scammers on your social
-and messaging platforms. Report any fraudulent transactions to your bank
-immediately.</p>
+(OTPs) to anyone.​</p>
+</li>
+<li>
+<p>From 1 July 2024, all SMSes from government agencies will use a single<strong> <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong> SMS
+Sender ID. Every text message will begin with the full name of the agency
+that sent it and end with a note stating that it is an automated message
+sent by the Singapore Government. ​</p>
+</li>
+</ul>
+<p><strong>TELL:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Warn friends and family about this scam encounter. ​</p>
+</li>
+<li>
+<p>Report and block suspected scam accounts/chat groups.​</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+been scammed.</p>
+</li>
+</ul>
 <hr>
 <h3>Learn more about government officials impersonation scams</h3>
 <p><a href="https://go.gov.sg/start04" rel="noopener nofollow" target="_blank">Urgent calls from the police or the bank? Learn how to know if it's a scam</a>
