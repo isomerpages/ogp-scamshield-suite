@@ -72,16 +72,34 @@ approval of the Singapore government</p>
 <p><strong>ADD: </strong>ScamShield app, Anti-virus app as recommended by
 CSA, Money Lock for your bank accounts, International Call Blocking with
 your telcos and security features such as 2FA for your online accounts.</p>
-<p><strong>CHECK:</strong> for scam signs and with official sources, e.g.,
-ScamShield Helpline @ 1799, ScamShield WhatsApp bot or the ScamAlert Website.</p>
-<p>•The ScamShield Helpline can also verify the identity of the Police Officer
-who is trying to reach you.</p>
-<p>•Never disclose your personal information (including SingPass and CPF-related),
+<p><strong>CHECK:</strong> With someone you trust about the situation.​</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Call the ScamShield Helpline (1799) to check if you are unsure.​</p>
+</li>
+<li>
+<p>Never disclose your personal information (including SingPass and CPF-related),
 internet banking and social media account details, and one-time passwords
-(OTPs) to anyone</p>
-<p><strong>TELL: </strong>Report &amp; block these scammers on your social
-and messaging platforms. Report any fraudulent transactions to your bank
-immediately.</p>
+(OTPs) to anyone.​</p>
+</li>
+<li>
+<p>From 1 July 2024, all SMSes from government agencies will use a single
+<a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>SMS Sender ID. Every text message will begin with the full name
+of the agency that sent it and end with a note stating that it is an automated
+message sent by the Singapore Government. ​</p>
+</li>
+</ul>
+<p><strong>TELL: </strong>Warn friends and family about this scam encounter.
+​</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Report and block suspected scam accounts/chat groups.​</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+fallen victim.</p>
+</li>
+</ul>
 <hr>
 <h3>Learn more about government officials impersonation scams</h3>
 <p><a href="https://go.gov.sg/start04" rel="noopener nofollow" target="_blank">Urgent calls from the police or the bank? Learn how to know if it's a scam</a>
