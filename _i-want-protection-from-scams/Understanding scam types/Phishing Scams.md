@@ -56,25 +56,36 @@ send any confidential tax information and tax documents such as tax returns,
 notices of assessment, tax refund letters via emails.</p>
 <hr>
 <h3>How to stay safe</h3>
+<p><strong>ADD: </strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>ADD: </strong>Add and use only official banking apps downloaded
-from official app stores (Google Play Store or Apple App Store)&nbsp;to
-make transfers or payments.</p>
+<p>Add and use only official banking apps downloaded from official app stores
+(Google Play Store or Apple App Store)&nbsp;to make transfers or payments.</p>
 </li>
 <li>
 <p>Add ScamShield app and set security features such as 2FA for banking apps,
 social media and Singpass accounts. Set transaction limits on internet
 banking transactions, including PayNow and PayLah.</p>
 </li>
+</ul>
+<p><strong>CHECK</strong>:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>CHECK</strong>: that you do not use clickable links or QR codes
-provided by unknown persons to make payments/transfers, as these lead to
-fake bank websites that phish for your banking credentials. Never disclose
-your personal information, internet banking and social media account details,
-and one-time passwords (OTPs) to anyone. Always verify the authenticity
-of unsolicited clickable links you receive and check the webpage addresses
-for discrepancies. Transactions, including PayNow and PayLah.</p>
+<p>that you do not use clickable links or QR codes provided by unknown persons
+to make payments/transfers, as these lead to fake bank websites that phish
+for your banking credentials. Never disclose your personal information,
+internet banking and social media account details, and one-time passwords
+(OTPs) to anyone. Always verify the authenticity of unsolicited clickable
+links you receive and check the webpage addresses for discrepancies. Transactions,
+including PayNow and PayLah.</p>
+</li>
+</ul>
+<p><strong>TELL:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
 </li>
 </ul>
 <h3>For bank phishing</h3>
