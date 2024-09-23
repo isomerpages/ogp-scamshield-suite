@@ -28,15 +28,15 @@ screenshots as “proof of payment”.</p>
 <h3>It is likely a scam if the seller</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Prices the item/service at ridiculously low prices for a limited time.</p>
+<p>Offers the item/service at ridiculously low prices for a limited time.</p>
 </li>
 <li>
-<p>Asks you to make payment directly to him/her, instead of using the platform’s
+<p>Asks you to make payment directly to them, instead of using the platform’s
 secure payment option.</p>
 </li>
 <li>
-<p>Needs you to download third-party app or click unknown URL links to make
-payment or facilitate a refund.</p>
+<p>Needs you to click on unknown URL links or install a third-party app sent
+via text messages to make payment or facilitate a refund.</p>
 </li>
 <li>
 <p>Asks you to pay additional customs or delivery fees after the deal is
@@ -45,19 +45,26 @@ confirmed.</p>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
+<p><strong>ADD</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>ADD</strong>: Anti-virus app as recommended by CSA and security
-features such as 2FA for your online accounts and Money Lock for your bank
-accounts.
-<br>Use only official banking apps downloaded from official app stores (Google
-Play Store or Apple App Store)&nbsp;to make transfers or payments. Set
-transaction limits on internet banking transactions, including PayNow and
-PayLah.</p>
+<p>Privacy settings to your messaging apps to only allow your contacts to
+add you to chat groups and avoid being added into unknown chatgroups by
+scammers luring you into such fake opportunities.</p>
 </li>
 <li>
-<p><strong>CHECK: </strong>The e-Commerce platforms’ Transaction Safety Rating
-at <a href="http://go.gov.sg/mhatsr" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mhatsr</a>.
+<p>Security features such as 2 or Multi-Factor Authentication (2FA/MFA) for
+banking apps</p>
+</li>
+<li>
+<p>Transaction limits on payment accounts, including PayNow and PayLah.</p>
+</li>
+</ul>
+<p><strong>CHECK: </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The e-Commerce platforms’ Transaction Safety Rating at <a href="http://go.gov.sg/mhatsr" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mhatsr</a>.
 Only on well-established e-commerce platforms with secure payment options.
 <br>Verify the authenticity of request for additional payments (e.g. GST,
 delivery fees) with e-commerce seller on the platform directly. Do not
@@ -67,9 +74,13 @@ for your banking credentials.
 <br>Never disclose your personal information, internet banking and social
 media account details, and one-time passwords (OTPs) to anyone.</p>
 </li>
+</ul>
+<p><strong>TELL: </strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>TELL: </strong>Flag any suspicious users and fraudulent transactions
-to the e-commerce platforms.</p>
+<p>Flag any suspicious users and fraudulent transactions to the e-commerce
+platforms.</p>
 </li>
 </ul>
 <hr>
