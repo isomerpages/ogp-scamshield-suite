@@ -16,11 +16,12 @@ Force (SPF) or the Ministry of Manpower (MOM). The scammers would claim
 that there were issues with the victim’s bank accounts and required additional
 verification. Victims would then be asked to provide their banking or personal
 information such as banking credentials and One-Time Passwords (OTPs) to
-resolve these issues. Victims may also be asked to show their identity
-cards, work permit or their bank cards when speaking to the “SPF” or “MOM”
-officer over the in-app video call. The victims would only discover that
-they had been scammed when they realised that there were unauthorised transactions
-made from their bank accounts.</p>
+resolve these issues.</p>
+<p>Victims may also be asked to show their identity cards, work permit or
+their bank cards when speaking to the “SPF” or “MOM” officer over the in-app
+video call. The victims would only discover that they had been scammed
+when they realised that there were unauthorised transactions made from
+their bank accounts.</p>
 <hr>
 <blockquote>
 <p></p>
