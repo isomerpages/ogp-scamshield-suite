@@ -44,23 +44,34 @@ in a difficult situation.</p>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
+<p><strong>ADD: </strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>ADD: </strong>ScamShield app to block and deter scam calls, Anti-virus
-app as recommended by CSA, International Call Blocking with your telcos
-and security features such as 2FA for your online accounts.</p>
+<p>Privacy settings to your messaging apps to only allow your contacts to
+add you to chat groups and avoid being added into unknown chatgroups by
+scammers luring you into such fake opportunities.</p>
 </li>
 <li>
+<p>Security features such as 2 or Multi-Factor Authentication (2FA/MFA) for
+banking apps, setting transaction limits on payment accounts, including
+PayNow and PayLah.</p>
+</li>
+</ul>
 <p><strong>CHECK</strong>: Verify the caller’s identity through alternative
 means like contacting them on social media, calling the original number
 of the person, meeting in-person, or with other friends. Beware of unusual
 requests from someone claiming to know you. Only download and install apps
 from official app stores (i.e., Google Play Store for Android).</p>
+<p><strong>TELL: </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Friends and family by warning them about this scam encounter.</p>
 </li>
 <li>
-<p><strong>TELL: </strong>Your other friends and family about this scam encounter
-immediately to warn them as the scammer might reach out to others that
-you may also know</p>
+<p>Call your bank immediately and make a police report if you think you have
+scammed.</p>
 </li>
 </ul>
 <hr>
