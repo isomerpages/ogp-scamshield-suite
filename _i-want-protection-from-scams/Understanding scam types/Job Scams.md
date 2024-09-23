@@ -52,23 +52,40 @@ no longer be contacted.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Privacy settings to avoid being added into unknown chatgroups.</p>
+<p>Privacy settings to your messaging apps to only allow your contacts to
+add you to chat groups and avoid being added into unknown chatgroups.</p>
+</li>
+<li>
+<p>Security features such as 2 or Multi-Factor Authentication (2FA/MFA) for
+banking apps, setting transaction limits on payment accounts, including
+PayNow and PayLah.</p>
 </li>
 </ul>
 <p><strong>CHECK:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Authenticity of job offers through official sources such as registered
-job portals.</p>
+<p>Authenticity of job offers by directly contacting the company.</p>
+</li>
+<li>
+<p>With someone you trust about the offer.</p>
+</li>
+<li>
+<p>The ScamShield helpline @ 1799 when unsure if it is a scam.</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Report and block suspected scam accounts and chat groups on messaging
-platforms or social media platform administrators.</p>
+<p>Friends and family by warning them about this scam encounter.</p>
+</li>
+<li>
+<p>Report and block suspected scam accounts and chat groups.</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+been scammed.</p>
 </li>
 </ul>
 <hr>
