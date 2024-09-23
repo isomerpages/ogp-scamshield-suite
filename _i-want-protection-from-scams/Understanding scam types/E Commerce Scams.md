@@ -80,17 +80,25 @@ by sellers.</p>
 media account details, and one-time passwords (OTPs) to anyone.</p>
 </li>
 <li>
-<p>Call the ScamShield helpline @ 1799 when unsure if it is a scam.
-<br>
-</p>
+<p>With someone you trust about the offer.</p>
+</li>
+<li>
+<p>Call the ScamShield helpline @ 1799 when unsure if it is a scam.</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Friends and family by warning them about the scam encounter.</p>
+</li>
+<li>
 <p>Flag any suspicious users and fraudulent transactions to the e-commerce
 platforms.</p>
+</li>
+<li>
+<p>Call your bank immediately or make a police report if you think you have
+been scammed.</p>
 </li>
 </ul>
 <hr>
