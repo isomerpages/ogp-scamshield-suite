@@ -82,7 +82,7 @@ the company offering the investment product is regulated by MAS.</p>
 <p>With someone you trust to get a second opinion about the offer.</p>
 </li>
 <li>
-<p>The ScamShield helpline @ 1799 when unsure if it is a scam.</p>
+<p>The ScamShield helpline (1799) when unsure if it is a scam.</p>
 </li>
 <li>
 <p>With the company by calling their official hotline if the investment product
