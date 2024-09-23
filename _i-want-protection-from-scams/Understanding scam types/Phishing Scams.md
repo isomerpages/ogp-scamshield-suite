@@ -56,7 +56,7 @@ send any confidential tax information and tax documents such as tax returns,
 notices of assessment, tax refund letters via emails.</p>
 <hr>
 <h3>How to stay safe</h3>
-<p><strong>ADD: </strong>
+<p><strong>ADD:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,11 +74,15 @@ banking transactions, including PayNow and PayLah.</p>
 <li>
 <p>that you do not use clickable links or QR codes provided by unknown persons
 to make payments/transfers, as these lead to fake bank websites that phish
-for your banking credentials. Never disclose your personal information,
-internet banking and social media account details, and one-time passwords
-(OTPs) to anyone. Always verify the authenticity of unsolicited clickable
-links you receive and check the webpage addresses for discrepancies. Transactions,
-including PayNow and PayLah.</p>
+for your banking credentials.</p>
+</li>
+<li>
+<p>Never disclose your personal information, internet banking and social
+media account details, and one-time passwords (OTPs) to anyone.</p>
+</li>
+<li>
+<p>Always verify the authenticity of unsolicited clickable links you receive
+and check the webpage addresses for discrepancies.</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
