@@ -81,7 +81,7 @@ or physical meetup.</p>
 </li>
 <li>
 <p>Call your bank immediately and make a police report if you think you have
-scammed.</p>
+been scammed.</p>
 </li>
 </ul>
 <hr>
