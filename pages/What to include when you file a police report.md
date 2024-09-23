@@ -75,7 +75,7 @@ lost</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mention if you have reported the scam to other authorities or organizations
-such as your bank, 1799 scam hotline or other stakeholders</p>
+such as your bank, 1799 ScamShield Helpline or other stakeholders</p>
 </li>
 <li>
 <p>Include reference number of those reports to facilitate investigation</p>
@@ -92,7 +92,7 @@ appearance)</p>
 </li>
 <li>
 <p>Steps you have taken to prevent further losses (Freezing accounts, restricting
-further access)</p>
+further access to accounts)</p>
 </li>
 </ul>
 </li>
