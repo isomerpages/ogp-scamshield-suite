@@ -123,7 +123,7 @@ sent by the Singapore Government. ​</p>
 </li>
 <li>
 <p>Call your bank immediately and make a police report if you think you have
-fallen victim.</p>
+been scammed.</p>
 </li>
 </ul>
 <hr>
