@@ -96,7 +96,7 @@ is legitimate.</p>
 <p>Friends and family by warning them about this scam encounter.</p>
 </li>
 <li>
-<p>Report and block suspected scam accounts/ chat groups.</p>
+<p>Report and block suspected scam accounts/chat groups.</p>
 </li>
 <li>
 <p>Call your bank immediately and make a police report if you think you have
