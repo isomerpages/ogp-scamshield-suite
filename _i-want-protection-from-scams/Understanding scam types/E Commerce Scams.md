@@ -62,8 +62,17 @@ PayNow and PayLah.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The e-Commerce platforms’ Transaction Safety Rating at <a href="http://go.gov.sg/mhatsr" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mhatsr</a>.
-Only on well-established e-commerce platforms with secure payment options.
+<p>Apps installed are from offcial app stores.</p>
+</li>
+<li>
+<p>The e-Commerce platforms’ Transaction Safety Rating at <a href="http://go.gov.sg/mhatsr" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mhatsr</a>.</p>
+</li>
+<li>
+<p>Transact only on secure payment options offered by well-established e-commerce
+platforms.</p>
+</li>
+<li>
+<p>
 <br>Verify the authenticity of request for additional payments (e.g. GST,
 delivery fees) with e-commerce seller on the platform directly. Do not
 use clickable links or QR codes provided by sellers out of the platform
