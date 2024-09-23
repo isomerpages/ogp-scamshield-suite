@@ -119,12 +119,12 @@ and PayLah.</p>
 </li>
 </ul>
 <h3>For IRAS phishing</h3>
-<p>•<strong>Receive refunds securely: </strong>Any tax refunds are automatically
+<p>• <strong>Receive refunds securely: </strong>Any tax refunds are automatically
 credited into taxpayers’ bank account registered with IRAS or via PayNow
 (NRIC/FIN/UEN) accounts. Taxpayers can check for updates on any refund
 in IRAS’ myTax Portal. For further details, please visit IRAS’ website
 at <a href="https://www.iras.gov.sg/quick-links/refunds" rel="noopener noreferrer nofollow" target="_blank">https://www.iras.gov.sg/quick-links/refunds</a>.</p>
-<p>•<strong>Pay securely: </strong>GIRO is the preferred payment mode. For
+<p>• <strong>Pay securely: </strong>GIRO is the preferred payment mode. For
 payments to IRAS made via internet banking, ATM bill payment and AXS mobile,
 select “IRAS” from the list of payees. Taxpayers can also pay using PayNow
 QR on myTax Portal. Learn about payment modes for different tax types to
@@ -133,21 +133,21 @@ intermediaries’ bank account. <strong>For tax matters, transact securely on my
 <a href="http://mytax.iras.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mytax.iras.gov.sg</a>): It is a secured and personalised portal for taxpayers
 to view and manage tax transactions with IRAS. SingPass authentication
 is also required before any transactions can be performed.</p>
-<p>•<strong>Correspond with us on myTax Mail: </strong>Use myTax Mail to
+<p>• <strong>Correspond with us on myTax Mail: </strong>Use myTax Mail to
 correspond with IRAS. IRAS will notify taxpayers via SMS when we have replied.
 For added security, we will respond to taxpayers via myTax Mail if their
 query contains confidential information.</p>
 <p></p>
 <p><strong><u>Emailing IRAS:</u></strong>
 </p>
-<p>•<strong>Always check before clicking on any links in the email </strong>that
+<p>• <strong>Always check before clicking on any links in the email </strong>that
 give you instructions to follow some steps to receive the tax refunds.
 Do not give away your online banking details (username, password or One-Time-Password)
 or credit card/debit card details.</p>
-<p>•<strong>Always check the email address even though the sender ID shows ‘IRAS’</strong>.
+<p>• <strong>Always check the email address even though the sender ID shows ‘IRAS’</strong>.
 Sender ID can be spoofed to make the email looks legitimate. A legitimate
 email address from IRAS ends with @iras.gov.sg".</p>
-<p>•<strong>IRAS will not send emails on tax refund amount or contain confidential documents : </strong>IRAS
+<p>• <strong>IRAS will not send emails on tax refund amount or contain confidential documents : </strong>IRAS
 does not send out confidential documents such as tax return forms, notices
 of assessment, refund letters or other tax statements through unsecured
 emails. Confidential documents are deposited and can be retrieved from
