@@ -44,26 +44,34 @@ in a difficult situation.</p>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
-<p><strong>ADD: </strong>
+<p><strong>ADD:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Privacy settings to your messaging apps to only allow your contacts to
-add you to chat groups and avoid being added into unknown chatgroups by
-scammers luring you into such fake opportunities.</p>
+<p>ScamShield app to block scams calls and filter scam SMSes.</p>
 </li>
 <li>
-<p>Security features such as 2 or Multi-Factor Authentication (2FA/MFA) for
-banking apps, setting transaction limits on payment accounts, including
-PayNow and PayLah.</p>
+<p>Anti-virus apps recommended by CSA to your devices.</p>
+</li>
+<li>
+<p>International Call Blocking option to your mobile accounts.</p>
 </li>
 </ul>
-<p><strong>CHECK</strong>: Verify the caller’s identity through alternative
-means like contacting them on social media, calling the original number
-of the person, meeting in-person, or with other friends. Beware of unusual
-requests from someone claiming to know you. Only download and install apps
-from official app stores (i.e., Google Play Store for Android).</p>
-<p><strong>TELL: </strong>
+<p><strong>CHECK</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>With someone you trust about the situation.​</p>
+</li>
+<li>
+<p>Call the ScamShield Helpline (1799) to check if you are unsure.​</p>
+</li>
+<li>
+<p>Never disclose your personal information (including SingPass and CPF-related),
+internet banking and social media account details, and one-time passwords
+(OTPs) to anyone.​</p>
+</li>
+</ul>
+<p><strong>TELL:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
