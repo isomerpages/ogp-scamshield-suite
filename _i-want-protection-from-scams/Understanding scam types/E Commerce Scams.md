@@ -72,14 +72,17 @@ PayNow and PayLah.</p>
 platforms.</p>
 </li>
 <li>
-<p>
-<br>Verify the authenticity of request for additional payments (e.g. GST,
-delivery fees) with e-commerce seller on the platform directly. Do not
-use clickable links or QR codes provided by sellers out of the platform
-to make payments/transfers as these lead to fake bank websites that phish
-for your banking credentials.
-<br>Never disclose your personal information, internet banking and social
+<p>Do not click on links or scanned QR codes provided though text messages
+by sellers.</p>
+</li>
+<li>
+<p>Never disclose your personal information, internet banking and social
 media account details, and one-time passwords (OTPs) to anyone.</p>
+</li>
+<li>
+<p>Call the ScamShield helpline @ 1799 when unsure if it is a scam.
+<br>
+</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
