@@ -48,14 +48,14 @@ no longer be contacted.</p>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
-<p><strong>ADD: </strong>
+<p><strong>ADD:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Privacy settings to avoid being added into unknown chatgroups.</p>
 </li>
 </ul>
-<p><strong>CHECK: </strong>
+<p><strong>CHECK:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -63,7 +63,7 @@ no longer be contacted.</p>
 job portals.</p>
 </li>
 </ul>
-<p><strong>TELL: </strong>
+<p><strong>TELL:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
