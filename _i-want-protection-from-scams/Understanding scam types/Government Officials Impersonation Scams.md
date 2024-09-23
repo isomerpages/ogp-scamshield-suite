@@ -48,11 +48,11 @@ you;</p>
 third-party apps/software to aid investigations</p>
 </li>
 </ul>
-<p><u>Additional Advisories</u>
+<p><strong><u>Additional Advisories</u></strong>
 </p>
-<p>• Overseas law enforcement agencies have no legal powers to require members
+<p>Overseas law enforcement agencies have no legal powers to require members
 of the public in Singapore to assist in their investigations without the
-approval of the Singapore government</p>
+approval of the Singapore government.</p>
 <h3>SPF officers will never ask you to:</h3>
 <ul data-tight="true" class="tight">
 <li>
