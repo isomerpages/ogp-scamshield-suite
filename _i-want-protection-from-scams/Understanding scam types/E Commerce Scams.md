@@ -60,7 +60,7 @@ banking apps</p>
 <p>Transaction limits on payment accounts, including PayNow and PayLah.</p>
 </li>
 </ul>
-<p><strong>CHECK: </strong>
+<p><strong>CHECK:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -75,7 +75,7 @@ for your banking credentials.
 media account details, and one-time passwords (OTPs) to anyone.</p>
 </li>
 </ul>
-<p><strong>TELL: </strong>
+<p><strong>TELL:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
