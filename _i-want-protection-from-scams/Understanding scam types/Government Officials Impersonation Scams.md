@@ -106,10 +106,10 @@ internet banking and social media account details, and one-time passwords
 (OTPs) to anyone.​</p>
 </li>
 <li>
-<p>From 1 July 2024, all SMSes from government agencies will use a single<strong> <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>M
-SMS Sender ID. Every text message will begin with the full name of the
-agency that sent it and end with a note stating that it is an automated
-message sent by the Singapore Government. ​</p>
+<p>From 1 July 2024, all SMSes from government agencies will use a single<strong> <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong> SMS
+Sender ID. Every text message will begin with the full name of the agency
+that sent it and end with a note stating that it is an automated message
+sent by the Singapore Government. ​</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
