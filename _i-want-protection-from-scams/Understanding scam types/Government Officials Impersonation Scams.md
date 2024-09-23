@@ -52,8 +52,21 @@ third-party apps/software to aid investigations</p>
 <p>•Overseas law enforcement agencies have no legal powers to require members
 of the public in Singapore to assist in their investigations without the
 approval of the Singapore government</p>
-<p>•SPF officers will never identify themselves by sending an image of their
-warrant card through online communication channels.</p>
+<h4>SPF officers will never ask you to:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Transfer money to bank accounts, or mobile numbers linked to bank accounts;</p>
+</li>
+<li>
+<p>Request for your&nbsp;banking, SingPass or CPF related information;</p>
+</li>
+<li>
+<p>Ask you to click on links that lead to bank websites;</p>
+</li>
+<li>
+<p>Ask you to install apps or software from third party websites</p>
+</li>
+</ol>
 <hr>
 <h3>How to stay safe</h3>
 <p><strong>ADD: </strong>ScamShield app, Anti-virus app as recommended by
