@@ -32,14 +32,14 @@ bank accounts or debit/credit cards.</p>
 links.</p>
 </li>
 <li>
-<p>Clickable links lead you to a website/s that looks legitimate;</p>
+<p>Spoofed website addresses (e.g. www.m1cros0ft.1234.com.co)</p>
 </li>
 <li>
-<p>Spoofed webpage addresses</p>
+<p>Unsecured website pages (address bar does not show lock icon or https://)</p>
 </li>
 <li>
-<p>Unsecured websites requiring you to provide your personal details or banking
-credentials</p>
+<p>Requesting you to provide your One Time Passwords (OTPs), personal details
+or banking credentials.</p>
 </li>
 </ul>
 <h3>For bank phishing</h3>
