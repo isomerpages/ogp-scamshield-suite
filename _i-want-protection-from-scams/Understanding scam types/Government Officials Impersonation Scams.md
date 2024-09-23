@@ -49,11 +49,11 @@ third-party apps/software to aid investigations</p>
 </ul>
 <p><u>Additional Advisories</u>
 </p>
-<p>•Overseas law enforcement agencies have no legal powers to require members
+<p>• Overseas law enforcement agencies have no legal powers to require members
 of the public in Singapore to assist in their investigations without the
 approval of the Singapore government</p>
 <h3>SPF officers will never ask you to:</h3>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Transfer money to bank accounts, or mobile numbers linked to bank accounts</p>
 </li>
@@ -66,7 +66,7 @@ approval of the Singapore government</p>
 <li>
 <p>Ask you to install apps or software from third party websites</p>
 </li>
-</ol>
+</ul>
 <hr>
 <h3>How to stay safe</h3>
 <p><strong>ADD:</strong>
