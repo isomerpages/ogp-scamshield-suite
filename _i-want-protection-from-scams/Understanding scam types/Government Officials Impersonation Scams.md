@@ -77,7 +77,7 @@ approval of the Singapore government.</p>
 <p>ScamShield app to block scam scalls and filter scam SMSes.</p>
 </li>
 <li>
-<p>Anti-virus apps recommended by CSA.</p>
+<p>Anti-virus apps recommended by CSA to your devices.</p>
 </li>
 <li>
 <p>Money Lock for your bank accounts to further secure a protion of your
