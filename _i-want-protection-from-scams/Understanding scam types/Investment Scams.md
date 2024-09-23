@@ -51,16 +51,16 @@ registered financial institutions, representative and investor alert list.</p>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
-<p><strong>ADD: </strong>
+<p><strong>ADD:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Privacy settings to your messaging apps to only allow your contacts to
-add you to chat groups and avoid scammers luring you into such fake opportunities.
-Be wary of investment&nbsp; opportunities posted on social media platforms.</p>
+add you to chat groups and avoid being added into unknown chatgroups by
+scammers luring you into such fake opportunities.</p>
 </li>
 <li>
-<p>Set security features such as 2FA for banking apps. Set transaction limits
+<p>Security features such as 2FA for banking apps. Set transaction limits
 on internet banking transactions, including PayNow and PayLah.</p>
 </li>
 <li>
@@ -68,7 +68,7 @@ on internet banking transactions, including PayNow and PayLah.</p>
 savings.</p>
 </li>
 </ul>
-<p><strong>CHECK: </strong>
+<p><strong>CHECK:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -78,7 +78,7 @@ Register of Representatives, and (iii) Investor Alert List. Dealing with
 an unregulated company or agent means giving up protections under the law.&nbsp;</p>
 </li>
 </ul>
-<p><strong>TELL: </strong>
+<p><strong>TELL:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
