@@ -78,7 +78,7 @@ Register of Representatives, and (iii) Investor Alert List to check if
 the company offering the investment product is regulated by MAS.</p>
 </li>
 <li>
-<p>With soneone you trust to get a second opinion about the offer.</p>
+<p>With someone you trust to get a second opinion about the offer.</p>
 </li>
 <li>
 <p>The ScamShield helpline @ 1799 when unsure if it is a scam.</p>
@@ -92,8 +92,14 @@ is legitimate.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Report to the authorities and block the communication chatgroup and/or
-social media posting/advertisement to the platform’s administrators.</p>
+<p>Friends and family by warning them about this scam encounter.</p>
+</li>
+<li>
+<p>Report and block suspected scam accounts/ chat groups.</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+scammed.</p>
 </li>
 </ul>
 <hr>
