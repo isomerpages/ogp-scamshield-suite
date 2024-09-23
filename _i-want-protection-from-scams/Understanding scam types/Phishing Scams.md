@@ -97,14 +97,27 @@ been scammed.</p>
 </li>
 </ul>
 <h3>For bank phishing</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Banks will never send you any clickable links via SMS and will use their
 officially registered SMS Sender ID.</p>
+</li>
+</ul>
 <h3>For e-commerce/parcel delivery phishing</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Verify the authenticity of the information with company or e-commerce
-platform directly. Use only official banking apps downloaded from official
-app stores (Google Play Store or Apple App Store)&nbsp;to make transfers
-or payments. Set transaction limits on internet banking transactions, including
-PayNow and PayLah.</p>
+platform directly.</p>
+</li>
+<li>
+<p>Use only official banking apps downloaded from official app stores (Google
+Play Store or Apple App Store)&nbsp;to make transfers or payments.</p>
+</li>
+<li>
+<p>Set transaction limits on internet banking transactions, including PayNow
+and PayLah.</p>
+</li>
+</ul>
 <h3>For IRAS phishing</h3>
 <p>•<strong>Receive refunds securely: </strong>Any tax refunds are automatically
 credited into taxpayers’ bank account registered with IRAS or via PayNow
