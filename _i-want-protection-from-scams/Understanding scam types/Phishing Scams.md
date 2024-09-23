@@ -89,7 +89,11 @@ and check the webpage addresses for discrepancies.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Warn friends and family about this scam encounter. ​</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+been scammed.</p>
 </li>
 </ul>
 <h3>For bank phishing</h3>
