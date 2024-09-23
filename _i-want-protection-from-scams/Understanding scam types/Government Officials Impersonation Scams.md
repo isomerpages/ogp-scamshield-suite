@@ -69,11 +69,33 @@ approval of the Singapore government</p>
 </ol>
 <hr>
 <h3>How to stay safe</h3>
-<p><strong>ADD: </strong>ScamShield app, Anti-virus app as recommended by
-CSA, Money Lock for your bank accounts, International Call Blocking with
-your telcos and security features such as 2FA for your online accounts.</p>
-<p><strong>CHECK:</strong> With someone you trust about the situation.​</p>
+<p><strong>ADD: </strong>
+</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>ScamShield app to block scam scalls and filter scam SMSes.</p>
+</li>
+<li>
+<p>Anti-virus apps recommended by CSA.</p>
+</li>
+<li>
+<p>Money Lock for your bank accounts to further secure a protion of your
+savings.</p>
+</li>
+<li>
+<p>International Call Blocking option to your mobile accounts.</p>
+</li>
+<li>
+<p>security features such as Two or Multi-Factor Authentication (2FA/MFA)
+for your online accounts.</p>
+</li>
+</ul>
+<p><strong>CHECK:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>With someone you trust about the situation.​</p>
+</li>
 <li>
 <p>Call the ScamShield Helpline (1799) to check if you are unsure.​</p>
 </li>
@@ -89,9 +111,12 @@ of the agency that sent it and end with a note stating that it is an automated
 message sent by the Singapore Government. ​</p>
 </li>
 </ul>
-<p><strong>TELL: </strong>Warn friends and family about this scam encounter.
-​</p>
+<p><strong>TELL: </strong>
+</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Warn friends and family about this scam encounter. ​</p>
+</li>
 <li>
 <p>Report and block suspected scam accounts/chat groups.​</p>
 </li>
