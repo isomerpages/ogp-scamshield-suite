@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Our Partners</h3>
-<p>ScamShield.gov.sg was launched in August 2024 with the aim of consolidating
+<p>The ScamShield Suite was launched in September 2024 with the aim of consolidating
 all anti-scam resources onto a single, trusted brand. This initiative would
 not have been possible without the invaluable support of the following
 partners:</p>
