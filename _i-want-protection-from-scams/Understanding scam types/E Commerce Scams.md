@@ -83,7 +83,7 @@ media account details, and one-time passwords (OTPs) to anyone.</p>
 <p>With someone you trust about the offer.</p>
 </li>
 <li>
-<p>Call the ScamShield helpline @ 1799 when unsure if it is a scam.</p>
+<p>Call the ScamShield helpline (1799) when unsure if it is a scam.</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
