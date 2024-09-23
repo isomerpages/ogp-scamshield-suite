@@ -73,10 +73,9 @@ approval of the Singapore government</p>
 CSA, Money Lock for your bank accounts, International Call Blocking with
 your telcos and security features such as 2FA for your online accounts.</p>
 <p><strong>CHECK:</strong> for scam signs and with official sources, e.g.,
-NCPC Anti-Scam Helpline @ 1800-722-6688, ScamShield WhatsApp bot or the
-ScamAlert Website.</p>
-<p>•The NCPC Anti-Scam Helpline can also verify the identity of the Police
-Officer who is trying to reach you.</p>
+ScamShield Helpline @ 1799, ScamShield WhatsApp bot or the ScamAlert Website.</p>
+<p>•The ScamShield Helpline can also verify the identity of the Police Officer
+who is trying to reach you.</p>
 <p>•Never disclose your personal information (including SingPass and CPF-related),
 internet banking and social media account details, and one-time passwords
 (OTPs) to anyone</p>
