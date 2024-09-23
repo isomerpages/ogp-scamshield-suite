@@ -51,7 +51,9 @@ their identity and stop the transactions.</p>
 and e-commerce logistics companies such as Singapore Post (SingPost) and
 contains phishing link.</p>
 <h3>For IRAS phishing</h3>
-<p>IRAS does not process tax refunds to credit/debit cards.</p>
+<p>IRAS does not process tax refunds to credit/debit cards. IRAS will never
+send any confidential tax information and tax documents such as tax returns,
+notices of assessment, tax refund letters via emails.</p>
 <hr>
 <h3>How to stay safe</h3>
 <ul data-tight="true" class="tight">
