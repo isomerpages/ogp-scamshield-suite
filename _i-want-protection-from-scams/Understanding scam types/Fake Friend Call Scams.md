@@ -60,15 +60,17 @@ in a difficult situation.</p>
 <p><strong>CHECK</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Callers' identity by calling their last known number, via social media
+or physical meetup.</p>
+</li>
+<li>
+<p>Apps are installed from official app stores.</p>
+</li>
+<li>
 <p>With someone you trust about the situation.​</p>
 </li>
 <li>
-<p>Call the ScamShield Helpline (1799) to check if you are unsure.​</p>
-</li>
-<li>
-<p>Never disclose your personal information (including SingPass and CPF-related),
-internet banking and social media account details, and one-time passwords
-(OTPs) to anyone.​</p>
+<p>Call the ScamShield Helpline (1799) to check if you are unsure.</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
