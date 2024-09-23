@@ -60,8 +60,9 @@ add you to chat groups and avoid being added into unknown chatgroups by
 scammers luring you into such fake opportunities.</p>
 </li>
 <li>
-<p>Security features such as 2FA for banking apps. Set transaction limits
-on internet banking transactions, including PayNow and PayLah.</p>
+<p>Security features such as 2 or Multi-Factor Authentication (2FA/MFA) for
+banking apps, setting transaction limits on payment accounts, including
+PayNow and PayLah.</p>
 </li>
 <li>
 <p>Money Lock for your bank accounts to further secure a portion of your
@@ -72,10 +73,16 @@ savings.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>if the entities you are dealing with are regulated using the following
-resources on the MAS Website: (i) Financial Institutions Directory, (ii)
-Register of Representatives, and (iii) Investor Alert List. Dealing with
-an unregulated company or agent means giving up protections under the law.&nbsp;</p>
+<p>Resources on the MAS website; (i) Financial Institutions Directory, (ii)
+Register of Representatives, and (iii) Investor Alert List to check if
+the company offering the investment product is regulated by MAS.</p>
+</li>
+<li>
+<p>The ScamShield helpline @ 1799 if unsure if it is a scam.</p>
+</li>
+<li>
+<p>With the company by calling their official hotline if the investment product
+is legitimate.</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
