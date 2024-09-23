@@ -15,13 +15,14 @@ be performed from home. They would be asked to perform tasks for a commission,
 such as making advance purchases, liking social media posts, reviewing
 hotels/restaurants/airlines, completing surveys, “boosting” value of cryptocurrencies,
 “boosting” ratings of product listings for online merchants, or “rating”
-mobile apps to improve their rankings on app stores. Another “job” offered
-to victims entails transfer of funds to bank accounts provided by the scammers,
-for a small commission. The scammers would subsequently request higher
-amount of funds to be transferred, for purportedly higher earnings. The
-victims would eventually realise that they had been scammed when they failed
-to receive their commission, when they were unable to withdraw the monies
-from the bank accounts, or when the scammers could no longer be contacted.</p>
+mobile apps to improve their rankings on app stores.</p>
+<p>Another “job” offered to victims entails transfer of funds to bank accounts
+provided by the scammers, for a small commission. The scammers would subsequently
+request higher amount of funds to be transferred, for purportedly higher
+earnings. The victims would eventually realise that they had been scammed
+when they failed to receive their commission, when they were unable to
+withdraw the monies from the bank accounts, or when the scammers could
+no longer be contacted.</p>
 <hr>
 <blockquote>
 <p></p>
@@ -41,21 +42,33 @@ from the bank accounts, or when the scammers could no longer be contacted.</p>
 <li>
 <p>Use your personal bank account as part of the job.</p>
 </li>
+<li>
+<p>Disclose your Singpass related information.</p>
+</li>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
+<p><strong>ADD: </strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>ADD: </strong>Privacy settings to avoid being added into unknown
-chatgroups.</p>
+<p>Privacy settings to avoid being added into unknown chatgroups.</p>
 </li>
+</ul>
+<p><strong>CHECK: </strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>CHECK: </strong>Authenticity of job offers through official sources
-such as registered job portals.</p>
+<p>Authenticity of job offers through official sources such as registered
+job portals.</p>
 </li>
+</ul>
+<p><strong>TELL: </strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>TELL: </strong>Report and block suspected scam accounts and chat
-groups on messaging platforms or social media platform administrators.</p>
+<p>Report and block suspected scam accounts and chat groups on messaging
+platforms or social media platform administrators.</p>
 </li>
 </ul>
 <hr>
