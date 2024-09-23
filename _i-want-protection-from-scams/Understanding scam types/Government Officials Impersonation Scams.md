@@ -69,7 +69,7 @@ approval of the Singapore government</p>
 </ol>
 <hr>
 <h3>How to stay safe</h3>
-<p><strong>ADD: </strong>
+<p><strong>ADD:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -86,11 +86,11 @@ savings.</p>
 <p>International Call Blocking option to your mobile accounts.</p>
 </li>
 <li>
-<p>security features such as Two or Multi-Factor Authentication (2FA/MFA)
+<p>Security features such as Two or Multi-Factor Authentication (2FA/MFA)
 for your online accounts.</p>
 </li>
 </ul>
-<p><strong>CHECK:</strong> 
+<p><strong>CHECK:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -111,7 +111,7 @@ of the agency that sent it and end with a note stating that it is an automated
 message sent by the Singapore Government. ​</p>
 </li>
 </ul>
-<p><strong>TELL: </strong>
+<p><strong>TELL:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
