@@ -14,16 +14,17 @@ third_nav_title: Understanding scam types
 through their own internet searches or via recommendations from online
 friends. Once they were duped or had been enticed by the false testimonies,
 they transferred funds to specified bank accounts or cryptocurrency wallets
-or made payments via their bank cards for their “investments”. In some
-cases, the victims would receive initial small “profits” which led them
-to believe that their “investments” were genuine, enticing them to invest
-more money by transferring larger amounts of monies or cryptocurrencies
+or made payments via their bank cards for their “investments”.</p>
+<p>In some cases, the victims would receive initial small “profits” which
+led them to believe that their “investments” were genuine, enticing them
+to invest more money by transferring larger amounts of monies or cryptocurrencies
 to the scammers. The victims might also be deceived by the scammers’ use
 of “investment” websites or apps to display their “profits” and be convinced
-to invest more monies. After larger amounts of monies or cryptocurrencies
-were transferred to the scammers for their “investment”, they would experience
-difficulties withdrawing their earnings from their “investments” and only
-then realise that they had been scammed.</p>
+to invest more monies.</p>
+<p>After larger amounts of monies or cryptocurrencies were transferred to
+the scammers for their “investment”, they would experience difficulties
+withdrawing their earnings from their “investments” and only then realise
+that they had been scammed.</p>
 <hr>
 <blockquote>
 <p></p>
