@@ -54,10 +54,8 @@ scammers luring you into such fake opportunities.</p>
 </li>
 <li>
 <p>Security features such as 2 or Multi-Factor Authentication (2FA/MFA) for
-banking apps</p>
-</li>
-<li>
-<p>Transaction limits on payment accounts, including PayNow and PayLah.</p>
+banking apps, setting transaction limits on payment accounts, including
+PayNow and PayLah.</p>
 </li>
 </ul>
 <p><strong>CHECK:</strong>
