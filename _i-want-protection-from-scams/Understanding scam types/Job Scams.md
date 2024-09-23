@@ -71,7 +71,7 @@ PayNow and PayLah.</p>
 <p>With someone you trust about the offer.</p>
 </li>
 <li>
-<p>The ScamShield helpline @ 1799 when unsure if it is a scam.</p>
+<p>The ScamShield helpline (1799) when unsure if it is a scam.</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
