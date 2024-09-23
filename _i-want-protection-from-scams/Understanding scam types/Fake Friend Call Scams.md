@@ -15,13 +15,13 @@ phone calls or WhatsApp, pretending to be their acquaintance. During the
 conversation, the scammers would claim that they had lost their mobile
 phone and changed phone number. After establishing rapport, the scammers
 would capitalise on the perceived friendship and seek money from the victims
-for various reasons. The common reasons offered by scammers for these “loans”
-were to pay contractors for renovation fees, pay for costs relating to
-the opening of new businesses, or pay vendors/suppliers. The victims would
-transfer money via PayNow to bank accounts belonging to unknown persons.
-They would discover that they had been scammed when they contacted their
-actual acquaintance and realised that they had neither changed their contact
-number nor contacted them.</p>
+for various reasons.</p>
+<p>The common reasons offered by scammers for these “loans” were to pay contractors
+for renovation fees, pay for costs relating to the opening of new businesses,
+or pay vendors/suppliers. The victims would transfer money via PayNow to
+bank accounts belonging to unknown persons. They would discover that they
+had been scammed when they contacted their actual acquaintance and realised
+that they had neither changed their contact number nor contacted them.</p>
 <hr>
 <blockquote>
 <p></p>
