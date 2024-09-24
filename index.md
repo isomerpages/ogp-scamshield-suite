@@ -4,9 +4,9 @@ title: ScamShield Website
 description: Government directory for scam-related information
 image: /images/Logo_2024.png
 permalink: /
-notification: Police will never request for your NRIC, banking or Singpass
-  related information through websites, over the phone or text messages. If
-  unsure, call 1799 to check.
+notification: Police will never request for your banking, Singpass or CPF
+  related information over the phone or text messages. If unsure, call 1799 to
+  check
 sections:
   - hero:
       background: /images/26_Aug_Banner.png
