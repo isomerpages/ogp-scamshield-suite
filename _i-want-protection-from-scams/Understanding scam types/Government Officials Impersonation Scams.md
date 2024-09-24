@@ -62,10 +62,10 @@ approval of the Singapore government.</p>
 <p>Request for your&nbsp;banking, SingPass or CPF related information</p>
 </li>
 <li>
-<p>Ask you to click on links that lead to bank websites</p>
+<p>Click on links that lead to bank websites</p>
 </li>
 <li>
-<p>Ask you to install apps or software from third party websites</p>
+<p>Install apps or software from third party websites</p>
 </li>
 </ul>
 <hr>
