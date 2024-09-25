@@ -107,7 +107,7 @@ sent by the Singapore Government. ​</p>
 </ul>
 <p><strong>TELL:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Warn friends and family about this scam encounter. ​</p>
 </li>
@@ -116,7 +116,7 @@ sent by the Singapore Government. ​</p>
 </li>
 <li>
 <p>Call your bank immediately and make a police report if you think you have
-been scammed.</p>
+fallen victim.</p>
 </li>
 </ul>
 <hr>
