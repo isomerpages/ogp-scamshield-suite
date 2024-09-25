@@ -71,7 +71,7 @@ approval of the Singapore government.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ScamShield app to block scam calls and filter scam SMSes​</p>
+<p>ScamShield app to block scam calls and filter scam SMSes​.</p>
 </li>
 <li>
 <p>Anti-virus app to your devices (see recommendations by CSA).</p>
@@ -81,14 +81,14 @@ approval of the Singapore government.</p>
 <p>International Call Blocking option to your mobile account(s).</p>
 </li>
 <li>
-<p>2 or multi-FA to your online accounts</p>
+<p>Security features such as 2 or multi-FA for ​your online accounts</p>
 </li>
 </ul>
 <p><strong>CHECK:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>With someone you trust about the situation.​</p>
+<p>With someone you trust about the situation.</p>
 </li>
 <li>
 <p>Call the ScamShield Helpline (1799) to check if you are unsure.​</p>
