@@ -33,7 +33,7 @@ that they had been scammed.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Common signs of phony investments are</h3>
+<h3>Common signs of phony investments are:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Promises of high returns at low or no risk. Scams use lucrative promises
