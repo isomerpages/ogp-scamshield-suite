@@ -160,6 +160,6 @@ events to deceive victims in times of uncertainty</div>
 per case, police say</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start23" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st22.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Why people fall prey to scammers posing as police officers</div><div class="isomer-card-description">In the first half of 2024, 580 Singapore residents fell prey to the scam – a 58 per cent rise from the same period last year</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
