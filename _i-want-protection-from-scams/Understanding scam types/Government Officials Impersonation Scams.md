@@ -30,22 +30,19 @@ their bank accounts.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Government officials will never ask you</h3>
+<h3>Government officials will never ask you to do the following over the phone or through text message: </h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>To transfer money to unknown bank accounts</p>
+<p>Transfer money to bank accounts​.</p>
 </li>
 <li>
-<p>Provide your personal, banking, SingPass or CPF related information over
-the phone;</p>
+<p>Request for your personal, banking, SingPass or CPF related information.</p>
 </li>
 <li>
-<p>Lie to any bank staff or any other government officials that may call
-you;</p>
+<p>Ask you to click on links that lead to bank websites.</p>
 </li>
 <li>
-<p>Click on unknown links that lead to bank websites, or download dubious
-third-party apps/software to aid investigations</p>
+<p>Ask you to install apps or software from third party websites.</p>
 </li>
 </ul>
 <p><strong><u>Additional Advisories</u></strong>
@@ -53,7 +50,7 @@ third-party apps/software to aid investigations</p>
 <p>Overseas law enforcement agencies have no legal powers to require members
 of the public in Singapore to assist in their investigations without the
 approval of the Singapore government.</p>
-<h3>SPF officers will never ask you to:</h3>
+<h3>SPF officers will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Transfer money to bank accounts, or mobile numbers linked to bank accounts</p>
