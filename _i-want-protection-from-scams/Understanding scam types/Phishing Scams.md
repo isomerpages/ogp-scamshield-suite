@@ -152,7 +152,6 @@ added security, we will respond to taxpayers via myTax Mail if their query
 contains confidential information.</p>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Emailing IRAS:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
