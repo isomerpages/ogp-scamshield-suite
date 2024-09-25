@@ -34,16 +34,18 @@ no longer be contacted.</p>
 <h3>It is likely a scam if the job requires you to</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Pay upfront before starting the job.</p>
+<p>Pay upfront before starting the job.​</p>
 </li>
 <li>
-<p>Use your own money to complete tasks as part of the job.</p>
+<p>Use your own money to complete tasks as part of the job. ​</p>
 </li>
 <li>
-<p>Use your personal bank account as part of the job.</p>
+<p>Use your personal bank account as part of the job. ​</p>
 </li>
 <li>
-<p>Disclose your Singpass related information.</p>
+<p>Disclose your Singpass credentials and password or provided with a Singpass
+QR code for scanning access your Singpass account in order to apply for
+a job. ​</p>
 </li>
 </ul>
 <hr>
@@ -52,13 +54,17 @@ no longer be contacted.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Privacy settings to your messaging apps to only allow your contacts to
-add you to chat groups and avoid being added into unknown chatgroups.</p>
+<p>Privacy settings to your messaging app to avoid being added into unknown
+chatgroups.​</p>
 </li>
 <li>
-<p>Security features such as 2 or Multi-Factor Authentication (2FA/MFA) for
-banking apps, setting transaction limits on payment accounts, including
-PayNow and PayLah.</p>
+<p>Add the ScamShield App to protect yourself from scam calls and SMSes.
+​</p>
+</li>
+<li>
+<p>Set security features (e.g. set up transaction limits for internet banking
+transactions, enable Two-Factor Authentication (2FA), Multifactor Authentication
+for banks and e-wallets).</p>
 </li>
 </ul>
 <p><strong>CHECK:</strong>
@@ -71,21 +77,21 @@ PayNow and PayLah.</p>
 <p>With someone you trust about the offer.</p>
 </li>
 <li>
-<p>The ScamShield helpline (1799) when unsure if it is a scam.</p>
+<p>Call the ScamShield helpline (1799) to check if you are unsure.​</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Friends and family by warning them about this scam encounter.</p>
+<p>Warn friends and families about this scam encounter. ​</p>
 </li>
 <li>
-<p>Report and block suspected scam accounts and chat groups.</p>
+<p>Report and block suspected scam accounts/chat groups.​</p>
 </li>
 <li>
 <p>Call your bank immediately and make a police report if you think you have
-been scammed.</p>
+fallen victim.</p>
 </li>
 </ul>
 <hr>
