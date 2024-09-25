@@ -12,7 +12,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: contact us via the app
+      - other: contact us via the ScamShield app
     title: ScamShield app
 feedback: ""
 ---
