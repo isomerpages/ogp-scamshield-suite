@@ -31,7 +31,7 @@ no longer be contacted.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>It is likely a scam if the job requires you to</h3>
+<h3>It is likely a scam if the job requires you to:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Pay upfront before starting the job.​</p>
