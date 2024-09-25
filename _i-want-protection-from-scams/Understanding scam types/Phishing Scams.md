@@ -25,21 +25,25 @@ bank accounts or debit/credit cards.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Common signs of phishing are</h3>
+<h3>Common signs of phishing are:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unsolicited emails, messages, images or advertisements with clickable
-links.</p>
+<p>Clickable links from unsolicited/Random emails, messages, images, or advertisements.</p>
 </li>
 <li>
-<p>Spoofed website addresses (e.g. www.m1cros0ft.1234.com.co)</p>
+<p>Spoofed website addresses (E.g., <strong>www.m1cr0soft.1234.com.co</strong>)</p>
 </li>
 <li>
-<p>Unsecured website pages (address bar does not show lock icon or https://)</p>
+<p>Unsecured website pages (E.g., websites without lock icon and https://
+in the address bar) ​</p>
 </li>
 <li>
-<p>Requesting you to provide your One Time Passwords (OTPs), personal details
-or banking credentials.</p>
+<p>Requests for your One-Time passwords (OTPs), personal or banking details.
+​</p>
+</li>
+<li>
+<p>Prompts you to download attachments or third-party apps outside official
+app stores.</p>
 </li>
 </ul>
 <h3>For bank phishing</h3>
@@ -61,7 +65,7 @@ notices of assessment, tax refund letters via emails.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Add and use only official banking apps downloaded from official app stores
-(Google Play Store or Apple App Store)&nbsp;to make transfers or payments.</p>
+(Google Play Store or Apple App Store) to make transfers or payments. ​</p>
 </li>
 <li>
 <p>Add ScamShield app and set security features such as 2FA for banking apps,
@@ -70,15 +74,15 @@ banking transactions, including PayNow and PayLah.</p>
 </li>
 </ul>
 <p><strong>CHECK</strong>:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>that you do not use clickable links or QR codes provided by unknown persons
+<p>That you do not use clickable links or QR codes provided by unknown persons
 to make payments/transfers, as these lead to fake bank websites that phish
-for your banking credentials.</p>
+for your banking credentials. ​</p>
 </li>
 <li>
 <p>Never disclose your personal information, internet banking and social
-media account details, and one-time passwords (OTPs) to anyone.</p>
+media account details, and one-time passwords (OTPs) to anyone.​</p>
 </li>
 <li>
 <p>Always verify the authenticity of unsolicited clickable links you receive
@@ -87,31 +91,34 @@ and check the webpage addresses for discrepancies.</p>
 </ul>
 <p><strong>TELL:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Warn friends and family about this scam encounter. ​</p>
+<p>Warn your friends and family about your scam encounter.​</p>
 </li>
 <li>
 <p>Call your bank immediately and make a police report if you think you have
-been scammed.</p>
+fallen victim.</p>
 </li>
 </ul>
 <h3>For bank phishing</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Banks will never send you any clickable links via SMS and will use their
-officially registered SMS Sender ID.</p>
+<p>Banks will never send you any clickable links via SMS.</p>
+</li>
+<li>
+<p>Legitimate SMSes from banks will reflect their officially registered SMS
+Sender ID.</p>
 </li>
 </ul>
 <h3>For e-commerce/parcel delivery phishing</h3>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Verify the authenticity of the information with company or e-commerce
-platform directly.</p>
+platform directly. ​</p>
 </li>
 <li>
 <p>Use only official banking apps downloaded from official app stores (Google
-Play Store or Apple App Store)&nbsp;to make transfers or payments.</p>
+Play Store or Apple App Store)&nbsp;to make transfers or payments. ​</p>
 </li>
 <li>
 <p>Set transaction limits on internet banking transactions, including PayNow
@@ -145,7 +152,6 @@ added security, we will respond to taxpayers via myTax Mail if their query
 contains confidential information.</p>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Emailing IRAS:</u></strong>
 </p>
 <ul data-tight="true" class="tight">

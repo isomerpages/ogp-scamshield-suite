@@ -30,22 +30,19 @@ their bank accounts.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Government officials will never ask you</h3>
+<h3>Government officials will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>To transfer money to unknown bank accounts</p>
+<p>Transfer money to bank accounts​.</p>
 </li>
 <li>
-<p>Provide your personal, banking, SingPass or CPF related information over
-the phone;</p>
+<p>Request for your personal, banking, SingPass or CPF related information.</p>
 </li>
 <li>
-<p>Lie to any bank staff or any other government officials that may call
-you;</p>
+<p>Ask you to click on links that lead to bank websites.</p>
 </li>
 <li>
-<p>Click on unknown links that lead to bank websites, or download dubious
-third-party apps/software to aid investigations</p>
+<p>Ask you to install apps or software from third party websites.</p>
 </li>
 </ul>
 <p><strong><u>Additional Advisories</u></strong>
@@ -53,19 +50,19 @@ third-party apps/software to aid investigations</p>
 <p>Overseas law enforcement agencies have no legal powers to require members
 of the public in Singapore to assist in their investigations without the
 approval of the Singapore government.</p>
-<h3>SPF officers will never ask you to:</h3>
+<h3>SPF officers will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Transfer money to bank accounts, or mobile numbers linked to bank accounts</p>
+<p>Transfer money to bank accounts, or mobile numbers linked to bank accounts.</p>
 </li>
 <li>
-<p>Request for your&nbsp;banking, SingPass or CPF related information</p>
+<p>Request for your banking, SingPass or CPF related information.</p>
 </li>
 <li>
-<p>Click on links that lead to bank websites</p>
+<p>Ask you to click on links that lead to bank websites.</p>
 </li>
 <li>
-<p>Install apps or software from third party websites</p>
+<p>Ask you to install apps or software from third party websites.</p>
 </li>
 </ul>
 <hr>
@@ -74,28 +71,24 @@ approval of the Singapore government.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ScamShield app to block scam scalls and filter scam SMSes.</p>
+<p>ScamShield app to block scam calls and filter scam SMSes​.</p>
 </li>
 <li>
-<p>Anti-virus apps recommended by CSA to your devices.</p>
+<p>Anti-virus app to your devices (see recommendations by CSA).</p>
 </li>
 <li>
-<p>Money Lock for your bank accounts to further secure a protion of your
-savings.</p>
+<p>Money Lock to your bank accounts to further secure a portion of your savings.​</p>
+<p>International Call Blocking option to your mobile account(s).</p>
 </li>
 <li>
-<p>International Call Blocking option to your mobile accounts.</p>
-</li>
-<li>
-<p>Security features such as Two or Multi-Factor Authentication (2FA/MFA)
-for your online accounts.</p>
+<p>Security features such as 2 or multi-FA for ​your online accounts</p>
 </li>
 </ul>
 <p><strong>CHECK:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>With someone you trust about the situation.​</p>
+<p>With someone you trust about the situation.</p>
 </li>
 <li>
 <p>Call the ScamShield Helpline (1799) to check if you are unsure.​</p>
@@ -114,7 +107,7 @@ sent by the Singapore Government. ​</p>
 </ul>
 <p><strong>TELL:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Warn friends and family about this scam encounter. ​</p>
 </li>
@@ -123,7 +116,7 @@ sent by the Singapore Government. ​</p>
 </li>
 <li>
 <p>Call your bank immediately and make a police report if you think you have
-been scammed.</p>
+fallen victim.</p>
 </li>
 </ul>
 <hr>

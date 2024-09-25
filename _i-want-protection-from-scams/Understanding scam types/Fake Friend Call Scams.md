@@ -30,44 +30,46 @@ that they had neither changed their contact number nor contacted them.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>It is likely a scam if the caller</h3>
+<h3>It is likely a scam if the caller:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Calls you using an unknown number, asks you to guess who they are and
-claims that he/she lost his/her old phone number;</p>
+claims that he/she lost his/her old phone number.</p>
 </li>
 <li>
-<p>Ask you to transfer money to unknown bank accounts, click on unknown links
-that lead to bank websites and/or download third-party apps to help them
-in a difficult situation.</p>
+<p>Asks you for urgent loans for various reasons.</p>
+</li>
+<li>
+<p>Asks you to click on links or install third-party apps sent via text messages
+to help him/her through a difficult situation.</p>
 </li>
 </ul>
 <hr>
 <h3>How to stay safe</h3>
 <p><strong>ADD:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>ScamShield app to block scams calls and filter scam SMSes.</p>
+<p>ScamShield app to block scam calls and filter scam SMSes. ​</p>
 </li>
 <li>
-<p>Anti-virus apps recommended by CSA to your devices.</p>
+<p>Anti-virus app to your devices (see recommendations by CSA).​</p>
 </li>
 <li>
-<p>International Call Blocking option to your mobile accounts.</p>
+<p>International Call Blocking option to your mobile account(s).&nbsp;</p>
 </li>
 </ul>
 <p><strong>CHECK</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Callers' identity by calling their last known number, via social media
-or physical meetup.</p>
+<p>Caller’s identity by calling his/her last known number, via social media
+or meet-up.​</p>
 </li>
 <li>
-<p>Apps are installed from official app stores.</p>
+<p>Only install apps from official app stores.​</p>
 </li>
 <li>
-<p>With someone you trust about the situation.​</p>
+<p>With someone you trust.</p>
 </li>
 <li>
 <p>Call the ScamShield Helpline (1799) to check if you are unsure.</p>
@@ -75,13 +77,13 @@ or physical meetup.</p>
 </ul>
 <p><strong>TELL:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Friends and family by warning them about this scam encounter.</p>
+<p>Warn your friends and family about your scam encounter.​</p>
 </li>
 <li>
 <p>Call your bank immediately and make a police report if you think you have
-been scammed.</p>
+fallen victim.</p>
 </li>
 </ul>
 <hr>

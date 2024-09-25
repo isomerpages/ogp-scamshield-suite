@@ -25,22 +25,22 @@ screenshots as “proof of payment”.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>It is likely a scam if the seller</h3>
+<h3>It is likely a scam if the seller:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Offers the item/service at ridiculously low prices for a limited time.</p>
+<p>Offers the item/service at an attractive price for a limited time ​</p>
 </li>
 <li>
-<p>Asks you to make payment directly to them, instead of using the platform’s
-secure payment option.</p>
+<p>Asks you to make payment directly to him, and not through the platform’s
+secure payment option​</p>
 </li>
 <li>
-<p>Needs you to click on unknown URL links or install a third-party app sent
-via text messages to make payment or facilitate a refund.</p>
+<p>Needs you to click on links or install a third-party app sent via text
+messages to make payment or receive refunds​</p>
 </li>
 <li>
 <p>Asks you to pay additional customs or delivery fees after the deal is
-confirmed.</p>
+confirmed</p>
 </li>
 </ul>
 <hr>
@@ -62,43 +62,41 @@ PayNow and PayLah.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Apps installed are from offcial app stores.</p>
+<p>Only install apps from official app stores.​</p>
 </li>
 <li>
-<p>The e-Commerce platforms’ Transaction Safety Rating at <a href="http://go.gov.sg/mhatsr" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mhatsr</a>.</p>
+<p>e-Commerce platforms’ Transaction Safety Ratings at <a href="http://go.gov.sg/mhatsr" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mhatsr</a>.
+​</p>
 </li>
 <li>
-<p>Transact only on secure payment options offered by well-established e-commerce
-platforms.</p>
+<p>Pay using secure payment options offered by the platform.​</p>
 </li>
 <li>
-<p>Do not click on links or scanned QR codes provided though text messages
-by sellers.</p>
+<p>Do not click on links or scan QR codes sent via text messages by sellers.​</p>
 </li>
 <li>
 <p>Never disclose your personal information, internet banking and social
-media account details, and one-time passwords (OTPs) to anyone.</p>
+media account details, and One-Time Passwords (OTPs) to anyone.​</p>
 </li>
 <li>
 <p>With someone you trust about the offer.</p>
 </li>
 <li>
-<p>Call the ScamShield helpline (1799) when unsure if it is a scam.</p>
+<p>Call the ScamShield helpline (1799) to check if you are unsure.​</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Friends and family by warning them about the scam encounter.</p>
+<p>Warn friends and families about this scam encounter. ​</p>
 </li>
 <li>
-<p>Flag any suspicious users and fraudulent transactions to the e-commerce
-platforms.</p>
+<p>Flag any suspicious sellers to the e-commerce platform.​</p>
 </li>
 <li>
-<p>Call your bank immediately or make a police report if you think you have
-been scammed.</p>
+<p>Call your bank immediately and make a police report if you think you have
+fallen victim.</p>
 </li>
 </ul>
 <hr>
