@@ -30,7 +30,7 @@ their bank accounts.</p>
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2023</p>
 <hr>
-<h3>Government officials will never ask you to do the following over the phone or through text message: </h3>
+<h3>Government officials will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Transfer money to bank accounts​.</p>
@@ -53,16 +53,16 @@ approval of the Singapore government.</p>
 <h3>SPF officers will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Transfer money to bank accounts, or mobile numbers linked to bank accounts</p>
+<p>Transfer money to bank accounts, or mobile numbers linked to bank accounts.</p>
 </li>
 <li>
-<p>Request for your&nbsp;banking, SingPass or CPF related information</p>
+<p>Request for your banking, SingPass or CPF related information.</p>
 </li>
 <li>
-<p>Click on links that lead to bank websites</p>
+<p>Ask you to click on links that lead to bank websites.</p>
 </li>
 <li>
-<p>Install apps or software from third party websites</p>
+<p>Ask you to install apps or software from third party websites.</p>
 </li>
 </ul>
 <hr>
@@ -71,21 +71,17 @@ approval of the Singapore government.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ScamShield app to block scam scalls and filter scam SMSes.</p>
+<p>ScamShield app to block scam calls and filter scam SMSes​</p>
 </li>
 <li>
-<p>Anti-virus apps recommended by CSA to your devices.</p>
+<p>Anti-virus app to your devices (see recommendations by CSA).</p>
 </li>
 <li>
-<p>Money Lock for your bank accounts to further secure a protion of your
-savings.</p>
+<p>Money Lock to your bank accounts to further secure a portion of your savings.​</p>
+<p>International Call Blocking option to your mobile account(s).</p>
 </li>
 <li>
-<p>International Call Blocking option to your mobile accounts.</p>
-</li>
-<li>
-<p>Security features such as Two or Multi-Factor Authentication (2FA/MFA)
-for your online accounts.</p>
+<p>2 or multi-FA to your online accounts</p>
 </li>
 </ul>
 <p><strong>CHECK:</strong>
