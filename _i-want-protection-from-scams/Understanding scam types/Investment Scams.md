@@ -56,51 +56,48 @@ registered financial institutions, representative and investor alert list.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Privacy settings to your messaging apps to only allow your contacts to
-add you to chat groups and avoid being added into unknown chatgroups by
-scammers luring you into such fake opportunities.</p>
+<p>Privacy settings to your messaging app to avoid being added into unknown
+chatgroups.</p>
 </li>
 <li>
-<p>Security features such as 2 or Multi-Factor Authentication (2FA/MFA) for
-banking apps, setting transaction limits on payment accounts, including
-PayNow and PayLah.</p>
+<p>Security features such as 2 or multi-FA for banking apps, transaction
+limits on payment accounts (bank, PayNow and PayLah). ​</p>
 </li>
 <li>
-<p>Money Lock for your bank accounts to further secure a portion of your
-savings.</p>
+<p>Money Lock to your bank accounts to further secure a portion of your savings.</p>
 </li>
 </ul>
 <p><strong>CHECK:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Resources on the MAS website; (i) Financial Institutions Directory, (ii)
-Register of Representatives, and (iii) Investor Alert List to check if
-the company offering the investment product is regulated by MAS.</p>
+<p>Resources on the MAS website (i.e., Financial Institutions Directory,
+Register of Representatives, and Investor Alert List) on whether the company
+offering the investment opportunity is regulated by MAS.​</p>
 </li>
 <li>
-<p>With someone you trust to get a second opinion about the offer.</p>
+<p>With someone you trust about the offer.</p>
 </li>
 <li>
-<p>The ScamShield helpline (1799) when unsure if it is a scam.</p>
+<p>Call the ScamShield helpline (1799) to check if you are unsure.​</p>
 </li>
 <li>
-<p>With the company by calling their official hotline if the investment product
+<p>Call the official hotline of the company to check if this investment product
 is legitimate.</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Friends and family by warning them about this scam encounter.</p>
+<p>Warn friends and family about this scam encounter. ​</p>
 </li>
 <li>
-<p>Report and block suspected scam accounts/chat groups.</p>
+<p>Report and block suspected scam accounts/chat groups.​</p>
 </li>
 <li>
 <p>Call your bank immediately and make a police report if you think you have
-scammed.</p>
+fallen victim.</p>
 </li>
 </ul>
 <hr>
