@@ -51,32 +51,10 @@ registered financial institutions, representative and investor alert list.</p>
 </li>
 </ul>
 <h3>Examples of Investment scams</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/investment_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/investment_1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/investment_1.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3>How to stay safe</h3>
 <p><strong>ADD:</strong>
