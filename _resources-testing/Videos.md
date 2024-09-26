@@ -304,9 +304,6 @@ description: ""
 </tbody>
 </table>
 <h4></h4>
-<blockquote>
-<h4>2024</h4>
-</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -315,16 +312,15 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Beware of Tech Support Scams</p>
-<div class="iframe-wrapper">
-<iframe height="250" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HDaHv_bgxS8"></iframe>
+<p>Scam Type</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1799_KV_Banner.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ADD these security features!</p>
-<div class="iframe-wrapper">
-<iframe height="250" width="80%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
+<p>Color Code</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1799_KV_Banner.png">
 </div>
 </td>
 </tr>
