@@ -127,6 +127,8 @@ fallen victim.</p>
 </p>
 <p><a href="https://go.gov.sg/start19" rel="noopener nofollow" target="_blank">Received an SMS from the Government? Here's an easy way to tell if it's real</a>
 </p>
+<p><a href="https://go.gov.sg/start23" rel="noopener nofollow" target="_blank">Why people fall prey to scammers posing as police officers</a>
+</p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>If you have transferred money to a scammer, please visit this page for
