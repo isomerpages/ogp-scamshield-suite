@@ -50,6 +50,7 @@ by individuals or organisations that are not located on MAS’s listing of
 registered financial institutions, representative and investor alert list.</p>
 </li>
 </ul>
+<hr>
 <h3>Examples of Investment scams</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -72,12 +73,6 @@ registered financial institutions, representative and investor alert list.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest1.png">
-</div>
 <hr>
 <h3>How to stay safe</h3>
 <p><strong>ADD:</strong>
