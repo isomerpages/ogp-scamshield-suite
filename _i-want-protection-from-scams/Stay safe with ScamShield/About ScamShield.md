@@ -18,6 +18,9 @@ at 1799).
 <br>Each of these plays a crucial role in empowering individuals to fight
 against scams, as well as keeping the community safe from fraudulent activities.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scamshield_suite_KV.png">
+</div>
 <hr>
 <h3><strong>ScamShield app</strong></h3>
 <p>The new and enhanced ScamShield app now lets you check suspicious calls,
