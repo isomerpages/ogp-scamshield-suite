@@ -10,10 +10,10 @@ third_nav_title: Stay safe with ScamShield
 <img style="width: 100%" height="auto" width="100%" alt="What is ScamShield?" src="/images/What_is_ScamShield_.png">
 </div>
 <p>ScamShield is a suite of products and tools that helps defend against
-scams. The suite consists of the ScamShield app (for iPhone and Android),
-a website (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>)
-with a range of anti-scam resources, and the ScamShield helpline (reachable
-at 1799).
+scams. The suite consists of the ScamShield helpline (reachable at 1799),
+ScamShield app (for iPhone and Android), a website (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>)
+with a range of anti-scam resources, and ScamShield Alert Social Channels
+on WhatsApp and Telegram.
 <br>
 <br>Each of these plays a crucial role in empowering individuals to fight
 against scams, as well as keeping the community safe from fraudulent activities.</p>
@@ -49,11 +49,11 @@ loved ones.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<hr>
+<h3><strong>1799 ScamShield Helpline</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1799_KV_Banner.png">
 </div>
-<h3><strong>1799 ScamShield Helpline</strong></h3>
 <p>The anti-scam helpline is available 24/7, to offer immediate support for
 anyone who needs assistance in verifying potential scams. If you have concerns
 about a suspicious offer or need guidance on how to protect yourself, our
