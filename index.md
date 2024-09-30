@@ -131,6 +131,6 @@ sections:
         Prevention Council.
       button: Learn more
       url: /our-partners/
-      image: /images/our_partners.png
+      image: /images/our_partners_v4.png
       alt: Image alt text
 ---
