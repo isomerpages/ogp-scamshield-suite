@@ -11,6 +11,6 @@ not have been possible without the invaluable support of the following
 partners:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_partners.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/our_partners_v2.png">
 </div>
 <p></p>
