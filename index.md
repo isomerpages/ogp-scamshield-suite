@@ -44,13 +44,16 @@ sections:
       alt: 1799 Hotline
       description: Available 24/7, Monday to Sunday
   - infopic:
-      title: Over S$2.2 billion has been lost to scams since 2020
+      title: You can block calls and SMS from international numbers?
       id: infopic
-      description: Protect yourself and your loved ones with our scam-prevention
-        tools, and always be alert to potential scams.
+      description: Activate the international call and SMS blocking features. Reach
+        out to your telcos to activate the features and safeguard yourself
+        against scams.
       image: /images/1_in_5.png
       alt: Image alt text
       subtitle: did you know?
+      url: /keep-your-devices-secure/
+      button: Learn more
   - textcards:
       title: Scam threats
       id: textcards
