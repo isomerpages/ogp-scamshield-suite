@@ -27,7 +27,7 @@ sections:
       title: Stay safe with the enhanced ScamShield app
       subtitle: get scam protection
       id: infocols
-      linktext: about scamshield
+      linktext: Download now
       infoboxes:
         - title: Check for scams
           description: Know if a suspicious message, link, or number is likely a scam
@@ -35,7 +35,7 @@ sections:
           description: Submit reports with screenshots, so we can monitor them better
         - title: Block and filter scams
           description: Set up your phone to block calls and SMSes from scammers
-      url: /about-scamshield/
+      url: https://onelink.to/scamshield
   - infopic:
       title: "Call and  check with the ScamShield anti-scam helpline: 1799"
       subtitle: Unsure if it's a scam?
