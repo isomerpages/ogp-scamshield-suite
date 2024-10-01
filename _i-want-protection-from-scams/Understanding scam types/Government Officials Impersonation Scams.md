@@ -66,6 +66,28 @@ approval of the Singapore government.</p>
 </li>
 </ul>
 <hr>
+<h3>Examples of Government Officials Impersonation scams</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h3>How to stay safe</h3>
 <p><strong>ADD:</strong>
 </p>
