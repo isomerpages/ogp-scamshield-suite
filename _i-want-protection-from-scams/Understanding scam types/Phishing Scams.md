@@ -59,6 +59,28 @@ contains phishing link.</p>
 send any confidential tax information and tax documents such as tax returns,
 notices of assessment, tax refund letters via emails.</p>
 <hr>
+<h3>Examples of Phishing scams</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Phishing/phish1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Phishing/phish2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h3>How to stay safe</h3>
 <p><strong>ADD:</strong>
 </p>
