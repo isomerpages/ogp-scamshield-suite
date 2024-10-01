@@ -44,8 +44,8 @@ no longer be contacted.</p>
 </li>
 <li>
 <p>Disclose your Singpass credentials and password or provided with a Singpass
-QR code for scanning access your Singpass account in order to apply for
-a job. ​</p>
+QR code for scanning to access your Singpass account in order to apply
+for a job. ​</p>
 </li>
 </ul>
 <hr>
