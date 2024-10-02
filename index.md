@@ -102,6 +102,12 @@ sections:
             their mid-year scams and cybercrime brief on 22 Aug 2024.
           link_text: Learn more
           link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf
+        - title: gov.sg SMS Sender ID
+          date: 01 July 2024
+          announcement: From 1 July 2024, SMSes from government agencies will come from a
+            single gov.sg SMS Sender ID
+          link_text: Learn more
+          link_url: https://www.gov.sg/article/what-you-need-to-know-govsg-sms-sender-id
         - title: Anti-Scam mascot design competition
           date: 16 April 2024
           announcement: The Association of Banks in Singapore launched a mascot design
@@ -109,19 +115,6 @@ sections:
             fight against scams.
           link_text: Learn more
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
-        - title: Annual Scams and Cybercrime Brief 2023
-          date: 18 February 2024
-          announcement: The Singapore Police Force (SPF) released these latest figures in
-            their annual scams and cybercrime brief on Sunday (Feb 18), which
-            showed a continued rise in the overall number of scams.
-          link_text: Learn more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2023_Annual_SCC_Brief.pdf
-        - title: gov.sg SMS Sender ID
-          date: 01 July 2024
-          announcement: From 1 July 2024, SMSes from government agencies will come from a
-            single gov.sg SMS Sender ID
-          link_text: Learn more
-          link_url: https://www.gov.sg/article/what-you-need-to-know-govsg-sms-sender-id
   - infopic:
       title: I can ACT against scams
       subtitle: Learn more
