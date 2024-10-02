@@ -116,6 +116,12 @@ sections:
             showed a continued rise in the overall number of scams.
           link_text: Learn more
           link_url: /files/Scams%20and%20Cybercrime%20Briefs/2023_Annual_SCC_Brief.pdf
+        - title: gov.sg SMS Sender ID
+          date: 01 July 2024
+          announcement: From 1 July 2024, SMSes from government agencies will come from a
+            single gov.sg SMS Sender ID
+          link_text: Learn more
+          link_url: https://www.gov.sg/article/what-you-need-to-know-govsg-sms-sender-id
   - infopic:
       title: I can ACT against scams
       subtitle: Learn more
