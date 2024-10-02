@@ -2,6 +2,7 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
+      - Why do people fall prey to scams.md
       - Introduction to Scams.md
       - Stay safe with ScamShield/.keep
       - Stay safe with ScamShield/About ScamShield.md
