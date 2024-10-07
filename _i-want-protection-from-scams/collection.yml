@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Introduction to Scams.md
+      - Why do people fall prey to scams.md
       - Stay safe with ScamShield/.keep
       - Stay safe with ScamShield/About ScamShield.md
       - Stay safe with ScamShield/Check for scams.md
