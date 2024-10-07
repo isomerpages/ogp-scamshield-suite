@@ -47,7 +47,6 @@ a favour when people help us, comply to demands made in rare situations
 (e.g., a limited time offer, emergency loan requests from friends), like
 people who flatter us and share similarities, and our decision making is
 often influenced by the majority.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
