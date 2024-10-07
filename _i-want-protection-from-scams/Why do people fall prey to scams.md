@@ -31,18 +31,19 @@ scams are ever evolving and pervasive, and scammers target our human vulnerabili
 and use our own emotions and desires (e.g., fear and greed) against us
 – our familiarity with the online space and knowledge of several scam types
 can only go so far.</p>
+<hr>
 <h4><strong>Psychology of deception and social engineering</strong></h4>
-<p><strong>&nbsp;</strong>We tend to underestimate the diverse and sophisticated
-tactics used by scammers. Scam scenarios are skilfully designed to catch
-victims off guard and exploit moments when our defences are down. Scammers
-tend to create a heighten state of emotion (e.g. fear, excitement) in their
-approaches. When we are in a heightened state of emotion (i.e., psychologically
-‘hot’ state), we are less able to think critically and scrutinize the situation
+<p>We tend to underestimate the diverse and sophisticated tactics used by
+scammers. Scam scenarios are skilfully designed to catch victims off guard
+and exploit moments when our defences are down. Scammers tend to create
+a heighten state of emotion (e.g. fear, excitement) in their approaches.
+When we are in a heightened state of emotion (i.e., psychologically ‘hot’
+state), we are less able to think critically and scrutinize the situation
 we are facing in detail. Consequently, we make poorer decisions, and this
 makes us more susceptible to scammers’ schemes. &nbsp;</p>
-<p>&nbsp;Scammers also use effective influence tactics that targets our basic
-needs and tendencies. For example, we tend to trust authority figures,
-return a favour when people help us, comply to demands made in rare situations
+<p>Scammers also use effective influence tactics that targets our basic needs
+and tendencies. For example, we tend to trust authority figures, return
+a favour when people help us, comply to demands made in rare situations
 (e.g., a limited time offer, emergency loan requests from friends), like
 people who flatter us and share similarities, and our decision making is
 often influenced by the majority.</p>
@@ -126,59 +127,85 @@ that you could not find elsewhere?</p>
 </tbody>
 </table>
 <h4><strong>Multiple protective actions needed to enhance our scam resilience.</strong></h4>
-<p><strong>&nbsp;</strong>We lock the doors to our homes even though crime
-rates are low, and we generally feel safe in Singapore. We also wear seatbelts
-when we drive, even though some amongst us may think that they are good
-drivers. Such behaviours are almost second nature to us and serve to enhance
-our resilience against the risks inherent in those respective contexts.</p>
-<p><strong>&nbsp;</strong>Given the design of scams and scammers’ sophisticated
-tactics, mere familiarity with the online space and awareness of scams
-are insufficient. We need to change our mindsets regarding our vulnerability
-to scams. A recent survey by the Singapore Police Force shows that individuals
-who acknowledge their vulnerability tend to keep themselves up to date
-regarding the latest scam trends and adopt more protective measures.</p>
-<p><strong>&nbsp;</strong>Apart from changing our mindset, we will also need
-to proactively adopt protective measures to strengthen our resilience against
-scams. The adoption of these behaviours must be second nature, and such
-behaviours serve to reduce the likelihood of us falling prey to scams and/or
-mitigate our financial losses to scams, especially when our defenses are
-down.</p>
-<p>&nbsp;ACT to strengthen your resilience against scams today!</p>
-<p><strong>&nbsp;<u>A</u>dd:</strong>
+<p>We lock the doors to our homes even though crime rates are low, and we
+generally feel safe in Singapore. We also wear seatbelts when we drive,
+even though some amongst us may think that they are good drivers. Such
+behaviours are almost second nature to us and serve to enhance our resilience
+against the risks inherent in those respective contexts.</p>
+<p>Given the design of scams and scammers’ sophisticated tactics, mere familiarity
+with the online space and awareness of scams are insufficient. We need
+to change our mindsets regarding our vulnerability to scams. A recent survey
+by the Singapore Police Force shows that individuals who acknowledge their
+vulnerability tend to keep themselves up to date regarding the latest scam
+trends and adopt more protective measures.</p>
+<p>Apart from changing our mindset, we will also need to proactively adopt
+protective measures to strengthen our resilience against scams. The adoption
+of these behaviours must be second nature, and such behaviours serve to
+reduce the likelihood of us falling prey to scams and/or mitigate our financial
+losses to scams, especially when our defenses are down.</p>
+<p>ACT to strengthen your resilience against scams today!</p>
+<p><strong>ADD:</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ScamShield app to block scam calls and
-filter scam SMSes.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anti-virus app to your devices (<a href="https://www.csa.gov.sg/docs/default-source/our-programmes/cybersecurity-outreach/the-unseen-enemy/security-apps_infographic.pdf" rel="noopener nofollow" target="_blank">Recommendations by CSA</a>).</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only install apps from official app stores.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Money Lock to your bank accounts to further
-secure a portion of your savings.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Call Blocking option to
-your mobile account(s).&nbsp;</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 or multi-FA to your online accounts</p>
-<p><strong>Check:</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>ScamShield app to block scam calls and filter scam SMSes.</p>
+</li>
+<li>
+<p>Anti-virus app to your devices (<a href="https://www.csa.gov.sg/docs/default-source/our-programmes/cybersecurity-outreach/the-unseen-enemy/security-apps_infographic.pdf" rel="noopener nofollow" target="_blank">Recommendations by CSA</a>).</p>
+</li>
+<li>
+<p>Only install apps from official app stores.</p>
+</li>
+<li>
+<p>Money Lock to your bank accounts to further secure a portion of your savings.</p>
+</li>
+<li>
+<p>International Call Blocking option to your mobile account(s).&nbsp;</p>
+</li>
+<li>
+<p>2 or multi-FA to your online accounts</p>
+</li>
+</ul>
+<p><strong>CHECK:</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With someone you trust about the situation.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Call the ScamShield Helpline (1799) to
-check if you are unsure. You can also check by submitting suspicious phone
-numbers, messages and weblinks to the ScamShield app.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Never disclose your personal information
-(including NRIC and Singpass), internet banking and social media account
-details, and one-time passwords (OTPs) to anyone.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SMSes from government agencies will use
-a single <a href="https://www.gov.sg/article/what-you-need-to-know-govsg-sms-sender-id" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> SMS
+<ul data-tight="true" class="tight">
+<li>
+<p>With someone you trust about the situation.</p>
+</li>
+<li>
+<p>Call the ScamShield Helpline (1799) to check if you are unsure. You can
+also check by submitting suspicious phone numbers, messages and weblinks
+to the ScamShield app.</p>
+</li>
+<li>
+<p>Never disclose your personal information (including NRIC and Singpass),
+internet banking and social media account details, and one-time passwords
+(OTPs) to anyone.</p>
+</li>
+<li>
+<p>SMSes from government agencies will use a single <a href="https://www.gov.sg/article/what-you-need-to-know-govsg-sms-sender-id" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> SMS
 Sender ID. Every text message will begin with the full name of the agency
 that sent it and end with a note stating that it is an automated message
 sent by the Singapore Government.</p>
-<p><strong>&nbsp;Tell:</strong>
+</li>
+</ul>
+<p><strong>TELL:</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Share your scam encounters with authorities
-via the ScamShield app.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warn friends and family about this scam
-encounter.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Report and block suspected scam accounts/chat
-groups.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Call your bank immediately and make a
-police report if you think you have fallen victim.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Share your scam encounters with authorities via the ScamShield app.</p>
+</li>
+<li>
+<p>Warn friends and family about this scam encounter.</p>
+</li>
+<li>
+<p>Report and block suspected scam accounts/chat groups.</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+fallen victim.</p>
+</li>
+</ul>
 <p>Scams are a bane to our society and an assault on our personal vulnerabilities.
 Recognising our vulnerabilities is the first step towards taking steps
 to protect ourselves. To fight back, we need to work on ourselves and build
