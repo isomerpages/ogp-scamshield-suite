@@ -4,9 +4,10 @@ title: ScamShield Website
 description: Government directory for scam-related information
 image: /images/Logo_2024.png
 permalink: /
-notification: Police will never request for your banking, Singpass details
-  and/or CPF related information over the phone or text messages. If unsure,
-  call 1799 to check
+notification: We are aware that the public are experiencing difficulties calling
+  1799. We are working closely with our service provider to resolve this matter
+  as quickly as possible. If you require any assitance, please use the
+  ScamShield chatbot. Thank you for your understanding and patience.
 sections:
   - hero:
       background: /images/26_Aug_Banner.png
