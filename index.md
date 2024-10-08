@@ -4,10 +4,10 @@ title: ScamShield Website
 description: Government directory for scam-related information
 image: /images/Logo_2024.png
 permalink: /
-notification: We are aware that the public are experiencing difficulties calling
-  1799. We are working closely with our service provider to resolve this matter
-  as quickly as possible. If you require any assitance, please use the
-  ScamShield chatbot. Thank you for your understanding and patience.
+notification: Due to a telco service disruption, the ScamShield Helpline 1799
+  has been affected. We are monitoring the situation closely. In the meantime,
+  please use the ScamShield chatbot to speak with us. We thank you for your
+  patience and understanding.
 sections:
   - hero:
       background: /images/26_Aug_Banner.png
