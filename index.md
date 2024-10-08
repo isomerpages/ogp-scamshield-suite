@@ -4,10 +4,9 @@ title: ScamShield Website
 description: Government directory for scam-related information
 image: /images/Logo_2024.png
 permalink: /
-notification: Due to a telco service disruption, the ScamShield Helpline 1799
-  has been affected. We are monitoring the situation closely. In the meantime,
-  please use the ScamShield chatbot to speak with us. We thank you for your
-  patience and understanding.
+notification: Police will never request for your banking, Singpass details
+  and/or CPF related information over the phone or text messages. If unsure call
+  1799 to check
 sections:
   - hero:
       background: /images/26_Aug_Banner.png
