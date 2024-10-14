@@ -53,16 +53,17 @@ approval of the Singapore government.</p>
 <h3>SPF officers will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Transfer money to bank accounts, or mobile numbers linked to bank accounts.</p>
+<p>Transfer money to the police, bank accounts, or mobile numbers linked
+to bank accounts;</p>
 </li>
 <li>
-<p>Request for your banking, SingPass or CPF related information.</p>
+<p>Request for your banking, SingPass or CPF related information;</p>
 </li>
 <li>
-<p>Ask you to click on links that lead to bank websites.</p>
+<p>Click on links that lead to bank websites;</p>
 </li>
 <li>
-<p>Ask you to install apps or software from third party websites.</p>
+<p>Install apps or software from third party websites.</p>
 </li>
 </ul>
 <hr>
