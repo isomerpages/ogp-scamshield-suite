@@ -57,7 +57,7 @@ approval of the Singapore government.</p>
 to bank accounts;</p>
 </li>
 <li>
-<p>Request for your banking, SingPass or CPF related information.</p>
+<p>Request for your banking, SingPass or CPF related information;</p>
 </li>
 <li>
 <p>Click on links that lead to bank websites;</p>
