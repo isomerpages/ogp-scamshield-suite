@@ -143,4 +143,6 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/bIAo--B3V3A?si=HbSi2zskpEC_07oR"
         height="360" width="640"></iframe>
+      subtitle: Launch video
+      title: ScamShield Suite
 ---
