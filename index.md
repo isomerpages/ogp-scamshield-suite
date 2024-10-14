@@ -136,4 +136,11 @@ sections:
       url: /our-partners/
       image: /images/our_partners_v4.png
       alt: Image alt text
+  - infobar:
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/bIAo--B3V3A?si=HbSi2zskpEC_07oR"
+        height="360" width="640"></iframe>
 ---
