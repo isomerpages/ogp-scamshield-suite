@@ -2,7 +2,6 @@ collections:
   i-want-protection-from-scams:
     output: true
     order:
-      - Scambility Quiz.md
       - Introduction to Scams.md
       - Why do people fall prey to scams.md
       - Stay safe with ScamShield/.keep
@@ -24,3 +23,4 @@ collections:
       - Understanding scam types/E Commerce Scams.md
       - Understanding scam types/Fake Friend Call Scams.md
       - Understanding scam types/Phishing Scams.md
+      - Scambility Quiz.md
