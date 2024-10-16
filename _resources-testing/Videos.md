@@ -25,6 +25,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14 Oct 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/embed/bIAo--B3V3A" rel="noopener nofollow" target="_blank">Use the ScamShield Suite to Protect yourself against scams!</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>14 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
