@@ -75,7 +75,7 @@ a victim of a scam. These banks are:</p>
 <summary>Can the ScamShield Helpline make a police report for me?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No, the ScamShield helpline cannot make police reports. If you need to
-file a police report, you can do file it online at <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report</a>.</p>
+file a police report, you can do it online at <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -86,7 +86,7 @@ refrain from calling the helpline for matters unrelated to scams.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Is the ScamShield helpline available 24/7?</summary>
+<summary>Is the ScamShield Helpline available 24/7?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes, the ScamShield helpline (1799) is available 24 hours a day, 7 days
 a week, to offer immediate support for anyone who needs assistance in verifying
@@ -97,6 +97,12 @@ potential scams or seeking guidance on scam-related issues.</p>
 <summary>Can I call the ScamShield Helpline if I am overseas?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If you are overseas, call +65 6390 8379 to access the ScamShield Helpline.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can I make a scam report through the ScamShield Helpline?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You are encouraged to report a scam through the ScamShield app.</p>
 </div>
 </details>
 </div>
