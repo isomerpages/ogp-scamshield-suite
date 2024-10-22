@@ -44,7 +44,7 @@ enquiries. You can use the helpline to:</p>
 <details class="isomer-details">
 <summary>Which banks can I be directed to through the ScamShield Helpline?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The ScamShield helpline can directly connect you to seven banks if you're
+<p>The ScamShield Helpline can directly connect you to seven banks if you're
 a victim of a scam. These banks are:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -100,7 +100,7 @@ potential scams or seeking guidance on scam-related issues.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Can I make a scam report through the ScamShield Helpline?</summary>
+<summary>Can I call the ScamShield Helpline to report a scam?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You are encouraged to report a scam through the ScamShield app.</p>
 </div>
