@@ -53,14 +53,14 @@ approval of the Singapore government.</p>
 <h3>SPF officers will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Transfer money to the police, bank accounts, or mobile numbers linked
-to bank accounts;</p>
+<p>Transfer money to the Police, bank accounts, or mobile numbers linked
+to bank accounts.</p>
 </li>
 <li>
-<p>Request for your banking, SingPass or CPF related information;</p>
+<p>Request for your banking, SingPass or CPF related information.</p>
 </li>
 <li>
-<p>Click on links that lead to bank websites;</p>
+<p>Click on links that lead to bank websites.</p>
 </li>
 <li>
 <p>Install apps or software from third party websites.</p>
@@ -100,7 +100,9 @@ to bank accounts;</p>
 <p>Anti-virus app to your devices (see recommendations by CSA).</p>
 </li>
 <li>
-<p>Money Lock to your bank accounts to further secure a portion of your savings.​</p>
+<p>Money Lock to your bank accounts to further secure a portion of your savings.</p>
+</li>
+<li>
 <p>International Call Blocking option to your mobile account(s).</p>
 </li>
 <li>
