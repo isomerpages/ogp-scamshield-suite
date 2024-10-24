@@ -24,6 +24,14 @@ sections:
         - title: Protect yourself against scams
           description: ""
           url: /introduction-to-scams/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/xts_logo.png
+      alt: Image alt text
   - infocols:
       title: Stay safe with the enhanced ScamShield app
       subtitle: get scam protection
