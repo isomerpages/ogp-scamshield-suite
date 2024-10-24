@@ -163,12 +163,14 @@ per case, police say</div>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start24" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st24.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">24</div>
-<div class="isomer-card-description">24</div>
+<div class="isomer-card-title">Easier to check, report and recall: How the new ScamShield Suite can help
+you outsmart scammers</div>
+<div class="isomer-card-description">A 24/7 helpline and AI-powered enhancements to the ScamShield mobile app
+are among its key features</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>
