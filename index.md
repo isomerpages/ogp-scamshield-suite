@@ -25,13 +25,16 @@ sections:
           description: ""
           url: /introduction-to-scams/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Play and learn to enhance your personal scams resilience!
+      subtitle: win Cash Prizes & Rewards!
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: "Play #XiamTheScams from 24 Oct 2024 - 22 Jan 2025. Boost anti-scam
+        skills in this life simulation. Make wise choices, avoid scams, and
+        maximise well-being!"
+      button: Play now!
       image: /images/xts_logo.png
       alt: Image alt text
+      url: https://go.gov.sg/xts-ss-web
   - infocols:
       title: Stay safe with the enhanced ScamShield app
       subtitle: get scam protection
