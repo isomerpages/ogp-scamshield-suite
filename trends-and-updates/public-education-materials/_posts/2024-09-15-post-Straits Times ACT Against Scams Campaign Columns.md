@@ -161,5 +161,19 @@ per case, police say</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start23" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st23.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Why people fall prey to scammers posing as police officers</div><div class="isomer-card-description">In the first half of 2024, 580 Singapore residents fell prey to the scam – a 58 per cent rise from the same period last year</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/easier-to-check-report-and-recall-how-the-new-scamshield-suite-can-help-you-outsmart-scammers" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image" src="/images/ST Article/st24.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Easier to check, report and recall: How the new ScamShield Suite can help
+you outsmart scammers</div>
+<div class="isomer-card-description">A 24/7 helpline and AI-powered enhancements to the ScamShield mobile app
+are among its key features</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a>
 </div>
 <p></p>
