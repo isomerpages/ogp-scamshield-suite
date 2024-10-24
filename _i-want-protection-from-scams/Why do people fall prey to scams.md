@@ -4,6 +4,10 @@ permalink: /why-do-people-fall-prey-to-scams/
 variant: tiptap
 description: ""
 ---
+<h3>Why do people fall prey to scams?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/why_fall_scam_1.png">
+</div>
 <p><strong>Consider this scenario!</strong> You were added into an exclusive
 investment group on Telegram by someone who claims to be an investment
 planner from a company advertising their investment services in the stock
