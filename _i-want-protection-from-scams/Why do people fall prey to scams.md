@@ -4,7 +4,8 @@ permalink: /why-do-people-fall-prey-to-scams/
 variant: tiptap
 description: ""
 ---
-<h3>Why do people fall prey to scams?</h3>
+<h3><strong>Why do people fall prey to scams?</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/why_fall_scam_1.png">
 </div>
