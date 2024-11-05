@@ -108,6 +108,6 @@ potential scams or seeking guidance on scam-related issues.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_Call_1799_1080X1080.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ScamShield_Call_1799_1080X1080.png">
 </div>
 <p></p>

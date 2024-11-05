@@ -94,15 +94,16 @@ limits on payment accounts (bank, PayNow and PayLah). ​</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Resources on the MAS website (i.e., Financial Institutions Directory,
-Register of Representatives, and Investor Alert List) on whether the company
-offering the investment opportunity is regulated by MAS.​</p>
+<p>Resources on the MAS website (i.e., <a href="https://eservices.mas.gov.sg/fid" rel="noopener nofollow" target="_blank">Financial Institutions Directory</a>,
+<a href="https://eservices.mas.gov.sg/rr" rel="noopener nofollow" target="_blank">Register of Representatives</a>, and <a href="https://www.mas.gov.sg/investor-alert-list" rel="noopener nofollow" target="_blank">Investor Alert List</a>)
+on whether the company offering the investment opportunity is regulated
+by MAS.​</p>
 </li>
 <li>
 <p>With someone you trust about the offer.</p>
 </li>
 <li>
-<p>Call the ScamShield helpline (1799) to check if you are unsure.​</p>
+<p>Call the ScamShield Helpline (1799) to check if you are unsure.​</p>
 </li>
 <li>
 <p>Call the official hotline of the company to check if this investment product
