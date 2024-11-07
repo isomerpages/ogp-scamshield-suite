@@ -20,8 +20,7 @@ ways that can confuse even the most vigilant individuals.</p>
 ensuring that you have access to all the help you need.</p>
 <p>Your vigilance can help protect not only yourself but also others in the
 community from falling victim to fraudulent activities.</p>
-<p><strong>Frequently asked questions</strong>
-</p>
+<h3><strong>Frequently asked questions</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>What can I use the ScamShield Helpline (1799) for?</summary>
