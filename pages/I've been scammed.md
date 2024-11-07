@@ -70,7 +70,7 @@ process, we have a <a href="/avenues-of-support/" rel="noopener noreferrer nofol
 information on the investigation process for scam cases and resources available
 to support you.</p>
 <hr>
-<p>Frequently asked questions</p>
+<h3><strong>Frequently asked questions</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>I was a victim of an online scam and was cheated of my money. Will the
