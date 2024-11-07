@@ -69,4 +69,48 @@ process, we have a <a href="/avenues-of-support/" rel="noopener noreferrer nofol
 <p>Download the <a href="https://www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx" rel="noopener noreferrer nofollow" target="_blank">Anti-Scam Resource Guide</a> for
 information on the investigation process for scam cases and resources available
 to support you.</p>
+<hr>
+<p>Frequently asked questions</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>I was a victim of an online scam and was cheated of my money. Will the
+Police be able to recover my money?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A typical modus operandi by scam syndicates is to move the scammed monies
+quickly between multiple bank accounts, including to overseas bank accounts.
+If the money is transferred overseas, fund recovery can be challenging
+as different jurisdictions have different recovery process and legislation.
+The chance of recovery once the funds have been transferred out of Singapore
+is very low, and it is likely that the money may no longer be recoverable.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Why is it so challenging for the Police to recover my money if it has
+been transferred out of Singapore?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Overseas accounts reside outside of Singapore’s jurisdiction and the Singapore
+Police Force will not be able to exercise any legal powers to freeze or
+seize the account or compel a foreign-based bank to reverse the transactions.
+In such cases, the Police can only notify its foreign counterparts of the
+incident and seek their assistance to investigate the matter. It also depends
+on the laws of the foreign country and the internal business policies of
+the foreign banks involved. The chance of recovery once the funds have
+been transferred out of Singapore is very low, and it is likely that the
+money may no longer be recoverable.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>How long does the Police take to return my money if it is recovered?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Police will only be able to return any seized monies to victims upon
+the conclusion of investigations. The amount of time it takes to complete
+investigations, and correspondingly, the amount of time it takes for seized
+monies to be returned to the victims, depends on many different factors
+and differs across the various types of scams. For example, whether there
+are multiple claimants and whether the monies are still relevant for the
+purposes of investigation or court trial or other court proceedings.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
