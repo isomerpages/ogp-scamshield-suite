@@ -72,13 +72,6 @@ a victim of a scam. These banks are:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Can the ScamShield Helpline make a police report for me?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>No, the ScamShield helpline cannot make police reports. If you need to
-file a police report, you can do it online at <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report</a>.</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary>What types of enquiries are not handled by the ScamShield Helpline?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The ScamShield Helpline is specifically for scam-related enquiries. Please
@@ -86,11 +79,39 @@ refrain from calling the helpline for matters unrelated to scams.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Is the ScamShield Helpline available 24/7?</summary>
+<summary>Can the ScamShield Helpline make a police report for me?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yes, the ScamShield helpline (1799) is available 24 hours a day, 7 days
-a week, to offer immediate support for anyone who needs assistance in verifying
-potential scams or seeking guidance on scam-related issues.</p>
+<p>No, the ScamShield helpline cannot make police reports. If you need to
+file a police report, you can do it online at <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can the ScamShield Helpline provide an update on my scam-related case?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For updates to your case, from 8.30am to 6pm on Mondays to Thursdays,
+and 8.30am to 5.30pm on Fridays (excluding public holidays).</p>
+<p>You can also call the respective division’s Investigation Branch Call
+Centre (IBCC). The contact number will be provided to you in an acknowledgement
+letter/email that was sent to you within seven working days after you reported
+your case. If urgent police attention is required, please call '999'.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can the ScamShield Helpline provide an update on my frozen bank account?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No, we are unable to provide any updates pertaining to frozen bank accounts.</p>
+<p></p>
+<p>To continue receiving your salary, you may wish to consider having it
+credited to another bank account which is not frozen. You may also consider
+opening a new bank account either with the same bank or another bank.</p>
+<p>Persons whose bank accounts are frozen as a result of being recipients
+of suspected criminal proceeds can make an application to the courts to
+withdraw money for reasonable living or legitimate expenses. Section 35(8)
+of the Criminal Procedure Code allows the account holder to submit an application
+to the courts to access their funds for the payment of basic expenses,
+including any payment for basic sustenance such as food, rent, the discharge
+of a mortgage, medicine, medical treatment, taxes, insurance premiums and
+public utility charges, amongst others.</p>
 </div>
 </details>
 <details class="isomer-details">
