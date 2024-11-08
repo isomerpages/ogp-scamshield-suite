@@ -100,10 +100,17 @@ your case. If urgent police attention is required, please call '999'.</p>
 <summary>Can the ScamShield Helpline provide an update on my frozen bank account?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No, we are unable to provide any updates pertaining to frozen bank accounts.</p>
-<p></p>
+<p>If you need a bank account to receive my salary or to make payment of
+goods and services or other bona fide transactions for reasonable living
+expenses or existing legitimate GIRO payment obligations you can considering
+the following:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>To continue receiving your salary, you may wish to consider having it
 credited to another bank account which is not frozen. You may also consider
 opening a new bank account either with the same bank or another bank.</p>
+</li>
+<li>
 <p>Persons whose bank accounts are frozen as a result of being recipients
 of suspected criminal proceeds can make an application to the courts to
 withdraw money for reasonable living or legitimate expenses. Section 35(8)
@@ -112,6 +119,8 @@ to the courts to access their funds for the payment of basic expenses,
 including any payment for basic sustenance such as food, rent, the discharge
 of a mortgage, medicine, medical treatment, taxes, insurance premiums and
 public utility charges, amongst others.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
