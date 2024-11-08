@@ -87,8 +87,9 @@ file a police report, you can do it online at <a href="https://eservices1.police
 <details class="isomer-details">
 <summary>Can the ScamShield Helpline provide an update on my scam-related case?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For updates to your case, from 8.30am to 6pm on Mondays to Thursdays,
-and 8.30am to 5.30pm on Fridays (excluding public holidays).</p>
+<p>For updates to your case, you can contact the IO from 8.30am to 6pm on
+Mondays to Thursdays, and 8.30am to 5.30pm on Fridays (excluding public
+holidays).</p>
 <p>You can also call the respective division’s Investigation Branch Call
 Centre (IBCC). The contact number will be provided to you in an acknowledgement
 letter/email that was sent to you within seven working days after you reported
