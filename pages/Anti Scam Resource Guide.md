@@ -8,41 +8,40 @@ description: ""
 information on the investigation process for scam cases and resources available
 to support you.</p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>English</p>
+<th rowspan="4" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/resourceguidepamphleteng_Page_1.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mandarin</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Malay</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Tamil</p>
+<p><a href="https://go.gov.sg/resourceguidepamphleteng" rel="noopener nofollow" target="_blank">English</a>
+</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/resourceguidepamphleteng"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/resourceguidepamphleteng_Page_1.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/resourceguidepamphletman"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/resourceguidepamphletman_Page_1.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/resourceguidepamphletmly"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/resourceguidepamphletmly_Page_1.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/resourceguidepamphlettml"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/resourceguidepamphlettml_Page_1.png"></a>
-</td>
+<th rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/resourceguidepamphletman" rel="noopener nofollow" target="_blank">Mandarin</a>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/resourceguidepamphletmly" rel="noopener nofollow" target="_blank">Malay</a>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/resourceguidepamphlettml" rel="noopener nofollow" target="_blank">Tamil</a>
+</p>
+</th>
 </tr>
 </tbody>
 </table>
