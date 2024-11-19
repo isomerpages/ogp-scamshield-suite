@@ -34,9 +34,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
