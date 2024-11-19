@@ -312,35 +312,13 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scam Type</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1799_KV_Banner.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Color Code</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1799_KV_Banner.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Red Flags</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+</div>
 <p></p>
