@@ -317,9 +317,8 @@ description: ""
 <details class="isomer-details">
 <summary>Red Flags</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -327,33 +326,25 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pM0igduWE9A"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c"></iframe>
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AxKEfu5x8Xk"></iframe>
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lPmPEFw9E-4"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KB30i39fQB8"></iframe>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
