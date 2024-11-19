@@ -8,8 +8,9 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="385" width="550" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
 </div>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -25,6 +26,11 @@ description: ""
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Quheci-B3JU"></iframe>
 </div>
 </th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
+</div>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,8 +41,14 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
