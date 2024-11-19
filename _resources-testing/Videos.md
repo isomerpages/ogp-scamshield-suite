@@ -11,7 +11,8 @@ description: ""
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Red Flags Series</summary>
+<summary><strong>Red Flags Series</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -50,9 +51,39 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>Emotions In My Head Series</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
