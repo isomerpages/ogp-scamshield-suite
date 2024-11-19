@@ -19,7 +19,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 06 - Nov 2024</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Nov%202024/Monthly_Scams_Bulletin_Issue_6___November.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 05 - Oct 2024</strong>
