@@ -48,11 +48,14 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p><strong>Investment Scams</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pM0igduWE9A"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p>Job Scams</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AxKEfu5x8Xk"></iframe>
 </div>
@@ -60,11 +63,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>E-Commerce Scams</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lPmPEFw9E-4"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Bank-related Phishing Scams</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KB30i39fQB8"></iframe>
 </div>
