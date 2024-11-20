@@ -96,6 +96,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Investment Scams</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/62Jw37henQc"></iframe>
 </div>
