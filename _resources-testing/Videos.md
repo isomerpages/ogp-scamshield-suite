@@ -103,11 +103,15 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Scams</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vCkRkup2NUw"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Scams</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pdk3yEcs7FM"></iframe>
 </div>
