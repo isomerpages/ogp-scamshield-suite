@@ -67,7 +67,6 @@ description: ""
 <summary><strong>Public Education Videos</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
