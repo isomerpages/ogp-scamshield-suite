@@ -88,7 +88,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Check that you are not walking into a Money Mule trap</p>
+<p>Check for signs of Money Mule trap</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yA72z-zZHNY"></iframe>
 </div>
