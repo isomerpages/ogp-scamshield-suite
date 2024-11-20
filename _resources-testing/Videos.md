@@ -96,7 +96,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Phishing Scams Involving Fake Buyers</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LrQyn3MiFWk"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
