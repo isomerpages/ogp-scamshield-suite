@@ -18,17 +18,17 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hjGZFoicrfM"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hjGZFoicrfM"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6GoxFEUB4Y"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6GoxFEUB4Y"></iframe>
 </div>
 </td>
 </tr>
@@ -78,19 +78,19 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Beware of Tech Support scams</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HDaHv_bgxS8"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HDaHv_bgxS8"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p>Stay Safe from Investment Scams</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8rIsm809gmA"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8rIsm809gmA"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p>Check for signs of Money Mule trap</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yA72z-zZHNY"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yA72z-zZHNY"></iframe>
 </div>
 </th>
 </tr>
@@ -99,21 +99,21 @@ description: ""
 <p><strong>Phishing Scams Involving Fake Buyers</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LrQyn3MiFWk"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LrQyn3MiFWk"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Let's ACT Against Scams!</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3FX8nM8t6Mc"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3FX8nM8t6Mc"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Beware of Fake Friend Call scams</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tVgveYaj2pI"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tVgveYaj2pI"></iframe>
 </div>
 </td>
 </tr>
@@ -197,21 +197,21 @@ description: ""
 <p><strong>Investment Scams</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/62Jw37henQc"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/62Jw37henQc"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Job Scams</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vCkRkup2NUw"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vCkRkup2NUw"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Malware Scams</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pdk3yEcs7FM"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pdk3yEcs7FM"></iframe>
 </div>
 </td>
 </tr>
@@ -220,14 +220,14 @@ description: ""
 <p><strong>Impersonation Scams</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VOVsUXBxXNY"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VOVsUXBxXNY"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Phishing Scams</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hNOWDEoXAYs"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hNOWDEoXAYs"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
