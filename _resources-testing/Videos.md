@@ -110,7 +110,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Scams</strong>
+<p><strong>Malware Scams</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pdk3yEcs7FM"></iframe>
@@ -119,14 +119,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Scams</strong>
+<p><strong>Impersonation Scams</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VOVsUXBxXNY"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Scams</strong>
+<p><strong>Phishing Scams</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hNOWDEoXAYs"></iframe>
