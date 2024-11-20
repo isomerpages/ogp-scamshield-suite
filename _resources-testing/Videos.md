@@ -103,10 +103,18 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Let's ACT Against Scams!</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3FX8nM8t6Mc"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Beware of Fake Friend Call scams</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tVgveYaj2pI"></iframe>
+</div>
 </td>
 </tr>
 <tr>
