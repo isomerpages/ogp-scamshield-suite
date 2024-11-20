@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>Add Check Tell Campaign</h4>
 <div class="iframe-wrapper">
-<iframe height="" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
+<iframe height="385" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
 </div>
 <table style="minWidth: 75px">
 <colgroup>
