@@ -94,15 +94,15 @@ them from falling prey to scams by doing so.</p>
 </li>
 </ul>
 <p></p>
-<h4>STOP! Check if it’s a government official impersonation scam by calling 1799</h4>
+<h4><strong>STOP! Check if it’s a government official impersonation scam by calling 1799</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="300" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
 </div>
-<h4>STOP! Check if it’s a job scam by calling 1799</h4>
+<h4><strong>STOP! Check if it’s a job scam by calling 1799</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="300" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6GoxFEUB4Y"></iframe>
 </div>
-<h4>STOP! Check if it’s an investment scam by calling 1799</h4>
+<h4><strong>STOP! Check if it’s an investment scam by calling 1799</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="300" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hjGZFoicrfM"></iframe>
 </div>
