@@ -134,7 +134,7 @@ sections:
       description: Read more about the campaign that helps improve your defences
         against scams.
       button: Learn more
-      image: /images/ACT Campaign/act_campaign_homepage.png
+      image: /images/ACT Campaign/Stop_check_1.png
       alt: Image alt text
       url: /act-campaign/
   - infopic:
