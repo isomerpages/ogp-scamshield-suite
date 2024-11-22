@@ -18,15 +18,17 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6GoxFEUB4Y"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
 <iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hjGZFoicrfM"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6GoxFEUB4Y"></iframe>
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Quheci-B3JU"></iframe>
 </div>
 </td>
 </tr>
@@ -37,9 +39,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Quheci-B3JU"></iframe>
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
