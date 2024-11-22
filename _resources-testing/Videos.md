@@ -4,7 +4,7 @@ permalink: /videos/
 variant: tiptap
 description: ""
 ---
-<h4>Add Check Tell Campaign</h4>
+<h4><strong>Add Check Tell Campaign</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="385" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
 </div>
