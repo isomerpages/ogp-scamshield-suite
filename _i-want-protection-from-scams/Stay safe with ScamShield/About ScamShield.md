@@ -17,38 +17,6 @@ on WhatsApp and Telegram.
 <br>
 <br>Each of these plays a crucial role in empowering individuals to fight
 against scams, as well as keeping the community safe from fraudulent activities.</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_Suite_1080x1080.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_Suite_1080x1080.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_Suite_1080x1080.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_Suite_1080x1080.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSS_Landing_banner.png">
 </div>
