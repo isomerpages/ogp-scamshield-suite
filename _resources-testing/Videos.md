@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>Add Check Tell Campaign</h4>
 <div class="iframe-wrapper">
-<iframe height="385" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
+<iframe height="385" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -22,9 +22,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
