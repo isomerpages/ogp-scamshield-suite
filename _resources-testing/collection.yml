@@ -2,9 +2,9 @@ collections:
   resources-testing:
     output: true
     order:
-      - Public Education/ScamShield Suite Campaign.md
-      - Public Education/ACT Campaign.md
       - Public Education/.keep
+      - Public Education/ACT Campaign.md
+      - Public Education/ScamShield Suite Campaign.md
       - Public Education Materials.md
       - Scams and Cybercrime Briefs.md
       - Scams Bulletin.md
