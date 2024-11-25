@@ -2,6 +2,7 @@ collections:
   resources-testing:
     output: true
     order:
+      - Public Education/ACT Campaign.md
       - Public Education/.keep
       - Public Education Materials.md
       - Scams and Cybercrime Briefs.md
