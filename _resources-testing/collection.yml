@@ -2,6 +2,7 @@ collections:
   resources-testing:
     output: true
     order:
+      - Public Education/.keep
       - Public Education Materials.md
       - Scams and Cybercrime Briefs.md
       - Scams Bulletin.md
