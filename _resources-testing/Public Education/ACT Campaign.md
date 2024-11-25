@@ -72,6 +72,7 @@ third_nav_title: Public Education
 </table>
 <p></p>
 <h4><strong>ACT Campaign Videos</strong></h4>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
