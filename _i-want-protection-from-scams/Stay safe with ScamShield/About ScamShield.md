@@ -17,9 +17,8 @@ on WhatsApp and Telegram.
 <br>
 <br>Each of these plays a crucial role in empowering individuals to fight
 against scams, as well as keeping the community safe from fraudulent activities.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_Suite_1080x1080.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSS_Landing_banner.png">
 </div>
 <hr>
 <h3><strong>ScamShield app</strong></h3>

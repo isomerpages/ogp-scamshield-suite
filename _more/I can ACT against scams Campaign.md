@@ -20,8 +20,9 @@ your defences against scams.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/add.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/Stop_Check_ACT_01.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
@@ -38,7 +39,7 @@ users can download to suit their needs and budget - <a href="https://www.csa.gov
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/check.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/Stop_Check_ACT_02.png">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -68,7 +69,7 @@ via SMSes, or emails.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/tell.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/Stop_Check_ACT_03.png">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -93,7 +94,17 @@ them from falling prey to scams by doing so.</p>
 </li>
 </ul>
 <p></p>
+<h4><strong>STOP! Check if it’s a government official impersonation scam by calling 1799</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c?si=1Zds-hsZVG75R6Mu"></iframe>
+<iframe height="300" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
 </div>
+<h4><strong>STOP! Check if it’s a job scam by calling 1799</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="300" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6GoxFEUB4Y"></iframe>
+</div>
+<h4><strong>STOP! Check if it’s an investment scam by calling 1799</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="300" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hjGZFoicrfM"></iframe>
+</div>
+<p></p>
 <p></p>
