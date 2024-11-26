@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Public Education Campaigns
 ---
-<h4>Key Visuals</h4>
+<h4><strong>Key Visuals</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="365" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bIAo--B3V3A"></iframe>
 </div>
@@ -42,22 +42,22 @@ third_nav_title: Public Education Campaigns
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A4 Posters/ScamShield_Suite_A4_Eng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A4 Posters/ScamShield_Suite_A4_Chi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A4 Posters/ScamShield_Suite_A4_Mal.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A4 Posters/ScamShield_Suite_A4_Tam.jpg">
 </div>
 </td>
 </tr>
