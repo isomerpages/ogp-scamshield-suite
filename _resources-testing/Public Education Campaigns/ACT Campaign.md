@@ -56,7 +56,7 @@ third_nav_title: Public Education Campaigns
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Add. Check. Tell Campaign</strong>
+<summary><strong>Add. Check. Tell. Campaign</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
