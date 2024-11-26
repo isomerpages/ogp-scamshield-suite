@@ -65,30 +65,10 @@ third_nav_title: Public Education
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
+</div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
