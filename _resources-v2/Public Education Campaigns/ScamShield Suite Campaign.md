@@ -63,28 +63,6 @@ third_nav_title: Public Education Campaigns
 </tr>
 </tbody>
 </table>
-<p><strong>ScamShield 1799 Posters</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>q</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>q</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>q</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>1080px by 1080px</strong>
 </p>
 <table style="minWidth: 75px">
