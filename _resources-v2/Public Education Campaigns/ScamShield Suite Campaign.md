@@ -65,17 +65,13 @@ third_nav_title: Public Education Campaigns
 </table>
 <p><strong>1080px by 1080px</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>q</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>q</p>
 </td>
@@ -87,17 +83,13 @@ third_nav_title: Public Education Campaigns
 </table>
 <p><strong>1080px by 1920px</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>q</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>q</p>
 </td>
@@ -109,17 +101,13 @@ third_nav_title: Public Education Campaigns
 </table>
 <p><strong>1920px by 1080px</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>q</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>q</p>
 </td>
@@ -131,17 +119,13 @@ third_nav_title: Public Education Campaigns
 </table>
 <p><strong>1280px by 720px</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>q</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>q</p>
 </td>
