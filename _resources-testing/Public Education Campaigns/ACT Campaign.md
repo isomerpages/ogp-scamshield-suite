@@ -6,6 +6,8 @@ description: ""
 third_nav_title: Public Education Campaigns
 ---
 <h4><strong>STOP! Check if it's a scam</strong></h4>
+<p><strong>Campaign Posters</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -38,6 +40,8 @@ third_nav_title: Public Education Campaigns
 </tr>
 </tbody>
 </table>
+<p><strong>Campaign Videos</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="365" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
 </div>
