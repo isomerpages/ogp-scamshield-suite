@@ -41,14 +41,12 @@ third_nav_title: Public Education Campaigns
 </tbody>
 </table>
 <p></p>
-<p></p>
 <h4><strong>ACT Campaign Videos</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="365" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -56,17 +54,12 @@ third_nav_title: Public Education Campaigns
 <tr>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6GoxFEUB4Y"></iframe>
+<iframe width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6GoxFEUB4Y"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hjGZFoicrfM"></iframe>
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rs4s0nKWJmc"></iframe>
+<iframe width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hjGZFoicrfM"></iframe>
 </div>
 </th>
 </tr>
