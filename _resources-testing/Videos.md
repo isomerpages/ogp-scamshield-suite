@@ -41,11 +41,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Let's ACT Against Scams!</strong>
+<p><strong>Let</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3FX8nM8t6Mc"></iframe>
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Beware of Fake Friend Call scams</strong>
