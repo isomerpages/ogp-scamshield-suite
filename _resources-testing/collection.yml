@@ -2,6 +2,7 @@ collections:
   resources-testing:
     output: true
     order:
+      - Scams Bulletins/Scams Bulletin.md
       - Scams Bulletins/2023 Scams Bulletins.md
       - Scams Bulletins/.keep
       - Public Education Campaigns/.keep
