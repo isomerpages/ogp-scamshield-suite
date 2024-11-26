@@ -136,7 +136,7 @@ sections:
       button: Learn more
       image: /images/ACT Campaign/ACT Phase 2/Stop_Check_homepage.png
       alt: Image alt text
-      url: /act-campaign/
+      url: /i-can-act-campaign/
   - infopic:
       title: United against scammers
       id: infopic
