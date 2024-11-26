@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Public Education
 ---
 <h4><strong>ACT Campaign Posters</strong></h4>
-<p>STOP! Check</p>
+<p><strong>STOP! Check</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -44,8 +45,11 @@ third_nav_title: Public Education
 </tbody>
 </table>
 <p></p>
-<h4><strong>ACT Campaign Videos</strong></h4>
 <p></p>
+<h4><strong>ACT Campaign Videos</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="365" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9u_ZFkb_cvM"></iframe>
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -55,10 +59,14 @@ third_nav_title: Public Education
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6GoxFEUB4Y"></iframe>
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hjGZFoicrfM"></iframe>
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
