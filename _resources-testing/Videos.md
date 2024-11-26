@@ -8,6 +8,7 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="365" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dOyZy_PuZ4k"></iframe>
 </div>
+<h4><strong>Latest Scam Updates</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -17,42 +18,52 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Beware of Tech Support scams</p>
+<p>Government Officials Impersonation Scams</p>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Investment Scams</p>
 <div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HDaHv_bgxS8"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8rIsm809gmA"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Stay Safe from Investment Scams</p>
-<div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8rIsm809gmA"></iframe>
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p>Check for signs of Money Mule trap</p>
-<div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yA72z-zZHNY"></iframe>
-</div>
+<p>Job Scams</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Phishing Scams Involving Fake Buyers</strong>
+<p><strong>E-Commerce Scams</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fake Friend Call Scams</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LrQyn3MiFWk"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tVgveYaj2pI"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Let</strong>
+<p><strong>Phishing Scams</strong>
 </p>
+<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Beware of Fake Friend Call scams</strong>
+<p><strong>Tech Support Scams</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tVgveYaj2pI"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HDaHv_bgxS8"></iframe>
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
