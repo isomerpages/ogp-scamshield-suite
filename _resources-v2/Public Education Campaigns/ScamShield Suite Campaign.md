@@ -18,28 +18,28 @@ third_nav_title: Public Education Campaigns
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A4 Eng</strong>
+<p><strong>A4 English</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A4 Chi</strong>
+<p><strong>A4 Chinese</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A4 Mal</strong>
+<p><strong>A4 Malay</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A4 Tam</strong>
+<p><strong>A4 Tamil</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
@@ -48,28 +48,28 @@ third_nav_title: Public Education Campaigns
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A3 Eng</strong>
+<p><strong>A3 English</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A3 Chi</strong>
+<p><strong>A3 Chinese</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A3 Mal</strong>
+<p><strong>A3 Malay</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A3 Tam</strong>
+<p><strong>A3 Tamil</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
