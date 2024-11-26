@@ -80,9 +80,8 @@ third_nav_title: Public Education Campaigns
 </table>
 <p><strong>ScamShield 1799 Posters</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -90,32 +89,13 @@ third_nav_title: Public Education Campaigns
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A3 English</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
-</div>
+<p>q</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A3 Chinese</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
-</div>
+<p>q</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A3 Malay</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>A3 Tamil</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg">
-</div>
+<p>q</p>
 </td>
 </tr>
 </tbody>
