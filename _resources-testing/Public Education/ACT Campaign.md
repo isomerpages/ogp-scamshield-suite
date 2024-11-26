@@ -17,22 +17,28 @@ third_nav_title: Public Education
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>E-commerce</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Ecomm_KV.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>GOIS</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_GOIS_KV.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Job</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Job_KV.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Investment</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Invest_KV.jpg">
+</div>
 </th>
 </tr>
 </tbody>
