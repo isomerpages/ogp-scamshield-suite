@@ -2,12 +2,12 @@ collections:
   resources-testing:
     output: true
     order:
-      - Scams Bulletins/2024 Scams Bulletins.md
-      - Scams Bulletins/2023 Scams Bulletins.md
-      - Scams Bulletins/.keep
       - Public Education Campaigns/.keep
       - Public Education Campaigns/ACT Campaign.md
       - Public Education Campaigns/ScamShield Suite Campaign.md
       - Public Education Materials.md
       - Scams and Cybercrime Briefs.md
+      - Scams Bulletins/.keep
+      - Scams Bulletins/2024 Scams Bulletins.md
+      - Scams Bulletins/2023 Scams Bulletins.md
       - Videos.md
