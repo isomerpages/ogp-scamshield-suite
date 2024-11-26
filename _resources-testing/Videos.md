@@ -29,14 +29,18 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p>Job Scams</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AxKEfu5x8Xk"></iframe>
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>E-Commerce Scams</strong>
 </p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lPmPEFw9E-4"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fake Friend Call Scams</strong>
@@ -62,7 +66,11 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Malware Scams</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pdk3yEcs7FM"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,9 +108,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Malware Scams</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pdk3yEcs7FM"></iframe>
-</div>
 </td>
 </tr>
 <tr>
