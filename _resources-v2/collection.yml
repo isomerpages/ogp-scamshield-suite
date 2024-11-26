@@ -1,5 +1,5 @@
 collections:
-  resources-testing:
+  resources-v2:
     output: true
     order:
       - Public Education Campaigns/.keep
