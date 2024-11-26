@@ -17,25 +17,13 @@ third_nav_title: Public Education Campaigns
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Ecomm_KV.jpg">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ACT%20Campaign/ACT%20Phase%202/ACT_CHECK_Campaign_Ecomm_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Ecomm_KV.jpg"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_GOIS_KV.jpg">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ACT%20Campaign/ACT%20Phase%202/ACT_CHECK_Campaign_GOIS_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_GOIS_KV.jpg"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Job_KV.jpg">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ACT%20Campaign/ACT%20Phase%202/ACT_CHECK_Campaign_Job_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Job_KV.jpg"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Invest_KV.jpg">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ACT%20Campaign/ACT%20Phase%202/ACT_CHECK_Campaign_Invest_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Invest_KV.jpg"></a>
 </th>
 </tr>
 </tbody>
