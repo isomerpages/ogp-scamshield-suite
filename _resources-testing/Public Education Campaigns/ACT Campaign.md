@@ -60,6 +60,32 @@ third_nav_title: Public Education Campaigns
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Job_KV.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Job_KV.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/ACT_CHECK_Campaign_Job_KV.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="iframe-wrapper">
 <iframe height="365" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wPxjwKtB0c"></iframe>
 </div>
