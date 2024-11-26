@@ -18,7 +18,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Government Officials Impersonation Scams</p>
+<p>Impersonation Scams</p>
 <div class="iframe-wrapper">
 <iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VOVsUXBxXNY"></iframe>
 </div>
