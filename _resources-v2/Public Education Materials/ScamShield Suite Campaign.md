@@ -82,11 +82,9 @@ third_nav_title: Public Education Materials
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A5%20Suite%20Posters/ScamShield_Suite_A5_Pamphlet_EngChi.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A5 Pamphlets/ScamShield_Suite_A5_Pamphlet_EngChi.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A5%20Suite%20Posters/ScamShield_Suite_A5_Pamphlet_MalTam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A5 Pamphlets/ScamShield_Suite_A5_Pamphlet_MalTam.jpg"></a>
 </td>
 </tr>
 </tbody>
