@@ -75,22 +75,18 @@ third_nav_title: Public Education Materials
 </table>
 <p><strong>A5 Print Pamphlets</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A4%20Suite%20Posters/ScamShield_Suite_A4_Eng.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A4 Posters/ScamShield_Suite_A4_Eng.jpg"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A4%20Suite%20Posters/ScamShield_Suite_A4_Chi.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A4 Posters/ScamShield_Suite_A4_Chi.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A4%20Suite%20Posters/ScamShield_Suite_A4_Mal.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A4 Posters/ScamShield_Suite_A4_Mal.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A4%20Suite%20Posters/ScamShield_Suite_A4_Tam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/A4 Posters/ScamShield_Suite_A4_Tam.jpg"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
