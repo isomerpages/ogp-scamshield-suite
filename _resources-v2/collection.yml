@@ -2,6 +2,7 @@ collections:
   resources-v2:
     output: true
     order:
+      - Public Education Campaigns/Other Resources.md
       - Public Education Campaigns/.keep
       - Public Education Campaigns/ACT Campaign.md
       - Public Education Campaigns/ScamShield Suite Campaign.md
