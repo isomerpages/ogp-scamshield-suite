@@ -2,10 +2,10 @@ collections:
   resources-v2:
     output: true
     order:
-      - Public Education Materials/Other Resources.md
       - Public Education Materials/.keep
       - Public Education Materials/ACT Campaign.md
       - Public Education Materials/ScamShield Suite Campaign.md
+      - Public Education Materials/Other Resources.md
       - Scams and Cybercrime Briefs.md
       - Scams Bulletins/.keep
       - Scams Bulletins/2024 Scams Bulletins.md
