@@ -14,13 +14,13 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Impersonation Scams</p>
+<p>Impersonation Scams</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/GOIS_2_SA_Full__1080x1920_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/GOIS_2_SA_Full__1080x1920_.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>Investment Scams</p>
+<p>Investment Scams</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Beware_Investment_Scam_1080x1920_.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>Job Scams</p>
+<p>Job Scams</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Beware_Job_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Job_Scam_1080x1920_.jpg"></a>
 </th>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ third_nav_title: Public Education Materials
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Phishing Scams</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Bank_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/BPS_SA_Full__1080x1920_.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -63,11 +63,11 @@ third_nav_title: Public Education Materials
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Beware of the Impostors</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/GOIS_2_SA_Full__1080x1920_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/GOIS_2_SA_Full__1080x1920_.jpg"></a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Beware of Investment Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/beware_investment_scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Beware_Investment_Scam_1080x1920_.jpg"></a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>CSA Cyber Tips</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_1.jpg"></a>
@@ -76,7 +76,7 @@ third_nav_title: Public Education Materials
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Beware of Job Scams!</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Beware_Job_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Job_Scam_1080x1920_.jpg"></a>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Social Messaging Privacy Settings Infographics</strong>
@@ -93,7 +93,7 @@ third_nav_title: Public Education Materials
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Beware of Bank Phishing Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Bank_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/BPS_SA_Full__1080x1920_.jpg"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hari Raya: Watch Out for Car Rental Scams!</strong>
