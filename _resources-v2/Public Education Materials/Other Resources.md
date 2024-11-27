@@ -28,10 +28,11 @@ third_nav_title: Public Education Materials
 <td rowspan="1" colspan="1">
 <p><strong>E-Commerce Scams</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fake Friend Call Scams</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Fake_Friend_Call_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/FFCS_1080x1920.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Phishing Scams</strong>
@@ -40,8 +41,8 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tech Support Scams</strong>
-</p>
+<p><strong>Concert Ticket Scams</strong>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Concert_Ticket_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/CTS_SA_Full__1080x1920_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Malware Scams</strong>
@@ -49,13 +50,12 @@ third_nav_title: Public Education Materials
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Money Mule</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/CHECK_Money_Mule.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/money_mule.jpg"></a>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Festive Advisories</strong></h4>
-<p>12</p>
+<h4><strong>Other Advisories</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -97,7 +97,7 @@ third_nav_title: Public Education Materials
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Concert Ticket Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Concert_Ticket_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/CTS_SA_Full__1080x1920_.jpg"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Beware of Parcel Delivery Phishing Scams</strong>
@@ -107,7 +107,7 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Money Mule Trap Check</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/CHECK_Money_Mule.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/money_mule.jpg"></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Not sure which Security Apps to Download?</strong>
@@ -115,7 +115,7 @@ third_nav_title: Public Education Materials
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Beware of Fake Friend Call Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Fake_Friend_Call_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/FFCS_1080x1920.jpg"></a>
+</p>
 </td>
 </tr>
 <tr>
