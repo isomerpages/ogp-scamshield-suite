@@ -14,6 +14,54 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Impersonation Scams</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Investment Scams</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Job Scams</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>E-Commerce Scams</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fake Friend Call Scams</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Phishing Scams</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tech Support Scams</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Malware Scams</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Money Mule</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>Beware of the Impostors</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/GOIS_2_SA_Full__1080x1920_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/GOIS_2_SA_Full__1080x1920_.jpg"></a>
 </th>
@@ -96,5 +144,7 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
