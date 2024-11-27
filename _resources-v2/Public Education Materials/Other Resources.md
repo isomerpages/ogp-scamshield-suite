@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Public Education Materials
 ---
+<h4><strong>Latest Updates</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -53,6 +54,8 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
+<h4><strong>Festive Advisories</strong></h4>
+<p>12</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -62,19 +65,6 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Beware of the Impostors</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Beware of Investment Scams</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CSA Cyber Tips</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_1.jpg"></a>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
 <p><strong>Beware of Job Scams!</strong>
 </p>
 </th>
@@ -82,8 +72,8 @@ third_nav_title: Public Education Materials
 <p><strong>Social Messaging Privacy Settings Infographics</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Social_Media_Privacy_Settings_Infographic.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Whatsapp_Privacy_Settings_Infographic_1080x1920_.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_1.jpg"></a>
+<p>CSA Cyber Tips</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +134,6 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
