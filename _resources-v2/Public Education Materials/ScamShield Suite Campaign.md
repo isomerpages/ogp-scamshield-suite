@@ -91,7 +91,7 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<p><strong>1080px by 1080px</strong>
+<p><strong>1080px by 1080px Digital Poster</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -113,7 +113,7 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<p><strong>1080px by 1920px</strong>
+<p><strong>1080px by 1920px Digital Poster</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -123,19 +123,15 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scamshield_suite_KV.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scamshield_suite_KV.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>1920px by 1080px</strong>
+<p><strong>1920px by 1080px Digital Poster</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -145,19 +141,15 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_Suite_1080x1080.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scamshield_suite_KV.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>1280px by 720px</strong>
+<p><strong>1280px by 720px Digital Banner</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -167,10 +159,10 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>q</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>q</p>
+<p></p>
 </td>
 </tr>
 </tbody>
