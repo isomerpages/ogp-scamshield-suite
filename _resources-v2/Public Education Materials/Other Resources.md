@@ -65,8 +65,7 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Beware of Job Scams!</strong>
-</p>
+<p></p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Social Messaging Privacy Settings Infographics</strong>
@@ -82,8 +81,7 @@ third_nav_title: Public Education Materials
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/ADD_Round_Up_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/ACT_ADD_Round_Up.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Beware of Bank Phishing Scams</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hari Raya: Watch Out for Car Rental Scams!</strong>
@@ -95,27 +93,13 @@ third_nav_title: Public Education Materials
 <p><strong>Hari Raya: Watch Out for E-commerce Scams!</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Hari_Raya_E_commerce_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/HR_ECS__1080x1920_.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Concert Ticket Scams</strong>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Security_Apps_Infographic_1080x1920.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Security_Apps_Infographic_1080x1920.jpg"></a>
+<p><strong>ot sure which Security Apps to Download?</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Beware of Parcel Delivery Phishing Scams</strong>
 </p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Parcel_Delivery_Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Parcel_Delivery_Scam_1080x1920_.jpg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Money Mule Trap Check</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Not sure which Security Apps to Download?</strong>
-</p><a class="isomer-image-wrapper" href="/files/HDB%20DDPs/Security_Apps_Infographic_1080x1920.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/HDB DDPs/Security_Apps_Infographic_1080x1920.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Beware of Fake Friend Call Scams</strong>
-</p>
 </td>
 </tr>
 <tr>
