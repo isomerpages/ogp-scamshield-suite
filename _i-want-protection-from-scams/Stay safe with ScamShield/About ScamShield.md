@@ -7,7 +7,7 @@ third_nav_title: Stay safe with ScamShield
 ---
 <h3><strong>What is ScamShield?</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="What is ScamShield?" src="/images/What_is_ScamShield_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSS_Landing_banner.png">
 </div>
 <p>ScamShield is a suite of products and tools that helps defend against
 scams. The suite consists of the ScamShield helpline (reachable at 1799),
@@ -18,7 +18,7 @@ on WhatsApp and Telegram.
 <br>Each of these plays a crucial role in empowering individuals to fight
 against scams, as well as keeping the community safe from fraudulent activities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSS_Landing_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="What is ScamShield?" src="/images/What_is_ScamShield_.png">
 </div>
 <hr>
 <h3><strong>ScamShield app</strong></h3>
