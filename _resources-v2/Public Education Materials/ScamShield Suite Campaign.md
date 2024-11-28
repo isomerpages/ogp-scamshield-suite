@@ -144,12 +144,12 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1920X1080.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1920X1080.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_1799_1920X1080.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_1799_1920X1080.jpg">
 </div>
 </td>
 </tr>
