@@ -64,11 +64,20 @@ third_nav_title: Public Education Materials
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ACT%20Campaign/ACT%20Phase%201/ACT_Orange_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Orange_KV.jpg"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Orange_KV.jpg">
+</div>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ACT%20Campaign/ACT%20Phase%201/ACT_Green_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Green_KV.jpg"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Green_KV.jpg">
+</div>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ACT%20Campaign/ACT%20Phase%201/ACT_Pink_KV.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Pink_KV.jpg"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Pink_KV.jpg">
+</div>
 </th>
 </tr>
 </tbody>
