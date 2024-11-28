@@ -99,14 +99,10 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1799_1080X1080.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1799_1080X1080.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -121,14 +117,10 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1799_1080x1920.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1799_1080x1920.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -143,14 +135,10 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1799_1920X1080.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1799_1920X1080.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -165,14 +153,10 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1799_1280X720.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1799_1280X720.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
