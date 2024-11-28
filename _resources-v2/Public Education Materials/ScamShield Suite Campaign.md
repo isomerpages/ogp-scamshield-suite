@@ -155,28 +155,7 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<p><strong>1280px by 720px Digital Banner</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1280X720.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_1799_1280X720.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
