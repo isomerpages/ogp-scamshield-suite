@@ -45,5 +45,3 @@ third_nav_title: Public Education Materials
 </table>
 <h4><strong>Other Advisories</strong></h4>
 <p></p>
-<p></p>
-<p></p>
