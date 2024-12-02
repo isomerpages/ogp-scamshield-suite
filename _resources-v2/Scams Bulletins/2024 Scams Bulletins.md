@@ -127,5 +127,3 @@ third_nav_title: Scams Bulletins
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
