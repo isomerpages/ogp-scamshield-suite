@@ -16,33 +16,33 @@ third_nav_title: Scams Bulletins
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 41</strong>
-</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_41__29_Dec__final.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_41.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_41__29_Dec__final.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_41.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 40</strong>
-</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_40__22_Dec_.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_40.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_40__22_Dec_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_40.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 39</strong>
-</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_39__15_Dec_.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_39.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_39__15_Dec_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_39.jpg"></a>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 38</strong>
-</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_38__8_Dec_.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_38.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_38__8_Dec_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_38.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 37</strong>
-</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_37__1_Dec_.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_37.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Dec%202023/WSB_Issue_37__1_Dec_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_37.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 36</strong>
-</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Nov%202023/WSB_Issue_36.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_36.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Nov%202023/WSB_Issue_36.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_36.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 35</strong>
-</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Nov%202023/WSB_Issue_35.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_35.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Nov%202023/WSB_Issue_35.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_35.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 34</strong>
