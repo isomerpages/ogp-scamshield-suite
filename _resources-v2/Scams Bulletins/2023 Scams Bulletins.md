@@ -189,17 +189,17 @@ third_nav_title: Scams Bulletins
 </p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Apr%202023/Weekly_Scams_Bulletin_03.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_03.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Weekly Scams Bulletin Issue 02</strong>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Mar%202023/Weekly_Scams_Bulletin_02.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_02.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Weekly Scams Bulletin Issue 02</strong>
-</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Mar%202023/Weekly_Scams_Bulletin_02.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_02.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 01</strong>
 </p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Mar%202023/Weekly_Scams_Bulletin_01.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_01.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
