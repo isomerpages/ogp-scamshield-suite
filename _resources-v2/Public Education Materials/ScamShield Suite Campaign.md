@@ -99,11 +99,11 @@ third_nav_title: Public Education Materials
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_Suite_1080x1080.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1080x1080.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_Suite_1080x1080.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/Digital Assets/ScamShield_Suite_1080x1080.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_1799_1080x1080.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_1799_1080X1080.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_1799_1080x1080.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/Digital Assets/ScamShield_1799_1080X1080.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_App_1080x1080.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_App_1080x1080.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_App_1080x1080.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/Digital Assets/ScamShield_App_1080x1080.jpg"></a>
 </td>
 </tr>
 </tbody>
