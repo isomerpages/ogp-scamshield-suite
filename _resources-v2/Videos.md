@@ -14,21 +14,24 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Impersonation Scams</p>
-<div class="iframe-wrapper">
-<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VOVsUXBxXNY"></iframe>
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p>Investment Scams</p>
+<p><strong>Investment Scams</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8rIsm809gmA"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Job Scams</p>
+<p><strong>Job Scams</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vCkRkup2NUw"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Impersonation Scams</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe width="250" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VOVsUXBxXNY"></iframe>
 </div>
 </th>
 </tr>
