@@ -20,16 +20,13 @@ third_nav_title: Public Education Materials
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Job Scams</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Job_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Job_Scam.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Impersonation Scams</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Impersonation_Scam.jpg">
 </div>
 </th>
 </tr>
@@ -38,21 +35,21 @@ third_nav_title: Public Education Materials
 <p><strong>E-Commerce Scams</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Ecommerce_Scam.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fake Friend Call Scams</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Fake_Friend_Call_Scam.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Phishing Scams</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Phishing_Scam.jpg">
 </div>
 </td>
 </tr>
