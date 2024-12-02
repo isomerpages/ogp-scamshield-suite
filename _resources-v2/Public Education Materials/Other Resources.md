@@ -16,10 +16,7 @@ third_nav_title: Public Education Materials
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Investment Scams</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Investment_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Job Scams</strong>
