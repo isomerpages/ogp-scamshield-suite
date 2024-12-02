@@ -137,31 +137,11 @@ third_nav_title: Public Education Materials
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_Suite_1920x1080.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/Digital Assets/ScamShield_Suite_1920X1080.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_1799_1920x1080.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/Digital Assets/ScamShield_1799_1920X1080.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_Suite_1920x1080.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_Suite_1920X1080.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_1799_1920x1080.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_1799_1920X1080.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_App_1920x1080.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite/Digital Assets/ScamShield_App_1920x1080.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/Digital%20Assets/ScamShield_App_1920x1080.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/Digital Assets/ScamShield_App_1920x1080.jpg"></a>
 </td>
 </tr>
 </tbody>
