@@ -66,17 +66,17 @@ third_nav_title: Public Education Materials
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Orange_KV.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Orange_KV.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Green_KV.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Green_KV.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Pink_KV.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 1/ACT_Pink_KV.jpg">
 </div>
 </th>
 </tr>
