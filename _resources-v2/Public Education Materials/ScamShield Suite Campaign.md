@@ -148,5 +148,3 @@ third_nav_title: Public Education Materials
 </table>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
