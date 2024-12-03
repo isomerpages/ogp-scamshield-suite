@@ -30,7 +30,7 @@ ourselves from cyber threats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Cyber Tip #03: Update Software Promptly to protect your devices</strong>
+<p><strong>Cyber Tip #03: Update Software Promptly to protect devices</strong>
 </p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__3_.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
