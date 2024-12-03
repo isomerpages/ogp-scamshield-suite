@@ -90,11 +90,11 @@ been transferred out of Singapore?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Overseas accounts reside outside of Singapore’s jurisdiction and the Singapore
 Police Force will not be able to exercise any legal powers to freeze or
-seize the account or compel a foreign-based bank to reverse the transactions.
-In such cases, the Police can only notify its foreign counterparts of the
-incident and seek their assistance to investigate the matter. It also depends
-on the laws of the foreign country and the internal business policies of
-the foreign banks involved. The chance of recovery once the funds have
+seize the account or compel a foreign-based bank to reverse the transactions.</p>
+<p>In such cases, the Police can only notify its foreign counterparts of
+the incident and seek their assistance to investigate the matter. It also
+depends on the laws of the foreign country and the internal business policies
+of the foreign banks involved. The chance of recovery once the funds have
 been transferred out of Singapore is very low, and it is likely that the
 money may no longer be recoverable.</p>
 </div>
