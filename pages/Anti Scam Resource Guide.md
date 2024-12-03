@@ -7,7 +7,6 @@ description: ""
 <p>Download the <strong><em>Anti</em></strong>-<strong><em>Scam Resource Guide</em></strong> for
 information on the investigation process for scam cases and resources available
 to support you.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
