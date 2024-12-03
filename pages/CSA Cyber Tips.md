@@ -7,11 +7,11 @@ description: ""
 <p>Whether we're using our devices at home, at work, or during our daily
 commutes, we are often unknowingly exposing ourselves to numerous hidden
 threats. Without vigilance and proper online protection, we risk losing
-our personal data and money to cybercriminals.</p>
-<p></p>
+our personal data and money to cybercriminals. The Cyber Security Agency
+of Singapore (CSA) has the following advice for us to adopt to protect
+ourselves from cyber threats.</p>
 <hr>
 <h4>Protect yourselves from cyber threats and scams with these Cyber Tips:</h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
