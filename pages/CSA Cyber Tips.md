@@ -24,7 +24,7 @@ ourselves from cyber threats.</p>
 </p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__1_.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Cyber Tip #02: Beware of Phishing Scams and take measures to be safe</strong>
+<p><strong>Cyber Tip #02: Beware of Phishing Scams and take measures</strong>
 </p><a class="isomer-image-wrapper" href="/files/CSA%20Cyber%20Tips/CSA_Cyber_Tips__2_.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_2.jpg"></a>
 </td>
 </tr>
