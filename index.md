@@ -56,15 +56,14 @@ sections:
       alt: 1799 Hotline
       description: Available 24/7, Monday to Sunday
   - infopic:
-      title: You can block calls and SMS from international numbers?
+      title: E-commerce scams are one of the top scam types in Singapore
       id: infopic
-      description: Activate the international call and SMS blocking features. Reach
-        out to your telcos to activate the features and safeguard yourself
-        against scams.
+      description: Check the safety ratings of e-commerce platforms by referring to
+        the E-commerce Marketplace Transaction Safety Ratings (TSR).
       image: /images/1_in_5.png
       alt: Image alt text
       subtitle: did you know?
-      url: /keep-your-devices-secure/
+      url: https://www.mha.gov.sg/docs/default-source/default-document-library/e-commerce-marketplace-tsr_final.pdf
       button: Learn more
   - textcards:
       title: Scam threats
