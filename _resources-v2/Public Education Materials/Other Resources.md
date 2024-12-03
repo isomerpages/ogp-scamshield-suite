@@ -59,10 +59,7 @@ third_nav_title: Public Education Materials
 <p>CSA Cyber Tips</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_logo.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>Money Mule Trap</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Money_Mule.jpg">
-</div>
+<p>Money Mule Trap</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Money_Mule.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Money_Mule.jpg"></a>
 </th>
 </tr>
 </tbody>
