@@ -44,4 +44,24 @@ third_nav_title: Public Education Materials
 </tbody>
 </table>
 <h4><strong>Other Advisories</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Straits Times Columns</p><a class="isomer-image-wrapper" href="/st-columns/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p>Straits Times Columns</p><a class="isomer-image-wrapper" href="/st-columns/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p>Straits Times Columns</p><a class="isomer-image-wrapper" href="/st-columns/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
