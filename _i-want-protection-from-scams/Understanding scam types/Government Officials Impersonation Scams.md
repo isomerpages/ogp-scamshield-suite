@@ -50,20 +50,20 @@ their bank accounts.</p>
 <p>Overseas law enforcement agencies have no legal powers to require members
 of the public in Singapore to assist in their investigations without the
 approval of the Singapore government.</p>
-<h3>SPF officers will never ask you to do the following over the phone or through text message:</h3>
+<h3>SPF officers will <strong>NEVER</strong> ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Transfer money to the Police, bank accounts, or mobile numbers linked
 to bank accounts.</p>
 </li>
 <li>
-<p>Request for your banking, SingPass or CPF related information.</p>
+<p>Request for your banking, SingPass and/or CPF related information.</p>
 </li>
 <li>
 <p>Click on links that lead to bank websites.</p>
 </li>
 <li>
-<p>Install apps or software from third party websites.</p>
+<p>Install apps outside of official app stores.</p>
 </li>
 </ul>
 <hr>
