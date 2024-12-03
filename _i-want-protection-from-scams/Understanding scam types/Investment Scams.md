@@ -36,18 +36,20 @@ that they had been scammed.</p>
 <h3>Common signs of phony investments are:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Promises of high returns at low or no risk. Scams use lucrative promises
-to lure investors. The greater the promised returns, the higher the risks
-should be. It’s crucial to understand what you're investing in.</p>
+<p><strong>Promises of high returns at low or no risk.</strong> Scams use
+lucrative promises to lure investors. The greater the promised returns,
+the higher the risks should be. It’s crucial to understand what you're
+investing in.</p>
 </li>
 <li>
-<p>Involvement of pressure tactics. Scammers may use limited offers, timed
-gifts, or rebates to rush you into committing your money.</p>
+<p><strong>Involvement of pressure tactics.</strong> Scammers may use limited
+offers, timed gifts, or rebates to rush you into committing your money.</p>
 </li>
 <li>
-<p>Unverified track record. Phony investment opportunities are often offered
-by individuals or organisations that are not located on MAS’s listing of
-registered financial institutions, representative and investor alert list.</p>
+<p><strong>Unverified track record. </strong>Phony investment opportunities
+are often offered by individuals or organisations that are not located
+on MAS’s listing of registered financial institutions, representative and
+investor alert list.</p>
 </li>
 </ul>
 <hr>
