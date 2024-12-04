@@ -69,15 +69,15 @@ sections:
       title: Scam threats
       id: textcards
       cards:
-        - title: Investment scam
-          description: ~$50,700 lost per case
+        - title: Investment Scams
+          description: ~S$40,080 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
-        - title: Government Officials Impersonation scam
+        - title: Government Officials Impersonation Scams
           description: ~S$116,534 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
-        - title: Phishing scam
+        - title: Phishing Scams
           description: ~$2,394 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
