@@ -55,7 +55,6 @@ against scams. Speak to your bank for more information on how to add Money
 Lock.</p>
 <p><a href="https://www.moneysense.gov.sg/scams/moneylock/" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
 find out more about Money Lock.</p>
-<p></p>
 <h4><strong>CPF Withdrawal Lock and online Daily Withdrawal Limit</strong></h4>
 <p>If you are aged 55 and above, the default online Daily Withdrawal Limit
 is automatically set at $2,000 per day.</p>
@@ -98,8 +97,6 @@ disable online withdrawals.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p>The online Daily Withdrawal Limit and CPF Withdrawal Lock complement CPFB’s
 existing security measures, which include Singpass Two-Factor Authentication
 (2FA) and ensuring that your CPF savings can only be paid to bank accounts
