@@ -28,7 +28,7 @@ that they had been scammed.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$133.4 million was lost to scammers</strong></h2>
+<h2><strong>At least S$133.4 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
 <p>2024 Mid-Year Scams and Cybercrime Brief</p>
