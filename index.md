@@ -73,8 +73,8 @@ sections:
           description: ~$50,700 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
-        - title: Government Impersonation scam
-          description: ~$103,600 lost per case
+        - title: Government Officials Impersonation scam
+          description: ~S$116,534 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
         - title: Phishing scam
@@ -85,7 +85,8 @@ sections:
           description: ~$13,692 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
-      description: Singapore lost $651.8 million to scams in 2023 across 50,376 cases
+      description: Singapore lost S$385.6 million to scams in the first half of 2024
+        across 26,587 cases
       subtitle: stay informed
   - infopic:
       title: Scams Bulletin
