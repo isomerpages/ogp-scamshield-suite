@@ -28,7 +28,7 @@ their bank accounts.</p>
 <h2><strong>At least S$67.5 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>2024 Mid-Year Scams and Cybercrime Brief</p>
+<p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>Government officials will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
