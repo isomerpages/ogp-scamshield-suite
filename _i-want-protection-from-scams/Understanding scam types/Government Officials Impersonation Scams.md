@@ -25,10 +25,10 @@ their bank accounts.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$92.5 million lost to scammers</strong></h2>
+<h2><strong>At least S$67.5 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Annual Scams and Cybercrime Brief 2023</p>
+<p>2024 Mid-Year Scams and Cybercrime Brief</p>
 <hr>
 <h3>Government officials will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
