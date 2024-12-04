@@ -63,12 +63,12 @@ investor alert list.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest2.png">
 </div>
 </th>
 </tr>
