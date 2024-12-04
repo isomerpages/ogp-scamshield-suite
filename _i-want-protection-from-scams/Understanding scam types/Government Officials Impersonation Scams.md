@@ -77,12 +77,12 @@ to bank accounts.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois2.png">
 </div>
 </td>
 </tr>
