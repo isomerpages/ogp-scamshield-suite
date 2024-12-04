@@ -81,8 +81,8 @@ sections:
           description: ~$2,394 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
-        - title: Job scam
-          description: ~$13,692 lost per case
+        - title: Job Scams
+          description: ~S$15,043 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
       description: Singapore lost S$385.6 million to scams in the first half of 2024
