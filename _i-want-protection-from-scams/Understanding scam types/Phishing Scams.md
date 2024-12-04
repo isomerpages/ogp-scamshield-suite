@@ -20,10 +20,10 @@ bank accounts or debit/credit cards.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$14.2 million lost to scammers</strong></h2>
+<h2><strong>At least S$13.3 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Annual Scams and Cybercrime Brief 2023</p>
+<p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>Common signs of phishing are:</h3>
 <ul data-tight="true" class="tight">
