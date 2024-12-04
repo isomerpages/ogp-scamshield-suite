@@ -117,9 +117,7 @@ fallen victim.</p>
 </li>
 </ul>
 <hr>
-<h3>Learn more about job scams</h3>
-<p><a href="https://go.gov.sg/start01" rel="noopener nofollow" target="_blank">Singapore is a prime target for scammers. Here’s how you can stay safe</a>
-</p>
+<h3>Learn more about job scams </h3>
 <p><a href="https://go.gov.sg/start07" rel="noopener nofollow" target="_blank">Young adults are falling for job scams. Here’s why they are more susceptible</a>
 </p>
 <p><a href="https://go.gov.sg/start08" rel="noopener nofollow" target="_blank">What to do when you’re asked to pay to earn easy money</a>
