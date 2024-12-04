@@ -29,7 +29,7 @@ no longer be contacted.</p>
 <h2><strong>At least S$86.0 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>2024 Mid-Year Scams and Cybercrime Brief</p>
+<p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>It is likely a scam if the job requires you to:</h3>
 <ul data-tight="true" class="tight">
