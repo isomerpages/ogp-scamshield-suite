@@ -44,8 +44,21 @@ it even harder to crack.
 <h4><strong>Enable privacy settings for your social media and messaging accounts</strong></h4>
 <p>Users should carefully manage their privacy settings, avoid accepting
 friend requests or messages from unknown individuals, and refrain from
-sharing personal details with unfamiliar contacts.
-<br>Add privacy settings on messaging apps to avoid being added into random
-chatgroups by strangers. For WhatsApp and Telegram: Go to in-app Settings
-&gt; Tap on Privacy &gt; Tap on Groups/Channels &gt; Select “My Contacts”</p>
+sharing personal details with unfamiliar contacts.</p>
+<p>Add privacy settings on messaging apps to avoid being added into random
+chatgroups by strangers. For WhatsApp and Telegram:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to in-app Settings</p>
+</li>
+<li>
+<p>Tap on Privacy</p>
+</li>
+<li>
+<p>Tap on Groups/Channels</p>
+</li>
+<li>
+<p>Select “My Contacts”</p>
+</li>
+</ol>
 <p></p>
