@@ -78,7 +78,7 @@ sections:
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
         - title: Phishing Scams
-          description: ~$2,394 lost per case
+          description: ~S$3,858 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
         - title: Job Scams
