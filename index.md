@@ -66,7 +66,7 @@ sections:
       url: https://www.mha.gov.sg/docs/default-source/default-document-library/e-commerce-marketplace-tsr_final.pdf
       button: Learn more
   - textcards:
-      title: Scam threats
+      title: Scam Threats
       id: textcards
       cards:
         - title: Investment Scams
@@ -92,7 +92,7 @@ sections:
       title: Scams Bulletin
       id: infopic
       button: Read Now
-      url: /trends-and-updates/scams-bulletin
+      url: /2024-scams-bulletins/
       image: /images/scams_bulletin_new.png
       alt: Image alt text
       description: Learn about the latest scam trends from the Police's Monthly Scams
