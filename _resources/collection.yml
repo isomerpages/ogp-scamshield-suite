@@ -1,5 +1,5 @@
 collections:
-  resources-v2:
+  resources:
     output: true
     order:
       - Public Education Materials/.keep
