@@ -15,7 +15,7 @@ planner from a company advertising their investment services in the stock
 market and cryptocurrencies. By following their instructions, you can receive
 quick attractive profits!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/why_fall_prey_scams_image.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/why_fall_prey_scams_image.jpg">
 </div>
 <p>What was it that made you engage? Why did you not check before you responded?&nbsp;</p>
 <p><strong>Anyone can fall prey to scams!</strong> This is clear from our

@@ -25,10 +25,10 @@ that they had neither changed their contact number nor contacted them.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$23.1 million lost to scammers</strong></h2>
+<h2><strong>At least S$8.1 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Annual Scams and Cybercrime Brief 2023</p>
+<p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>It is likely a scam if the caller:</h3>
 <ul data-tight="true" class="tight">

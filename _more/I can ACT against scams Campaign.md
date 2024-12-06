@@ -1,6 +1,6 @@
 ---
 title: I can ACT against scams Campaign
-permalink: /act-campaign/
+permalink: /i-can-act-campaign/
 variant: tiptap
 description: ""
 ---

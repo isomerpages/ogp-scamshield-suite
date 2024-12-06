@@ -1,8 +1,0 @@
-collections:
-  resources-testing:
-    output: true
-    order:
-      - Public Education Materials.md
-      - Scams and Cybercrime Briefs.md
-      - Scams Bulletin.md
-      - Videos.md

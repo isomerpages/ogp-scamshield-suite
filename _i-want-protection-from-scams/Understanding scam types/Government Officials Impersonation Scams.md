@@ -25,10 +25,10 @@ their bank accounts.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$92.5 million lost to scammers</strong></h2>
+<h2><strong>At least S$67.5 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Annual Scams and Cybercrime Brief 2023</p>
+<p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>Government officials will never ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
@@ -50,20 +50,20 @@ their bank accounts.</p>
 <p>Overseas law enforcement agencies have no legal powers to require members
 of the public in Singapore to assist in their investigations without the
 approval of the Singapore government.</p>
-<h3>SPF officers will never ask you to do the following over the phone or through text message:</h3>
+<h3>SPF officers will <strong>NEVER</strong> ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Transfer money to the Police, bank accounts, or mobile numbers linked
 to bank accounts.</p>
 </li>
 <li>
-<p>Request for your banking, SingPass or CPF related information.</p>
+<p>Request for your banking, SingPass and/or CPF related information.</p>
 </li>
 <li>
 <p>Click on links that lead to bank websites.</p>
 </li>
 <li>
-<p>Install apps or software from third party websites.</p>
+<p>Install apps outside of official app stores.</p>
 </li>
 </ul>
 <hr>
@@ -77,12 +77,12 @@ to bank accounts.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/GOIS/gois2.png">
 </div>
 </td>
 </tr>

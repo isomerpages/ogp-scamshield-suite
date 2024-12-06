@@ -56,43 +56,43 @@ sections:
       alt: 1799 Hotline
       description: Available 24/7, Monday to Sunday
   - infopic:
-      title: You can block calls and SMS from international numbers?
+      title: E-commerce scams are one of the top scam types in Singapore
       id: infopic
-      description: Activate the international call and SMS blocking features. Reach
-        out to your telcos to activate the features and safeguard yourself
-        against scams.
+      description: Check the safety ratings of e-commerce platforms by referring to
+        the E-commerce Marketplace Transaction Safety Ratings (TSR).
       image: /images/1_in_5.png
       alt: Image alt text
       subtitle: did you know?
-      url: /keep-your-devices-secure/
+      url: https://www.mha.gov.sg/docs/default-source/default-document-library/e-commerce-marketplace-tsr_final.pdf
       button: Learn more
   - textcards:
-      title: Scam threats
+      title: Scam Threats
       id: textcards
       cards:
-        - title: Investment scam
-          description: ~$50,700 lost per case
+        - title: Investment Scams
+          description: ~S$40,080 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
-        - title: Government Impersonation scam
-          description: ~$103,600 lost per case
+        - title: Government Officials Impersonation Scams
+          description: ~S$116,534 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
-        - title: Phishing scam
-          description: ~$2,394 lost per case
+        - title: Phishing Scams
+          description: ~S$3,858 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
-        - title: Job scam
-          description: ~$13,692 lost per case
+        - title: Job Scams
+          description: ~S$15,043 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
-      description: Singapore lost $651.8 million to scams in 2023 across 50,376 cases
+      description: Singapore lost S$385.6 million to scams in the first half of 2024
+        across 26,587 cases
       subtitle: stay informed
   - infopic:
       title: Scams Bulletin
       id: infopic
       button: Read Now
-      url: /trends-and-updates/scams-bulletin
+      url: /2024-scams-bulletins/
       image: /images/scams_bulletin_new.png
       alt: Image alt text
       description: Learn about the latest scam trends from the Police's Monthly Scams
@@ -136,7 +136,7 @@ sections:
       button: Learn more
       image: /images/ACT Campaign/ACT Phase 2/Stop_Check_homepage.png
       alt: Image alt text
-      url: /act-campaign/
+      url: /i-can-act-campaign/
   - infopic:
       title: United against scammers
       id: infopic

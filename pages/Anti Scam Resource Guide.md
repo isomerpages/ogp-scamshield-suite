@@ -7,7 +7,6 @@ description: ""
 <p>Download the <strong><em>Anti</em></strong>-<strong><em>Scam Resource Guide</em></strong> for
 information on the investigation process for scam cases and resources available
 to support you.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,7 +16,7 @@ to support you.</p>
 <tr>
 <th rowspan="4" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/resourceguidepamphleteng_Page_1.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/resourceguidepamphleteng_Page_1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">

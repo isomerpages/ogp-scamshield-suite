@@ -7,9 +7,8 @@ third_nav_title: Stay safe with ScamShield
 ---
 <h3><strong>1799 – the ScamShield Helpline</strong></h3>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Call our hotline" src="/images/Call_our_hotline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1799_Landing_banner.png">
 </div>
 <p>Scams can be tricky to navigate, and it is not easy to discern their true
 nature and intentions. They are designed to deceive and mislead you in
@@ -138,6 +137,6 @@ public utility charges, amongst others.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1799_Landing_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Call our hotline" src="/images/Call_our_hotline.png">
 </div>
 <p></p>

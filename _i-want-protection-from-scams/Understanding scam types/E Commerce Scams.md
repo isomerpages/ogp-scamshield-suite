@@ -20,10 +20,10 @@ screenshots as “proof of payment”.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$13.9 million lost to scammers</strong></h2>
+<h2><strong>At least S$8.6 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Annual Scams and Cybercrime Brief 2023</p>
+<p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>It is likely a scam if the seller:</h3>
 <ul data-tight="true" class="tight">
@@ -54,12 +54,12 @@ confirmed</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Ecommerce/ecomm1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Ecommerce/ecomm1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Ecommerce/ecomm2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Ecommerce/ecomm2.png">
 </div>
 </td>
 </tr>

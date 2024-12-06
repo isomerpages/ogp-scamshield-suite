@@ -26,10 +26,10 @@ no longer be contacted.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$135.7 million lost to scammers</strong></h2>
+<h2><strong>At least S$86.0 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Annual Scams and Cybercrime Brief 2023</p>
+<p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>It is likely a scam if the job requires you to:</h3>
 <ul data-tight="true" class="tight">
@@ -59,12 +59,12 @@ for a job. ​</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Job/job1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Job/job1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Job/job2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Job/job2.png">
 </div>
 </td>
 </tr>
@@ -117,7 +117,7 @@ fallen victim.</p>
 </li>
 </ul>
 <hr>
-<h3>Learn more about job scams</h3>
+<h3>Learn more about job scams </h3>
 <p><a href="https://go.gov.sg/start07" rel="noopener nofollow" target="_blank">Young adults are falling for job scams. Here’s why they are more susceptible</a>
 </p>
 <p><a href="https://go.gov.sg/start08" rel="noopener nofollow" target="_blank">What to do when you’re asked to pay to earn easy money</a>

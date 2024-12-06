@@ -34,9 +34,9 @@ vigilant and adopt good cyber hygiene habits to protect your devices.&nbsp;</p>
 <p>Do not download apps from unknown or unofficial sources.</p>
 </li>
 <li>
-<p>Only use app stores such as Google Play Store (Android) or Apple App Store
-(iOS), as these platforms have measures in place to detect and remove malicious
-apps.</p>
+<p>Only use official app stores such as Google Play Store (Android) or Apple
+App Store (iOS), as these platforms have measures in place to detect and
+remove malicious apps.</p>
 </li>
 <li>
 <p>For apps that do not have an automatic update function, do update your

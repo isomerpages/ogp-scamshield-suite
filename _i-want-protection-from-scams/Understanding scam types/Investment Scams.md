@@ -28,26 +28,28 @@ that they had been scammed.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$204.5 million lost to scammers</strong></h2>
+<h2><strong>At least S$133.4 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Annual Scams and Cybercrime Brief 2023</p>
+<p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>Common signs of phony investments are:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Promises of high returns at low or no risk. Scams use lucrative promises
-to lure investors. The greater the promised returns, the higher the risks
-should be. It’s crucial to understand what you're investing in.</p>
+<p><strong>Promises of high returns at low or no risk.</strong> Scams use
+lucrative promises to lure investors. The greater the promised returns,
+the higher the risks should be. It’s crucial to understand what you're
+investing in.</p>
 </li>
 <li>
-<p>Involvement of pressure tactics. Scammers may use limited offers, timed
-gifts, or rebates to rush you into committing your money.</p>
+<p><strong>Involvement of pressure tactics.</strong> Scammers may use limited
+offers, timed gifts, or rebates to rush you into committing your money.</p>
 </li>
 <li>
-<p>Unverified track record. Phony investment opportunities are often offered
-by individuals or organisations that are not located on MAS’s listing of
-registered financial institutions, representative and investor alert list.</p>
+<p><strong>Unverified track record. </strong>Phony investment opportunities
+are often offered by individuals or organisations that are not located
+on MAS’s listing of registered financial institutions, representative and
+investor alert list.</p>
 </li>
 </ul>
 <hr>
@@ -61,12 +63,12 @@ registered financial institutions, representative and investor alert list.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Investment/invest2.png">
 </div>
 </th>
 </tr>
