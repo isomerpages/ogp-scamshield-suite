@@ -17,6 +17,9 @@ third_nav_title: Scams Bulletins
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 07 - Dec 2024</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_07.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 06 - Nov 2024</strong>
