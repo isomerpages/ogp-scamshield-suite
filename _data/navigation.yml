@@ -18,13 +18,6 @@ links:
       - title: Scams Bulletin
         url: /trends-and-updates/scams-bulletin/
       - title: Videos
-        url: /trends-and-updates/videos
+        url: /videos/
   - title: More
     collection: more
-  - title: New menu group
-    url: /permalink
-    sublinks:
-      - title: Police News Release
-        url: https://www.police.gov.sg/Media-Room/News?keyword=scam
-      - title: New submenu
-        url: /permalink
