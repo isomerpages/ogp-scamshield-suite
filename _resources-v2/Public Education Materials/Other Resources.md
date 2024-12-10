@@ -56,7 +56,7 @@ third_nav_title: Public Education Materials
 <p>Straits Times Columns</p><a class="isomer-image-wrapper" href="/st-columns/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST Article/st_col.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>CSA Cyber Tips</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_Cyber_Tip_1.jpg"></a>
+<p>CSA Cyber Tips</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_cyber_tip.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p>Money Mule Trap</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Money_Mule.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Money_Mule.jpg"></a>
