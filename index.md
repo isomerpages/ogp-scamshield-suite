@@ -129,7 +129,6 @@ sections:
           link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
   - infopic:
       title: I can ACT against scams
-      subtitle: Learn more
       id: infopic
       description: Read more about the campaign that helps improve your defences
         against scams.
