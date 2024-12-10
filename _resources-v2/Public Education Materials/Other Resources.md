@@ -34,11 +34,11 @@ third_nav_title: Public Education Materials
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fake Friend Call Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Fake_Friend_Call_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Fake_Friend_Call_Scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Fake_Friend_Call_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Fake_Friend_call_scam.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Phishing Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Phishing_Scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Phishing_Scam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Education Materials/Phishing_scam.jpg"></a>
 </td>
 </tr>
 </tbody>
@@ -64,4 +64,5 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
