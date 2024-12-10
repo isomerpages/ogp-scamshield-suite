@@ -43,7 +43,7 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<h4><strong>Other Advisories</strong></h4>
+<h4><strong>Scam-Related Advisories</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
