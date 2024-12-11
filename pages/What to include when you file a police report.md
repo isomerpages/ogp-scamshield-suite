@@ -44,7 +44,7 @@ or any other contact details used)</p>
 lost</p>
 </li>
 <li>
-<p>Recordings of conversations with scammer</p>
+<p>Recordings of conversations with the scammers</p>
 </li>
 </ul>
 </li>
