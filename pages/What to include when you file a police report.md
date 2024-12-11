@@ -4,31 +4,12 @@ permalink: /important-information-for-police-report/
 variant: tiptap
 description: ""
 ---
-<h4>Here's what you can do while filing a police report</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Website address (URL) shared by scammers</strong>
-</p>
-</li>
-</ul>
-<p>If a scammer has directed you to access a website to input your banking
-details or engage in online trading (phishing and investment scams), or
-instructed you to download a mobile application from a website, you can
-report the link by entering the full URL of the scam website. Retrieve
-the full link from your Internet browser history. This action enables the
-authorities to take appropriate measures against the website.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Phone numbers</strong>
-</p>
-</li>
-</ul>
-<p>You can report the phone number used by the scammer by entering the complete
-string of numbers without any spacing in your police report. Please indicate
-if the number has a ‘+’ prefix. Additionally, specify the type of call
-made, such as normal call, WhatsApp, Telegram, IMO, Viber, etc. For example:
-+65123456789</p>
-<h4>Important Information to have when filing a police report:</h4>
+<h4><strong>Making a police report in person or online</strong></h4>
+<p>You should provide as much information as you can when making a report.
+If you’re planning to make a report in-person at your nearest Neighbourhood
+Police Centre, you can bring notes of what happened so that you can refer
+to these if you get nervous when the police officer is taking your statement.</p>
+<h4><strong>Important Information to have when filing a police report:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Details of the scam</strong>
@@ -97,6 +78,30 @@ further access to accounts)</p>
 </ul>
 </li>
 </ol>
+<h4>Here's what you can do while filing a police report</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Website address (URL) shared by scammers</strong>
+</p>
+</li>
+</ul>
+<p>If a scammer has directed you to access a website to input your banking
+details or engage in online trading (phishing and investment scams), or
+instructed you to download a mobile application from a website, you can
+report the link by entering the full URL of the scam website. Retrieve
+the full link from your Internet browser history. This action enables the
+authorities to take appropriate measures against the website.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Phone numbers</strong>
+</p>
+</li>
+</ul>
+<p>You can report the phone number used by the scammer by entering the complete
+string of numbers without any spacing in your police report. Please indicate
+if the number has a ‘+’ prefix. Additionally, specify the type of call
+made, such as normal call, WhatsApp, Telegram, IMO, Viber, etc. For example:
++65123456789</p>
 <p></p>
 <p>
 <br>
