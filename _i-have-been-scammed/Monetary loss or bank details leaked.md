@@ -82,6 +82,6 @@ overseas)</p>
 </div>
 </details>
 </div>
-<p>For banks not listed here, contact your respective bank's fraud hotline
-for assistance.</p>
+<p>For banks not listed here, please contact your respective bank's fraud
+hotline for assistance.</p>
 <p></p>
