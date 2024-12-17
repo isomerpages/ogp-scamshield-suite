@@ -208,6 +208,13 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
+	  
+#main-content {
+  .bp-notification {
+    position: relative;
+  }
+}
+
 
 // Navbar
 .navbar{
@@ -338,10 +345,4 @@ $desktop: 960px + (2 * $gap) !default;
 	  
 .bp-hero-body {
 	background: unset;
-}
-
-#main-content {
-  .bp-notification {
-    position: relative;
-  }
 }
