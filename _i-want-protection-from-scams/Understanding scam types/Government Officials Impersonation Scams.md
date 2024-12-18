@@ -146,6 +146,8 @@ fallen victim.</p>
 </ul>
 <hr>
 <h3>Learn more about government officials impersonation scams</h3>
+<p><a href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/" rel="noopener nofollow" target="_blank">The Impersonation Scam That Almost Cost My Mum Her Life Savings</a>
+</p>
 <p><a href="https://go.gov.sg/start04" rel="noopener nofollow" target="_blank">Urgent calls from the police or the bank? Learn how to know if it's a scam</a>
 </p>
 <p><a href="https://go.gov.sg/start12" rel="noopener nofollow" target="_blank">More fall victim to scammers posing as local and foreign officials</a>
@@ -153,8 +155,6 @@ fallen victim.</p>
 <p><a href="https://go.gov.sg/start19" rel="noopener nofollow" target="_blank">Received an SMS from the Government? Here's an easy way to tell if it's real</a>
 </p>
 <p><a href="https://go.gov.sg/start23" rel="noopener nofollow" target="_blank">Why people fall prey to scammers posing as police officers</a>
-</p>
-<p><a href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/" rel="noopener nofollow" target="_blank">The Impersonation Scam That Almost Cost My Mum Her Life Savings</a>
 </p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
