@@ -154,6 +154,8 @@ fallen victim.</p>
 </p>
 <p><a href="https://go.gov.sg/start23" rel="noopener nofollow" target="_blank">Why people fall prey to scammers posing as police officers</a>
 </p>
+<p><a href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/" rel="noopener nofollow" target="_blank">The Impersonation Scam That Almost Cost My Mum Her Life Savings</a>
+</p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>If you have transferred money to a scammer, please visit this page for
