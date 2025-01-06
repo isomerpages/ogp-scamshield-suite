@@ -3,6 +3,7 @@ title: Anti Scam Resource Guide
 permalink: /anti-scam-resource-guide/
 variant: tiptap
 description: ""
+third_nav_title: Public Education Materials
 ---
 <p>Download the <strong><em>Anti</em></strong>-<strong><em>Scam Resource Guide</em></strong> for
 information on the investigation process for scam cases and resources available
