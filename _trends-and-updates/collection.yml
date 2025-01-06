@@ -2,6 +2,7 @@ collections:
   trends-and-updates:
     output: true
     order:
+      - Public Education Materials/Anti Scam Resource Guide.md
       - Public Education Materials/.keep
       - Public Education Materials/ACT Campaign.md
       - Public Education Materials/ScamShield Suite Campaign.md
