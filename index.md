@@ -92,7 +92,7 @@ sections:
       title: Scams Bulletin
       id: infopic
       button: Read Now
-      url: /2024-scams-bulletins/
+      url: /2025-scams-bulletins/
       image: /images/scams_bulletin_new.png
       alt: Image alt text
       description: Learn about the latest scam trends from the Police's Monthly Scams
