@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Public Education Materials
 ---
-<h4><strong>Latest Updates</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -43,7 +42,7 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<h4><strong>Scam-Related Advisories</strong></h4>
+<h4></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -59,7 +58,7 @@ third_nav_title: Public Education Materials
 <p>CSA Cyber Tips</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_cyber_tip.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>Money Mule Trap</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Money_Mule.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/money_mule.jpg"></a>
+<p></p>
 </th>
 </tr>
 </tbody>
