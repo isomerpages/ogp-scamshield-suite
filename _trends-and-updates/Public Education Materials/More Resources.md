@@ -58,8 +58,20 @@ third_nav_title: Public Education Materials
 <p>CSA Cyber Tips</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_cyber_tip.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>RICE Media's</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AsiaOne's The S-Files</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
