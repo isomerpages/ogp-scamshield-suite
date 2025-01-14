@@ -61,8 +61,7 @@ often influenced by the majority.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Common influence tactics used by scammers (Cialdini, 1984, 2007)</a></strong>
-</p>
+<h4><strong>Common influence tactics used by scammers (Cialdini, 1984, 2007)</strong></h4>
 </td>
 </tr>
 <tr>
