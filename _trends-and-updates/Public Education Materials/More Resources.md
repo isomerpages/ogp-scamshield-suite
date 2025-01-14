@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Public Education Materials
 ---
-<h4><strong>Latest Updates</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -43,7 +42,7 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<h4><strong>Scam-Related Advisories</strong></h4>
+<h4></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -53,14 +52,26 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Straits Times Columns</p><a class="isomer-image-wrapper" href="/st-columns/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ST Article/ST_columns.jpg"></a>
+<p>Straits Times Columns</p><a class="isomer-image-wrapper" href="/st-columns/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ST Article/ST_columns.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>CSA Cyber Tips</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_cyber_tip.jpg"></a>
+<p>CSA Cyber Tips</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_cyber_tip.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>Money Mule Trap</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Money_Mule.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/money_mule.jpg"></a>
+<p>RICE Media Article</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia.jpg"></a>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AsiaOne's The S-Files</strong>
+</p><a class="isomer-image-wrapper" href="https://www.asiaone.com/singapore/s-files-spf-psychologists-reveal-what-goes-behind-scams"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/asiaone_sfiles.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
