@@ -58,7 +58,7 @@ third_nav_title: Public Education Materials
 <p>CSA Cyber Tips on protecting yourselves</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_cyber_tip.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>RICE Media Impersonation Scam Article</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia.jpg"></a>
+<p>RICE Media Impersonation Scam Article</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia.jpg"></a>
 </th>
 </tr>
 <tr>
