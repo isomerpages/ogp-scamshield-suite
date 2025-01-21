@@ -103,7 +103,11 @@ unsolicited.</p>
 </ul>
 <hr>
 <h3>Learn more about tech support scams</h3>
-<p><a href="https://go.gov.sg/start18" rel="noopener nofollow" target="_blank">Friend or fraudster: Beware of unusual requests via text messages or calls</a>
+<p><a href="https://go.gov.sg/start11" rel="noopener nofollow" target="_blank">Good cyber hygiene routine can keep dirty tricks of scammers at bay</a>
+</p>
+<p><a href="https://go.gov.sg/start16" rel="noopener nofollow" target="_blank">A pop-up alert claims that your device is compromised. Here’s what you should do</a>
+</p>
+<p><a href="https://go.gov.sg/start20" rel="noopener nofollow" target="_blank">Recent global IT outage a timely reminder to stay vigilant against scams</a>
 </p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
