@@ -23,8 +23,8 @@ as malicious URL blocking and malware scanning.</p>
 vigilant and adopt good cyber hygiene habits to protect your devices.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.csa.gov.sg/docs/default-source/our-programmes/cybersecurity-outreach/the-unseen-enemy/security-apps_infographic.pdf?sfvrsn=828f46cb_3" class="a-underline-link download-and-resources" rel="noopener noreferrer nofollow" target="_self">List of Recommended Security Apps </a></strong>
-<a href="https://www.csa.gov.sg/docs/default-source/our-programmes/cybersecurity-outreach/the-unseen-enemy/security-apps_infographic.pdf?sfvrsn=828f46cb_3" class="a-underline-link download-and-resources" rel="noopener noreferrer nofollow" target="_self">(0.3mb)</a>
+<p><strong><a href="https://www.csa.gov.sg/images/default-source/press-releases/list-of-recommended-security-apps-2025-infographic.jpg" class="a-underline-link download-and-resources" rel="noopener noreferrer nofollow" target="_self">List of Recommended Security Apps </a></strong>
+<a href="https://www.csa.gov.sg/images/default-source/press-releases/list-of-recommended-security-apps-2025-infographic.jpg" class="a-underline-link download-and-resources" rel="noopener noreferrer nofollow" target="_self">(0.3mb)</a>
 </p>
 </li>
 </ul>
