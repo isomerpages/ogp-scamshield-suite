@@ -9,19 +9,13 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fake friend call scams" src="/images/Fake_friend_call_scams.png">
 </div>
-<p>Loan scams typically involve scammers contacting victims via phone calls
-or WhatsApp, pretending to be their acquaintance. During the conversation,
-the scammers would claim that they had lost their mobile phone and changed
-phone number. After establishing rapport, the scammers would capitalise
-on the perceived friendship and seek money from the victims for various
-reasons.</p>
-<p>Victims encountered loan advertisements on websites or received them from
-scammers through social media or messaging platforms. Scammers would request
-for victims' personal information, such as NRIC and bank statements for
-the loan application process and require victims to pay various fees before
-the loans can be disbursed. Victims would not receive the promised loans
-and realise they had been scammed when the scammers continued to demand
-additional payments</p>
+<p>Victims would encounter loan advertisements on websites or received them
+from scammers through social media or messaging platforms. Scammers would
+request for victims' personal information, such as NRIC and bank statements
+for the loan application process and require victims to pay various fees
+before the loans can be disbursed. Victims would not receive the promised
+loans and realise they had been scammed when the scammers continued to
+demand additional payments.</p>
 <hr>
 <blockquote>
 <p></p>
@@ -30,18 +24,18 @@ additional payments</p>
 <p></p>
 <p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
-<h3>It is likely a scam if the caller:</h3>
+<h3>It is likely a scam if the loaner:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Calls you using an unknown number, asks you to guess who they are and
-claims that he/she lost his/her old phone number.</p>
+<p>make any cold calls or send any unsolicited text messages.</p>
 </li>
 <li>
-<p>Asks you for urgent loans for various reasons.</p>
+<p>instructs you to transfer a sum of money as a deposit before the loan
+can be disbursed.</p>
 </li>
 <li>
-<p>Asks you to click on links or install third-party apps sent via text messages
-to help him/her through a difficult situation.</p>
+<p>harasses you by claiming that the loans have already been approved and
+that you have to pay a processing fee to cancel the loans.</p>
 </li>
 </ul>
 <hr>
@@ -62,14 +56,20 @@ to help him/her through a difficult situation.</p>
 <p><strong>CHECK</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Caller’s identity by calling his/her last known number, via social media
-or meet-up.​</p>
+<p>that you do not use clickable links or QR codes provided by unknown persons
+to make payments/transfers, as these lead to fake bank websites that phish
+for your banking credentials.</p>
 </li>
 <li>
-<p>Only install apps from official app stores.​</p>
+<p>Do not transfer money or send gift cards to unknown persons</p>
 </li>
 <li>
-<p>With someone you trust.</p>
+<p>Never disclose your personal information, internet banking and social
+media account details, and one-time passwords (OTPs) to anyone.</p>
+</li>
+<li>
+<p>Do not let others use your banking or Singpass accounts to receive or
+transfer money. They are for personal use only.</p>
 </li>
 <li>
 <p>Call the ScamShield Helpline (1799) to check if you are unsure.</p>
@@ -88,7 +88,7 @@ fallen victim.</p>
 </ul>
 <hr>
 <h3>Learn more about loan scams</h3>
-<p><a href="https://go.gov.sg/start18" rel="noopener nofollow" target="_blank">Friend or fraudster: Beware of unusual requests via text messages or calls</a>
+<p><a href="https://go.gov.sg/start09" rel="noopener nofollow" target="_blank">Received an unsolicited link? Here’s how to check if it’s legitimate</a>
 </p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
