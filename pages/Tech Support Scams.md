@@ -32,8 +32,8 @@ that they had neither changed their contact number nor contacted them.</p>
 <h3>It is likely a scam if the caller:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unsolicited calls, emails or pop-ups offering tech support services suggesting
-your computer/device has an issue or infected with virus.</p>
+<p>Make unsolicited calls, send emails or pop-ups offering tech support services
+suggesting your computer/device has an issue or infected with virus.</p>
 </li>
 <li>
 <p>Demands for payments with bank transfers, gift cards or cryptocurrency</p>
