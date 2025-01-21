@@ -64,7 +64,7 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>AsiaOne's The S-Files</strong>
-</p><a class="isomer-image-wrapper" href="https://www.asiaone.com/singapore/s-files-spf-psychologists-reveal-what-goes-behind-scams"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/asiaone_sfiles.jpg"></a>
+</p><a class="isomer-image-wrapper" href="https://www.asiaone.com/singapore/s-files-spf-psychologists-reveal-what-goes-behind-scams"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/asiaone_sfiles.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
