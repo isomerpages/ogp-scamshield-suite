@@ -15,16 +15,11 @@ the scammers would claim that they had lost their mobile phone and changed
 phone number. After establishing rapport, the scammers would capitalise
 on the perceived friendship and seek money from the victims for various
 reasons.</p>
-<p>The common reasons offered by scammers for these “loans” were to pay contractors
-for renovation fees, pay for costs relating to the opening of new businesses,
-or pay vendors/suppliers. The victims would transfer money via PayNow to
-bank accounts belonging to unknown persons. They would discover that they
-had been scammed when they contacted their actual acquaintance and realised
-that they had neither changed their contact number nor contacted them.</p>
+<p></p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$8.1 million lost to scammers</strong></h2>
+<h2><strong>At least S$17.8 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
 <p>Mid-Year Scams and Cybercrime Brief 2024</p>
