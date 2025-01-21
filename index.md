@@ -25,6 +25,16 @@ sections:
           description: ""
           url: /introduction-to-scams/
   - infopic:
+      title: Monthly Scam Counter
+      subtitle: December 2024
+      id: infopic
+      description: Updated monthly to provide you with the latest scam statistics in
+        Singapore. Learn more about scams and how to spot the red flags!
+      button: Read more
+      url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
+      image: /images/Dec2024_Scam_counter.jpg
+      alt: Image alt text
+  - infopic:
       title: Play and learn to enhance your personal scams resilience!
       subtitle: win Cash Prizes & Rewards!
       id: infopic
