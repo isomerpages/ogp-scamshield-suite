@@ -32,15 +32,22 @@ that they had neither changed their contact number nor contacted them.</p>
 <h3>It is likely a scam if the caller:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Calls you using an unknown number, asks you to guess who they are and
-claims that he/she lost his/her old phone number.</p>
+<p>Unsolicited calls, emails or pop-ups offering tech support services suggesting
+your computer/device has an issue or infected with virus.</p>
 </li>
 <li>
-<p>Asks you for urgent loans for various reasons.</p>
+<p>Demands for payments with bank transfers, gift cards or cryptocurrency</p>
 </li>
 <li>
-<p>Asks you to click on links or install third-party apps sent via text messages
-to help him/her through a difficult situation.</p>
+<p>Request for personal information (e.g., NRIC, personal banking details)</p>
+</li>
+<li>
+<p>Urgently prompts you to install software or visit suspicious websites
+for system review.</p>
+</li>
+<li>
+<p>Note: Legitimate software companies will never include a helpline number
+in pop-up messages</p>
 </li>
 </ul>
 <hr>
@@ -49,26 +56,36 @@ to help him/her through a difficult situation.</p>
 </p>
 <ul>
 <li>
-<p>ScamShield app to block scam calls and filter scam SMSes. ​</p>
+<p>Anti-Malware – Ensure systems are protected by anti-malware, such as Microsoft
+Defender.</p>
 </li>
 <li>
-<p>Anti-virus app to your devices (see recommendations by CSA).​</p>
+<p>Configuration settings to your web browser to block pop-up windows by
+default. This reduces the likelihood of encountering malicious pop-ups.</p>
 </li>
 <li>
-<p>International Call Blocking option to your mobile account(s).&nbsp;</p>
+<p>Refrain from clicking on pop-up notices or links within them. These can
+lead to malicious websites or prompt downloads of harmful software. Consider
+the use of Microsoft Edge to benefit from Defender SmartScreen to block
+malicious downloads before they are downloaded.</p>
 </li>
 </ul>
 <p><strong>CHECK</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Caller’s identity by calling his/her last known number, via social media
-or meet-up.​</p>
+<p>Only seek technical support from reputable sources (eg. Official support
+sites bearing official contact methods). Avoid engaging with unsolicited
+offers for assistance that appear out of the blue.</p>
 </li>
 <li>
-<p>Only install apps from official app stores.​</p>
+<p>If you’re unsure about the legitimacy of a pop-up notice, verify the issue
+through official channels. Contact your device manufacturer, software provider
+or trusted IT support for guidance.</p>
 </li>
 <li>
-<p>With someone you trust.</p>
+<p>Do not offer any information until you have ascertained legitimacy of
+the contact. Remember, reputable organizations do not reach out to you
+unsolicited.</p>
 </li>
 <li>
 <p>Call the ScamShield Helpline (1799) to check if you are unsure.</p>
@@ -81,8 +98,7 @@ or meet-up.​</p>
 <p>Warn your friends and family about your scam encounter.​</p>
 </li>
 <li>
-<p>Call your bank immediately and make a police report if you think you have
-fallen victim.</p>
+<p>Make a police report if you think you have fallen victim.</p>
 </li>
 </ul>
 <hr>
