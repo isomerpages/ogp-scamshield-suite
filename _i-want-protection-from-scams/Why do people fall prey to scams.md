@@ -155,7 +155,7 @@ losses to scams, especially when our defenses are down.</p>
 <p>ScamShield app to block scam calls and filter scam SMSes.</p>
 </li>
 <li>
-<p>Anti-virus app to your devices (<a href="https://www.csa.gov.sg/images/default-source/press-releases/list-of-recommended-security-apps-2025-infographic.jpg" rel="noopener nofollow" target="_blank">Recommendations by CSA</a>).</p>
+<p>Anti-virus app to your devices (<strong><a href="https://www.csa.gov.sg/images/default-source/press-releases/list-of-recommended-security-apps-2025-infographic.jpg" rel="noopener nofollow" target="_blank">List of recommended apps by CSA</a></strong>).</p>
 </li>
 <li>
 <p>Only install apps from official app stores.</p>
