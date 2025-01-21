@@ -27,25 +27,26 @@ discovered unauthorised transfers or deductions from their bank accounts.</p>
 <p></p>
 <p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
-<h3>It is likely a scam if the caller:</h3>
+<h3>It is likely a scam if the tech support personnel:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Make unsolicited calls, send emails or pop-ups offering tech support services
-suggesting your computer/device has an issue or infected with virus.</p>
+<p>Makes unsolicited calls, send emails or pop-ups offering tech support
+services suggesting your computer/device has an issue or infected with
+virus.</p>
 </li>
 <li>
 <p>Demands for payments with bank transfers, gift cards or cryptocurrency</p>
 </li>
 <li>
-<p>Request for personal information (e.g., NRIC, personal banking details)</p>
+<p>Request for your personal information (e.g., NRIC, personal banking details)</p>
 </li>
 <li>
 <p>Urgently prompts you to install software or visit suspicious websites
 for system review.</p>
 </li>
 <li>
-<p>Note: Legitimate software companies will never include a helpline number
-in pop-up messages</p>
+<p>Legitimate software companies will never include a helpline number in
+pop-up messages</p>
 </li>
 </ul>
 <hr>
