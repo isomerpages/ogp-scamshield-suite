@@ -52,13 +52,13 @@ third_nav_title: Public Education Materials
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Straits Times ACT Against Scams Campaign columns</p><a class="isomer-image-wrapper" href="/st-columns/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ST Article/ST_columns.jpg"></a>
+<p>Straits Times ACT Against Scams Campaign columns</p><a class="isomer-image-wrapper" href="/st-columns/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ST Article/ST_columns.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>CSA Cyber Tips on The Unseen Enemy</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_cyber_tip.jpg"></a>
+<p>CSA Cyber Tips on "The Unseen Enemy"</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_cyber_tip.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>RICE Media Impersonation Scam Article</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia.jpg"></a>
+<p>RICE Media's Impersonation Scam Article</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia.jpg"></a>
 </th>
 </tr>
 <tr>
