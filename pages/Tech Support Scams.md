@@ -9,13 +9,16 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fake friend call scams" src="/images/Fake_friend_call_scams.png">
 </div>
-<p>Tech support scams typically involve scammers contacting victims via phone
-calls or WhatsApp, pretending to be their acquaintance. During the conversation,
-the scammers would claim that they had lost their mobile phone and changed
-phone number. After establishing rapport, the scammers would capitalise
-on the perceived friendship and seek money from the victims for various
-reasons.</p>
-<p></p>
+<p>Victims would receive pop-ups on their laptops or desktops claiming that
+their electronic devices had been compromised. The pop-up alerts would
+contain contact number(s) for victims to call for technical support. When
+victims called the number(s), scammers impersonating Microsoft or Apple
+tech support employees would claim that the victim’s device had been compromised
+by “hackers” and was used for illegal activities.</p>
+<p>Subsequently, the scammers would instruct victims to access websites and/or
+download software that would grant scammers remote access to their devices.
+Victims would subsequently realise that they had been scammed when they
+discovered unauthorised transfers or deductions from their bank accounts.</p>
 <hr>
 <blockquote>
 <p></p>
