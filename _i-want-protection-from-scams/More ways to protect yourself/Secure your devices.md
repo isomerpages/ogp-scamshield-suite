@@ -9,8 +9,8 @@ third_nav_title: More ways to protect yourself
 <p>Viruses, worms, Trojan horses and other forms of malware (i.e., malicious
 software) can infect your devices and cause your devices to slow down or
 malfunction. Cybercriminals can also deploy malware to corrupt files, steal
-data, and even gain access to your social media and bank accounts.
-<br>We have seen many cases where victims lost large amounts of money due
+data, and even gain access to your social media and bank accounts.</p>
+<p>We have seen many cases where victims lost large amounts of money due
 to unauthorised bank account withdrawals on mobile devices infected with
 malware.&nbsp;
 <br>Anti-virus apps which can detect malware and malicious phishing links
