@@ -27,7 +27,7 @@ demand additional payments.</p>
 <h3>It is likely a scam if the loaner:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>make any cold calls or send any unsolicited text messages.</p>
+<p>make any cold calls or send any unsolicited text messages to you.</p>
 </li>
 <li>
 <p>instructs you to transfer a sum of money as a deposit before the loan
