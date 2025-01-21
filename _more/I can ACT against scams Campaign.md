@@ -33,11 +33,11 @@ job offers and loans, or tricking you into clicking malicious links.</p>
 <li>
 <p>Install anti-virus apps to prevent malware. Anti-virus apps which can
 detect malware and malicious phishing links are keys to safeguarding your
-devices and accounts. CSA has put together a list of recommended apps which
-users can download to suit their needs and budget - <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/add-scamshield-and-anti-virus-apps" rel="noopener noreferrer nofollow" target="_blank"><u>Add ScamShield and Anti-Virus Apps</u></a>.</p>
+devices and accounts. The Cyber Security Agency of Singapore (CSA) has
+put together <strong><a href="https://www.csa.gov.sg/images/default-source/press-releases/list-of-recommended-security-apps-2025-infographic.jpg" rel="noopener nofollow" target="_blank">a list of recommended apps</a></strong> which
+users can download to suit their needs and budget.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/Stop_Check_ACT_02.png">
 </div>

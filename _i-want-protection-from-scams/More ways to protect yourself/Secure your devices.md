@@ -15,19 +15,13 @@ to unauthorised bank account withdrawals on mobile devices infected with
 malware.&nbsp;
 <br>Anti-virus apps which can detect malware and malicious phishing links
 are also key to safeguarding your devices and accounts.&nbsp;</p>
-<p>Not sure which security app to download? CSA has put together a list of
-recommended apps which users can download to suit their needs and budget.
-The apps come in free and paid versions, offering a range of features such
-as malicious URL blocking and malware scanning.</p>
+<p>Not sure which security app to download? The Cyber Security Agency of
+Singapore (CSA) has put together <strong><a href="https://www.csa.gov.sg/images/default-source/press-releases/list-of-recommended-security-apps-2025-infographic.jpg" rel="noopener nofollow" target="_blank">a list of recommended apps</a></strong> which
+users can download to suit their needs and budget. The apps come in free
+and paid versions, offering a range of features such as malicious URL blocking
+and malware scanning.</p>
 <p>But remember – there is no 100% protection and it is important to remain
-vigilant and adopt good cyber hygiene habits to protect your devices.&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://www.csa.gov.sg/docs/default-source/our-programmes/cybersecurity-outreach/the-unseen-enemy/security-apps_infographic.pdf?sfvrsn=828f46cb_3" class="a-underline-link download-and-resources" rel="noopener noreferrer nofollow" target="_self">List of Recommended Security Apps </a></strong>
-<a href="https://www.csa.gov.sg/docs/default-source/our-programmes/cybersecurity-outreach/the-unseen-enemy/security-apps_infographic.pdf?sfvrsn=828f46cb_3" class="a-underline-link download-and-resources" rel="noopener noreferrer nofollow" target="_self">(0.3mb)</a>
-</p>
-</li>
-</ul>
+vigilant and adopt good cyber hygiene habits to protect your devices.</p>
 <h4><strong>Always download from official App Stores</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
