@@ -28,9 +28,10 @@ sections:
       title: Monthly Scam Counter
       subtitle: December 2024
       id: infopic
-      description: Updated monthly to provide you with the latest scam statistics in
-        Singapore. Learn more about scams and how to spot the red flags!
-      button: Read more
+      description: Stay informed with our monthly updates on the latest scam
+        statistics in Singapore.  Learn to spot red flags and protect yourself
+        and your loved ones.
+      button: Learn more about scams here
       url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
       image: /images/Dec2024_Scam_counter.jpg
       alt: Image alt text
