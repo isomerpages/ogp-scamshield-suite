@@ -33,7 +33,7 @@ sections:
         ones.
       button: Learn more about scams here
       url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
-      image: /images/Dec2024_Scam_counter.jpg
+      image: /images/Scam Counters/Dec2024_Scam_counter.jpg
       alt: Image alt text
   - infopic:
       title: Play and learn to enhance your personal scams resilience!
