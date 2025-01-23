@@ -45,7 +45,7 @@ sections:
       button: Read more
       image: /images/xts_logo.png
       alt: Image alt text
-      url: https://go.gov.sg/xts-ss-web
+      url: https://www.ricemedia.co/mum-life-savings-impersonation-scam/
   - infocols:
       title: Stay safe with the enhanced ScamShield app
       subtitle: get scam protection
