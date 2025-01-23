@@ -43,7 +43,7 @@ sections:
         the vulnerable, it is crucial to offer support, education, and
         understanding — not blame.⁠
       button: Read more
-      image: /images/xts_logo.png
+      image: /images/Homepage/RICE_media.png
       alt: Image alt text
       url: https://www.ricemedia.co/mum-life-savings-impersonation-scam/
   - infocols:
