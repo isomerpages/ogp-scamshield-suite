@@ -36,16 +36,16 @@ sections:
       image: /images/Scam Counters/Dec2024_Scam_counter.jpg
       alt: Image alt text
   - infopic:
-      title: Play and learn to enhance your personal scams resilience!
-      subtitle: win Cash Prizes & Rewards!
+      title: Impersonation Scam That Almost Cost My Mum Her Life Savings
+      subtitle: Think you are safe from scams?
       id: infopic
-      description: "Play #XiamTheScams from 24 Oct 2024 - 22 Jan 2025. Boost anti-scam
-        skills in this life simulation. Make wise choices, avoid scams, and
-        maximise well-being!"
-      button: Play now!
-      image: /images/xts_logo.png
+      description: As scams become slick enough to fool even younger Singaporeans and
+        the vulnerable, it is crucial to offer support, education, and
+        understanding — not blame.⁠
+      button: Read more
+      image: /images/Homepage/RICE_media.png
       alt: Image alt text
-      url: https://go.gov.sg/xts-ss-web
+      url: https://www.ricemedia.co/mum-life-savings-impersonation-scam/
   - infocols:
       title: Stay safe with the enhanced ScamShield app
       subtitle: get scam protection

@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Tech Support Scams</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fake friend call scams" src="/images/Fake_friend_call_scams.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Type Banners/Tech_Support_Scam_Banner.png">
 </div>
 <p>Victims would receive pop-ups on their laptops or desktops claiming that
 their electronic devices had been compromised. The pop-up alerts would
