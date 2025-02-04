@@ -298,11 +298,3 @@ NA
 **5.**          **Special terms**
 
 **NA**
-
-* * *
-
- [\[A1\]](https://www.scamshield.gov.sg/terms-of-use/#_msoanchor_1)Please ensure that all third party terms are listed in the Schedule below and are hyperlinked where relevant. However, those terms must be publicly available. If the terms were specially negotiated with GT, please consult LEGL.
-
- [\[A2\]](https://www.scamshield.gov.sg/terms-of-use/#_msoanchor_2)Please make necessary deletions/amendments if your app is free to use or does not facilitate a third party service (i.e. your app works independently to provide a service run by GovTech).
-
- [\[A3\]](https://www.scamshield.gov.sg/terms-of-use/#_msoanchor_3)This is needed to comply with some OSS terms which require GT to state whether GT had made any changes to the OSS. Also, some OSS terms require you to date these changes. Please indicate the date where required.
