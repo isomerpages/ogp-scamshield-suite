@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Loan Scams</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fake friend call scams" src="/images/Fake_friend_call_scams.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Type Banners/Loan_Scam_Banner.png">
 </div>
 <p>Victims would encounter loan advertisements on websites or received them
 from scammers through social media or messaging platforms. Scammers would
