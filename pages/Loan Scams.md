@@ -7,15 +7,16 @@ description: ""
 <h2><strong>Loan Scams</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fake friend call scams" src="/images/Fake_friend_call_scams.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Type Banners/Loan_Scam_Banner.png">
 </div>
-<p>Victims would encounter loan advertisements on websites or received them
-from scammers through social media or messaging platforms. Scammers would
-request for victims' personal information, such as NRIC and bank statements
-for the loan application process and require victims to pay various fees
-before the loans can be disbursed. Victims would not receive the promised
-loans and realise they had been scammed when the scammers continued to
-demand additional payments.</p>
+<p>Victims would be enticed into taking up loans with attractive interest
+rates but subsequently required by the loaners to pay various ‘fees’ to
+secure the loans. If victims refused to pay the ‘fees’ or tried to cancel
+their loan application, the scammers would use the victim’s personal data
+collected by the malware to extort victims into paying the ‘fees’, for
+example by threatening to expose their compromising photographs and/or
+harass people in their contact list. Having been put in fear by the scammers,
+victims would transfer money to local bank accounts provided by the scammers.</p>
 <hr>
 <blockquote>
 <p></p>
