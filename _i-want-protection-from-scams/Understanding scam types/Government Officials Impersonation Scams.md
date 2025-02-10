@@ -30,19 +30,20 @@ their bank accounts.</p>
 <p></p>
 <p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
-<h3>Government officials will never ask you to do the following over the phone or through text message:</h3>
+<h3>Government officials will NEVER do these things over a phone call:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Transfer money to bank accounts​.</p>
+<p>Ask you to transfer money;</p>
 </li>
 <li>
-<p>Request for your personal, banking, SingPass or CPF related information.</p>
+<p>Ask you to disclose personal or banking details;</p>
 </li>
 <li>
-<p>Ask you to click on links that lead to bank websites.</p>
+<p>Ask you to install mobile apps from unofficial app stores;</p>
 </li>
 <li>
-<p>Ask you to install apps or software from third party websites.</p>
+<p>Transfer your call directly to Police, <strong>except when you call 995 for life threatening-emergencies.</strong>
+</p>
 </li>
 </ul>
 <p><strong><u>Additional Advisories</u></strong>
