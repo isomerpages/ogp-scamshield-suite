@@ -38,9 +38,6 @@ put together <strong><a href="https://www.csa.gov.sg/images/default-source/press
 users can download to suit their needs and budget.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/Stop_Check_ACT_02.png">
-</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
