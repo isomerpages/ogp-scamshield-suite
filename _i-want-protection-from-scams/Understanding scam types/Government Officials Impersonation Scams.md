@@ -59,11 +59,8 @@ has your personal information.</p>
 <p>Stop and check the identity of the person against trusted sources, such
 as the organisation’s official hotline. Call the 24/7 ScamShield Helpline
 at 1799 to check if you are unsure if something is a scam.</p>
-<p>You can also call the 24/7 ScamShield Helpline at 1799 to check if it
-is a scam.</p>
 <p><em>*Exceptions apply for National Service calls-ups and emergency services. Read more about the exceptions.</em>
 </p>
-<p></p>
 <h3>SPF officers will <strong>NEVER</strong> ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
