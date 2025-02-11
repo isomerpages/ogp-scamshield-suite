@@ -22,7 +22,6 @@ your defences against scams.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/Stop_Check_ACT_01.png">
 </div>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ScamShield app helps to block scam calls and filter or flag scam SMSes.
@@ -41,7 +40,6 @@ users can download to suit their needs and budget.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/Stop_Check_ACT_02.png">
 </div>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>When you receive a phone call or message asking for your personal information,
@@ -67,11 +65,9 @@ not ask for your personal particulars or banking credentials over the phone,
 via SMSes, or emails.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Campaign/ACT Phase 2/Stop_Check_ACT_03.png">
 </div>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you suspect that you have fallen prey to a scam, call your bank or

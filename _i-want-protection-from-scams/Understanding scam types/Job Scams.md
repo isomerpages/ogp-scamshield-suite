@@ -117,7 +117,9 @@ fallen victim.</p>
 </li>
 </ul>
 <hr>
-<h3>Learn more about job scams </h3>
+<h3>Learn more about job scams</h3>
+<p><a href="https://www.ricemedia.co/how-scammers-prey-on-job-seekers/" rel="noopener nofollow" target="_blank">The Hidden Cost of Quick Cash: How Scammers Prey on Job Seekers in Tough Times</a>
+</p>
 <p><a href="https://go.gov.sg/start07" rel="noopener nofollow" target="_blank">Young adults are falling for job scams. Here’s why they are more susceptible</a>
 </p>
 <p><a href="https://go.gov.sg/start08" rel="noopener nofollow" target="_blank">What to do when you’re asked to pay to earn easy money</a>

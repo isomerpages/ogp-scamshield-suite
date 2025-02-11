@@ -30,22 +30,31 @@ their bank accounts.</p>
 <p></p>
 <p>Mid-Year Scams and Cybercrime Brief 2024</p>
 <hr>
-<h3>Government officials will never ask you to do the following over the phone or through text message:</h3>
+<h3>Government officials will <strong>NEVER</strong> do these things over a phone call:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Transfer money to bank accounts​.</p>
+<p>Ask you to transfer money;</p>
 </li>
 <li>
-<p>Request for your personal, banking, SingPass or CPF related information.</p>
+<p>Ask you to disclose personal or banking details;</p>
 </li>
 <li>
-<p>Ask you to click on links that lead to bank websites.</p>
+<p>Ask you to install mobile apps from unofficial app stores;</p>
 </li>
 <li>
-<p>Ask you to install apps or software from third party websites.</p>
+<p>Transfer your call directly to Police, <strong>except when you call 995 for life threatening-emergencies.</strong>
+</p>
 </li>
 </ul>
 <p><strong><u>Additional Advisories</u></strong>
+</p>
+<p>If you receive an SMS from the government, make sure it is sent from the
+<a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>SMS Sender ID*.</p>
+<p>Scammers may cite your personal information (e.g. name or NRIC number)
+to appear legitimate. Do not automatically trust someone just because he/she
+has your personal information. Call the 24/7 ScamShield Helpline at <strong>1799</strong> to
+check if you are unsure if something is a scam.</p>
+<p><em>*Exceptions apply for National Service calls-ups and emergency services. Read more about <a href="https://www.sms.gov.sg/exceptions" rel="noopener nofollow" target="_blank">the exceptions</a></em>
 </p>
 <p>Overseas law enforcement agencies have no legal powers to require members
 of the public in Singapore to assist in their investigations without the
@@ -54,13 +63,13 @@ approval of the Singapore government.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Transfer money to the Police, bank accounts, or mobile numbers linked
-to bank accounts.</p>
+to bank accounts;</p>
 </li>
 <li>
-<p>Request for your banking, SingPass and/or CPF related information.</p>
+<p>Request for your banking, SingPass and/or CPF related information;</p>
 </li>
 <li>
-<p>Click on links that lead to bank websites.</p>
+<p>Click on links that lead to bank websites;</p>
 </li>
 <li>
 <p>Install apps outside of official app stores.</p>

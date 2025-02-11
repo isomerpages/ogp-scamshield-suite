@@ -11,10 +11,30 @@ description: ""
 </div>
 <p>Victims would receive pop-ups on their laptops or desktops claiming that
 their electronic devices had been compromised. The pop-up alerts would
-contain contact number(s) for victims to call for technical support. When
-victims called the number(s), scammers impersonating Microsoft or Apple
-tech support employees would claim that the victim’s device had been compromised
-by “hackers” and was used for illegal activities.</p>
+contain contact number(s) for victims to call for technical support.</p>
+<p>While browsing the internet on their computer, victims would receive a
+pop-up notification alerting them that their computer had been infected
+with a virus instructing them to call a phone number of an alleged software
+provider for technical assistance. The number often appeared as a Singapore
+phone number (e.g. +653159(XXXX), 3159(XXXX), +656964(XXXX), 6964(XXXX))
+to give victims the impression that they were calling a legitimate local
+helpdesk. Once engaged, scammers would impersonate technical support personnel
+from reputable software providers such as Microsoft or Apple.</p>
+<p>First, the scammers might claim that the victims’ computers had been compromised
+and instruct the victims to download remote access applications, such as
+ConnectWise, UltraViewer or AnyDesk. The scammers would claim that these
+actions were necessary to install firewalls on the victims’ devices. Next,
+the scammers would instruct the victims to log into their bank accounts
+and that would allow the scammers to transfer the victim’s monies out to
+other bank accounts using their remote access, or ask victims to approve
+bank transactions using their digital tokens when the scammers encountered
+the bank’s request for authentication in order to effect the transfers.</p>
+<p></p>
+<p></p>
+<p></p>
+<p>When victims called the number(s), scammers impersonating Microsoft or
+Apple tech support employees would claim that the victim’s device had been
+compromised by “hackers” and was used for illegal activities.</p>
 <p>Subsequently, the scammers would instruct victims to access websites and/or
 download software that would grant scammers remote access to their devices.
 Victims would subsequently realise that they had been scammed when they
