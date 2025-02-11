@@ -48,19 +48,18 @@ their bank accounts.</p>
 </ul>
 <p><strong><u>Additional Advisories</u></strong>
 </p>
-<p>Overseas law enforcement agencies have no legal powers to require members
-of the public in Singapore to assist in their investigations without the
-approval of the Singapore government.</p>
 <p>If you receive an SMS from the government, make sure it is sent from the
 <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>SMS Sender ID*.</p>
 <p>Scammers may cite your personal information (e.g. name or NRIC number)
 to appear legitimate. Do not automatically trust someone just because he/she
 has your personal information.</p>
-<p>Stop and check the identity of the person against trusted sources, such
-as the organisation’s official hotline. Call the 24/7 ScamShield Helpline
-at 1799 to check if you are unsure if something is a scam.</p>
-<p><em>*Exceptions apply for National Service calls-ups and emergency services. Read more about the exceptions.</em>
+<p>Call the 24/7 ScamShield Helpline at 1799 to check if you are unsure if
+something is a scam.</p>
+<p><em>*Exceptions apply for National Service calls-ups and emergency services. Read more about <a href="https://www.sms.gov.sg/exceptions" rel="noopener nofollow" target="_blank">the exceptions</a></em>
 </p>
+<p>Overseas law enforcement agencies have no legal powers to require members
+of the public in Singapore to assist in their investigations without the
+approval of the Singapore government.</p>
 <h3>SPF officers will <strong>NEVER</strong> ask you to do the following over the phone or through text message:</h3>
 <ul data-tight="true" class="tight">
 <li>
