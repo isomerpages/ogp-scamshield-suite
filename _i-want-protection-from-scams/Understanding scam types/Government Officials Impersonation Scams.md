@@ -52,9 +52,8 @@ their bank accounts.</p>
 <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>SMS Sender ID*.</p>
 <p>Scammers may cite your personal information (e.g. name or NRIC number)
 to appear legitimate. Do not automatically trust someone just because he/she
-has your personal information.</p>
-<p>Call the 24/7 ScamShield Helpline at 1799 to check if you are unsure if
-something is a scam.</p>
+has your personal information. Call the 24/7 ScamShield Helpline at 1799
+to check if you are unsure if something is a scam.</p>
 <p><em>*Exceptions apply for National Service calls-ups and emergency services. Read more about <a href="https://www.sms.gov.sg/exceptions" rel="noopener nofollow" target="_blank">the exceptions</a></em>
 </p>
 <p>Overseas law enforcement agencies have no legal powers to require members
