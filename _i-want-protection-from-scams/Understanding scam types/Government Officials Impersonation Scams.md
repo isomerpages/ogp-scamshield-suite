@@ -64,13 +64,13 @@ approval of the Singapore government.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Transfer money to the Police, bank accounts, or mobile numbers linked
-to bank accounts.</p>
+to bank accounts;</p>
 </li>
 <li>
-<p>Request for your banking, SingPass and/or CPF related information.</p>
+<p>Request for your banking, SingPass and/or CPF related information;</p>
 </li>
 <li>
-<p>Click on links that lead to bank websites.</p>
+<p>Click on links that lead to bank websites;</p>
 </li>
 <li>
 <p>Install apps outside of official app stores.</p>
