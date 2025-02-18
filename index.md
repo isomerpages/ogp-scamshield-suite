@@ -26,7 +26,7 @@ sections:
           url: /introduction-to-scams/
   - infopic:
       title: Monthly Scam Counter
-      subtitle: January 2024
+      subtitle: January 2025
       id: infopic
       description: Stay informed with monthly updates on the latest scam statistics in
         Singapore.  Learn to spot red flags and protect yourself and your loved
