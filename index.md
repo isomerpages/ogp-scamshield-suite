@@ -9,7 +9,7 @@ notification: Police will never request for your banking, SingPass details, or
   ScamShield Helpline (1799) to check.
 sections:
   - hero:
-      background: /images/GOIS_Website_banner.png
+      background: /images/26_Aug_Banner.png
       variant: center
       key_highlights:
         - title: Get help if you have been scammed
