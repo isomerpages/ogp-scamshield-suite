@@ -4,8 +4,7 @@ title: ScamShield Website
 description: Government directory for scam-related information
 image: /images/Logo_2024.png
 permalink: /
-notification: Government officials will never request for your banking, SingPass
-  details, or you to transfer money over the phone or text message.
+notification: ""
 sections:
   - hero:
       background: /images/GOIS_Website_banner_1799.png
