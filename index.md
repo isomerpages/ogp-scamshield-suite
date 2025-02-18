@@ -5,8 +5,7 @@ description: Government directory for scam-related information
 image: /images/Logo_2024.png
 permalink: /
 notification: Government officials will never request for your banking, SingPass
-  details, or you to transfer money over the phone or text message. If unsure,
-  call the ScamShield Helpline (1799) to check.
+  details, or you to transfer money over the phone or text message.
 sections:
   - hero:
       background: /images/GOIS_Website_banner.png
