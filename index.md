@@ -67,9 +67,9 @@ sections:
   - infopic:
       title: Government Officials will never ask you to transfer money
       id: infopic
-      description: $67.5 million was to lost Government Officials Impersonation Scams
-        in first half of 2024.  Learn more about dos and donts of government
-        officials now!
+      description: "$67.5 million lost to Government Official Impersonation Scams in
+        1st half of 2024. Protect yourself: Learn the dos & don'ts of government
+        officials now!"
       image: /images/1_in_5.png
       alt: Image alt text
       subtitle: did you know?
