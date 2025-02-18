@@ -4,12 +4,11 @@ title: ScamShield Website
 description: Government directory for scam-related information
 image: /images/Logo_2024.png
 permalink: /
-notification: Police will never request for your banking, SingPass details, or
-  you to transfer money over the phone or text message. If unsure, call the
-  ScamShield Helpline (1799) to check.
+notification: Government officials will never request for your banking, SingPass
+  details, or you to transfer money over the phone or text message.
 sections:
   - hero:
-      background: /images/GOIS_Website_banner.png
+      background: /images/GOIS_Website_banner_1799.png
       variant: center
       key_highlights:
         - title: Get help if you have been scammed
@@ -75,7 +74,7 @@ sections:
       image: /images/1_in_5.png
       alt: Image alt text
       subtitle: did you know?
-      url: https://www.mha.gov.sg/docs/default-source/default-document-library/e-commerce-marketplace-tsr_final.pdf
+      url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
       button: Learn more
   - textcards:
       title: Scam Threats
