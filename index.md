@@ -8,7 +8,7 @@ notification: Government officials will never request for your banking, SingPass
   details, or you to transfer money over the phone or text message.
 sections:
   - hero:
-      background: /images/GOIS_Website_banner.png
+      background: /images/GOIS_Website_banner_1799.png
       variant: center
       key_highlights:
         - title: Get help if you have been scammed
