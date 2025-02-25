@@ -19,7 +19,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Annual Scams and Cybercrime Infographic 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/2024_Annual_SCC_Infographic.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/2024_Annual_SCC_Infographic.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Scams%20and%20Cybercrime%20Briefs/2024_Annual_SCC_Infographic.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/2024_Annual_SCC_Infographic.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mid-Year Scams and Cybercrime Brief 2024</strong>
