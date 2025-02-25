@@ -165,4 +165,14 @@ sections:
         height="360" width="100%"></iframe>
       subtitle: Launch video
       title: ScamShield Suite
+  - infopic:
+      title: Think you'd never fall for a scam?
+      subtitle: "Unpacked: Experience a scam"
+      id: infopic
+      description: Step into a realistic scam experience and see firsthand how easy it
+        is to be deceived.
+      button: Experience Now
+      url: https://unpacked.hack2025.gov.sg/
+      image: /images/opengraph_image__4_.png
+      alt: Unpacked hero image
 ---
