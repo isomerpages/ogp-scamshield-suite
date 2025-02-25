@@ -34,6 +34,16 @@ sections:
       image: /images/Scam Counters/2025 Scam Counter/Jan2025_Scam_counter.jpg
       alt: Image alt text
   - infopic:
+      title: Think you'd never fall for a scam?
+      subtitle: "Unpacked: Experience a scam"
+      id: infopic
+      description: Step into a realistic scam experience and see firsthand how easy it
+        is to be deceived.
+      button: Experience Now
+      url: https://unpacked.hack2025.gov.sg/
+      image: /images/opengraph_image__4_.png
+      alt: Unpacked hero image
+  - infopic:
       title: Impersonation Scam That Almost Cost My Mum Her Life Savings
       subtitle: Think you are safe from scams?
       id: infopic
@@ -165,14 +175,4 @@ sections:
         height="360" width="100%"></iframe>
       subtitle: Launch video
       title: ScamShield Suite
-  - infopic:
-      title: Think you'd never fall for a scam?
-      subtitle: "Unpacked: Experience a scam"
-      id: infopic
-      description: Step into a realistic scam experience and see firsthand how easy it
-        is to be deceived.
-      button: Experience Now
-      url: https://unpacked.hack2025.gov.sg/
-      image: /images/opengraph_image__4_.png
-      alt: Unpacked hero image
 ---
