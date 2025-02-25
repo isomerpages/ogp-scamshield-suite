@@ -53,7 +53,7 @@ to help him/her through a difficult situation.</p>
 <p>ScamShield app to block scam calls and filter scam SMSes. ​</p>
 </li>
 <li>
-<p>Anti-virus app to your devices (see recommendations by CSA).​</p>
+<p>Anti-virus app to your devices (see <a href="https://www.csa.gov.sg/resources/tips-and-resources/recommended-security-apps-list" rel="noopener nofollow" target="_blank">recommendations by CSA</a>).​</p>
 </li>
 <li>
 <p>International Call Blocking option to your mobile account(s).&nbsp;</p>
