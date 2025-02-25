@@ -16,7 +16,7 @@ malware.&nbsp;
 <br>Anti-virus apps which can detect malware and malicious phishing links
 are also key to safeguarding your devices and accounts.&nbsp;</p>
 <p>Not sure which security app to download? The Cyber Security Agency of
-Singapore (CSA) has put together <strong><a href="https://www.csa.gov.sg/images/default-source/press-releases/list-of-recommended-security-apps-2025-infographic.jpg" rel="noopener nofollow" target="_blank">a list of recommended apps</a></strong> which
+Singapore (CSA) has put together <strong><a href="https://www.csa.gov.sg/resources/tips-and-resources/recommended-security-apps-list" rel="noopener nofollow" target="_blank">a list of recommended apps</a></strong> which
 users can download to suit their needs and budget. The apps come in free
 and paid versions, offering a range of features such as malicious URL blocking
 and malware scanning.</p>
