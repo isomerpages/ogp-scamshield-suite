@@ -117,7 +117,7 @@ sections:
           announcement: The Singapore Police Force (SPF) released these latest figures in
             their annual scams and cybercrime brief on 25 Feb 2025.
           link_text: Learn more
-          link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf
         - title: CPF Withdrawal Limit Reduced
           date: 22 August 2024
           announcement: Online CPF withdrawal limit reduced from S$200,000 to S$50,000 per
