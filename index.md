@@ -112,6 +112,12 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
+        - title: Annual Scams and Cybercrime Brief 2024
+          date: 25 February 2025
+          announcement: The Singapore Police Force (SPF) released these latest figures in
+            their annual scams and cybercrime brief on 25 Feb 2025.
+          link_text: Learn more
+          link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
         - title: CPF Withdrawal Limit Reduced
           date: 22 August 2024
           announcement: Online CPF withdrawal limit reduced from S$200,000 to S$50,000 per
@@ -130,13 +136,6 @@ sections:
             single gov.sg SMS Sender ID
           link_text: Learn more
           link_url: https://www.gov.sg/article/what-you-need-to-know-govsg-sms-sender-id
-        - title: Anti-Scam mascot design competition
-          date: 16 April 2024
-          announcement: The Association of Banks in Singapore launched a mascot design
-            competition to encourage wider participation in the nation’s ongoing
-            fight against scams.
-          link_text: Learn more
-          link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
   - infopic:
       title: I can ACT against scams
       id: infopic
