@@ -118,6 +118,12 @@ sections:
             their annual scams and cybercrime brief on 25 Feb 2025.
           link_text: Learn more
           link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf
+        - title: Singapore passes Bill to control bank accounts of scam victims
+          date: 07 January 2025
+          announcement: The police will be able to control the bank accounts of stubborn
+            scam victims to prevent them from transferring money to scammers
+          link_text: Learn more
+          link_url: https://www.straitstimes.com/singapore/politics/singapore-passes-bill-to-control-bank-accounts-of-scam-victims-law-will-also-cover-cheating-cases
         - title: CPF Withdrawal Limit Reduced
           date: 22 August 2024
           announcement: Online CPF withdrawal limit reduced from S$200,000 to S$50,000 per
@@ -130,12 +136,6 @@ sections:
             their mid-year scams and cybercrime brief on 22 Aug 2024.
           link_text: Learn more
           link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf
-        - title: gov.sg SMS Sender ID
-          date: 01 July 2024
-          announcement: From 1 July 2024, SMSes from government agencies will come from a
-            single gov.sg SMS Sender ID.
-          link_text: Learn more
-          link_url: https://www.gov.sg/article/what-you-need-to-know-govsg-sms-sender-id
   - infopic:
       title: I can ACT against scams
       id: infopic
