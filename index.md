@@ -118,7 +118,7 @@ sections:
             their annual scams and cybercrime brief on 25 Feb 2025.
           link_text: Learn more
           link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Annual_SCC_Brief.pdf
-        - title: Singapore passes Bill to control bank accounts of scam victims
+        - title: Singapore Parliament passes Bill to control bank accounts
           date: 07 January 2025
           announcement: The new law will give the Singapore Police Force (SPF)  powers to
             issue restriction orders (ROs) to banks, which will then restrict
