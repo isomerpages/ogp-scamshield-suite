@@ -117,7 +117,7 @@ sections:
           announcement: The Singapore Police Force (SPF) released these latest figures in
             their annual scams and cybercrime brief on 25 Feb 2025.
           link_text: Learn more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Annual_SCC_Brief.pdf
         - title: Singapore passes Bill to control bank accounts of scam victims
           date: 07 January 2025
           announcement: The new law will give the Singapore Police Force (SPF)  powers to
