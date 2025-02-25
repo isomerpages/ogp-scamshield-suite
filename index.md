@@ -120,8 +120,9 @@ sections:
           link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf
         - title: Singapore passes Bill to control bank accounts of scam victims
           date: 07 January 2025
-          announcement: The police will be able to control the bank accounts of stubborn
-            scam victims to prevent them from transferring money to scammers
+          announcement: The new law will give the Singapore Police Force (SPF)  powers to
+            issue restriction orders (ROs) to banks, which will then restrict
+            the banking transactions of an individual’s accounts.
           link_text: Learn more
           link_url: https://www.straitstimes.com/singapore/politics/singapore-passes-bill-to-control-bank-accounts-of-scam-victims-law-will-also-cover-cheating-cases
         - title: CPF Withdrawal Limit Reduced
