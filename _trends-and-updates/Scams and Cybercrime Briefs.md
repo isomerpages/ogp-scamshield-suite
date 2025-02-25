@@ -16,10 +16,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Annual Scams and Cybercrime Brief 2024</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/2024_Annual_SCC_Brief.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Annual Scams and Cybercrime Infographic 2024</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scams and Cybercrime Briefs/2024_Annual_SCC_Infographic.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mid-Year Scams and Cybercrime Brief 2024</strong>
