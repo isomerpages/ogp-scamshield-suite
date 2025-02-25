@@ -26,10 +26,10 @@ no longer be contacted.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$86.0 million lost to scammers</strong></h2>
+<h2><strong>At least S$156.2 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Mid-Year Scams and Cybercrime Brief 2024</p>
+<p>Annual Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>It is likely a scam if the job requires you to:</h3>
 <ul data-tight="true" class="tight">

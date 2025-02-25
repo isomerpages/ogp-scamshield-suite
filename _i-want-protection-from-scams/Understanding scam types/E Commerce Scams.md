@@ -20,10 +20,10 @@ screenshots as “proof of payment”.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$8.6 million lost to scammers</strong></h2>
+<h2><strong>At least S$17.5 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Mid-Year Scams and Cybercrime Brief 2024</p>
+<p>Annual Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>It is likely a scam if the seller:</h3>
 <ul data-tight="true" class="tight">

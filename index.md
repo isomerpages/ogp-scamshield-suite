@@ -34,6 +34,16 @@ sections:
       image: /images/Scam Counters/2025 Scam Counter/Jan2025_Scam_counter.jpg
       alt: Image alt text
   - infopic:
+      title: Think you'd never fall for a scam?
+      subtitle: "Unpacked: Experience a scam"
+      id: infopic
+      description: Step into a realistic scam experience and see firsthand how easy it
+        is to be deceived.
+      button: Experience Now
+      url: https://unpacked.hack2025.gov.sg/
+      image: /images/opengraph_image__4_.png
+      alt: Unpacked hero image
+  - infopic:
       title: Impersonation Scam That Almost Cost My Mum Her Life Savings
       subtitle: Think you are safe from scams?
       id: infopic
@@ -67,9 +77,9 @@ sections:
   - infopic:
       title: Government Officials will never ask you to transfer money
       id: infopic
-      description: "$67.5 million lost to Government Official Impersonation Scams in
-        1st half of 2024. Protect yourself: Learn the dos & don'ts of government
-        officials now!"
+      description: "S$151.3 million lost to Government Official Impersonation Scams in
+        2024. Protect yourself: Learn the dos & don'ts of government officials
+        now!"
       image: /images/1_in_5.png
       alt: Image alt text
       subtitle: did you know?
@@ -80,23 +90,23 @@ sections:
       id: textcards
       cards:
         - title: Investment Scams
-          description: ~S$40,080 lost per case
+          description: ~S$47,077 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
         - title: Government Officials Impersonation Scams
-          description: ~S$116,534 lost per case
+          description: ~S$100,622 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
         - title: Phishing Scams
-          description: ~S$3,858 lost per case
+          description: ~S$6,955 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
         - title: Job Scams
-          description: ~S$15,043 lost per case
+          description: ~S$17,281 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
-      description: Singapore lost S$385.6 million to scams in the first half of 2024
-        across 26,587 cases
+      description: Singapore lost at least S$1.1 billion to scams in 2024 across
+        51,501 cases
       subtitle: stay informed
   - infopic:
       title: Scams Bulletin
@@ -112,10 +122,23 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
+        - title: Annual Scams and Cybercrime Brief 2024
+          date: 25 February 2025
+          announcement: The Singapore Police Force (SPF) released these latest figures in
+            their annual scams and cybercrime brief on 25 Feb 2025.
+          link_text: Learn more
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Annual_SCC_Brief.pdf
+        - title: Singapore Parliament passes Bill to control bank accounts of scam victims
+          date: 07 January 2025
+          announcement: The new law will give the Singapore Police Force (SPF)  powers to
+            issue restriction orders (ROs) to banks, which will then restrict
+            the banking transactions of an individual’s accounts.
+          link_text: Learn more
+          link_url: https://www.straitstimes.com/singapore/politics/singapore-passes-bill-to-control-bank-accounts-of-scam-victims-law-will-also-cover-cheating-cases
         - title: CPF Withdrawal Limit Reduced
           date: 22 August 2024
           announcement: Online CPF withdrawal limit reduced from S$200,000 to S$50,000 per
-            day to reduce scam losses
+            day to reduce scam losses.
           link_text: Learn more
           link_url: https://www.cpf.gov.sg/member/infohub/news/news-releases/lowering-of-maximum-daily-withdrawal-limit-to-50000-for-online-cpf-withdrawals-to-strengthen-safeguards-against-scams
         - title: Mid Year Scams and Cybercrime Brief 2024
@@ -124,19 +147,6 @@ sections:
             their mid-year scams and cybercrime brief on 22 Aug 2024.
           link_text: Learn more
           link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf
-        - title: gov.sg SMS Sender ID
-          date: 01 July 2024
-          announcement: From 1 July 2024, SMSes from government agencies will come from a
-            single gov.sg SMS Sender ID
-          link_text: Learn more
-          link_url: https://www.gov.sg/article/what-you-need-to-know-govsg-sms-sender-id
-        - title: Anti-Scam mascot design competition
-          date: 16 April 2024
-          announcement: The Association of Banks in Singapore launched a mascot design
-            competition to encourage wider participation in the nation’s ongoing
-            fight against scams.
-          link_text: Learn more
-          link_url: https://www.abs.org.sg/docs/library/abs-launches-anti-scam-mascot-design-competition.pdf
   - infopic:
       title: I can ACT against scams
       id: infopic
@@ -162,7 +172,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/bIAo--B3V3A?si=HbSi2zskpEC_07oR"
-        height="360" width="640"></iframe>
+        height="360" width="100%"></iframe>
       subtitle: Launch video
       title: ScamShield Suite
 ---

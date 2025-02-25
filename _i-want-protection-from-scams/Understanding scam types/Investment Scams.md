@@ -28,10 +28,10 @@ that they had been scammed.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$133.4 million lost to scammers</strong></h2>
+<h2><strong>At least S$320.7 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Mid-Year Scams and Cybercrime Brief 2024</p>
+<p>Annual Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>Common signs of phony investments are:</h3>
 <ul data-tight="true" class="tight">

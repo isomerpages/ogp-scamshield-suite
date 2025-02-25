@@ -25,10 +25,10 @@ their bank accounts.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$67.5 million lost to scammers</strong></h2>
+<h2><strong>At least S$151.3 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Mid-Year Scams and Cybercrime Brief 2024</p>
+<p>Annual Scams and Cybercrime Brief 2024</p>
 <hr>
 <h3>Government officials will <strong>NEVER</strong> do these things over a phone call:</h3>
 <ul data-tight="true" class="tight">
@@ -106,7 +106,7 @@ to bank accounts;</p>
 <p>ScamShield app to block scam calls and filter scam SMSes​.</p>
 </li>
 <li>
-<p>Anti-virus app to your devices (see recommendations by CSA).</p>
+<p>Anti-virus app to your devices (see <a href="https://www.csa.gov.sg/resources/tips-and-resources/recommended-security-apps-list" rel="noopener nofollow" target="_blank">recommendations by CSA</a>).</p>
 </li>
 <li>
 <p>Money Lock to your bank accounts to further secure a portion of your savings.</p>
