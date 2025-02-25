@@ -121,7 +121,7 @@ sections:
         - title: CPF Withdrawal Limit Reduced
           date: 22 August 2024
           announcement: Online CPF withdrawal limit reduced from S$200,000 to S$50,000 per
-            day to reduce scam losses
+            day to reduce scam losses.
           link_text: Learn more
           link_url: https://www.cpf.gov.sg/member/infohub/news/news-releases/lowering-of-maximum-daily-withdrawal-limit-to-50000-for-online-cpf-withdrawals-to-strengthen-safeguards-against-scams
         - title: Mid Year Scams and Cybercrime Brief 2024
@@ -133,7 +133,7 @@ sections:
         - title: gov.sg SMS Sender ID
           date: 01 July 2024
           announcement: From 1 July 2024, SMSes from government agencies will come from a
-            single gov.sg SMS Sender ID
+            single gov.sg SMS Sender ID.
           link_text: Learn more
           link_url: https://www.gov.sg/article/what-you-need-to-know-govsg-sms-sender-id
   - infopic:
