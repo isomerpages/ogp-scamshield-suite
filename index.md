@@ -89,22 +89,22 @@ sections:
       title: Scam Threats
       id: textcards
       cards:
-        - title: Investment Scams
-          description: ~S$47,077 lost per case
-          linktext: Learn more
-          url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
         - title: Government Officials Impersonation Scams
           description: ~S$100,622 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
-        - title: Phishing Scams
-          description: ~S$6,955 lost per case
+        - title: Investment Scams
+          description: ~S$47,077 lost per case
           linktext: Learn more
-          url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
+          url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
         - title: Job Scams
           description: ~S$17,281 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
+        - title: Phishing Scams
+          description: ~S$6,955 lost per case
+          linktext: Learn more
+          url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
       description: Singapore lost at least S$1.1 billion to scams in 2024 across
         51,501 cases
       subtitle: stay informed
