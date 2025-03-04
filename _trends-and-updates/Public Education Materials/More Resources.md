@@ -15,7 +15,7 @@ third_nav_title: Public Education Materials
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Investment Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Investment_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_Scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Investment_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_scam.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Job Scams</strong>
@@ -58,17 +58,17 @@ third_nav_title: Public Education Materials
 <p>CSA Cyber Tips on protecting yourselves</p><a class="isomer-image-wrapper" href="/csa-cyber-tips/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/CSA Cyber Tips/CSA_cyber_tip.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>RICE Media Impersonation Scam Article</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia.jpg"></a>
+<p>Impersonation Scam: Provide support and not blame</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia.jpg"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AsiaOne The S-Files</strong>
+<p><strong>The S-Files: Ready to uncover the truth?</strong>
 </p><a class="isomer-image-wrapper" href="https://www.asiaone.com/singapore/s-files-spf-psychologists-reveal-what-goes-behind-scams"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/asiaone_sfiles.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Job Scam: The Hidden Cost of Quick Cash</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/how-scammers-prey-on-job-seekers/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia1.jpg"></a>
+</th>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
