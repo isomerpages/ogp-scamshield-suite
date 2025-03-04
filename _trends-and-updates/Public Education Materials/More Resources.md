@@ -67,7 +67,7 @@ third_nav_title: Public Education Materials
 </p><a class="isomer-image-wrapper" href="https://www.asiaone.com/singapore/s-files-spf-psychologists-reveal-what-goes-behind-scams"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/asiaone_sfiles.jpg"></a>
 </td>
 <th rowspan="1" colspan="1">
-<p>The Hidden Cost of Quick Cash</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/how-scammers-prey-on-job-seekers/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia1.jpg"></a>
+<p>Job Scam: The Hidden Cost of Quick Cash</p><a class="isomer-image-wrapper" href="https://www.ricemedia.co/how-scammers-prey-on-job-seekers/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/ricemedia1.jpg"></a>
 </th>
 <td rowspan="1" colspan="1">
 <p></p>
