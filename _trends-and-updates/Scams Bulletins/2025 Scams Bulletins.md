@@ -16,7 +16,7 @@ third_nav_title: Scams Bulletins
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 03 - Mar 2025</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="/files/2025%20Scams%20Bulletins/03_msb_2025.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2025 Bulletin Cover/2025_MSB_03.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 02 - Feb 2025</strong>
