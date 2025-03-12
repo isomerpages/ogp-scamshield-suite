@@ -20,7 +20,7 @@ third_nav_title: Scams Bulletins
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 06 - Nov 2024</strong>
-</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Nov%202024/monthly_scams_bulletin_2024_issue_06pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Nov%202024/monthly_scams_bulletin_2024_issue_06.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_06.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 05 - Oct 2024</strong>
@@ -45,7 +45,7 @@ third_nav_title: Scams Bulletins
 </p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Jun%202024/monthly_scams_bulletin_2024_issue_01.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_MSB_01.jpg"></a>
 </td>
 <th rowspan="1" colspan="1">
-<p><strong>Weekly Scams Bulletin Issue 17</strong>
+<p><strong>Weekly Scams Bulletin Issue 17 - Apr Wk4</strong>
 </p><a class="isomer-image-wrapper" href="/files/2024%20Scams%20Bulletins/Apr%202024/WSB_Issue_24_17__26_Apr_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2024 Bulletin Cover/2024_WSB_17.jpg"></a>
 </th>
 </tr>
