@@ -32,7 +32,7 @@ sections:
       button: Learn more about scams here
       url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
       image: /images/Scam Counters/2025 Scam Counter/Feb2025_Scam_counter.png
-      alt: Image alt text
+      alt: scam counter
   - infopic:
       title: Think you'd never fall for a scam?
       subtitle: "Unpacked: Experience a scam"
