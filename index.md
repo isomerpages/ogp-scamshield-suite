@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GOIS_Website_banner_1799.png
+      background: /images/Homepage/GOIS_Website_banner.png
       variant: center
       key_highlights:
         - title: Get help if you have been scammed

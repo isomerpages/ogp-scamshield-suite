@@ -33,17 +33,17 @@ their bank accounts.</p>
 <h3>Government officials will <strong>NEVER</strong> do these things over a phone call:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ask you to transfer money;</p>
+<p>Ask you to <strong>transfer money</strong>;</p>
 </li>
 <li>
-<p>Ask you to disclose personal or banking details;</p>
+<p>Ask you to disclose <strong>banking details</strong>;</p>
 </li>
 <li>
-<p>Ask you to install mobile apps from unofficial app stores;</p>
+<p>Ask you to install<strong> mobile apps</strong> from <strong>unofficial app stores</strong>;</p>
 </li>
 <li>
-<p>Transfer your call directly to Police, <strong>except when you call 995 for life threatening-emergencies.</strong>
-</p>
+<p><strong>Transfer your call</strong> directly to <strong>Police, except when you call 995 </strong>for
+life threatening-emergencies.</p>
 </li>
 </ul>
 <p><strong><u>Additional Advisories</u></strong>
