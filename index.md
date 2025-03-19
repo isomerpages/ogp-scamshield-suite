@@ -30,7 +30,7 @@ sections:
         Singapore.  Learn to spot red flags and protect yourself and your loved
         ones.
       button: Learn more about scams here
-      url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
+      url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
       image: /images/Scam Counters/2025 Scam Counter/Feb2025_Scam_counter.png
       alt: scam counter
   - infopic:
