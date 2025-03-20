@@ -44,7 +44,8 @@ third_nav_title: Public Education Materials
 </table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Government Officials Impersonation Scam</summary>
+<summary><strong>Government Officials Impersonation Scam Resource Package</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
