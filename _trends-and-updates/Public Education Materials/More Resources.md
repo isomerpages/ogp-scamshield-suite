@@ -85,7 +85,10 @@ third_nav_title: Public Education Materials
 <p>1920x1080 Landscape Poster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">PNG</a>
+</p>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">JPG</a>
+</p>
 </td>
 </tr>
 <tr>
