@@ -65,7 +65,7 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1080x1080 Card</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -73,11 +73,19 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1080x1920 Portrait Poster</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>/images/Public%20Education%20Materials/<strong>ricemedia1.jpg</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1920x1080 Landscape Poster</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -101,7 +109,7 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A4 Portrait Poster</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -109,7 +117,7 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Counter QR Code A4 Poster</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>/images/Public%20Education%20Materials/<strong>ricemedia1.jpg</strong>
