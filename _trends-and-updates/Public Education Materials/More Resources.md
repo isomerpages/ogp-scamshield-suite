@@ -68,7 +68,10 @@ third_nav_title: Public Education Materials
 <p>1080x1080 Card</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">PNG</a>
+</p>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">JPG</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +79,9 @@ third_nav_title: Public Education Materials
 <p>1080x1920 Portrait Poster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>/images/Public%20Education%20Materials/<strong>ricemedia1.jpg</strong>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">PNG</a>
+</p>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">JPG</a>
 </p>
 </td>
 </tr>
@@ -96,7 +101,10 @@ third_nav_title: Public Education Materials
 <p>Email Signature Banner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">PNG</a>
+</p>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">JPG</a>
+</p>
 </td>
 </tr>
 </tbody>
