@@ -47,6 +47,7 @@ third_nav_title: Public Education Materials
 <summary><strong>Government Officials Impersonation Scam Resource Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -63,10 +64,20 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>/files/Public%20Education%20Materials/Phishing_Scam.pdf</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">test</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>files%2FPublic%20Education%20Materials</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>/images/Public%20Education%20Materials/<strong>ricemedia1.jpg</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +85,7 @@ third_nav_title: Public Education Materials
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>images%2FPublic%20Education%20Materials%2FCSA%20Cyber%20Tips</p>
 </td>
 </tr>
 </tbody>
