@@ -109,10 +109,19 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Email Signature Banner</p>
+<p>Email Banner (For SPF officers)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_SPF_Email_Banner.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email Banner (For other agencies)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_Generic_Email_Banner.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
 </p>
 </td>
 </tr>
@@ -155,7 +164,6 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 </div>
