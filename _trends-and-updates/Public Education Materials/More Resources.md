@@ -98,6 +98,17 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>A4 Portrait Poster</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
+</p>
+<p><a href="/images/Public%20Education%20Materials/ricemedia1.jpg" rel="noopener nofollow" target="_blank">JPG (300dpi)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Email Signature Banner</p>
 </td>
 <td rowspan="1" colspan="1">
