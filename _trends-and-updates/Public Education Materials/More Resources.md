@@ -149,7 +149,7 @@ third_nav_title: Public Education Materials
 <p>Counter QR Code A4 Poster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>/images/Public%20Education%20Materials/<strong>ricemedia1.jpg</strong>
+<p><a href="/files/Public%20Education%20Materials/GOIS%20Package/GOIS_A4_Poster.pdf" rel="noopener nofollow" target="_blank">PDF (CMYK)</a>
 </p>
 </td>
 </tr>
