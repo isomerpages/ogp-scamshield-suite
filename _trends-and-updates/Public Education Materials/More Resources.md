@@ -155,7 +155,7 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Counter QR Code A4 Poster</p>
+<p>NPC Counter A4 Poster</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Public%20Education%20Materials/GOIS%20Package/GOIS_A4_Poster.pdf" rel="noopener nofollow" target="_blank">PDF (CMYK)</a>
