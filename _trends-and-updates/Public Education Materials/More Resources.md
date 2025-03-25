@@ -145,6 +145,9 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1">
 <p>NPC Counter A4 Poster</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/NPC_Poster_w_GOIS_Messaging.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Public%20Education%20Materials/GOIS%20Package/NPC_Poster_w_GOIS_Messaging.pdf" rel="noopener nofollow" target="_blank">PDF (CMYK)</a>
