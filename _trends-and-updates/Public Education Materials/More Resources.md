@@ -90,9 +90,9 @@ third_nav_title: Public Education Materials
 <p>1920x1080 Landscape Poster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_A4_Poster.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_KV_1920x1080.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
 </p>
-<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_A4_Poster.jpg" rel="noopener nofollow" target="_blank">JPG (300dpi)</a>
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_KV_1920x1080.jpg" rel="noopener nofollow" target="_blank">JPG (300dpi)</a>
 </p>
 </td>
 </tr>
