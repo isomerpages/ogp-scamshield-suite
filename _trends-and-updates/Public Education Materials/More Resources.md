@@ -42,12 +42,8 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Government Officials Impersonation Scam Resource Package</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Government Officials Impersonation Scam Resource Package</strong>
+</p>
 <p><strong>For Digital Use</strong>
 </p>
 <table style="minWidth: 50px">
@@ -117,7 +113,6 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>For Office Printing</strong>
 </p>
 <table style="minWidth: 50px">
@@ -155,9 +150,6 @@ third_nav_title: Public Education Materials
 </tbody>
 </table>
 <p></p>
-</div>
-</details>
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
