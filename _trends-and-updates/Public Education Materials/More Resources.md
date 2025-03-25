@@ -42,7 +42,120 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<h4><strong>Government Officials Impersonation Scam Resource Package</strong></h4>
+<p><strong>For Digital Use</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>File</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1080x1920 Portrait Poster</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1080x1920.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_KV_1080x1920.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
+</p>
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_KV_1080x1920.jpg" rel="noopener nofollow" target="_blank">JPG (300dpi)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1920x1080 Landscape Poster</p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1920x1080.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_KV_1920x1080.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
+</p>
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_KV_1920x1080.jpg" rel="noopener nofollow" target="_blank">JPG (300dpi)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email Banner (For SPF officers)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_SPF_Email_Banner.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_SPF_Email_Banner.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email Banner (For other agencies)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_Generic_Email_Banner.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_Generic_Email_Banner.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>For Office Printing</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>File</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A4 Portrait Poster</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_A4_Poster.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Public%20Education%20Materials/GOIS%20Package/GOIS_A4_Poster.pdf" rel="noopener nofollow" target="_blank">PDF (CMYK)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPC Counter A4 Poster</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/NPC_Poster_w_GOIS_Messaging.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Public%20Education%20Materials/GOIS%20Package/NPC_Poster_w_GOIS_Messaging.pdf" rel="noopener nofollow" target="_blank">PDF (CMYK)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
