@@ -78,7 +78,7 @@ third_nav_title: Public Education Materials
 <td rowspan="1" colspan="1">
 <p>1920x1080 Landscape Poster</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1920x1080.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1920x1080.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
