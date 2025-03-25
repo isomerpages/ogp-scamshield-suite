@@ -133,6 +133,9 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1">
 <p>A4 Portrait Poster</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_A4_Poster.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Public%20Education%20Materials/GOIS%20Package/GOIS_A4_Poster.pdf" rel="noopener nofollow" target="_blank">PDF (CMYK)</a>
