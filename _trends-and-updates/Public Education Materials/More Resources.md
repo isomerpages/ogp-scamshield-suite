@@ -42,8 +42,7 @@ third_nav_title: Public Education Materials
 </tr>
 </tbody>
 </table>
-<p><strong>Government Officials Impersonation Scam Resource Package</strong>
-</p>
+<h4><strong>Government Officials Impersonation Scam Resource Package</strong></h4>
 <p><strong>For Digital Use</strong>
 </p>
 <table style="minWidth: 50px">
