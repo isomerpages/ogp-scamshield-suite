@@ -48,7 +48,7 @@ third_nav_title: Public Education Materials
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>For Digital</strong>
+<p><strong>For Digital Use</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
