@@ -65,17 +65,6 @@ third_nav_title: Public Education Materials
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1080x1080 Card</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_A4_Poster.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
-</p>
-<p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_A4_Poster.jpg" rel="noopener nofollow" target="_blank">JPG (300dpi)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1080x1920 Portrait Poster</p>
 </td>
 <td rowspan="1" colspan="1">
