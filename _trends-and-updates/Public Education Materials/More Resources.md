@@ -20,15 +20,15 @@ third_nav_title: Public Education Materials
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Investment Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Investment_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Investment_Scam.pdf"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Investment_scam.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Job Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Job_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Job_scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Job_Scam.pdf"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Job_scam.jpg"></a>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>E-Commerce Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Ecommerce_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Ecommerce_scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Ecommerce_Scam.pdf"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Ecommerce_scam.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -38,11 +38,11 @@ third_nav_title: Public Education Materials
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Phishing Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Phishing_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Phishing_scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Phishing_Scam.pdf"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Phishing_scam.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Concert Ticket Scam</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Concert_Ticket_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Concert_Ticket_Scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Concert_Ticket_Scam.pdf"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Concert_Ticket_Scam.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
