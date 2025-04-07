@@ -31,23 +31,20 @@ their bank accounts.</p>
 <p>Annual Scams and Cybercrime Brief 2024</p>
 <hr>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/GOIS_3_Landscape__1920x1080_.png">
-</div>
 <h3>Government officials will <strong>NEVER</strong> do these things over a phone call:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ask you to <strong>transfer money</strong>;</p>
 </li>
 <li>
-<p>Ask you to disclose <strong>banking details</strong>;</p>
+<p>Ask you to disclose <strong>banking log-in details</strong>;</p>
 </li>
 <li>
 <p>Ask you to install<strong> mobile apps</strong> from <strong>unofficial app stores</strong>;</p>
 </li>
 <li>
-<p><strong>Transfer your call</strong> directly to <strong>Police, except when you call 995 </strong>for
-life threatening-emergencies.</p>
+<p><strong>Transfer your call</strong> to <strong>Police</strong>
+</p>
 </li>
 </ul>
 <p><strong><u>Additional Advisories</u></strong>
