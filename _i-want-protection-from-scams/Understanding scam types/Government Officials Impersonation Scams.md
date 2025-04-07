@@ -40,7 +40,7 @@ their bank accounts.</p>
 <p>Ask you to <strong>transfer money</strong>;</p>
 </li>
 <li>
-<p>Ask you to disclose <strong>banking log-in details</strong>;</p>
+<p>Ask you to disclose <strong>bank log-in details</strong>;</p>
 </li>
 <li>
 <p>Ask you to install<strong> mobile apps</strong> from <strong>unofficial app stores</strong>;</p>
