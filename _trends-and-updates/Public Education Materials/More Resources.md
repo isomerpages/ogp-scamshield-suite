@@ -62,9 +62,6 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1">
 <p>1080x1920 Portrait Poster</p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1080x1920.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_KV_1080x1920.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
@@ -76,9 +73,6 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1">
 <p>1920x1080 Landscape Poster</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1920x1080.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_KV_1920x1080.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
@@ -90,9 +84,6 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1">
 <p>Email Banner (For SPF officers)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_SPF_Email_Banner.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_SPF_Email_Banner.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
@@ -102,9 +93,6 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1">
 <p>Email Banner (For other agencies)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_Generic_Email_Banner.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/images/Public%20Education%20Materials/GOIS%20Package/GOIS_Generic_Email_Banner.png" rel="noopener nofollow" target="_blank">PNG (72dpi)</a>
