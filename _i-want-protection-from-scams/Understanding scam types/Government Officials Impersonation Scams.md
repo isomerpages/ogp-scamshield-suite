@@ -31,6 +31,9 @@ their bank accounts.</p>
 <p>Annual Scams and Cybercrime Brief 2024</p>
 <hr>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1920x1080.png">
+</div>
 <h3>Government officials will <strong>NEVER</strong> do these things over a phone call:</h3>
 <ul data-tight="true" class="tight">
 <li>
