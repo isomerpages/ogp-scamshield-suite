@@ -40,6 +40,18 @@ third_nav_title: Public Education Materials
 </p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Phishing_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Phishing_scam.jpg"></a>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Concert Ticket Scam</strong>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Concert_Ticket_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Concert_Ticket_Scam.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Government Officials Impersonation Scam Resource Package</strong></h4>
@@ -63,7 +75,7 @@ third_nav_title: Public Education Materials
 <td rowspan="1" colspan="1">
 <p>1080x1920 Portrait Poster</p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1080x1920.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1080x1920.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +103,7 @@ third_nav_title: Public Education Materials
 <td rowspan="1" colspan="1">
 <p>Email Banner (For SPF officers)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_SPF_Email_Banner.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_SPF_Email_Banner.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +115,7 @@ third_nav_title: Public Education Materials
 <td rowspan="1" colspan="1">
 <p>Email Banner (For other agencies)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_Generic_Email_Banner.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_Generic_Email_Banner.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
