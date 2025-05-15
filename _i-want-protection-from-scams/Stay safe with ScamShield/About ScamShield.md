@@ -13,7 +13,7 @@ third_nav_title: Stay safe with ScamShield
 scams. The suite consists of the ScamShield helpline (reachable at 1799),
 ScamShield app (for iPhone and Android), a website (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>)
 with a range of anti-scam resources, and ScamShield Alert Social Channels
-on WhatsApp and Telegram.
+on WhatsApp.
 <br>
 <br>Each of these plays a crucial role in empowering individuals to fight
 against scams, as well as keeping the community safe from fraudulent activities.</p>
