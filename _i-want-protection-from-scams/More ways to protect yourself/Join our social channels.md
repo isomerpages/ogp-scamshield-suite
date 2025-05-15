@@ -6,7 +6,7 @@ description: ""
 third_nav_title: More ways to protect yourself
 ---
 <h1>ScamShield Alert</h1>
-<p><strong>Understanding the latest scams and recognizing their signs is essential for safeguarding yourself. Join the ScamShield Alert social channels on WhatsApp and Telegram to receive up-to-date information on trending scams and more.</strong>
+<p><strong>Understanding the latest scams and recognizing their signs is essential for safeguarding yourself. Join the ScamShield Alert social channels on WhatsApp to receive up-to-date information on trending scams and more.</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
