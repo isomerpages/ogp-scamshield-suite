@@ -31,7 +31,7 @@ sections:
         ones.
       button: Learn more about scams here
       url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
-      image: /images/Scam Counters/2025 Scam Counter/Mar2025_Scam_counter.png
+      image: /images/Scam Counters/2025 Scam Counter/Apr2025_Scam_counter.png
       alt: scam counter
   - infopic:
       title: Think you'd never fall for a scam?
