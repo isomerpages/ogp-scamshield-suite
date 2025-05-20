@@ -122,6 +122,13 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
+        - title: CPF Board begins use of sole phone number for all outbound calls to
+            combat scams
+          date: 20 May 2025
+          announcement: This consolidation to a single number aims to help members easily
+            verify the authenticity of calls from the CPF Board.
+          link_text: Learn more
+          link_url: https://www.cpf.gov.sg/member/infohub/news/news-releases/cpf-board-introduces-single-number-for-calls-to-members-and-enhanced-authentication-for-online-nominations
         - title: Annual Scams and Cybercrime Brief 2024
           date: 25 February 2025
           announcement: The Singapore Police Force (SPF) released these latest figures in
@@ -141,12 +148,6 @@ sections:
             day to reduce scam losses.
           link_text: Learn more
           link_url: https://www.cpf.gov.sg/member/infohub/news/news-releases/lowering-of-maximum-daily-withdrawal-limit-to-50000-for-online-cpf-withdrawals-to-strengthen-safeguards-against-scams
-        - title: Mid Year Scams and Cybercrime Brief 2024
-          date: 22 August 2024
-          announcement: The Singapore Police Force (SPF) released these latest figures in
-            their mid-year scams and cybercrime brief on 22 Aug 2024.
-          link_text: Learn more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Mid_Year_SCC_Brief.pdf
   - infopic:
       title: I can ACT against scams
       id: infopic
