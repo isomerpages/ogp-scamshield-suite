@@ -24,7 +24,7 @@ sections:
           url: /introduction-to-scams/
   - infopic:
       title: Monthly Scam Counter
-      subtitle: March 2025
+      subtitle: April 2025
       id: infopic
       description: Stay informed with monthly updates on the latest scam statistics in
         Singapore.  Learn to spot red flags and protect yourself and your loved
