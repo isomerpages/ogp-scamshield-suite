@@ -40,7 +40,7 @@ sections:
       description: Step into a realistic scam experience and see firsthand how easy it
         is to be deceived.
       button: Experience Now
-      url: https://unpacked.hack2025.gov.sg/
+      url: https://unpacked.gov.sg/
       image: /images/opengraph_image__4_.png
       alt: Unpacked hero image
   - infopic:
