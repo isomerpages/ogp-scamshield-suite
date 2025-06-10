@@ -7,7 +7,7 @@ third_nav_title: Stay safe with ScamShield
 ---
 <h3><strong>What is ScamShield?</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSS_Landing_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/Digital Assets/ScamShield_Suite_2000X750.png">
 </div>
 <p>ScamShield is a suite of products and tools that helps defend against
 scams. The suite consists of the ScamShield helpline (reachable at 1799),
