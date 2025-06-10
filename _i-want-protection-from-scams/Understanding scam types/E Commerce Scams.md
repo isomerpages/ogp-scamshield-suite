@@ -63,6 +63,18 @@ confirmed</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Ecommerce/ecommerce1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Ecommerce/ecommerce2.png">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
