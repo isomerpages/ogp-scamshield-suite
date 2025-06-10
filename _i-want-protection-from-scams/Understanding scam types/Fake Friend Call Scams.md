@@ -45,6 +45,24 @@ to help him/her through a difficult situation.</p>
 </li>
 </ul>
 <hr>
+<h3>Examples of Fake Friend scams</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h3>How to stay safe</h3>
 <p><strong>ADD:</strong>
 </p>
