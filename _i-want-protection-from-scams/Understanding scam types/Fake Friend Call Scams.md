@@ -54,10 +54,14 @@ to help him/her through a difficult situation.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Fake Friend/fakefriend1.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scam Examples/Fake Friend/fakefriend2.png">
+</div>
 </td>
 </tr>
 </tbody>
