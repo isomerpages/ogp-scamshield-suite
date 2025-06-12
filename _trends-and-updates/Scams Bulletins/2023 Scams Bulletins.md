@@ -46,7 +46,7 @@ third_nav_title: Scams Bulletins
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Scams Bulletin Issue 34</strong>
-</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Nov%202023/WSB_Issue_34_EngMdnMlyTml__10_Nov_.pdf"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_34.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/2023%20Scams%20Bulletins/Nov%202023/WSB_Issue_34_EngMdnMlyTml__10_Nov_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scams Bulletin Covers/2023 Bulletin Cover/2023_WSB_34.jpg"></a>
 </td>
 </tr>
 <tr>

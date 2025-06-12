@@ -75,8 +75,9 @@ third_nav_title: Public Education Materials
 </table>
 <p><strong>A5 Print Pamphlets</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -84,7 +85,9 @@ third_nav_title: Public Education Materials
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A5%20Suite%20Posters/ScamShield_Suite_A5_Pamphlet_EngChi.pdf"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A5 Pamphlets/ScamShield_Suite_A5_Pamphlet_EngChi.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A5%20Suite%20Posters/ScamShield_Suite_A5_Pamphlet_MalTam.pdf"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A5 Pamphlets/ScamShield_Suite_A5_Pamphlet_MalTam.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A5%20Suite%20Posters/ScamShield_Suite_A5_Pamphlet_EngMal.pdf"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A5 Pamphlets/ScamShield_Suite_A5_Pamphlet_EngMal.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A5%20Suite%20Posters/ScamShield_Suite_A5_Pamphlet_EngTam.pdf"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A5 Pamphlets/ScamShield_Suite_A5_Pamphlet_EngTam.jpg"></a>
 </td>
 </tr>
 </tbody>
