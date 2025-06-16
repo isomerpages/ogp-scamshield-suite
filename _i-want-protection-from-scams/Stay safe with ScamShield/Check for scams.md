@@ -30,8 +30,8 @@ or message too</p>
 <p><strong><u>Using other platforms?</u></strong>
 </p>
 <p>The ScamShield suite offers multiple ways for you to verify potential
-scams. You can call our 24/7 anti-scam helpline at <a href="tel:1799" rel="noopener nofollow" target="_blank">1799</a> for immediate assistance, or use the live chat
-feature on our website.</p>
+scams. You can call our 24/7 anti-scam helpline at <strong><a href="tel:1799" rel="noopener nofollow" target="_blank">1799</a></strong> for
+immediate assistance, or use the live chat feature on our website.</p>
 <p></p>
 <h4><strong>Check before you act</strong></h4>
 <p>Scammers rely on urgency and confusion to get you to act quickly without
