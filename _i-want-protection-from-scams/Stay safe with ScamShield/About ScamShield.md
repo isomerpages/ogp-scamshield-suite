@@ -10,9 +10,9 @@ third_nav_title: Stay safe with ScamShield
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/Digital Assets/ScamShield_Suite_2000X750.png">
 </div>
 <p>ScamShield is a suite of products and tools that helps defend against
-scams. The suite consists of the ScamShield helpline (reachable at 1799),
-ScamShield app (for iPhone and Android), a website (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>)
-with a range of anti-scam resources, and ScamShield Alert Social Channels
+scams. The suite consists of the ScamShield Helpline (reachable at 1799),
+ScamShield app (for iPhone and Android), a website (<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">scamshield.gov.sg</a>)
+with a range of anti-scam resources, and ScamShield Alert social channels
 on WhatsApp.
 <br>
 <br>Each of these plays a crucial role in empowering individuals to fight
@@ -62,9 +62,8 @@ the ScamShield Helpline by clicking this <a href="/scamshield-helpline" rel="noo
 <h3><strong>One-stop portal on scams</strong></h3>
 <p>Find up-to-date information on current scam trends, tips on how to safeguard
 yourself against scams and steps to take if you’ve fallen for a scam on
-<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>. You can send scam-related queries directly
-to our helpline operators through the online chat to check if something
-is a scam.</p>
+<a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">scamshield.gov.sg</a>. You can send scam-related queries directly to our
+helpline operators through the online chat to check if something is a scam.</p>
 <p></p>
 <hr>
 <h3><strong>Your privacy is our priority</strong></h3>
