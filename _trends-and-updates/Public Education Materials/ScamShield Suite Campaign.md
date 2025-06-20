@@ -41,8 +41,6 @@ third_nav_title: Public Education Materials
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/1799%20Posters/ScamShield_Suite_A4_1799.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_1799.jpg"></a>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A4%20Suite%20Posters/ScamShield_Suite_A4_Eng.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_Eng.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A4%20Suite%20Posters/ScamShield_Suite_A4_Chi.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_Chi.jpg"></a>
@@ -50,6 +48,8 @@ third_nav_title: Public Education Materials
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A4%20Suite%20Posters/ScamShield_Suite_A4_Mal.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_Mal.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A4%20Suite%20Posters/ScamShield_Suite_A4_Tam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_Tam.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/1799%20Posters/ScamShield_Suite_A4_1799.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_1799.jpg"></a>
 </td>
 </tr>
 </tbody>
@@ -66,8 +66,6 @@ third_nav_title: Public Education Materials
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/1799%20Posters/ScamShield_Suite_A3_1799.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_1799.jpg"></a>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A3%20Suite%20Posters/ScamShield_Suite_A3_Eng.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_Eng.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A3%20Suite%20Posters/ScamShield_Suite_A3_Chi.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_Chi.jpg"></a>
@@ -75,6 +73,8 @@ third_nav_title: Public Education Materials
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A3%20Suite%20Posters/ScamShield_Suite_A3_Mal.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_Mal.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/A3%20Suite%20Posters/ScamShield_Suite_A3_Tam.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_Tam.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/ScamShield%20Campaign/1799%20Posters/ScamShield_Suite_A3_1799.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ScamShield Suite Campaign/A4 Posters/ScamShield_Suite_A4_1799.jpg"></a>
 </td>
 </tr>
 </tbody>
