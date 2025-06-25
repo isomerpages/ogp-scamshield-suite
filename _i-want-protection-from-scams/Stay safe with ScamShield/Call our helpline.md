@@ -125,7 +125,7 @@ public utility charges, amongst others.</p>
 <details class="isomer-details">
 <summary>Can I call the ScamShield Helpline if I am overseas?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If you are overseas, call +65 6390 8379 to access the ScamShield Helpline.</p>
+<p>If you are overseas, call +65 6869 1799 to access the ScamShield Helpline.</p>
 </div>
 </details>
 <details class="isomer-details">
