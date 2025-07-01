@@ -122,6 +122,13 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
+        - title: Police can control bank accounts of scam victims in S’pore from July 1
+          date: 30 June 2025
+          announcement: The new Protection from Scams Act will enable the Singapore Police
+            Force (SPF) to better protect scam victims in Singapore who believed
+            that they are not being scammed despite evidence showing otherwise.
+          link_text: Learn more
+          link_url: https://www.straitstimes.com/singapore/act-to-control-bank-accounts-of-scam-victims-in-singapore-to-come-into-effect-on-july-1
         - title: CPF Board begins use of sole phone number for all outbound calls to
             combat scams
           date: 20 May 2025
@@ -142,12 +149,6 @@ sections:
             the banking transactions of an individual’s accounts.
           link_text: Learn more
           link_url: https://www.straitstimes.com/singapore/politics/singapore-passes-bill-to-control-bank-accounts-of-scam-victims-law-will-also-cover-cheating-cases
-        - title: CPF Withdrawal Limit Reduced
-          date: 22 August 2024
-          announcement: Online CPF withdrawal limit reduced from S$200,000 to S$50,000 per
-            day to reduce scam losses.
-          link_text: Learn more
-          link_url: https://www.cpf.gov.sg/member/infohub/news/news-releases/lowering-of-maximum-daily-withdrawal-limit-to-50000-for-online-cpf-withdrawals-to-strengthen-safeguards-against-scams
   - infopic:
       title: I can ACT against scams
       id: infopic
