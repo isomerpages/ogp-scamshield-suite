@@ -47,8 +47,8 @@ sections:
       title: Taking a 10-second pause may save you from being scammed
       subtitle: Think you are safe from scams?
       id: infopic
-      description: They had been seconds away from transferring almost all the money
-        in their bank account – amounting to five figures – to a scammer.
+      description: She had been seconds away from transferring almost all the money in
+        their bank account – amounting to five figures – to a scammer.
       button: Read more
       image: /images/st_column_gois.jpg
       alt: Image alt text
