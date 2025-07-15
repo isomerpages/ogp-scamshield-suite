@@ -7,6 +7,9 @@ description: ""
 <h4>Learn about the different types of scams and how to stay safe with The Straits Times, in partnership with the Singapore Police Force</h4>
 <p>Understanding how these scams work and knowing how to defend yourself
 can help keep you and your loved ones safe from being scammed.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/straitstimesgoisarticle1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">10-second pause saved her from losing five-figure sum to a scam</div><div class="isomer-card-description">In Singapore, $151.3 million were lost to government officials impersonation scams in 2024</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start01" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore is a prime target for scammers. Here’s how you can stay safe</div><div class="isomer-card-description">In the first six months of 2023, the number of scam cases increased by 64 per cent compared with the same period in 2022</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start02" class="isomer-card">
 <div class="isomer-card-image">
@@ -89,7 +92,6 @@ year, up from 771 in 2022, police warn</div>
 </div>
 </a>
 </div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start13" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st13.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Seniors beware: Don’t be enticed by investment deals using CPF savings</div><div class="isomer-card-description">The CPF Board rolled out additional security measures last year to help members better protect their savings from scams</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start14" class="isomer-card">
 <div class="isomer-card-image">
