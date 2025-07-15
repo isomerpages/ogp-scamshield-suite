@@ -7,6 +7,9 @@ description: ""
 <h4>Learn about the different types of scams and how to stay safe with The Straits Times, in partnership with the Singapore Police Force</h4>
 <p>Understanding how these scams work and knowing how to defend yourself
 can help keep you and your loved ones safe from being scammed.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/straitstimesgoisarticle1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st_gois1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">10-second pause saved her from losing five-figure sum to a scam</div><div class="isomer-card-description">In Singapore, S$151.3 million were lost to government officials impersonation scams in 2024</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start01" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore is a prime target for scammers. Here’s how you can stay safe</div><div class="isomer-card-description">In the first six months of 2023, the number of scam cases increased by 64 per cent compared with the same period in 2022</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start02" class="isomer-card">
 <div class="isomer-card-image">
@@ -31,7 +34,7 @@ expert</div>
 <div class="isomer-card-title">Urgent calls from the police or the bank? Here's how to know if it's a
 scam</div>
 <div class="isomer-card-description">Among the top scam types in Singapore, government official impersonation
-scams have the highest average losses at about $116,000</div>
+scams have the highest average losses at about S$116,000</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start05" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st05.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tired of scam calls from overseas? This new measure lets you take a preventive stance</div><div class="isomer-card-description">Subscribers of local telcos can now block all international calls on their mobile phones for free</div><div class="isomer-card-link">Read more</div></div></a>
@@ -89,7 +92,6 @@ year, up from 771 in 2022, police warn</div>
 </div>
 </a>
 </div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start13" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st13.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Seniors beware: Don’t be enticed by investment deals using CPF savings</div><div class="isomer-card-description">The CPF Board rolled out additional security measures last year to help members better protect their savings from scams</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start14" class="isomer-card">
 <div class="isomer-card-image">
@@ -152,7 +154,7 @@ events to deceive victims in times of uncertainty</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Why investment scams are on the rise and how you can protect yourself</div>
-<div class="isomer-card-description">Investment scam victims in the first half of 2024 lost an average of $40,080
+<div class="isomer-card-description">Investment scam victims in the first half of 2024 lost an average of S$40,080
 per case, police say</div>
 <div class="isomer-card-link">Read more</div>
 </div>

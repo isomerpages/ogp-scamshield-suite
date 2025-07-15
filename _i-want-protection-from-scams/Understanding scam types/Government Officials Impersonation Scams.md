@@ -159,6 +159,8 @@ fallen victim.</p>
 </ul>
 <hr>
 <h3>Learn more about government officials impersonation scams</h3>
+<p><a href="https://go.gov.sg/straitstimesgoisarticle1" rel="noopener nofollow" target="_blank">10-second pause saved her from losing five-figure sum to a scam</a>
+</p>
 <p><a href="https://www.ricemedia.co/mum-life-savings-impersonation-scam/" rel="noopener nofollow" target="_blank">The Impersonation Scam That Almost Cost My Mum Her Life Savings</a>
 </p>
 <p><a href="https://go.gov.sg/start04" rel="noopener nofollow" target="_blank">Urgent calls from the police or the bank? Learn how to know if it's a scam</a>

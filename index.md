@@ -44,16 +44,15 @@ sections:
       image: /images/opengraph_image__4_.png
       alt: Unpacked hero image
   - infopic:
-      title: Impersonation Scam That Almost Cost My Mum Her Life Savings
+      title: Taking a 10-second pause may save you from being scammed
       subtitle: Think you are safe from scams?
       id: infopic
-      description: As scams become slick enough to fool even younger Singaporeans and
-        the vulnerable, it is crucial to offer support, education, and
-        understanding — not blame.⁠
+      description: She had been seconds away from transferring almost all the money in
+        their bank account – amounting to five figures – to a scammer.
       button: Read more
-      image: /images/Homepage/RICE_media.png
+      image: /images/st_column_gois.jpg
       alt: Image alt text
-      url: https://www.ricemedia.co/mum-life-savings-impersonation-scam/
+      url: https://go.gov.sg/straitstimesgoisarticle1
   - infocols:
       title: Stay safe with the enhanced ScamShield app
       subtitle: get scam protection
