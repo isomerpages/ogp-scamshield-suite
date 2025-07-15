@@ -48,7 +48,7 @@ sections:
       subtitle: Think you are safe from scams?
       id: infopic
       description: She had been seconds away from transferring almost all the money in
-        their bank account – amounting to five figures – to a scammer.
+        her bank account – amounting to five figures – to a scammer.
       button: Read more
       image: /images/st_column_gois.jpg
       alt: Image alt text
