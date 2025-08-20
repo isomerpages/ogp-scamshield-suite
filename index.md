@@ -48,7 +48,7 @@ sections:
       subtitle: Think you are safe from scams?
       id: infopic
       description: In a poll by the Cyber Security Agency of Singapore, only 13 per
-        cent of respondents were able to distinugish between all phishing and
+        cent of respondents were able to distinguish between all phishing and
         legitimate content
       button: Read more
       image: /images/stcolumn_022.png
