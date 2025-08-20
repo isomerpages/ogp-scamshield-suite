@@ -44,15 +44,16 @@ sections:
       image: /images/opengraph_image__4_.png
       alt: Unpacked hero image
   - infopic:
-      title: Taking a 10-second pause may save you from being scammed
+      title: With just 1 tap, this doctor lost his Telegram account
       subtitle: Think you are safe from scams?
       id: infopic
-      description: She had been seconds away from transferring almost all the money in
-        her bank account – amounting to five figures – to a scammer.
+      description: In a poll by the Cyber Security Agency of Singapore, only 13 per
+        cent of respondents were able to distinugish between all phishing and
+        legitimate content
       button: Read more
-      image: /images/st_column_gois.jpg
+      image: /images/stcolumn_022.png
       alt: Image alt text
-      url: https://go.gov.sg/straitstimesgoisarticle1
+      url: https://www.straitstimes.com/singapore/with-just-1-tap-this-doctor-lost-his-telegram-account-to-cyber-criminals
   - infocols:
       title: Stay safe with the enhanced ScamShield app
       subtitle: get scam protection
