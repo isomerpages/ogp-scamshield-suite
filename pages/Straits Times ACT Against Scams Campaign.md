@@ -8,7 +8,21 @@ description: ""
 <p>Understanding how these scams work and knowing how to defend yourself
 can help keep you and your loved ones safe from being scammed.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/straitstimesgoisarticle1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st_gois1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">10-second pause saved her from losing five-figure sum to a scam</div><div class="isomer-card-description">In Singapore, S$151.3 million were lost to government officials impersonation scams in 2024</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/with-just-1-tap-this-doctor-lost-his-telegram-account-to-cyber-criminals" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="telegram scam" src="/images/stcolumn_022.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">With just 1 tap, this doctor lost his Telegram account to cyber criminals</div><div class="isomer-card-description">In a poll by the Cyber Security Agency of Singapore, only 13 per cent of respondents were able to distinguish between all phishing and legitimate content</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/he-emptied-savings-to-buy-52k-worth-of-gold-bars-and-handed-them-to-a-stranger" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="scam gold" src="/images/stcolumn_033.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">He emptied savings to buy $52k worth of gold bars, and handed them to
+a stranger</div>
+<div class="isomer-card-description">In a new variant of government official impersonation scams, victims have
+been asked to hand over physical cash or gold bars.</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/straitstimesgoisarticle1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st_gois1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">10-second pause saved her from losing five-figure sum to a scam</div><div class="isomer-card-description">In Singapore, S$151.3 million were lost to government officials impersonation scams in 2024</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start01" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ST Article/st01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore is a prime target for scammers. Here’s how you can stay safe</div><div class="isomer-card-description">In the first six months of 2023, the number of scam cases increased by 64 per cent compared with the same period in 2022</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/start02" class="isomer-card">
