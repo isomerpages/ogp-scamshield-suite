@@ -75,15 +75,14 @@ sections:
       alt: 1799 Hotline
       description: Available 24/7, Monday to Sunday
   - infopic:
-      title: Government Officials will never ask you to transfer money
+      title: E-commerce scams are one of the top scam types in Singapore
       id: infopic
-      description: "S$151.3 million lost to Government Official Impersonation Scams in
-        2024. Protect yourself: Learn the dos & don'ts of government officials
-        now!"
-      image: /images/1_in_5.png
+      description: To safeguard consumers when they transact online, the Transactions
+        Safety Ratings (TSR) is introduced.
+      image: /images/2025_tsr.png
       alt: Image alt text
       subtitle: did you know?
-      url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
+      url: https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings
       button: Learn more
   - textcards:
       title: Scam Threats
