@@ -132,7 +132,7 @@ sections:
           link_text: Learn more
           link_url: https://www.mha.gov.sg/mediaroom/press-releases/e-commerce-marketplace-transaction-safety-ratings-2025
         - title: Mid-Year Scam and Cybercrime Brief 202
-          date: 01 September 2025
+          date: 30 August 2025
           announcement: The Singapore Police Force (SPF) released these latest figures in
             their mid-year scams and cybercrime brief on 30 Aug 2025.
           link_text: ""
