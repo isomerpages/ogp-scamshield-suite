@@ -122,6 +122,21 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
+        - title: E-Commerce Marketplace Transaction Safety Ratings 2025
+          date: 30 August 2025
+          announcement: The Inter-Ministry Committee on Scams (IMCS) published the
+            E-commerce Marketplace Transaction Safety Ratings (TSR) 2025 today.
+            This is an annual update to the ratings assigned to major e-commerce
+            marketplaces, based on the latest anti-scam features they have in
+            place
+          link_text: Learn more
+          link_url: https://www.mha.gov.sg/mediaroom/press-releases/e-commerce-marketplace-transaction-safety-ratings-2025
+        - title: Mid-Year Scam and Cybercrime Brief 202
+          date: 01 September 2025
+          announcement: The Singapore Police Force (SPF) released these latest figures in
+            their mid-year scams and cybercrime brief on 30 Aug 2025.
+          link_text: ""
+          link_url: ""
         - title: Police can control bank accounts of scam victims in S’pore from July 1
           date: 30 June 2025
           announcement: The new Protection from Scams Act will enable the Singapore Police
@@ -129,26 +144,6 @@ sections:
             that they are not being scammed despite evidence showing otherwise.
           link_text: Learn more
           link_url: https://www.straitstimes.com/singapore/act-to-control-bank-accounts-of-scam-victims-in-singapore-to-come-into-effect-on-july-1
-        - title: CPF Board begins use of sole phone number for all outbound calls to
-            combat scams
-          date: 20 May 2025
-          announcement: This consolidation to a single number aims to help members easily
-            verify the authenticity of calls from the CPF Board.
-          link_text: Learn more
-          link_url: https://www.cpf.gov.sg/member/infohub/news/news-releases/cpf-board-introduces-single-number-for-calls-to-members-and-enhanced-authentication-for-online-nominations
-        - title: Annual Scams and Cybercrime Brief 2024
-          date: 25 February 2025
-          announcement: The Singapore Police Force (SPF) released these latest figures in
-            their annual scams and cybercrime brief on 25 Feb 2025.
-          link_text: Learn more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Annual_SCC_Brief.pdf
-        - title: Singapore Parliament passes Bill to control bank accounts of scam victims
-          date: 07 January 2025
-          announcement: The new law will give the Singapore Police Force (SPF)  powers to
-            issue restriction orders (ROs) to banks, which will then restrict
-            the banking transactions of an individual’s accounts.
-          link_text: Learn more
-          link_url: https://www.straitstimes.com/singapore/politics/singapore-passes-bill-to-control-bank-accounts-of-scam-victims-law-will-also-cover-cheating-cases
   - infopic:
       title: I can ACT against scams
       id: infopic
