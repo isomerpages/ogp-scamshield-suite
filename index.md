@@ -135,8 +135,8 @@ sections:
           date: 30 August 2025
           announcement: The Singapore Police Force (SPF) released these latest figures in
             their mid-year scams and cybercrime brief on 30 Aug 2025.
-          link_text: ""
-          link_url: ""
+          link_text: Learm more
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2025_Infographic_for_MYSCB_2025.pdf
         - title: Police can control bank accounts of scam victims in S’pore from July 1
           date: 30 June 2025
           announcement: The new Protection from Scams Act will enable the Singapore Police
