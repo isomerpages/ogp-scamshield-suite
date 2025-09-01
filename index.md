@@ -75,38 +75,38 @@ sections:
       alt: 1799 Hotline
       description: Available 24/7, Monday to Sunday
   - infopic:
-      title: Government Officials will never ask you to transfer money
+      title: E-commerce scams are one of the top scam types in Singapore
       id: infopic
-      description: "S$151.3 million lost to Government Official Impersonation Scams in
-        2024. Protect yourself: Learn the dos & don'ts of government officials
-        now!"
-      image: /images/1_in_5.png
+      description: To safeguard consumers when they transact online, the Transactions
+        Safety Ratings (TSR) is introduced.
+      image: /images/2025_tsr.png
       alt: Image alt text
       subtitle: did you know?
-      url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
+      url: https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings
       button: Learn more
   - textcards:
       title: Scam Threats
       id: textcards
       cards:
         - title: Government Officials Impersonation Scams
-          description: ~S$100,622 lost per case
+          description: ~S71,842 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
         - title: Investment Scams
-          description: ~S$47,077 lost per case
+          description: ~S$53,915 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
         - title: Job Scams
-          description: ~S$17,281 lost per case
+          description: ~S$21,861 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
         - title: Phishing Scams
-          description: ~S$6,955 lost per case
+          description: ~S$8,057 lost per case
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
-      description: Singapore lost at least S$1.1 billion to scams in 2024 across
-        51,501 cases
+      description: In the first half of 2025, the total number of scam cases
+        decresased by 26.0% to 19,665 and the total amount lost decreased by
+        12.6% to about $456.4 million
       subtitle: stay informed
   - infopic:
       title: Scams Bulletin
@@ -122,6 +122,21 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
+        - title: E-Commerce Marketplace Transaction Safety Ratings 2025
+          date: 30 August 2025
+          announcement: The Inter-Ministry Committee on Scams (IMCS) published the
+            E-commerce Marketplace Transaction Safety Ratings (TSR) 2025 today.
+            This is an annual update to the ratings assigned to major e-commerce
+            marketplaces, based on the latest anti-scam features they have in
+            place
+          link_text: Learn more
+          link_url: https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings
+        - title: Mid-Year Scam and Cybercrime Brief 202
+          date: 30 August 2025
+          announcement: The Singapore Police Force (SPF) released these latest figures in
+            their mid-year scams and cybercrime brief on 30 Aug 2025.
+          link_text: Learm more
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2025_Infographic_for_MYSCB_2025.pdf
         - title: Police can control bank accounts of scam victims in S’pore from July 1
           date: 30 June 2025
           announcement: The new Protection from Scams Act will enable the Singapore Police
@@ -129,26 +144,6 @@ sections:
             that they are not being scammed despite evidence showing otherwise.
           link_text: Learn more
           link_url: https://www.straitstimes.com/singapore/act-to-control-bank-accounts-of-scam-victims-in-singapore-to-come-into-effect-on-july-1
-        - title: CPF Board begins use of sole phone number for all outbound calls to
-            combat scams
-          date: 20 May 2025
-          announcement: This consolidation to a single number aims to help members easily
-            verify the authenticity of calls from the CPF Board.
-          link_text: Learn more
-          link_url: https://www.cpf.gov.sg/member/infohub/news/news-releases/cpf-board-introduces-single-number-for-calls-to-members-and-enhanced-authentication-for-online-nominations
-        - title: Annual Scams and Cybercrime Brief 2024
-          date: 25 February 2025
-          announcement: The Singapore Police Force (SPF) released these latest figures in
-            their annual scams and cybercrime brief on 25 Feb 2025.
-          link_text: Learn more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2024_Annual_SCC_Brief.pdf
-        - title: Singapore Parliament passes Bill to control bank accounts of scam victims
-          date: 07 January 2025
-          announcement: The new law will give the Singapore Police Force (SPF)  powers to
-            issue restriction orders (ROs) to banks, which will then restrict
-            the banking transactions of an individual’s accounts.
-          link_text: Learn more
-          link_url: https://www.straitstimes.com/singapore/politics/singapore-passes-bill-to-control-bank-accounts-of-scam-victims-law-will-also-cover-cheating-cases
   - infopic:
       title: I can ACT against scams
       id: infopic
