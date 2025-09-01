@@ -130,7 +130,7 @@ sections:
             marketplaces, based on the latest anti-scam features they have in
             place
           link_text: Learn more
-          link_url: https://www.mha.gov.sg/mediaroom/press-releases/e-commerce-marketplace-transaction-safety-ratings-2025
+          link_url: https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings
         - title: Mid-Year Scam and Cybercrime Brief 202
           date: 30 August 2025
           announcement: The Singapore Police Force (SPF) released these latest figures in
