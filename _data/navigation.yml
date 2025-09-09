@@ -10,7 +10,7 @@ links:
     url: /act-campaign/
     sublinks:
       - title: Police News Release
-        url: https://www.police.gov.sg/Media-Room/News?keyword=scam
+        url: https://www.police.gov.sg/Media-Hub/News?type=All&from=From&to=To&keyword=scam
       - title: Public Education Material
         url: /act-campaign/
       - title: Scams & Cybercrime Brief
