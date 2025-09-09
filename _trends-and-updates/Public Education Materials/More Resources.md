@@ -19,7 +19,7 @@ third_nav_title: Public Education Materials
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Job Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Job_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Job_scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Job_Scam.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Job_scam.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Impersonation Scams</strong>
@@ -33,7 +33,7 @@ third_nav_title: Public Education Materials
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fake Friend Call Scams</strong>
-</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Fake_Friend_Call_Scam.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Fake_Friend_call_scam.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/Public%20Education%20Materials/Fake_Friend_Call_Scam.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/Fake_Friend_call_scam.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Phishing Scams</strong>
