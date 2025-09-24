@@ -15,9 +15,9 @@ description: ""
 </p>
 <p><strong>Location: Toa Payoh HDB Hub Atrium</strong>
 </p>
-<p>Think you know scams? Think you are well protected? Come on down to the
-We Can ACT Against Scams roadshow to learn, play and strengthen your scam
-resilience!</p>
+<p>Think you know scams? Are you really protected against scams? Come down
+to the We Can ACT Against Scams roadshow to learn, play and strengthen
+your scam resilience!</p>
 <p><strong>Event highlights:</strong>
 </p>
 <ul data-tight="true" class="tight">
