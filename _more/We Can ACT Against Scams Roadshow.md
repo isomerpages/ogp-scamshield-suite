@@ -13,7 +13,7 @@ description: ""
 </p>
 <p><strong>Time: 10.00am – 8.00pm</strong>
 </p>
-<p><strong>Location: Toa Payoh Hdb Hub Atrium</strong>
+<p><strong>Location: Toa Payoh HDB Hub Atrium</strong>
 </p>
 <p>Think you know scams? Think you are well protected? Come on down to the
 We Can ACT Against Scams roadshow to learn, play and strengthen your scam
