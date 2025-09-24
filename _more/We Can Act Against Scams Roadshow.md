@@ -41,6 +41,8 @@ resilience!</p>
 <p></p>
 <p><strong>A whole of government initiative</strong>
 </p>
-<p></p>
-<p><strong>Supported by<br></strong>
+<p>logo logo</p>
+<p><strong>Supported by</strong>
+</p>
+<p>logo logo logo<strong><br></strong>
 </p>
