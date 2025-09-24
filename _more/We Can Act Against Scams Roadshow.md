@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/we_can_act_against_scams.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/we_can_act_against_scams.jpg">
 </div>
 <h2><strong>We Can ACT Against Scams Roadshow</strong></h2>
 <p><strong>Date: 8 - 9 Nov 2025 (Sat-Sun)</strong>
@@ -39,6 +39,8 @@ resilience!</p>
 </li>
 </ul>
 <p></p>
+<p><strong>A whole of government initiative</strong>
+</p>
 <p></p>
-<p><strong><br></strong>
+<p><strong>Supported by<br></strong>
 </p>
