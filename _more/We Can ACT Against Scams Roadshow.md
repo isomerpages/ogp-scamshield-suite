@@ -22,7 +22,7 @@ resilience!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1 x grand winner daily for SCAM OR NOT SCAM game</p>
+<p>1 x grand winner daily for <strong>SCAM OR NOT SCAM</strong> game</p>
 </li>
 <li>
 <p>Over 20 prizes to be given away</p>
@@ -34,11 +34,10 @@ resilience!</p>
 <p>Learn the tools available for you to strengthen your scam resilience</p>
 </li>
 <li>
-<p>Daily performances&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>Daily performances&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <p><strong>A whole of government initiative</strong>
 </p>
 <p>logo logo</p>
