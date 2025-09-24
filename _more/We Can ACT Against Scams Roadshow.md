@@ -25,7 +25,7 @@ resilience!</p>
 <p>1 x grand winner daily for <strong>SCAM OR NOT SCAM</strong> game</p>
 </li>
 <li>
-<p>Over 20 prizes to be given away</p>
+<p>Over 20 prizes to be given away for both days</p>
 </li>
 <li>
 <p>Experience being a victim of a scam in the experiential zone</p>
@@ -34,8 +34,14 @@ resilience!</p>
 <p>Learn the tools available for you to strengthen your scam resilience</p>
 </li>
 <li>
-<p>Daily performances&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;</p>
+<p>Get your scam health checked! See if you are scammers favourite dish or
+not!</p>
+</li>
+<li>
+<p>Daily performances by Intune Music and Bamboo Builders</p>
+</li>
+<li>
+<p>and so much more!</p>
 </li>
 </ul>
 <p><strong>A whole of government initiative</strong>
