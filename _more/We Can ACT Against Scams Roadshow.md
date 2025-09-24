@@ -22,7 +22,8 @@ resilience!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1 x grand winner daily for <strong>SCAM OR NOT SCAM</strong> game</p>
+<p>1 x grand winner daily for <strong>SCAM OR NOT SCAM</strong> game. Answer
+the most questions correct in the shortest time!</p>
 </li>
 <li>
 <p>Over 20 prizes to be given away for both days</p>
