@@ -97,7 +97,7 @@ limits on payment accounts (bank, PayNow and PayLah). ​</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Resources on the MAS website (i.e., <a href="https://eservices.mas.gov.sg/fid" rel="noopener nofollow" target="_blank">Financial Institutions Directory</a>,
-<a href="https://eservices.mas.gov.sg/rr" rel="noopener nofollow" target="_blank">Register of Representatives</a>, and <a href="https://www.mas.gov.sg/investor-alert-list" rel="noopener nofollow" target="_blank">Investor Alert List</a>)
+<a href="https://eservices.mas.gov.sg/rr" rel="noopener nofollow" target="_blank">Financial Institution Representatives Register</a>, and <a href="https://www.mas.gov.sg/investor-alert-list" rel="noopener nofollow" target="_blank">Investor Alert List</a>)
 on whether the company offering the investment opportunity is regulated
 by MAS.​</p>
 </li>
