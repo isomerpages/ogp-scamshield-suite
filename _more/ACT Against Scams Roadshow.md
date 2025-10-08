@@ -44,8 +44,13 @@ zone</p>
 </p>
 <p><strong>A whole of government initiative:</strong>
 </p>
-<p>logo logo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos_1.png">
+</div>
 <p><strong>Supported By:</strong>
 </p>
-<p>logo logo logo<strong><br></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Logos_2.png">
+</div>
+<p></p>
