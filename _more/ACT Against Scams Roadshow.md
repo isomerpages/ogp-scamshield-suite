@@ -49,7 +49,6 @@ zone</p>
 </div>
 <p><strong>Supported By:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Logos_2.png">
 </div>
