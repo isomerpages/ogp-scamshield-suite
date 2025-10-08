@@ -6,49 +6,46 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/we_can_act_against_scams.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAPITALAND_1920x1080_01.jpg">
 </div>
-<h2><strong>We Can ACT Against Scams Roadshow</strong></h2>
-<p><strong>Date: 8 - 9 Nov 2025 (Sat-Sun)</strong>
-</p>
-<p><strong>Time: 10.00am – 8.00pm</strong>
-</p>
-<p><strong>Location: Toa Payoh HDB Hub Atrium</strong>
-</p>
-<p>Think you know scams? Are you really protected against scams? Come down
-to the We Can ACT Against Scams roadshow to learn, play and strengthen
-your scam resilience!</p>
-<p><strong>Event highlights:</strong>
+<h2><strong>We Can ACT Against Scams Roadshow | 8 – 9 November 2025</strong></h2>
+<p>Join us at the inaugural ‘We can ACT Against Scams’ Roadshow on 8-9 November
+2025 at Toa Payoh HDB Hub Atrium!</p>
+<p>Discover how to spot the latest scam tactics, learn essential protective
+measures, and experience hands-on activities that will strengthen your
+defences against scammers.</p>
+<p>The more we all know about scams, the better we can protect ourselves
+and others—discover the tools and knowledge you need to stay safe.</p>
+<p><strong>Event Highlights:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1 x grand winner daily for <strong>SCAM OR NOT SCAM</strong> game. Answer
-the most questions correct in the shortest time!</p>
+<p>1 grand winner daily for SCAM OR NOT SCAM game - answer the most questions
+correctly in the shortest time!</p>
 </li>
 <li>
-<p>Over 20 prizes to be given away for both days</p>
+<p>Over 20 prizes to be given away across both days</p>
 </li>
 <li>
-<p>Experience being a victim of a scam in the experiential zone</p>
+<p>Experience what it's like to be targeted by scammers in our experiential
+zone</p>
 </li>
 <li>
-<p>Learn the tools available for you to strengthen your scam resilience</p>
+<p>Learn about tools and resources to strengthen your scam resilience</p>
 </li>
 <li>
-<p>Get your scam health checked! See if you are scammers favourite dish or
-not!</p>
+<p>Get your scam health checked - find out how vulnerable you are to scams!</p>
 </li>
 <li>
 <p>Daily performances by Intune Music and Bamboo Builders</p>
 </li>
-<li>
-<p>and so much more!</p>
-</li>
 </ul>
-<p><strong>A whole of government initiative</strong>
+<p><strong>...and so much more!</strong>
+</p>
+<p><strong>A whole of government initiative:</strong>
 </p>
 <p>logo logo</p>
-<p><strong>Supported by</strong>
+<p><strong>Supported By:</strong>
 </p>
 <p>logo logo logo<strong><br></strong>
 </p>
