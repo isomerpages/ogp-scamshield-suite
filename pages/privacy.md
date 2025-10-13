@@ -179,7 +179,7 @@ submitted by users of the “Check for Scams” feature</p>
 <p>&nbsp;d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Screenshots
 and Optical Character Recognition (OCR) extractions of the content that
 is submitted by users of the “Submit a Scam Report” feature</p>
-<p><strong>3. Further acknowledgements on purpose of data requested/collected</strong>
+<p><strong>3.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Further acknowledgements on purpose of data requested/collected</strong>
 </p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The types of data you
 may submit, such as screenshots or website URLs, may contain your personal
