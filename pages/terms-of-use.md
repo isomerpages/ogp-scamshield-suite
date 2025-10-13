@@ -618,7 +618,7 @@ and</p>
 replacement or re-enactment to that Act and includes any subsidiary legislation
 made under that Act.</p>
 <p></p>
-<p><em>This version of the Terms of Use is dated 15 October 2025.</em>
+<p><em>This version of the Terms of Use is dated 13 October 2025.</em>
 </p>
 <p><strong>SCHEDULE</strong>
 </p>
