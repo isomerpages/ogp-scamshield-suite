@@ -4,10 +4,12 @@ title: ScamShield Website
 description: Government directory for scam-related information
 image: /images/Logo_2024.png
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money over a
+  phone call. Call the 24/7 ScamShield Helpline at 1799 if you are unsure
+  something is a scam.
 sections:
   - hero:
-      background: /images/Homepage/GOIS_ScamShield_Website_banner.png
+      background: /images/Capitaland_CutnMirror.png
       variant: center
       key_highlights:
         - title: Get help if you have been scammed
