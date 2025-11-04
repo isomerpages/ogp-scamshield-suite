@@ -42,6 +42,10 @@ zone</p>
 </ul>
 <p><strong>...and so much more!</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/we_can_act_against_scams_map.jpg">
+</div>
+<p></p>
 <p><strong>A whole of government initiative:</strong>
 </p>
 <div class="isomer-image-wrapper">
