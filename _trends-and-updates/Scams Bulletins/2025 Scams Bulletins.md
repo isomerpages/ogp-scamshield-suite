@@ -16,7 +16,10 @@ third_nav_title: Scams Bulletins
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 11 - November 2025</strong>
-</p><a class="isomer-image-wrapper" href="/files/2025%20Scams%20Bulletins/monthly_scams_bulletin_2025_issue_10.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/10_october_msb.jpg"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/11_november_msb.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Monthly Scams Bulletin Issue 10 - October 2025</strong>
