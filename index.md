@@ -9,7 +9,7 @@ notification: Government officials will NEVER ask you to transfer money over a
   something is a scam.
 sections:
   - hero:
-      background: /images/Capitaland_CutnMirror.png
+      background: /images/Homepage/GOIS_ScamShield_Website_banner.png
       variant: center
       key_highlights:
         - title: Get help if you have been scammed
