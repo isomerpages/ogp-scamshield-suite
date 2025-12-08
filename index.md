@@ -122,6 +122,23 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
+        - title: National Anti-Scam Roadshow 2025
+          date: 08 November 2025
+          announcement: The inaugural National Anti-Scam Roadshow was opened by Mr Goh Pei
+            Ming, Minister of State, Ministry of Home Affairs and Ministry of
+            Social and Family Development on 8 November 2025.  With the tagline
+            “We Can ACT Against Scams”.
+          link_text: Learn more
+          link_url: https://www.mddi.gov.sg/newsroom/national-anti-scam-roadshow-2025-/
+        - title: MHA introduces caning for scammers & money mules in Singapore
+          date: 04 November 2025
+          announcement: The Singapore Parliament passed new laws on Tuesday (4 Nov) that
+            will see scammers subjected to mandatory caning.  Under the Criminal
+            Law (Miscellaneous Amendments) Bill, scammers will get between six
+            to 24 strokes of the cane depending on the severity of their
+            offences.
+          link_text: Learm more
+          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2025_Infographic_for_MYSCB_2025.pdf
         - title: E-Commerce Marketplace Transaction Safety Ratings 2025
           date: 30 August 2025
           announcement: The Inter-Ministry Committee on Scams (IMCS) published the
@@ -131,19 +148,6 @@ sections:
             place
           link_text: Learn more
           link_url: https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings
-        - title: Mid-Year Scam and Cybercrime Brief 2025
-          date: 30 August 2025
-          announcement: The Singapore Police Force (SPF) released these latest figures in
-            their mid-year scams and cybercrime brief on 30 Aug 2025.
-          link_text: Learm more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2025_Infographic_for_MYSCB_2025.pdf
-        - title: Police can control bank accounts of scam victims in S’pore from July 1
-          date: 30 June 2025
-          announcement: The new Protection from Scams Act will enable the Singapore Police
-            Force (SPF) to better protect scam victims in Singapore who believed
-            that they are not being scammed despite evidence showing otherwise.
-          link_text: Learn more
-          link_url: https://www.straitstimes.com/singapore/act-to-control-bank-accounts-of-scam-victims-in-singapore-to-come-into-effect-on-july-1
   - infopic:
       title: I can ACT against scams
       id: infopic
