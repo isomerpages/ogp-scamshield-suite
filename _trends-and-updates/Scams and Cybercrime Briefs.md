@@ -17,7 +17,7 @@ description: ""
 <p><strong>Mid-Year Scams and Cybercrime Brief 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_mscb.png">
+<img style="width: 100%" height="auto" width="100%" alt="/files/Scams%20and%20Cybercrime%20Briefs/2025_Police_News_Release___Mid_Year_Scam_and_Cybercrime_Brief_2025.pdf" src="/images/2025_mscb.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
