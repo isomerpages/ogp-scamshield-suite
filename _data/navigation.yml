@@ -21,3 +21,14 @@ links:
         url: /videos/
   - title: More
     collection: more
+  - title: MORE
+    url: /our-partners/
+    sublinks:
+      - title: Our Partners
+        url: /our-partners/
+      - title: Whole of Government Efforts
+        url: /whole-of-government-effort/
+      - title: I can ACT against scams
+        url: /i-can-act-campaign/
+      - title: Scam Quiz
+        url: https://www.icanactagainstscams.gov.sg/makan-quiz
