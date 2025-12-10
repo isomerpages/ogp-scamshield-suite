@@ -137,8 +137,8 @@ sections:
             Law (Miscellaneous Amendments) Bill, scammers will get between six
             to 24 strokes of the cane depending on the severity of their
             offences.
-          link_text: Learm more
-          link_url: /files/Scams%20and%20Cybercrime%20Briefs/2025_Infographic_for_MYSCB_2025.pdf
+          link_text: ""
+          link_url: ""
         - title: E-Commerce Marketplace Transaction Safety Ratings 2025
           date: 30 August 2025
           announcement: The Inter-Ministry Committee on Scams (IMCS) published the
