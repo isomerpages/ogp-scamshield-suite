@@ -75,15 +75,15 @@ sections:
       alt: 1799 Hotline
       description: Available 24/7, Monday to Sunday
   - infopic:
-      title: E-commerce scams are one of the top scam types in Singapore
+      title: Will Scammers Makan you?
       id: infopic
-      description: To safeguard consumers when they transact online, the Transactions
-        Safety Ratings (TSR) is introduced.
-      image: /images/2025_tsr.png
+      description: Take this quiz to find out how vulnerable you are to scams and
+        learn how to stay off the scammers' plates.
+      image: /images/Chicken_rice.png
       alt: Image alt text
-      subtitle: did you know?
-      url: https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings
-      button: Learn more
+      subtitle: ARE YOU “SCAM-RESILIENT”?
+      url: https://www.icanactagainstscams.gov.sg/makan-quiz
+      button: Play now
   - textcards:
       title: Scam Threats
       id: textcards
