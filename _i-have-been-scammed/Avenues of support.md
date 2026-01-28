@@ -35,6 +35,17 @@ avenues you may consider:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mindline.sg (24-hour hotline)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1771</p>
+<p></p>
+<p><a href="https://api.whatsapp.com/send/?phone=6566691771&amp;text=Hello,+I+would+like+to+chat+with+a+counsellor.&amp;type=phone_number&amp;app_absent=0" rel="noopener nofollow" target="_blank">Chat now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Samaritans of Singapore (24-hour hotline)</p>
 </td>
 <td rowspan="1" colspan="1">
