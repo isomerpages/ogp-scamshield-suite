@@ -10,14 +10,16 @@ third_nav_title: Understanding scam types
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scam Type Banners/Loan_Scam_Banner.png">
 </div>
-<p>Victims would be enticed into taking up loans with attractive interest
-rates but subsequently required by the loaners to pay various ‘fees’ to
-secure the loans. If victims refused to pay the ‘fees’ or tried to cancel
-their loan application, the scammers would use the victim’s personal data
-collected by the malware to extort victims into paying the ‘fees’, for
-example by threatening to expose their compromising photographs and/or
-harass people in their contact list. Having been put in fear by the scammers,
-victims would transfer money to local bank accounts provided by the scammers.</p>
+<p>Victims would come across short video clips or advertisements promoting
+fast cash loans while browsing social media platforms such as TikTok and
+Facebook, or through their own internet searches. In some cases, victims
+would receive unsolicited text messaged through SMS or WhatsApp, offering
+loans.</p>
+<p>Victims would then be instructed to transfer money through methods such
+as iBanking transfers, ATM cash deposits, PayNow, or hand over cash in
+person.</p>
+<p>Victims would only realise that they had been scammed when the scammers
+failed to disburse the loan as promised.&nbsp;</p>
 <hr>
 <blockquote>
 <p></p>
@@ -41,6 +43,13 @@ at the registered business premises.</p>
 </p>
 </li>
 </ul>
+<hr>
+<blockquote>
+<p>Licensed moneylenders are not allowed to advertise their services except
+through business or consumer directories (in print or online), internet
+websites belonging to the licensed moneylenders, and those placed within
+the approved place of business.&nbsp;</p>
+</blockquote>
 <hr>
 <h3>How to stay safe</h3>
 <p><strong>ADD:</strong>
