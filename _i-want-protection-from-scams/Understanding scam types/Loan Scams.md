@@ -31,12 +31,13 @@ failed to disburse the loan as promised.&nbsp;</p>
 <h3>It is likely a scam if:</h3>
 <ul>
 <li>
-<p>Legitimate moneylending companies are not allowed to advertise their services.
-​</p>
+<p>The moneylending company advertises their services, as legitimate moneylenders
+are prohibited from doing so.</p>
 </li>
 <li>
-<p>Licensed moneylenders are REQUIRED to process and approved all loans IN-PERSON
-at the registered business premises.</p>
+<p>The loan application and approval process is conducted online or over
+the phone rather than requiring you to visit their registered business
+premises in person, which is mandatory for licensed moneylenders.</p>
 </li>
 <li>
 <p><strong>Any unsolicited loan offer is a scam.</strong>
