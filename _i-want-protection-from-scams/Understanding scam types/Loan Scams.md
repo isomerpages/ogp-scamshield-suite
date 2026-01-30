@@ -26,18 +26,19 @@ victims would transfer money to local bank accounts provided by the scammers.</p
 <p></p>
 <p>Annual Scams and Cybercrime Brief 2024</p>
 <hr>
-<h3>It is likely a scam if the loaner:</h3>
-<ul data-tight="true" class="tight">
+<h3>It is likely a scam if:</h3>
+<ul>
 <li>
-<p>make any cold calls or send any unsolicited text messages to you.</p>
+<p>Legitimate moneylending companies are not allowed to advertise their services.
+​</p>
 </li>
 <li>
-<p>instructs you to transfer a sum of money as a deposit before the loan
-can be disbursed.</p>
+<p>Licensed moneylenders are REQUIRED to process and approved all loans IN-PERSON
+at the registered business premises.</p>
 </li>
 <li>
-<p>harasses you by claiming that the loans have already been approved and
-that you have to pay a processing fee to cancel the loans.</p>
+<p><strong>Any unsolicited loan offer is a scam.</strong>
+</p>
 </li>
 </ul>
 <hr>
@@ -48,33 +49,19 @@ that you have to pay a processing fee to cancel the loans.</p>
 <li>
 <p>ScamShield app to block scam calls and filter scam SMSes. ​</p>
 </li>
-<li>
-<p>Anti-virus app to your devices (see recommendations by CSA).​</p>
-</li>
-<li>
-<p>International Call Blocking option to your mobile account(s).&nbsp;</p>
-</li>
 </ul>
 <p><strong>CHECK</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>the Registry of Moneylenders for the official details of licensed moneylenders.</p>
+</li>
+<li>
 <p>that you do not use clickable links or QR codes provided by unknown persons
 to make payments/transfers, as these lead to fake bank websites that phish
-for your banking credentials.</p>
+for your banking credentials. ​</p>
 </li>
 <li>
-<p>Do not transfer money or send gift cards to unknown persons</p>
-</li>
-<li>
-<p>Never disclose your personal information, internet banking and social
-media account details, and one-time passwords (OTPs) to anyone.</p>
-</li>
-<li>
-<p>Do not let others use your banking or Singpass accounts to receive or
-transfer money. They are for personal use only.</p>
-</li>
-<li>
-<p>Call the ScamShield Helpline (1799) to check if you are unsure.</p>
+<p>Call the ScamShield Helpline (1799) to check if you are unsure.​</p>
 </li>
 </ul>
 <p><strong>TELL:</strong>
@@ -84,8 +71,7 @@ transfer money. They are for personal use only.</p>
 <p>Warn your friends and family about your scam encounter.​</p>
 </li>
 <li>
-<p>Call your bank immediately and make a police report if you think you have
-fallen victim.</p>
+<p>Make a police report if you think you have fallen victim.</p>
 </li>
 </ul>
 <hr>
