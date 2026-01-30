@@ -85,10 +85,6 @@ for your banking credentials. ​</p>
 </li>
 </ul>
 <hr>
-<h3>Learn more about loan scams</h3>
-<p><a href="https://go.gov.sg/start09" rel="noopener nofollow" target="_blank">Received an unsolicited link? Here’s how to check if it’s legitimate</a>
-</p>
-<hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>If you have transferred money to a scammer, please visit this page for
 a list of immediate actions: <a href="/i-ve-been-scammed/" rel="noopener noreferrer nofollow" target="_blank">I've Been Scammed!</a>
