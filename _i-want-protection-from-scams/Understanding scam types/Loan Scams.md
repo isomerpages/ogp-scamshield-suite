@@ -31,12 +31,13 @@ failed to disburse the loan as promised.&nbsp;</p>
 <h3>It is likely a scam if:</h3>
 <ul>
 <li>
-<p>Legitimate moneylending companies are not allowed to advertise their services.
-​</p>
+<p>The moneylending company advertises their services, as legitimate moneylenders
+are prohibited from doing so.</p>
 </li>
 <li>
-<p>Licensed moneylenders are REQUIRED to process and approved all loans IN-PERSON
-at the registered business premises.</p>
+<p>The loan application and approval process is conducted online or over
+the phone rather than requiring you to visit their registered business
+premises in person, which is mandatory for licensed moneylenders.</p>
 </li>
 <li>
 <p><strong>Any unsolicited loan offer is a scam.</strong>
@@ -83,10 +84,6 @@ for your banking credentials. ​</p>
 <p>Make a police report if you think you have fallen victim.</p>
 </li>
 </ul>
-<hr>
-<h3>Learn more about loan scams</h3>
-<p><a href="https://go.gov.sg/start09" rel="noopener nofollow" target="_blank">Received an unsolicited link? Here’s how to check if it’s legitimate</a>
-</p>
 <hr>
 <h3>Encountered this scam? Report it!</h3>
 <p>If you have transferred money to a scammer, please visit this page for
