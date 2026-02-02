@@ -99,6 +99,7 @@ description: ""
 </div>
 </div>
 <hr>
+<h2><strong>Scam types</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
