@@ -6,18 +6,8 @@ description: ""
 ---
 <h4><strong>Videos on Scams</strong></h4>
 <h2><strong>Youth Against Scams 2025</strong></h2>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Individual Category - 1st Place</div>
-</div>
-</div>
-<div class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vt.tiktok.com/ZSS6E6Hce/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Individual Category - 1st Place</div><div class="isomer-card-link">Watch now</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/reel/DMnGeNQsW3b/?igsh=cjZoczdyOTU2Y2o1" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
@@ -25,19 +15,10 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Individual Category - 2nd Place</div>
+<div class="isomer-card-link">Watch now</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Individual Category - 3rd Place</div>
-</div>
-</div>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/reel/DMW-pdzzahH/?igsh=YXN1c2RhYXVtMmh1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Individual Category - 3rd Place</div><div class="isomer-card-link">Watch now</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://vt.tiktok.com/ZSHpqL6s4tWEs-33MyV/Wa" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
@@ -45,19 +26,10 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Team Category - 1st Place</div>
+<div class="isomer-card-link">Watch now</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Team Category - 2nd place</div>
-</div>
-</div>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.tiktok.com/@fitr.mya/video/7513850569782545672" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Team Category - 2nd place</div><div class="isomer-card-link">Watch now</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://vt.tiktok.com/ZSSS1rFYB/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="youth againsts scams" src="/images/Screenshot_2026_02_02_160941.png">
@@ -65,19 +37,10 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Team Category - 3rd Place</div>
+<div class="isomer-card-link">Watch now</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Open Category - 1st Place</div>
-</div>
-</div>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://vt.tiktok.com/ZSBwa2QVV/W" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Open Category - 1st Place</div><div class="isomer-card-link">Watch now</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tiktok.com/@infirtinity/video/7525039755642277127?is_from_webapp=1&amp;sender_device=pc" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
@@ -85,18 +48,20 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Open Category - 2nd Place</div>
+<div class="isomer-card-link">Watch now</div>
 </div>
-</div>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.tiktok.com/@mahyallen/video/7524558421132053768" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Open Category - 3rd Place</div><div class="isomer-card-link">Watch now</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tiktok.com/@6ofus2025/video/7561772045890112775?is_from_webapp=1&amp;sender_device=pc" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Open Category - 3rd Place</div>
+<div class="isomer-card-title">NCPC Special Award</div>
+<div class="isomer-card-link">Watch now</div>
 </div>
-</div>
+</a>
 </div>
 <hr>
 <h2><strong>Scam types</strong></h2>
