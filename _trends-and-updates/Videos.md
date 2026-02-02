@@ -67,6 +67,36 @@ description: ""
 <div class="isomer-card-title">Team Category - 3rd Place</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Open Category - 1st Place</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Open Category - 2nd Place</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="youth against scams" src="/images/Screenshot_2026_02_02_160941.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Open Category - 3rd Place</div>
+</div>
+</div>
 </div>
 <hr>
 <table style="minWidth: 75px">
