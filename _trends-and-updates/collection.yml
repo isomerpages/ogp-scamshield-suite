@@ -2,8 +2,8 @@ collections:
   trends-and-updates:
     output: true
     order:
-      - 2025 Scams & Cybercrime Briefs/2025 Scams & Cybercrime Briefs.md
-      - 2025 Scams & Cybercrime Briefs/.keep
+      - Scams & Cybercrime Briefs/2025 Scams & Cybercrime Briefs.md
+      - Scams & Cybercrime Briefs/.keep
       - Public Education Materials/.keep
       - Public Education Materials/ACT Campaign.md
       - Public Education Materials/ScamShield Suite Campaign.md
