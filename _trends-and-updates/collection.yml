@@ -2,17 +2,17 @@ collections:
   trends-and-updates:
     output: true
     order:
-      - Scams & Cybercrime Briefs/2025 Scams & Cybercrime Briefs.md
-      - Scams & Cybercrime Briefs/.keep
       - Public Education Materials/.keep
       - Public Education Materials/ACT Campaign.md
       - Public Education Materials/ScamShield Suite Campaign.md
       - Public Education Materials/Anti Scam Resource Guide.md
       - Public Education Materials/More Resources.md
+      - Scams & Cybercrime Briefs/.keep
+      - Scams & Cybercrime Briefs/2025 Scams & Cybercrime Briefs.md
       - Scams and Cybercrime Briefs.md
+      - Scams Bulletins/.keep
       - Scams Bulletins/2026 Scams Bulletins.md
       - Scams Bulletins/2025 Scams Bulletins.md
-      - Scams Bulletins/.keep
       - Scams Bulletins/2024 Scams Bulletins.md
       - Scams Bulletins/2023 Scams Bulletins.md
       - Videos.md
