@@ -122,6 +122,13 @@ sections:
       id: announcements
       subtitle: Anti-Scam efforts
       announcement_items:
+        - title: Annual Scams and Cybercrime Brief 2025
+          date: 25 February 2026
+          announcement: In 2025, the total number of scam cases decreased by 27.6% to
+            37,308 and the total amount lost decreased by 17.9% to about $913.1
+            million
+          link_text: Learn more
+          link_url: /2025-scams-cybercrime-briefs/
         - title: National Anti-Scam Roadshow 2025
           date: 08 November 2025
           announcement: The inaugural National Anti-Scam Roadshow was opened by Mr Goh Pei
@@ -139,15 +146,6 @@ sections:
             offences.
           link_text: ""
           link_url: ""
-        - title: E-Commerce Marketplace Transaction Safety Ratings 2025
-          date: 30 August 2025
-          announcement: The Inter-Ministry Committee on Scams (IMCS) published the
-            E-commerce Marketplace Transaction Safety Ratings (TSR) 2025 today.
-            This is an annual update to the ratings assigned to major e-commerce
-            marketplaces, based on the latest anti-scam features they have in
-            place
-          link_text: Learn more
-          link_url: https://www.mha.gov.sg/e-commerce-marketplace-transaction-safety-ratings
   - infopic:
       title: I can ACT against scams
       id: infopic
