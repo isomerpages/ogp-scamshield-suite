@@ -34,16 +34,20 @@ their bank accounts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Public Education Materials/GOIS Package/GOIS_KV_1920x1080.png">
 </div>
-<h3>Government officials will <strong>NEVER</strong> do these things over a phone call:</h3>
+<h3>Government officials will <strong>NEVER</strong> ask you to:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ask you to <strong>transfer money</strong>;</p>
+<p><strong>Transfer money or cryptocurrency</strong> over the phone;</p>
 </li>
 <li>
-<p>Ask you to disclose <strong>bank log-in details</strong>;</p>
+<p>Hand over <strong>money, gold/luxury watches or other valuables</strong> via
+meet-ups;</p>
 </li>
 <li>
-<p>Ask you to install<strong> mobile apps</strong> from <strong>unofficial app stores</strong>;</p>
+<p>Disclose <strong>bank log-in details</strong> over calls or messages;</p>
+</li>
+<li>
+<p>Install<strong> mobile apps</strong> from <strong>unofficial app stores</strong>;</p>
 </li>
 <li>
 <p><strong>Transfer your call</strong> to <strong>Police</strong>
