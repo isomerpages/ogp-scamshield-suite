@@ -17,11 +17,13 @@ that there were issues with the victim’s bank accounts and required additional
 verification. Victims would then be asked to provide their banking or personal
 information such as banking credentials and One-Time Passwords (OTPs) to
 resolve these issues.</p>
-<p>Victims may also be asked to show their identity cards, work permit or
-their bank cards when speaking to the “SPF” or “MOM” officer over the in-app
-video call. The victims would only discover that they had been scammed
-when they realised that there were unauthorised transactions made from
-their bank accounts.</p>
+<p>Scammers may also request victims to hand over money, gold/luxury watches
+or other valuables via meet-ups, claiming to be officers collecting items
+for investigation purposes. In some cases, victims may be instructed to
+show their identity cards, work permit or their bank cards when speaking
+to the “SPF” or “MOM” officer over the in-app video call. The victims would
+only discover that they had been scammed when they realised that there
+were unauthorised transactions made from their bank accounts.</p>
 <hr>
 <blockquote>
 <p></p>
