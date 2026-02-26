@@ -23,10 +23,10 @@ failed to disburse the loan as promised.&nbsp;</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$6 million lost to scammers</strong></h2>
+<h2><strong>At least S$7 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Annual Scams and Cybercrime Brief 2024</p>
+<p>Annual Scams and Cybercrime Brief 2025</p>
 <hr>
 <h3>It is likely a scam if:</h3>
 <ul>

@@ -25,10 +25,10 @@ their bank accounts.</p>
 <hr>
 <blockquote>
 <p></p>
-<h2><strong>At least S$151.3 million lost to scammers</strong></h2>
+<h2><strong>At least S$242.9 million lost to scammers</strong></h2>
 </blockquote>
 <p></p>
-<p>Annual Scams and Cybercrime Brief 2024</p>
+<p>Annual Scams and Cybercrime Brief 2025</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
