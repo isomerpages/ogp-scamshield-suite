@@ -73,16 +73,16 @@ make you panic so you react and do what they want you to.</p>
 </li>
 </ul>
 <hr>
-<h3><strong>Scam Mules</strong></h3>
+<h2><strong>Scam Mules</strong></h2>
 <p>Scammers use mules’ bank accounts to receive and transfer illegal proceeds
 quickly, making it difficult for authorities to trace and recover the funds.</p>
 <p>The use of local accounts and phone lines also enhances the credibility
 of the scams, increasing the chances of scammers’ success in deceiving
 their victims.</p>
-<h4><strong>What is a scam mule?</strong></h4>
+<h3><strong>What is a scam mule?</strong></h3>
 <p>A scam mule is a person who provides their Singpass, bank accounts or
 SIM cards for scams.</p>
-<h4><strong>Legal consequences</strong></h4>
+<h3><strong>Legal consequences</strong></h3>
 <p>Scam mules may be held criminally liable if their Singpass, bank accounts
 or SIM cards are used by others for criminal activities. They may face:</p>
 <ul data-tight="true" class="tight">
