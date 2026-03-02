@@ -96,6 +96,6 @@ or SIM cards are used by others for criminal activities. They may face:</p>
 <p>Liable for caning of up to 12 strokes</p>
 </li>
 </ul>
-<p>Find out more about the offences and punishments at <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/ScamMule</a>
+<p>Find out more about the offences and punishments at <a href="https://www.police.gov.sg/Knowledge-Hub/Legislation/Caning-for-Scams-and-Scams-related-Offences" rel="noopener nofollow" target="_blank">go.gov.sg/ScamMule</a>
 </p>
 <p></p>
