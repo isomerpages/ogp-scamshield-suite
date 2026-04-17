@@ -24,14 +24,14 @@ sections:
           url: /introduction-to-scams/
   - infopic:
       title: Monthly Scam Counter
-      subtitle: February 2026
+      subtitle: March 2026
       id: infopic
       description: Stay informed with monthly updates on the latest scam statistics in
         Singapore.  Learn to spot red flags and protect yourself and your loved
         ones.
       button: Learn more about scams here
       url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
-      image: /images/Scam_Counter__Feb_2026_.png
+      image: /images/MSC_MSB_Social_Thumbnail_11.png
       alt: scam counter
   - infopic:
       title: Think you'd never fall for a scam?
@@ -89,24 +89,24 @@ sections:
       id: textcards
       cards:
         - title: Government Officials Impersonation Scams
-          description: ~S71,842 lost per case
+          description: at least S$242.9 million lost to scammers
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
         - title: Investment Scams
-          description: ~S$53,915 lost per case
+          description: at least S$336.2 million lost to scammers
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/investment-scams/
         - title: Job Scams
-          description: ~S$21,861 lost per case
+          description: at least S$123.5 million lost to scammers
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/job-scams/
         - title: Phishing Scams
-          description: ~S$8,057 lost per case
+          description: at least S$39.9 million lost to scammers
           linktext: Learn more
           url: /i-want-protection-from-scams/learn-to-recognise-scams/phishing-scams/
-      description: In the first half of 2025, the total number of scam cases
-        decresased by 26.0% to 19,665 and the total amount lost decreased by
-        12.6% to about $456.4 million
+      description: In 2025, the total number of scam cases decreased by 27.6% to
+        37,308 and the total amount lost decreased by 17.9% to about S$913.1
+        million.
       subtitle: stay informed
   - infopic:
       title: Scams Bulletin
