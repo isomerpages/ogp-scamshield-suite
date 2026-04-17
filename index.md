@@ -23,14 +23,14 @@ sections:
           description: ""
           url: /introduction-to-scams/
   - infopic:
-      title: Monthly Scam Counter
+      title: Monthly Scam Bulletin
       subtitle: March 2026
       id: infopic
-      description: Stay informed with monthly updates on the latest scam statistics in
-        Singapore.  Learn to spot red flags and protect yourself and your loved
-        ones.
-      button: Learn more about scams here
-      url: /i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
+      description: Stay informed with monthly updates on the latest scam statistics
+        and trends in Singapore. Learn to spot red flags and protect yourself
+        and your loved ones.
+      button: Read more
+      url: /2026-scams-bulletins/
       image: /images/SPF_Website__April_2026.png
       alt: scam counter
   - infopic:
@@ -108,15 +108,6 @@ sections:
         37,308 and the total amount lost decreased by 17.9% to about S$913.1
         million.
       subtitle: stay informed
-  - infopic:
-      title: Scams Bulletin
-      id: infopic
-      button: Read Now
-      url: /2026-scams-bulletins/
-      image: /images/scams_bulletin_new.png
-      alt: Image alt text
-      description: Learn about the latest scam trends from the Police's Monthly Scams
-        Bulletin.
   - announcements:
       title: Highlights
       id: announcements
