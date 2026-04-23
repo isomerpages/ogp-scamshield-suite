@@ -4,6 +4,9 @@ permalink: /scam-mules/
 variant: tiptap
 description: ""
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ytBKJNpYX3M?si=4gVwfT9l4czJQgSY"></iframe>
+</div>
 <p>Scammers use mules’ bank accounts to receive and transfer illegal proceeds
 quickly, making it difficult for authorities to trace and recover the funds.</p>
 <p>The use of local accounts and phone lines also enhances the credibility
