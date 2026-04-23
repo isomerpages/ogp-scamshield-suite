@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Scam Mule" src="/images/Screenshot_2026_04_23_112528.png">
+<img style="width: 100%" height="auto" width="100%" alt="Don't trade your future by being a scam mule" src="/images/Scam_Mule_header.png">
 </div>
 <p></p>
 <div class="iframe-wrapper">
