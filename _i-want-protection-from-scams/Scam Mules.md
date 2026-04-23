@@ -4,12 +4,13 @@ permalink: /scam-mules/
 variant: tiptap
 description: ""
 ---
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ytBKJNpYX3M?si=4gVwfT9l4czJQgSY"></iframe>
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Scam Mule" src="/images/Screenshot_2026_04_23_112528.png">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="380" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ytBKJNpYX3M?si=4gVwfT9l4czJQgSY"></iframe>
 </div>
 <p></p>
 <p>Scammers use mules’ bank accounts to receive and transfer illegal proceeds
