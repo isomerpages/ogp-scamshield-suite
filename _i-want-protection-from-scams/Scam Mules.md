@@ -7,6 +7,11 @@ description: ""
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ytBKJNpYX3M?si=4gVwfT9l4czJQgSY"></iframe>
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Scam Mule" src="/images/Screenshot_2026_04_23_112528.png">
+</div>
+<p></p>
 <p>Scammers use mules’ bank accounts to receive and transfer illegal proceeds
 quickly, making it difficult for authorities to trace and recover the funds.</p>
 <p>The use of local accounts and phone lines also enhances the credibility
@@ -31,4 +36,5 @@ or SIM cards are used by others for criminal activities. They may face:</p>
 </ul>
 <p>Find out more about the offences and punishments <a href="https://www.police.gov.sg/Knowledge-Hub/Legislation" rel="noopener nofollow" target="_blank">here.</a>
 </p>
+<p></p>
 <p></p>
