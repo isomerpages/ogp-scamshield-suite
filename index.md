@@ -24,14 +24,14 @@ sections:
           url: /introduction-to-scams/
   - infopic:
       title: Monthly Scam Bulletin
-      subtitle: March 2026
+      subtitle: April 2026
       id: infopic
       description: Stay informed with monthly updates on the latest scam statistics
         and trends in Singapore. Learn to spot red flags and protect yourself
         and your loved ones.
       button: Read more
       url: /2026-scams-bulletins/
-      image: /images/SPF_Website__April_2026.png
+      image: /images/SPF_Website__MSB_May_2026.jpg
       alt: scam counter
   - infopic:
       title: Think you'd never fall for a scam?
